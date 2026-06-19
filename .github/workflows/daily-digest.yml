@@ -1,0 +1,48 @@
+# OPTIONAL fallback: run the digest from GitHub Actions instead of a Claude Code routine.
+# By default this only runs when you trigger it manually ("Run workflow"), so it will
+# NOT conflict with the Claude Code cloud routine. To use Actions as your scheduler
+# instead of the routine, uncomment the `schedule` block below AND turn the routine off.
+#
+# Requires a repo secret named ANTHROPIC_API_KEY (Settings -> Secrets and variables -> Actions).
+name: daily-digest
+
+on:
+  workflow_dispatch: {}
+  # schedule:
+  #   # GitHub cron is UTC and does NOT follow daylight saving.
+  #   # 16:00 UTC = 9:00 AM Pacific during PDT (summer); = 8:00 AM during PST (winter).
+  #   - cron: "0 16 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate today's digest with Claude Code
+        uses: anthropics/claude-code-action@beta
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          allowed_tools: "WebSearch,Read,Write,Edit,Bash"
+          prompt: >-
+            Use the water-cooler-digest skill in this repo
+            (.claude/skills/water-cooler-digest/SKILL.md) to generate today's digest.
+            Determine today's date in America/Los_Angeles, research the biggest current
+            sports/esports/culture stories with specific highlight clips, write
+            docs/days/<date>.json (5-7 items, per the skill schema), and prepend the
+            date to docs/manifest.json (newest first). Do not delete any existing files.
+
+      - name: Commit & push
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "digest: $(TZ=America/Los_Angeles date +%F)"
+            git push
+          fi
