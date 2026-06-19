@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-19",
+  "label": "Friday, June 19, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Canada makes history — 6–0 over Qatar with a Jonathan David hat-trick",
+      "body": "Canada crushed Qatar 6–0 in Vancouver for its first-ever men's World Cup win, with Jonathan David bagging a hat-trick to seize control of Group B. The tournament (across the US, Canada & Mexico through the July 19 final) rolls on today with Brazil–Haiti and Scotland–Morocco.",
+      "say": "Did you see Canada put SIX past Qatar? Jonathan David got a hat-trick — co-hosts are actually dangerous this year.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Canada 6–0 Qatar — highlights", "url": "https://www.youtube.com/watch?v=VHaz4FkjwWc" },
+        { "kind": "web", "text": "Group standings", "url": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · US Open",
+      "headline": "The US Open is brutal and windy at Shinnecock — Round 2 today",
+      "body": "Golf's third major opened Thursday on Long Island with a fog delay and stiff winds turning Shinnecock into a survival test; even past champ Graeme McDowell made an early run. Round 2 plays today, with the cut looming — perfect Father's Day weekend viewing.",
+      "say": "The US Open started — Shinnecock is eating these guys alive in the wind. Classic 'over par might win it' setup.",
+      "watch": "▶ Worth a look this weekend",
+      "links": [
+        { "kind": "web", "text": "ESPN: leaderboard & coverage", "url": "https://www.espn.com/golf/story/_/page/USopengolf2026/us-open-2026-all-news-analysis-shinnecock-hills" },
+        { "kind": "web", "text": "How to watch", "url": "https://www.usopen.com/2026/articles/how-to-watch-2026-us-open-shinnecock-hills.html" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "CS2's Cologne Major is down to the playoffs — Grand Final Sunday",
+      "body": "The IEM Cologne Major 2026 ($1.25M, the 'Cathedral of Counter-Strike') has reached single-elimination playoffs at the Lanxess Arena, with the best-of-five Grand Final set for Sunday, June 21. The crowd at Cologne is the loudest atmosphere in Counter-Strike all year.",
+      "say": "The CS Major in Cologne is down to the final few — that arena crowd is unreal if you've never seen it.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Live on Twitch", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "Bracket & results (HLTV)", "url": "https://www.hltv.org/events/8301/iem-cologne-major-2026" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Draft",
+      "headline": "NBA Draft is Tuesday — Washington holds the No. 1 pick",
+      "body": "Fresh off the Knicks' title, attention turns to a draft class scouts are calling unusually deep. The Wizards won the lottery and pick first when the draft opens June 23 at Barclays Center; the run-up is full of trade rumors and mock-draft debates.",
+      "say": "Wizards got the No. 1 pick — draft's Tuesday. Apparently this class is stacked, so it's worth watching who moves up.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN: draft buzz", "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason" },
+        { "kind": "web", "text": "Draft order & how to watch", "url": "https://www.nbcsports.com/nba/news/2026-nba-draft-order-full-list-dates-start-times-and-how-to-watch" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Box office",
+      "headline": "The 'Scary Movie' reboot wins the weekend; 'Masters of the Universe' lands",
+      "body": "The relaunched Scary Movie topped the box office with a franchise-record opening north of $52M, while the live-action Masters of the Universe debuted to $31M+. A loaded summer slate has the multiplex busy again.",
+      "say": "They rebooted Scary Movie and it actually won the box office — and Masters of the Universe is finally a real movie now.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Deadline: weekend box office", "url": "https://deadline.com/2026/06/box-office-scary-movie-masters-of-the-universe-backrooms-1236941701/" },
+        { "kind": "yt", "text": "Masters of the Universe trailer", "url": "https://www.youtube.com/results?search_query=Masters+of+the+Universe+2026+trailer" }
+      ]
+    }
+  ]
+}

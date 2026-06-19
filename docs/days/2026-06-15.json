@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-15",
+  "label": "Monday, June 15, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "The World Cup is on US soil — and the USMNT opened with a statement",
+      "body": "The 2026 World Cup (48 teams across the US, Canada & Mexico) runs to the July 19 final in New Jersey. The USA thumped Paraguay 4–1 to open Group D and play Australia on Friday. Today: Spain–Cabo Verde, Belgium–Egypt, Saudi Arabia–Uruguay, Iran–New Zealand.",
+      "say": "Did you see the US open 4–1? First time in a while it actually feels fun to watch them.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "USA 4–1 Paraguay — all goals", "url": "https://www.youtube.com/watch?v=0PVo3bk-TMk" },
+        { "kind": "web", "text": "Standings", "url": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Race",
+      "headline": "Antonelli wins a chaotic Canadian GP — Hamilton's best run yet for Ferrari",
+      "body": "Teenager Kimi Antonelli took his fourth win in a row at the Canadian Grand Prix, stretching his championship lead to 43 points after teammate George Russell retired with a power-unit failure. Lewis Hamilton grabbed P2 — his best finish since joining Ferrari — with Max Verstappen third.",
+      "say": "A teenager just won his fourth F1 race in a row — and Hamilton finally looks happy at Ferrari.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Canadian GP race highlights", "url": "https://www.youtube.com/watch?v=CWgqP9Ftdyk" },
+        { "kind": "web", "text": "Race report", "url": "https://www.formula1.com/en/latest/article/antonelli-wins-dramatic-canadian-grand-prix-as-russell-retires-amid-thrilling-mercedes-battle.MzvclJaqCidlYMUXonuDq" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Champion",
+      "headline": "Carolina Hurricanes won the Stanley Cup last night",
+      "body": "The Canes shut out the Vegas Golden Knights 3–0 in Game 6 to take the series 4–2 — their first Cup since 2006. Brandon Bussi stopped all 22 shots, and 37-year-old Jordan Staal became the oldest Conn Smythe (playoff MVP) winner ever.",
+      "say": "A 37-year-old just won playoff MVP and a goalie threw a shutout to clinch the Cup — there's hope for all of us yet.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Game 6 official highlights", "url": "https://www.youtube.com/watch?v=FAPQnLgbQ5E" },
+        { "kind": "web", "text": "Recap", "url": "https://www.nhl.com/hurricanes/news/carolina-hurricanes-win-2026-stanley-cup-final" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Champion",
+      "headline": "Knicks ended a 53-year drought, beating Wembanyama's Spurs",
+      "body": "New York closed out the Finals in 5 (94–90 in Game 5) for its first title since 1973, capped by a 13-game postseason win streak. Jalen Brunson dropped 45 in the clincher; Victor Wembanyama and the upstart Spurs fell just short.",
+      "say": "Brunson put up 45 to close it out — the Knicks' first title since 1973. New York is going to be insufferable (affectionately).",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Game 5 highlights (NBA on ESPN)", "url": "https://www.youtube.com/watch?v=T6-O_CaaYkQ" },
+        { "kind": "web", "text": "Recap", "url": "https://www.espn.com/nba/story/_/id/49053284/new-york-knicks-win-2026-nba-finals-path-championship-outlast-east-brunson-towns-hart" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Major",
+      "headline": "The US Open tees off Thursday at Shinnecock Hills",
+      "body": "Golf's third major of the year starts June 18 on Long Island — one of the toughest, most prestigious tests in the sport, on Father's Day weekend. Expect brutal rough, wind off the bay, and the usual debate over whether the USGA sets it up too hard.",
+      "say": "US Open starts Thursday at Shinnecock — that course is going to eat these guys alive. Perfect Father's Day watch.",
+      "watch": "▶ Worth a look this weekend",
+      "links": [
+        { "kind": "web", "text": "ESPN: schedule & coverage", "url": "https://www.espn.com/golf/story/_/page/USopengolf2026/us-open-2026-news-tee-s-schedule-television-complete-coverage-analysis" },
+        { "kind": "web", "text": "How to watch", "url": "https://www.usopen.com/2026/articles/how-to-watch-2026-us-open-shinnecock-hills.html" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "CS2's Cologne Major hits crunch day — playoff spots decided today",
+      "body": "The IEM Cologne Major 2026 ($1.25M, the 'Cathedral of Counter-Strike') wraps its decisive Swiss stage today at the Lanxess Arena. Brazil's FURIA and Russia's Spirit already punched 3–0 tickets to the playoffs; defending champ Vitality and NAVI are scrapping for the rest.",
+      "say": "FURIA's been unstoppable at the CS Major — Brazil might actually have a shot at it this year.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "FURIA clinch playoffs — highlights", "url": "https://www.youtube.com/watch?v=-VGUL80yL00" },
+        { "kind": "tw", "text": "Watch live", "url": "https://www.twitch.tv/esl_csgo" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎪",
+      "tag": "Culture · Festivals",
+      "headline": "Bonnaroo just wrapped — mud, lightning delays, and Noah Kahan closing it out",
+      "body": "Bonnaroo 2026 (Manchester, TN) ended Sunday with Noah Kahan headlining a rain-delayed final night; The Strokes, Skrillex, Kesha and Turnstile led the rest of the weekend. Storms forced a Centeroo evacuation, so 'muddy Bonnaroo' is the running theme.",
+      "say": "Bonnaroo got absolutely rained out this year — they had to evacuate the field and Noah Kahan still closed it in the mud.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Rolling Stone: best of Bonnaroo", "url": "https://www.rollingstone.com/music/music-lists/bonnaroo-2026-best-things-we-saw-review-1235577373/" },
+        { "kind": "yt", "text": "Fan clips on YouTube", "url": "https://www.youtube.com/results?search_query=Noah+Kahan+Bonnaroo+2026" }
+      ]
+    }
+  ]
+}
