@@ -6,12 +6,25 @@
       "cat": "soccer",
       "emoji": "⚽",
       "tag": "Soccer · World Cup",
-      "headline": "Canada makes history — 6–0 over Qatar with a Jonathan David hat-trick",
-      "body": "Canada crushed Qatar 6–0 in Vancouver for its first-ever men's World Cup win, with Jonathan David bagging a hat-trick to seize control of Group B. The tournament (across the US, Canada & Mexico through the July 19 final) rolls on today with Brazil–Haiti and Scotland–Morocco.",
-      "say": "Did you see Canada put SIX past Qatar? Jonathan David got a hat-trick — co-hosts are actually dangerous this year.",
+      "headline": "Messi ties the all-time World Cup goals record with a hat-trick",
+      "body": "In Argentina's 3–0 win over Algeria in Kansas City, a 38-year-old Lionel Messi scored his first-ever World Cup hat-trick (17', 60', 76') to reach 16 career goals — level with Miroslav Klose's all-time record — in his record sixth World Cup. It's the signature moment of the tournament so far.",
+      "say": "Messi got a hat-trick and tied the all-time World Cup goals record at 38 — the guy refuses to age.",
       "watch": "▶ The clip everyone saw",
       "links": [
-        { "kind": "yt", "text": "Canada 6–0 Qatar — highlights", "url": "https://www.youtube.com/watch?v=VHaz4FkjwWc" },
+        { "kind": "web", "text": "FOX: Messi's hat-trick, every angle (video)", "url": "https://www.foxsports.com/watch/fmc-0whct0ylo68m1wr2" },
+        { "kind": "web", "text": "FIFA match report", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/lionel-messi-argentina-algeria-hat-trick" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🍁",
+      "tag": "Soccer · World Cup",
+      "headline": "Canada makes history — 6–0 over Qatar — and the USMNT plays today",
+      "body": "Canada crushed Qatar 6–0 in Vancouver for its first-ever men's World Cup win, powered by a Jonathan David hat-trick — the biggest World Cup win ever by a CONCACAF team. Today the tournament rolls on with USA–Australia (Pulisic reportedly out) and Brazil–Haiti.",
+      "say": "Canada put SIX past Qatar — and the US is back on today. Wild that the co-hosts are this good.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX: Canada 6–0 Qatar highlights (video)", "url": "https://www.foxsports.com/watch/fmc-wxpa9xh9w7ho18oh" },
         { "kind": "web", "text": "Group standings", "url": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/" }
       ]
     },
@@ -20,7 +33,7 @@
       "emoji": "⛳",
       "tag": "Golf · US Open",
       "headline": "The US Open is brutal and windy at Shinnecock — Round 2 today",
-      "body": "Golf's third major opened Thursday on Long Island with a fog delay and stiff winds turning Shinnecock into a survival test; even past champ Graeme McDowell made an early run. Round 2 plays today, with the cut looming — perfect Father's Day weekend viewing.",
+      "body": "Golf's third major opened Thursday on Long Island with a fog delay and stiff winds turning Shinnecock into a survival test. Round 2 plays today with the cut looming — perfect Father's Day weekend viewing, with the usual debate over whether the USGA set it up too hard.",
       "say": "The US Open started — Shinnecock is eating these guys alive in the wind. Classic 'over par might win it' setup.",
       "watch": "▶ Worth a look this weekend",
       "links": [
@@ -33,7 +46,7 @@
       "emoji": "🎮",
       "tag": "Esports · CS2",
       "headline": "CS2's Cologne Major is down to the playoffs — Grand Final Sunday",
-      "body": "The IEM Cologne Major 2026 ($1.25M, the 'Cathedral of Counter-Strike') has reached single-elimination playoffs at the Lanxess Arena, with the best-of-five Grand Final set for Sunday, June 21. The crowd at Cologne is the loudest atmosphere in Counter-Strike all year.",
+      "body": "The IEM Cologne Major 2026 ($1.25M, the 'Cathedral of Counter-Strike') has reached single-elimination playoffs at the Lanxess Arena, with the best-of-five Grand Final set for Sunday, June 21. The Cologne crowd is the loudest atmosphere in Counter-Strike all year.",
       "say": "The CS Major in Cologne is down to the final few — that arena crowd is unreal if you've never seen it.",
       "watch": "▶ Watch it live",
       "links": [
@@ -64,7 +77,7 @@
       "watch": "▶ Worth a look",
       "links": [
         { "kind": "web", "text": "Deadline: weekend box office", "url": "https://deadline.com/2026/06/box-office-scary-movie-masters-of-the-universe-backrooms-1236941701/" },
-        { "kind": "yt", "text": "Masters of the Universe trailer", "url": "https://www.youtube.com/results?search_query=Masters+of+the+Universe+2026+trailer" }
+        { "kind": "web", "text": "Box office numbers", "url": "https://www.boxofficemojo.com/" }
       ]
     }
   ]
