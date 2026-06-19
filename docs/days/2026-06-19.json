@@ -7,7 +7,7 @@
       "emoji": "⚽",
       "tag": "Soccer · World Cup",
       "headline": "Messi ties the all-time World Cup goals record with a hat-trick",
-      "body": "In Argentina's 3–0 win over Algeria in Kansas City, a 38-year-old Lionel Messi scored his first-ever World Cup hat-trick (17', 60', 76') to reach 16 career goals — level with Miroslav Klose's all-time record — in his record sixth World Cup. It's the signature moment of the tournament so far.",
+      "body": "In Argentina's 3–0 win over Algeria in Kansas City, a 38-year-old Lionel Messi scored his first-ever World Cup hat-trick (17', 60', 76') to reach 16 career goals — level with Miroslav Klose's all-time record — in his record sixth World Cup. The signature moment of the tournament so far.",
       "say": "Messi got a hat-trick and tied the all-time World Cup goals record at 38 — the guy refuses to age.",
       "watch": "▶ The clip everyone saw",
       "links": [
@@ -69,15 +69,52 @@
     },
     {
       "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 opens in theaters today",
+      "body": "Pixar's Toy Story 5 hits theaters June 19 with Tom Hanks (Woody), Tim Allen (Buzz) and Joan Cusack (Jessie) back, plus Greta Lee as Lilypad — a high-tech smart tablet that becomes the toys' new rival for kid attention. Directed by Andrew Stanton; expect a big family-movie weekend.",
+      "say": "Toy Story 5 is out today — apparently the villain is basically an iPad. Weirdly relatable.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (Pixar)", "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0" },
+        { "kind": "web", "text": "Showtimes & tickets", "url": "https://www.fandango.com/toy-story-5-2026-237313/movie-overview" }
+      ]
+    },
+    {
+      "cat": "culture",
       "emoji": "🎬",
       "tag": "Culture · Box office",
-      "headline": "The 'Scary Movie' reboot wins the weekend; 'Masters of the Universe' lands",
-      "body": "The relaunched Scary Movie topped the box office with a franchise-record opening north of $52M, while the live-action Masters of the Universe debuted to $31M+. A loaded summer slate has the multiplex busy again.",
-      "say": "They rebooted Scary Movie and it actually won the box office — and Masters of the Universe is finally a real movie now.",
+      "headline": "The 'Scary Movie' reboot won the weekend; 'Masters of the Universe' landed",
+      "body": "Before Toy Story's arrival, the relaunched Scary Movie topped the box office with a franchise-record opening north of $52M, while the live-action Masters of the Universe debuted to $31M+. Summer at the multiplex is officially busy again.",
+      "say": "They rebooted Scary Movie and it actually won the box office — and He-Man is a real movie now too.",
       "watch": "▶ Worth a look",
       "links": [
         { "kind": "web", "text": "Deadline: weekend box office", "url": "https://deadline.com/2026/06/box-office-scary-movie-masters-of-the-universe-backrooms-1236941701/" },
         { "kind": "web", "text": "Box office numbers", "url": "https://www.boxofficemojo.com/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'The Bear' returns for its final season next week",
+      "body": "The Bear comes back June 25 on Hulu for its fifth and final season — the internet is already in its feelings about saying goodbye to the Berzatto kitchen. Meanwhile House of the Dragon is back on HBO Max for genre fans.",
+      "say": "The Bear's final season drops next week — emotionally preparing myself for one last 'Yes, Chef.'",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "TV Guide: what to watch in June", "url": "https://www.tvguide.com/news/ultimate-guide-what-to-watch-netflix-hulu-prime-video-hbo-max-more-june-2026/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "A stacked New Music Friday — Kehlani, Lucy Dacus, FKA Twigs & more",
+      "body": "Today is one of the deepest release Fridays of the year: Kehlani's self-titled fifth album, Lucy Dacus' 'Forever Is a Feeling,' FKA Twigs' 'Eusexua Afterglow,' plus new drops from The Kid LAROI, YG and Key Glock. Something for every group chat.",
+      "say": "Crazy New Music Friday — Kehlani, Lucy Dacus and FKA Twigs all dropped albums the same day.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "NPR: best albums out June 19", "url": "https://www.npr.org/2026/06/19/nx-s1-5830356/new-music-friday-best-albums-june-19-2026" }
       ]
     }
   ]
