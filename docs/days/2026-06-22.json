@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-22",
+  "label": "Monday, June 22, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Messi becomes the all-time men's World Cup top scorer",
+      "body": "In Argentina's 2–0 win over Austria in Dallas, Lionel Messi scored twice — first to tie and then to break the all-time men's World Cup goals record, passing Germany's Miroslav Klose to sit on 18 career goals. He even missed an early penalty and still made history. Argentina are through to the round of 32.",
+      "say": "Messi just became the all-time leading World Cup scorer at 38 — missed a penalty and STILL broke the record. Unreal.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Messi breaks the World Cup record (CBS Golazo)", "url": "https://www.youtube.com/watch?v=MU8Q85uPjbw" },
+        { "kind": "web", "text": "ESPN recap", "url": "https://www.espn.com/soccer/story/_/id/49096236/fifa-world-cup-live-updates-argentina-vs-austria-lionel-messi-chases-history" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🇺🇸",
+      "tag": "Soccer · USMNT",
+      "headline": "USMNT wins its group for the first time since 2010",
+      "body": "The U.S. beat Australia 2-0 in Seattle to clinch the top spot in Group D — its first World Cup group win in 16 years — after opening with a 4-1 thumping of Paraguay. Now the co-hosts wait to see who they'll draw in the round of 32, which kicks off June 28.",
+      "say": "The US actually won its group at the World Cup — first time since 2010. The home crowd is going to be wild in the knockouts.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN: USA at the World Cup", "url": "https://www.espn.com/soccer/story/_/id/48940468/usa-world-cup-2026-schedule-fixtures-results-scores-group-d-how-watch-news-analysis-injuries" },
+        { "kind": "web", "text": "Knockout bracket", "url": "https://www.espn.com/soccer/bracket" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "Falcons sweep FURIA to win the CS2 Cologne Major",
+      "body": "Team Falcons beat FURIA 3-0 in the IEM Cologne Major 2026 grand final at the Lanxess Arena — finally landing star NiKo his first Major in his 17th try. AWP prodigy Ilya 'm0NESY' Osipov took his first Major MVP. The Cologne crowd is the loudest in Counter-Strike all year.",
+      "say": "Falcons swept the CS Major in Cologne 3-0 — NiKo finally got his first Major after like 17 tries. m0NESY was unreal.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Grand Final highlights (ESL)", "url": "https://www.youtube.com/watch?v=VgNPKBGGdG0" },
+        { "kind": "web", "text": "Recap (HLTV)", "url": "https://www.hltv.org/news/44972/falcons-sweep-furia-to-win-iem-cologne-major" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · US Open",
+      "headline": "Wyndham Clark survives Shinnecock to win his 2nd US Open",
+      "body": "Clark led wire-to-wire and held on by a single shot over Sam Burns at a brutal, windy Shinnecock Hills on Sunday — his second US Open in three years. A nervy final-round 73 was enough as the gallery heckled and the course bit back, making him the first wire-to-wire winner since 2014.",
+      "say": "Wyndham Clark won the US Open wire-to-wire — second one in three years. Shinnecock was savage all week.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Golf Channel: final-round recap", "url": "https://www.golfchannel.com/usga/news/wyndham-clark-wins-second-u-s-open-title-prevailing-at-shinnecock-hills" },
+        { "kind": "web", "text": "Final leaderboard", "url": "https://www.usopen.com/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Draft",
+      "headline": "NBA Draft is tomorrow — Wizards on the clock at No. 1",
+      "body": "The 2026 NBA Draft opens Tuesday night at Barclays Center, with the Washington Wizards picking first for the first time since John Wall in 2010. Scouts love this class, and a busy Wizards offseason (Trae Young, Anthony Davis) means the run-up is wall-to-wall trade rumors.",
+      "say": "NBA Draft's tomorrow — Wizards have the No. 1 pick for the first time since John Wall. This class is supposed to be loaded.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NBA.com: 2026 Draft", "url": "https://www.nba.com/draft/2026" },
+        { "kind": "web", "text": "Lottery result", "url": "https://www.nba.com/news/2026-nba-draft-lottery-result" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 lands the biggest opening of 2026",
+      "body": "Pixar's Toy Story 5 opened to a franchise-record $160M domestic ($312M worldwide) — the year's biggest debut so far — and an A CinemaScore. Woody, Buzz and Jessie are back, this time up against Greta Lee's voice as a smart tablet that's stealing the kids' attention.",
+      "say": "Toy Story 5 had the biggest opening of the year — $160 million. And the villain is basically an iPad, which feels too real.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Pixar)", "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0" },
+        { "kind": "web", "text": "Variety: box-office record", "url": "https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'The Bear' returns Thursday for its final season",
+      "body": "FX drops all eight episodes of The Bear's fifth and final season this Thursday, June 25 (streaming on Hulu). The team picks up the morning after Carmy walks away, scrambling to pull off one last service — and finally chase that Michelin star — with the place on the brink.",
+      "say": "The Bear's final season hits Thursday — all eight episodes at once. Bracing myself for one last 'Yes, Chef.'",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Season 5 official trailer", "url": "https://www.youtube.com/watch?v=_gQo8qMQIjM" },
+        { "kind": "web", "text": "Variety: trailer & premiere", "url": "https://variety.com/2026/tv/news/the-bear-trailer-final-season-5-1236769502/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Tierra Whack tops a deep New Music Friday",
+      "body": "The weekend's release slate was stacked: NPR led with Tierra Whack's 'Whack's Museum' and The War and Treaty's new record, while the charts filled up with Myles Smith's debut, plus drops from YG, Key Glock, The Kid LAROI and Chlöe. Something for every group chat.",
+      "say": "Tierra Whack dropped a new album this weekend and it's all over the 'best of' lists — worth a listen if you want something different.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "NPR: best albums out this week", "url": "https://www.npr.org/2026/06/19/nx-s1-5830356/new-music-friday-best-albums-june-19-2026" }
+      ]
+    }
+  ]
+}
