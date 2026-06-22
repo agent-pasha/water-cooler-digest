@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-22",
+  "label": "Monday, June 22, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Messi is now the World Cup's all-time top scorer",
+      "body": "Argentina beat Austria 2-0 in Dallas, and Messi's brace pushed him to 18 career World Cup goals — past Miroslav Klose's old record of 16. He even missed an early penalty before flipping the script.",
+      "say": "Did you catch Messi breaking the all-time World Cup goal record? At 38, in the U.S., of all places.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "FOX: Argentina 2-0 Austria highlights", "url": "https://www.youtube.com/watch?v=JakdhltyECE" },
+        { "kind": "web", "text": "ESPN: Messi breaks the record", "url": "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Spain look scary — 4-0 over Saudi Arabia",
+      "body": "The reigning Euro champs made a statement on Sunday, rolling Saudi Arabia 4-0 with teenager Lamine Yamal pulling the strings. They're looking like one of the tournament favorites.",
+      "say": "Spain put up a 4-0 — Yamal's only 18 and already running the show. Hard not to like their chances.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "FOX: Spain 4-0 Saudi Arabia highlights", "url": "https://www.youtube.com/watch?v=w453UjgtQw4" },
+        { "kind": "web", "text": "World Cup results recap", "url": "https://www.gmanetwork.com/news/sports/football/992218/2026-fifa-world-cup-updates-and-results-june-21-2026/story/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "Falcons sweep the CS2 Cologne Major",
+      "body": "Team Falcons beat FURIA 3-0 in Sunday's grand final to win their first-ever Counter-Strike Major, never trailing across three maps. Star sniper m0NESY finally got his Major MVP after a long final-stage drought.",
+      "say": "Falcons just 3-0'd the Cologne Major — m0NESY went off. First big trophy for that roster.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Grand final highlights", "url": "https://www.youtube.com/watch?v=VgNPKBGGdG0" },
+        { "kind": "web", "text": "esports.gg: Cologne Major recap", "url": "https://esports.gg/news/counter-strike-2/winners-cologne-major-2026-overview/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Finals",
+      "headline": "Knicks win it all — first title since 1973",
+      "body": "New York closed out the Spurs in Game 5 behind 45 points from Finals MVP Jalen Brunson, ending a 53-year championship drought. Roughly two million people packed the parade through downtown Manhattan.",
+      "say": "The Knicks finally did it — first ring since 1973. Brunson dropped 45 to close it out.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Game 5 highlights", "url": "https://www.youtube.com/watch?v=mQPbdoRZYY8" },
+        { "kind": "web", "text": "NBA.com: how they got there", "url": "https://www.nba.com/news/2026-nba-finals-prove-historically-clutch" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Stanley Cup",
+      "headline": "Hurricanes lift the Cup with a Game 6 shutout",
+      "body": "Carolina blanked the Vegas Golden Knights 3-0 to win the Stanley Cup, their first in 20 years. Captain Jordan Staal took home the Conn Smythe as playoff MVP.",
+      "say": "Carolina finished it with a shutout — Cup number two for the Canes, first in 20 years.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Game 6 highlights", "url": "https://www.youtube.com/watch?v=3jbQ58HKtXA" },
+        { "kind": "web", "text": "NHL.com: Game 6 recap", "url": "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 opens huge — $160M weekend",
+      "body": "Pixar's latest landed the biggest opening of the year, with Woody, Buzz and the gang squaring off against a meddling new tablet named Lilypad. Toy meets tech — and the kids (and parents) showed up.",
+      "say": "Did the kids drag you to Toy Story 5? It just had the biggest opening of the year.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Pixar)", "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0" },
+        { "kind": "web", "text": "Box Office Mojo: weekend chart", "url": "https://www.boxofficemojo.com/weekend/2026W21/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐉",
+      "tag": "Culture · TV",
+      "headline": "House of the Dragon Season 3 is back",
+      "body": "The Targaryen civil war finally goes full-scale, with Season 3 premiering Sunday on HBO Max. Dragons, betrayals, and a whole lot of fire — exactly what fans have been waiting for.",
+      "say": "House of the Dragon's back — Season 3 dropped Sunday. Looks like the war's really on now.",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Official final trailer", "url": "https://www.youtube.com/watch?v=0JlMjgqduVw" },
+        { "kind": "web", "text": "Season 3 overview", "url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_3" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Tierra Whack drops 'Whack's Museum'",
+      "body": "The Philly artist released a 12-track project on Juneteenth — no features, all produced by Conductor Williams. It was one of the standouts of New Music Friday, full of her signature genre-bending swerves.",
+      "say": "Have you heard the new Tierra Whack? Whole project, zero features — she's just built different.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'WAX PAPER' (official video)", "url": "https://www.youtube.com/watch?v=Nup3_s5gojw" },
+        { "kind": "web", "text": "NPR: New Music Friday", "url": "https://www.npr.org/2026/06/19/nx-s1-5830356/new-music-friday-best-albums-june-19-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐻",
+      "tag": "Culture · TV",
+      "headline": "The Bear comes back for its final season",
+      "body": "FX's stress-cooker of a show returns Thursday for its fifth and final season, all eight episodes dropping at once on Hulu. Carmy's walked away, and the crew has to pull off one last service.",
+      "say": "The Bear's last season hits Thursday — feels like the end of an era. You still watching?",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Season 5 official trailer", "url": "https://www.youtube.com/watch?v=_gQo8qMQIjM" },
+        { "kind": "web", "text": "Variety: final season trailer", "url": "https://variety.com/2026/tv/news/the-bear-trailer-final-season-5-1236769502/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎪",
+      "tag": "Culture · Festival",
+      "headline": "Glastonbury kicks off — Coldplay headline for a record 5th time",
+      "body": "Worthy Farm opens Wednesday for the biggest festival of the summer, with Coldplay becoming the first act ever to headline Glastonbury five times. Expect a wild, confetti-soaked singalong.",
+      "say": "Glastonbury starts this week — Coldplay's headlining for a record fifth time. Their live shows are nuts.",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Coldplay live: 'A Sky Full Of Stars'", "url": "https://www.youtube.com/watch?v=Fpn1imb9qZg" },
+        { "kind": "web", "text": "Glastonbury line-up", "url": "https://www.glastonburyfestivals.co.uk/line-up/" }
+      ]
+    }
+  ]
+}
