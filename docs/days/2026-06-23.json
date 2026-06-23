@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-23",
+  "label": "Tuesday, June 23, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Haaland bags two as Norway down Senegal 3-2",
+      "body": "On a rain-soaked day at MetLife, Erling Haaland scored twice to send Norway through to the last 32 with a game to spare. He's up to four goals in two matches — the man is unstoppable right now.",
+      "say": "Haaland just put up another brace — four goals in two World Cup games. Norway's already through to the knockouts.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "FOX: Norway 3-2 Senegal highlights", "url": "https://www.youtube.com/watch?v=vcgzGgM4uJg" },
+        { "kind": "web", "text": "Al Jazeera: Haaland double", "url": "https://www.aljazeera.com/sports/2026/6/23/haaland-scores-two-as-norway-beat-senegal-3-2-enter-world-cup-knockouts" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🇺🇸",
+      "tag": "Soccer · USMNT",
+      "headline": "USA punch their ticket to the knockout round",
+      "body": "A 2-0 win over Australia in Seattle clinched a spot in the Round of 32 with a group game to spare — the first time the U.S. has locked up a knockout berth this early in the modern era. Home-field magic is real.",
+      "say": "The USMNT's into the knockouts already — beat Australia 2-0. Feels different playing a World Cup on home soil, huh?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "USA 2-0 Australia highlights", "url": "https://www.youtube.com/watch?v=tXxvgvgMiRg" },
+        { "kind": "web", "text": "ESPN: USA advance", "url": "https://www.espn.com/soccer/story/_/id/49119325/usa-australia-2026-world-cup-knockout-stage" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Draft Night",
+      "headline": "NBA Draft is tonight — Wizards on the clock",
+      "body": "Washington holds the No. 1 pick, with BYU's AJ Dybantsa and Kansas' Darryn Peterson the favorites to go first off the board. It's a deep class, so a lot of fan bases are about to meet their new guy.",
+      "say": "NBA Draft's tonight — Wizards have the top pick. Dybantsa or Peterson at No. 1, who you got?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "AJ Dybantsa season highlights", "url": "https://www.youtube.com/watch?v=MabDY6n02mY" },
+        { "kind": "web", "text": "CBS: full draft order", "url": "https://www.cbssports.com/nba/news/2026-nba-draft-order-complete-list-picks/" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Serena's back — singles wild card at Wimbledon",
+      "body": "Serena Williams accepted a wild card into the Wimbledon singles draw, her first singles major since 2022. The seven-time champ will also team with sister Venus in doubles when the grass-court Slam opens June 29.",
+      "say": "Did you hear Serena's playing Wimbledon singles again? First time since 2022 — and she's doubles with Venus too.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "CBS Sports: Serena's return", "url": "https://www.youtube.com/watch?v=SeL_2qumbS0" },
+        { "kind": "web", "text": "Wimbledon: wild-card news", "url": "https://www.wimbledon.com/en_GB/news/serena-williams-will-compete-in-the-2026-ladies--singles-at-wimb" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Spanish GP",
+      "headline": "Hamilton finally wins one for Ferrari",
+      "body": "Lewis Hamilton claimed his first Grand Prix victory in red at Barcelona, a perfectly-timed strategy gamble sealing win No. 106. At 41, he's the oldest GP winner since 1970 — and the relief in his radio call said it all.",
+      "say": "Hamilton got his first Ferrari win at Barcelona — took him a while, but you could hear how much it meant.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "F1: Barcelona race highlights", "url": "https://www.youtube.com/watch?v=Ey8j_BlLvFM" },
+        { "kind": "web", "text": "Formula1.com: race report", "url": "https://www.formula1.com/en/latest/article/hamilton-claims-stellar-maiden-grand-prix-victory-for-ferrari-in-barcelona-as-antonelli-suffers-shock-retirement.4yCXiPLHUdcnl2BwNpqUIa" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦸‍♀️",
+      "tag": "Culture · Film",
+      "headline": "Supergirl flies into theaters this weekend",
+      "body": "DC's reboot lands Friday, with Milly Alcock as Kara Zor-El on a galaxy-spanning road trip — Jason Momoa's chaotic bounty hunter Lobo in tow. It's the next big swing in James Gunn's rebuilt DC universe.",
+      "say": "Supergirl opens this weekend — Milly Alcock's the new Kara, and Jason Momoa plays Lobo. Looks like a fun one.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Warner Bros.)", "url": "https://www.youtube.com/watch?v=UyoSARnKIRU" },
+        { "kind": "web", "text": "Variety: trailer breakdown", "url": "https://variety.com/2026/film/news/supergirl-trailer-milly-alcock-james-gunn-1236648501/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🛹",
+      "tag": "Culture · Film",
+      "headline": "Jackass returns for one last ride",
+      "body": "Johnny Knoxville and the gang are back Friday for 'Jackass: Best and Last,' a 25th-anniversary sendoff mixing brand-new stunts with never-before-seen footage. The final outrageous chapter of the crew.",
+      "say": "There's one more Jackass movie out this weekend — the last one, supposedly. Were you a fan back in the day?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Paramount)", "url": "https://www.youtube.com/watch?v=sNwzFhGwA94" },
+        { "kind": "web", "text": "About the film", "url": "https://en.wikipedia.org/wiki/Jackass:_Best_and_Last" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌊",
+      "tag": "Culture · TV",
+      "headline": "Avatar: The Last Airbender returns Thursday",
+      "body": "Netflix's live-action Season 2 drops all seven episodes June 25, taking Aang and the gang to the Earth Kingdom — and finally introducing fan-favorite earthbender Toph. Expect Ba Sing Se, Azula, and a lot of bending.",
+      "say": "Live-action Avatar Season 2 hits Netflix Thursday — they're finally bringing in Toph. The fans are going to lose it.",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Season 2 official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=kuRkHywnepw" },
+        { "kind": "web", "text": "Netflix Tudum: Season 2", "url": "https://www.netflix.com/tudum/articles/avatar-the-last-airbender-season-2" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The Strokes are back with 'Going Shopping'",
+      "body": "The band shared 'Going Shopping,' their first new music since 2020, as the lead single off an upcoming Rick Rubin-produced album, 'Reality Awaits.' That jangly, slacker-cool Strokes sound, right on cue.",
+      "say": "New Strokes single's out — first new music from them in like five years. Still sounds exactly like the Strokes.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Going Shopping' (official audio)", "url": "https://www.youtube.com/watch?v=zgaLAliC3-8" },
+        { "kind": "web", "text": "Stereogum: album announcement", "url": "https://stereogum.com/2494916/the-strokes-announce-new-album-reality-awaits/news" }
+      ]
+    }
+  ]
+}
