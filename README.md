@@ -2,7 +2,7 @@
 
 A daily small-talk / ice-breaker briefing — 5–7 quick hits across the biggest
 sports, esports, and culture events happening right now, each with the one
-highlight clip everybody's actually watching, plus a casual "Say this:" opener.
+highlight clip everybody's actually watching, plus a casual "Ice breaker:" opener.
 
 A **Claude Code routine** runs every morning at **9:00 AM Pacific**, researches the
 day's events (web search), finds specific must-watch clips, writes a new day file,
