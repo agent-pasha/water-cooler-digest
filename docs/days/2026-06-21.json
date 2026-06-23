@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-21",
+  "label": "Sunday, June 21, 2026",
+  "items": [
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "Falcons sweep FURIA 3-0 to win the IEM Cologne Major — m0NESY MVP, NiKo's first Major",
+      "body": "Team Falcons completed a miracle playoff run (Vitality, Spirit, then FURIA) to win the IEM Cologne Major 2026 with a clean 3-0 sweep in the grand final — the org's first CS2 Major. Sniper m0NESY took MVP, and legend NiKo finally lifted a Major trophy.",
+      "say": "Did you catch the Cologne Major final? Falcons just three-zero'd FURIA and m0NESY went nuclear for MVP.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "HLTV recap", "url": "https://www.hltv.org/events/8301/iem-cologne-major-2026" },
+        { "kind": "tw", "text": "ESL Counter-Strike on Twitch", "url": "https://www.twitch.tv/esl_csgo" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Spain crush Saudi Arabia 4-0 as 18-year-old Lamine Yamal nets his first World Cup goal",
+      "body": "Spain answered their critics with a dominant 4-0 win in Atlanta to seal a Round of 32 spot. Lamine Yamal slid home his maiden World Cup goal in the 10th minute, Mikel Oyarzabal grabbed a brace, and an own goal capped it.",
+      "say": "Lamine Yamal finally got his first World Cup goal — Spain put four past Saudi Arabia like it was nothing.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX: Yamal's first World Cup goal", "url": "https://www.foxsports.com/soccer/fifa-world-cup" },
+        { "kind": "web", "text": "ESPN match story", "url": "https://www.espn.com/soccer/scoreboard/_/league/fifa.world" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🇺🇸",
+      "tag": "Soccer · USMNT",
+      "headline": "USMNT into the knockout rounds with a game to spare",
+      "body": "Riding a 2-0 win over Australia (after a 4-1 rout of Paraguay), the US punched its ticket to the Round of 32 — back-to-back World Cup wins for the first time since 1930. They close the group vs. Turkey on June 25.",
+      "say": "Our guys are already through to the knockouts — first time the US has won back-to-back World Cup games since 1930.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "FOX: USA 2-0 Australia highlights", "url": "https://www.foxsports.com/soccer/fifa-world-cup" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · US Open",
+      "headline": "Second Wynd: Wyndham Clark holds on at Shinnecock for his 2nd US Open",
+      "body": "Clark went wire-to-wire and survived a wobbly final round — nearly coughing up a six-shot lead before steadying for a one-stroke win at 4 under. Only three players broke par all week.",
+      "say": "Wyndham Clark almost blew a six-shot lead but hung on to win his second US Open at Shinnecock.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Final round highlights (USGA)", "url": "https://www.youtube.com/watch?v=JjnF2ThFBp0" },
+        { "kind": "web", "text": "ESPN report", "url": "https://www.espn.com/golf/story/_/page/USopengolf2026/us-open-2026-all-news-analysis-shinnecock-hills" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 lassos a franchise-record $160M opening — biggest debut of 2026",
+      "body": "Pixar's Toy Story 5 stormed to a $160M domestic opening ($312M worldwide), the biggest of the year, a franchise record, and the 2nd-largest animated debut ever. Woody and Buzz square off with a disruptive new tablet toy, Lilypad.",
+      "say": "Toy Story 5 just had the biggest opening of the year — around a hundred-sixty million. Perfect Father's Day movie too.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Final trailer (Pixar)", "url": "https://www.youtube.com/watch?v=QftAW9TTmuQ" },
+        { "kind": "web", "text": "Variety box office", "url": "https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐉",
+      "tag": "Culture · TV",
+      "headline": "House of the Dragon Season 3 premieres tonight on HBO/HBO Max",
+      "body": "The Targaryen civil war reignites: House of the Dragon S3 drops its first episode Sunday night at 9/8c on HBO and HBO Max, kicking off an eight-episode run. The final trailer teases all-out war and the Battle of the Gullet.",
+      "say": "House of the Dragon season three starts tonight — perfect Father's Day couch plans if you ask me.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "S3 final trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=0JlMjgqduVw" },
+        { "kind": "web", "text": "TVLine schedule", "url": "https://www.tvline.com/2197152/what-to-watch-week-of-june-21-2026-tv-shows-movies/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Draft",
+      "headline": "NBA Draft tips off Tuesday — AJ Dybantsa the headline prospect",
+      "body": "The 2026 NBA Draft starts Tuesday in Brooklyn, with Washington owning the No. 1 pick. BYU wing AJ Dybantsa headlines a loaded class alongside Darryn Peterson and Cameron Boozer — a week after the Knicks ended a 53-year title drought.",
+      "say": "NBA Draft's Tuesday — everyone's watching where AJ Dybantsa lands. And the Knicks are still buzzing off that first title since '73.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "CBS Sports draft preview", "url": "https://www.cbssports.com/nba/news/2026-nba-draft-where-to-watch-first-round-tuesday-full-order-of-picks-top-prospects/" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Stanley Cup",
+      "headline": "Hurricanes are Stanley Cup champions — first title in 20 years",
+      "body": "Carolina shut out Vegas 3-0 in Game 6 to win the Cup 4-2, their first championship since 2006 and second in franchise history. Jordan Staal took the Conn Smythe; the Canes closed the playoffs a blistering 16-3.",
+      "say": "Wild that the Hurricanes finally got the Cup again — first one in twenty years and they steamrolled the playoffs.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Game 6 highlights (NHL)", "url": "https://www.youtube.com/watch?v=3jbQ58HKtXA" },
+        { "kind": "web", "text": "NHL.com recap", "url": "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-16",
+  "label": "Tuesday, June 16, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Messi's first-ever World Cup hat-trick",
+      "body": "On his record 6th World Cup, Messi scored three (17', 60', 76') as defending champ Argentina beat Algeria 3-0 in Kansas City, tying Miroslav Klose's all-time record of 16 World Cup goals.",
+      "say": "Did you catch Messi finally getting his first World Cup hat-trick? Still tying the all-time goals record in his sixth World Cup.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX: Argentina 3-0 Algeria highlights", "url": "https://www.foxsports.com/soccer/fifa-world-cup" },
+        { "kind": "web", "text": "Al Jazeera match report", "url": "https://www.aljazeera.com/sports/2026/6/17/messi-fires-argentina-to-win-against-algeria-in-world-cup-defence-opener" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Mbappé's stoppage-time stunner sinks Senegal",
+      "body": "France opened with a 3-1 win over Senegal, Mbappé scoring twice — including a top-corner rocket in stoppage time — to climb France's all-time scoring charts.",
+      "say": "Mbappé's second against Senegal was absurd — top corner from distance. Did you see it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Al Jazeera match report", "url": "https://www.aljazeera.com/sports/2026/6/16/mbappe-brace-fires-france-to-3-1-win-over-senegal-in-world-cup-2026-opener" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Haaland shines on his long-awaited World Cup debut",
+      "body": "Norway returned to the World Cup after 28 years and beat Iraq 4-1, with Erling Haaland scoring twice on his first-ever tournament appearance.",
+      "say": "Crazy that Haaland had never played a World Cup until this week — he scored twice in Norway's first game back in 28 years.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sky Sports report", "url": "https://www.skysports.com/football/news/12098/13552715/world-cup-2026-iraq-1-4-norway-erling-haaland-scores-twice-on-tournament-debut-as-stale-solbakkens-side-make-winning-start" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Finals",
+      "headline": "Knicks win first title in 53 years",
+      "body": "New York closed out the Spurs in Game 5 behind Jalen Brunson's 45 points for the franchise's first championship since 1973. The Canyon of Heroes parade is set for Thursday, June 18.",
+      "say": "The Knicks finally did it — first title since 1973, Brunson dropped 45 in the clincher. Parade's Thursday.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Brunson 45 PTS, Game 5 (NBA on ESPN)", "url": "https://www.youtube.com/watch?v=k_Ou1LClcwM" },
+        { "kind": "web", "text": "ESPN: Brunson seals Finals MVP", "url": "https://www.espn.com/nba/story/_/id/49056933/knicks-brunson-seals-finals-mvp-honors-45-points-game-5" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Stanley Cup",
+      "headline": "Hurricanes lift the Cup for the first time in 20 years",
+      "body": "Carolina shut out Vegas 3-0 in Game 6 to win the Stanley Cup, their first since 2006. Veteran Jordan Staal, 37, became the oldest Conn Smythe winner.",
+      "say": "The Hurricanes finally won the Cup again — first time in 20 years — and 37-year-old Jordan Staal won playoff MVP.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Game 6 highlights (NHL)", "url": "https://www.youtube.com/watch?v=3jbQ58HKtXA" },
+        { "kind": "web", "text": "NHL.com recap", "url": "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "IEM Cologne Major heats up at the Lanxess Arena",
+      "body": "The CS2 IEM Cologne Major 2026 has reached its decisive stage in Germany, with Team Falcons among the favorites going into the bracket after a strong Stage 3 run.",
+      "say": "The CS2 Cologne Major is on right now — Falcons are looking scary good. You following any of it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Falcons vs G2 highlights (ESL CS)", "url": "https://www.youtube.com/watch?v=Wni9trDBbPY" },
+        { "kind": "web", "text": "Liquipedia event page", "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 hits theaters Friday",
+      "body": "Pixar's Toy Story 5 — 'toys vs. tech,' with the gang facing a disruptive smart tablet named Lilypad — opens June 19, with Tom Hanks and Tim Allen back as Woody and Buzz.",
+      "say": "Toy Story 5 is out Friday — the whole gang's up against a smart tablet this time. Taking the kids or going for yourself?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (Pixar)", "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0" },
+        { "kind": "web", "text": "Pixar: Toy Story 5", "url": "https://www.pixar.com/toy-story-5" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Olivia Rodrigo lands the year's biggest solo debut",
+      "body": "Rodrigo's third album dropped June 12 and is on track for a No. 1 debut of ~485k units — 2026's biggest opening week by any soloist.",
+      "say": "Olivia Rodrigo's new album is everywhere — biggest solo debut of the year. Heard it yet?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'stupid song' (Official Video)", "url": "https://www.youtube.com/watch?v=Rt9tW3cMLhI" },
+        { "kind": "web", "text": "Variety: third No. 1 album", "url": "https://variety.com/2026/music/news/olivia-rodrigo-third-consecutive-no-1-albums-chart-1236786717/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "House of the Dragon S3 returns this weekend",
+      "body": "HBO's 'House of the Dragon' Season 3 premieres June 21, opening with the Battle of the Gullet — billed as one of the show's biggest hours yet.",
+      "say": "House of the Dragon is back Sunday and apparently the opener is a massive battle episode. You caught up?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Season 3 Teaser (HBO Max)", "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc" },
+        { "kind": "web", "text": "TVLine: S3 trailer & release date", "url": "https://www.tvline.com/2183626/house-of-the-dragon-season-3-final-trailer-hbo-release-date/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · US Open",
+      "headline": "US Open tees off Thursday at brutal Shinnecock",
+      "body": "The 126th US Open begins June 18 at Shinnecock Hills, where World No. 1 Scottie Scheffler chases the career Grand Slam against a tough, wind-swept links test.",
+      "say": "The US Open starts Thursday at Shinnecock — Scheffler's going for the career Grand Slam. Think anyone catches him?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN: US Open at Shinnecock", "url": "https://www.espn.com/golf/story/_/page/USopengolf2026/us-open-2026-all-news-analysis-shinnecock-hills" }
+      ]
+    }
+  ]
+}

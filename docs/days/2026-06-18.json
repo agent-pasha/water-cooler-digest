@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-18",
+  "label": "Thursday, June 18, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Mexico becomes the first team into the World Cup knockout round",
+      "body": "Mexico beat South Korea 1-0 in Guadalajara to win Group A and become the first nation through to the Round of 32. Luis Romo pounced on a goalkeeping spill in the 50th minute, and keeper Raul Rangel made a late double save to protect the clean sheet.",
+      "say": "Did you catch Mexico? They're already the first team into the knockouts after that 1-0 over South Korea.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX: Romo's goal", "url": "https://www.foxsports.com/watch/fmc-tq9dnxn0kaspwj0v" },
+        { "kind": "web", "text": "Match report (ESPN)", "url": "https://www.espn.com/soccer/scoreboard/_/league/fifa.world" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Switzerland storm past 10-man Bosnia 4-1 in a wild finish",
+      "body": "Substitute Johan Manzambi changed the game in Los Angeles with a 74th-minute volley and a second in the 90th. Ruben Vargas struck after Bosnia went down to 10 men, and captain Granit Xhaka buried a penalty with the final kick.",
+      "say": "Switzerland put four past Bosnia — wild ending, a red card and a penalty with the literal last kick.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "FOX: World Cup highlights", "url": "https://www.foxsports.com/soccer/fifa-world-cup" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Champions",
+      "headline": "Knicks finally parade up the Canyon of Heroes — first title since 1973",
+      "body": "An estimated two million fans flooded Lower Manhattan as the Knicks rode floats up Broadway to celebrate their first championship in 53 years. Finals MVP Jalen Brunson soaked in 'M-V-P' chants, and Alicia Keys sang 'Empire State of Mind' at City Hall.",
+      "say": "The Knicks parade happened — first one in 53 years. Two million people in the streets.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Parade highlights (NBC News)", "url": "https://www.youtube.com/watch?v=g7PT88Y-jTs" },
+        { "kind": "web", "text": "Best moments (ESPN)", "url": "https://www.espn.com/nba/story/_/id/49100686/new-york-knicks-nba-championship-parade-sights-sounds-moments" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "IEM Cologne Major playoffs open with a 9z upset scare on FURIA",
+      "body": "The CS2 Cologne Major playoffs kicked off in front of a packed Lanxess Arena. Underdogs 9z stunned FURIA by taking the opening map before the Brazilians clawed back to win the quarterfinal 2-1.",
+      "say": "The Counter-Strike Cologne Major playoffs started — 9z actually took a map off FURIA before bowing out.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "FURIA vs 9z highlights (ESL CS)", "url": "https://www.youtube.com/watch?v=QmSj58853mQ" },
+        { "kind": "web", "text": "Playoffs bracket (Liquipedia)", "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Cologne" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · US Open",
+      "headline": "Wyndham Clark torches a foggy Shinnecock with a 64",
+      "body": "After a two-hour morning fog delay, Wyndham Clark posted a 6-under 64 — one of the lowest rounds in US Open history at Shinnecock — to seize a big lead, while Jon Rahm and Rory McIlroy lurked behind.",
+      "say": "Wyndham Clark opened the US Open with a 64 at Shinnecock after a fog delay — basically lapped the field on day one.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Round 1 extended highlights (USGA)", "url": "https://www.youtube.com/watch?v=FHnxrv_tRlQ" },
+        { "kind": "web", "text": "Round 1 recap (ESPN)", "url": "https://www.espn.com/golf/story/_/page/USopengolf2026/us-open-2026-all-news-analysis-shinnecock-hills" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Champions",
+      "headline": "Hurricanes are the new Stanley Cup champs after 20-year wait",
+      "body": "Carolina is still basking in its second Stanley Cup, sealed with a 3-0 Game 6 shutout of Vegas — their first title since 2006. Jordan Staal won the Conn Smythe as the oldest recipient ever, and Rod Brind'Amour now has one as coach.",
+      "say": "The Hurricanes are champs again — first time since 2006, and the same guy who captained that team coached this one.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cup-clinching recap (NHL.com)", "url": "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 opens tomorrow — and tracking says it's huge",
+      "body": "Pixar's fifth Woody-and-Buzz adventure hits theaters Friday with strong reviews and a projected $160M opening — what would be the biggest debut of 2026. This time the toys face Lilypad, Bonnie's addictive kiddie tablet.",
+      "say": "Toy Story 5 opens tomorrow — reviews are great and they're projecting the biggest opening of the year.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (Pixar)", "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0" },
+        { "kind": "web", "text": "Box office preview", "url": "https://deadline.com/2026/06/box-office-scary-movie-masters-of-the-universe-backrooms-1236941701/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Taylor Swift wrote a new song for Toy Story 5 — and it's a hit",
+      "body": "Swift's end-credits ballad for Toy Story 5, written with Jack Antonoff, is inspired by Jessie and has already smashed first-day streaming records as it climbs the Hot 100.",
+      "say": "Taylor Swift wrote a song for Toy Story 5 about Jessie — it's already breaking streaming records.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Lyric video (DisneyMusicVEVO)", "url": "https://www.youtube.com/watch?v=mRFDNwDrW5w" },
+        { "kind": "web", "text": "The story behind it (Variety)", "url": "https://variety.com/2026/music/news/taylor-swift-toy-story-5-announces-1236764185/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Netflix drops Harlan Coben's 'I Will Find You' today",
+      "body": "The eight-episode thriller lands on Netflix Thursday, starring Sam Worthington as a father wrongly imprisoned for his son's murder who sets out to find the boy after learning he may still be alive.",
+      "say": "New Harlan Coben thriller dropped on Netflix today — 'I Will Find You,' with Sam Worthington. Looks like a binge.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=mObRUsA7dPY" },
+        { "kind": "web", "text": "Series page (Netflix)", "url": "https://www.netflix.com/title/81509368" }
+      ]
+    }
+  ]
+}

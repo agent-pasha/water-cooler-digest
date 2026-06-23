@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-20",
+  "label": "Saturday, June 20, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🇺🇸",
+      "tag": "Soccer · USMNT",
+      "headline": "USMNT wins Group D, races into the knockouts",
+      "body": "On home soil, the US beat Australia 2-0 to win Group D outright — their first back-to-back World Cup wins since 1930 and a program-record six points in the group stage. The co-hosts now wait on their Round of 32 opponent.",
+      "say": "Did you catch the US actually winning their World Cup group? Feels weird to say that out loud.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX: USA 2-0 Australia highlights", "url": "https://www.foxsports.com/soccer/fifa-world-cup" },
+        { "kind": "web", "text": "USMNT clinches knockout spot (CBS Sports)", "url": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · US Open",
+      "headline": "Wyndham Clark runs away with it on Moving Day at Shinnecock",
+      "body": "Saturday's third round at the US Open was brutal — only two players in the whole field broke par. Clark's even-par 70 stretched his lead to six shots heading into Sunday. Scottie Scheffler shot 69 to climb into a tie for second.",
+      "say": "A six-shot lead at a US Open is basically unheard of — Clark could fall asleep on the back nine and still win.",
+      "watch": "▶ Worth a look this weekend",
+      "links": [
+        { "kind": "yt", "text": "Clark Round 3, every televised shot (USGA)", "url": "https://www.youtube.com/watch?v=_mUWHNvAX44" },
+        { "kind": "web", "text": "Round 3 recap (Golf Channel)", "url": "https://www.golfchannel.com/usga/live/u-s-open-2026-live-updates-leaderboard-scores-highlights-news-from-round-3" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "FURIA vs Falcons set for the IEM Cologne Major final",
+      "body": "The CS2 Major in Cologne is down to its last two. FURIA swept Aurora to reach their first Major grand final, and Team Falcons edged Spirit to join them. The best-of-five title decider is Sunday at the Lanxess Arena.",
+      "say": "A Brazilian team in a CS Major final again — the Cologne crowd is going to be deafening for that one.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "ESL Counter-Strike on Twitch", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "IEM Cologne Major overview (HLTV)", "url": "https://www.hltv.org/events/8301/iem-cologne-major-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 blasts off to a record $160M opening",
+      "body": "Pixar's Toy Story 5 hit theaters Friday and is on track for a franchise-record $160M domestic opening — the biggest debut of 2026 and the second-largest animated opening ever. The toys square off against Lilypad, a sentient tablet. Audiences gave it an A CinemaScore.",
+      "say": "Toy Story 5's whole villain is an iPad — honestly the most relatable Pixar plot in years.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official Trailer (Pixar)", "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0" },
+        { "kind": "web", "text": "Record opening, $160M (Variety)", "url": "https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Myles Smith drops his debut album",
+      "body": "Friday brought the debut full-length from breakout British singer-songwriter Myles Smith, packed with Top 40 singles including the inescapable 'Stargazing.' It's the long-awaited LP from one of pop's fastest-rising voices.",
+      "say": "If you've heard 'Stargazing' 400 times this year, the guy who made it finally has a whole album out.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Stargazing, Live (Vevo DSCVR)", "url": "https://www.youtube.com/watch?v=x3JbjtsP9II" },
+        { "kind": "web", "text": "New releases (Official Charts)", "url": "https://www.officialcharts.com/new-releases/" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Stanley Cup",
+      "headline": "Hurricanes are champions — their first Cup in 20 years",
+      "body": "Carolina closed out Vegas 3-0 in Game 6 to win the 2026 Stanley Cup, their first since 2006. Brandon Bussi pitched a 22-save shutout, and 37-year-old Jordan Staal took the Conn Smythe as the oldest MVP in the award's history.",
+      "say": "The Hurricanes finally broke through — 20 years between Cups, and their playoff MVP is basically a grandpa by hockey standards.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Game 6 highlights (NHL)", "url": "https://www.youtube.com/watch?v=3jbQ58HKtXA" },
+        { "kind": "web", "text": "Hurricanes win the Cup (NHL.com)", "url": "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Around the League",
+      "headline": "An absurd Saturday slate: Schwarber's 3 HRs, Harper cycles",
+      "body": "June 20 turned into a hitting clinic. Kyle Schwarber crushed three home runs while teammate Bryce Harper hit for the cycle in the same Phillies offensive explosion — one of the loudest single days at the plate all season.",
+      "say": "Schwarber hit three homers and Harper hit for the cycle in the same game — the Phillies basically broke baseball for a night.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "June 20 scoreboard (ESPN)", "url": "https://www.espn.com/mlb/scoreboard/_/date/20260620" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Draft",
+      "headline": "Draft week: Dybantsa the clear No. 1 as Tuesday looms",
+      "body": "The 2026 NBA Draft tips off Tuesday in Brooklyn, and the buildup is all about BYU freshman AJ Dybantsa — a 6-8 wing and the consensus top pick, widely mocked to Washington. Kansas guard Darryn Peterson and Duke's Cameron Boozer round out a loaded top tier.",
+      "say": "Have you seen this AJ Dybantsa kid? Everyone's calling him the best prospect since Wembanyama.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Consensus mock draft (NBA.com)", "url": "https://www.nba.com/news/2026-consensus-mock-draft" },
+        { "kind": "web", "text": "Dybantsa prospect profile (NBA.com)", "url": "https://www.nba.com/draft/2026/prospects/aj-dybantsa" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐉",
+      "tag": "Culture · TV",
+      "headline": "House of the Dragon Season 3 lands Sunday",
+      "body": "Perfect weekend timing for the watercooler: HBO's 'House of the Dragon' returns for Season 3 on Sunday, June 21, picking the Targaryen civil war back up after that brutal Season 2 cliffhanger.",
+      "say": "House of the Dragon is back tomorrow night — I have feelings about which dragon is winning this war.",
+      "watch": "▶ Worth a look this weekend",
+      "links": [
+        { "kind": "web", "text": "June TV premiere dates (Deadline)", "url": "https://deadline.com/feature/2026-tv-premiere-dates-1236391902/" }
+      ]
+    }
+  ]
+}

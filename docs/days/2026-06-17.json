@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-17",
+  "label": "Wednesday, June 17, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Messi's first World Cup hat-trick fires Argentina past Algeria",
+      "body": "Argentina opened their title defense with a 3-0 win over Algeria in Kansas City, and Messi made it historic — his first-ever World Cup treble pulled him level with Miroslav Klose's all-time record of 16 World Cup goals.",
+      "say": "Did you catch Messi's hat-trick? Twenty years after his World Cup debut, he ties the all-time goals record.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX: World Cup highlights", "url": "https://www.foxsports.com/soccer/fifa-world-cup" },
+        { "kind": "web", "text": "Al Jazeera match report", "url": "https://www.aljazeera.com/sports/2026/6/17/messi-fires-argentina-to-win-against-algeria-in-world-cup-defence-opener" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Harry Kane brace headlines a chaotic England 4-2 win over Croatia",
+      "body": "England kicked off in Dallas with a wild six-goal opener. Kane scored twice — including a header that drew him level with Gary Lineker's England World Cup record — before Bellingham and Rashford sealed it against a Croatia side that twice clawed back.",
+      "say": "England put four past Croatia and Kane tied Lineker's record. Tuchel's England might actually be fun to watch.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN recap", "url": "https://www.espn.com/soccer/story/_/id/49099495/england-croatia-world-cup-2026-recap-score-harry-kane-jude-bellingham-marcus-rashford" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "IEM Cologne Major playoffs start tomorrow with the top seeds stacked",
+      "body": "The biggest Counter-Strike event of the year hits its knockout stage Thursday at the Lanxess Arena. Eight teams survived a brutal Stage 3, and the favorites all landed on the same half of the bracket — so two of them go out early.",
+      "say": "The CS Major playoffs start tomorrow and the bracket's a mess in the best way — all the top seeds got jammed onto one side.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "ESL Counter-Strike on Twitch", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "Playoffs preview (esports.gg)", "url": "https://esports.gg/news/counter-strike-2/cologne-major-2026-playoffs-results/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Champions",
+      "headline": "New York throws its first Knicks championship parade since 1973",
+      "body": "The Knicks are NBA champions for the first time in 53 years. The ticker-tape parade rolls up Broadway, with Jalen Brunson set to speak — the Finals win over San Antonio drew the most-watched NBA postseason since 1998.",
+      "say": "The Knicks are finally champions and the parade's basically taking over Manhattan. First one since 1973.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Knicks championship parade (NBA)", "url": "https://www.youtube.com/watch?v=mOMyiwJCX6I" },
+        { "kind": "web", "text": "ESPN: best parade moments", "url": "https://www.espn.com/nba/story/_/id/49100686/new-york-knicks-nba-championship-parade-sights-sounds-moments" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Champions",
+      "headline": "Hurricanes are Stanley Cup champions — and the offseason chess begins",
+      "body": "Carolina shut out Vegas 3-0 in Game 6 to lift the Cup for the first time in 20 years, with 37-year-old Jordan Staal winning the Conn Smythe as the oldest ever. Now GM Eric Tulsky has to defend it with little cap space.",
+      "say": "The Hurricanes finally got their Cup, and a 37-year-old won MVP. Now everyone's watching whether they can keep the band together.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NHL.com: Cup-clinching recap", "url": "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · US Open",
+      "headline": "US Open tees off tomorrow at Shinnecock with Scheffler chasing the Slam",
+      "body": "The 126th US Open begins Thursday at Shinnecock Hills, with World No. 1 Scottie Scheffler trying to complete the career Grand Slam against a tough, wind-swept test. Coverage starts at 6:30 a.m. ET on USA Network and Peacock.",
+      "say": "US Open starts tomorrow at Shinnecock — Scheffler's going for the career Slam. Brutal course, should be a grind.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "How to watch (USGA)", "url": "https://www.usopen.com/2026/articles/how-to-watch-2026-us-open-shinnecock-hills.html" },
+        { "kind": "web", "text": "ESPN tee times", "url": "https://www.espn.com/golf/story/_/id/49082009/us-open-2026-tee-first-round-second-round-shinnecock-hills" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Title Race",
+      "headline": "Antonelli's Montreal win blows the title race wide open",
+      "body": "Teenager Kimi Antonelli took his fourth win of the season at the Canadian Grand Prix after a wheel-banging duel with teammate George Russell — until Russell retired from the lead. Lewis Hamilton grabbed his best Ferrari result yet in second.",
+      "say": "Did you see the Mercedes guys nearly take each other out in Montreal? Antonelli won and is running away with the title.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "F1 race report", "url": "https://www.formula1.com/en/latest/article/antonelli-wins-dramatic-canadian-grand-prix-as-russell-retires-amid-thrilling-mercedes-battle.MzvclJaqCidlYMUXonuDq" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Film",
+      "headline": "Toy Story 5 hits theaters Friday — and tracking says it's huge",
+      "body": "Pixar's Toy Story 5 opens June 19, with Tom Hanks, Tim Allen and Joan Cusack all back. The toys square off against Lilypad, a sentient tablet voiced by Greta Lee. Trackers eye a franchise-record opening near $160M.",
+      "say": "Toy Story 5 opens Friday and they're saying it could be the biggest debut of the year. The villain is a tablet, which tracks for 2026.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (Pixar)", "url": "https://www.youtube.com/watch?v=c51ND9Hdbw0" },
+        { "kind": "web", "text": "Deadline: box office preview", "url": "https://deadline.com/2026/06/box-office-scary-movie-masters-of-the-universe-backrooms-1236941701/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Olivia Rodrigo's new album is the year's biggest solo debut",
+      "body": "Rodrigo's third album is dominating the conversation, on track for 2026's biggest opening week by any soloist after dropping the weekend prior.",
+      "say": "Olivia Rodrigo's new record is everywhere — biggest solo debut of the year. Heard it yet?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'stupid song' (Official Video)", "url": "https://www.youtube.com/watch?v=Rt9tW3cMLhI" },
+        { "kind": "web", "text": "Variety", "url": "https://variety.com/2026/music/news/olivia-rodrigo-third-consecutive-no-1-albums-chart-1236786717/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "The Bear returns next week for its fifth and final season",
+      "body": "FX's Emmy-magnet kitchen drama wraps up: The Bear's fifth and final season premieres June 25 on FX (streaming on Hulu) — the summer's most-anticipated TV return.",
+      "say": "The Bear's coming back next week for its final season. Not sure I'm ready to say goodbye to that kitchen.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "June 2026 TV premiere schedule", "url": "https://deadline.com/feature/2026-tv-premiere-dates-1236391902/" }
+      ]
+    }
+  ]
+}
