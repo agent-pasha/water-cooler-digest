@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-25",
+  "label": "Thursday, June 25, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "USMNT close out the group vs. Türkiye tonight in L.A.",
+      "body": "The U.S. have already won Group D and booked a Round of 32 spot after beating Paraguay 4-1 and Australia 2-0, but Mauricio Pochettino's side want momentum — and the home crowd — heading into the knockouts. They wrap it up against an already-eliminated Türkiye at SoFi Stadium (10pm ET).",
+      "say": "USMNT play their last group game tonight at SoFi — they've already advanced, so it's all about building momentum. You catching it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "U.S. Soccer: match preview vs. Türkiye", "url": "https://www.ussoccer.com/stories/2026/06/usmnt/match-preview-vs-turkiye-los-angeles-california-fifa-world-cup" },
+        { "kind": "web", "text": "ESPN: Türkiye vs. USA live", "url": "https://www.espn.com/soccer/match/_/gameId/760470/united-states-turkiye" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🌍",
+      "tag": "Soccer · World Cup",
+      "headline": "South Africa stun South Korea to reach the knockouts for the first time ever",
+      "body": "Bafana Bafana pulled off a stunner: Thapelo Maseko's 63rd-minute strike beat South Korea 1-0, lifting South Africa above the Koreans and into the Round of 32 for the first time in their history. They'll face Canada on Sunday.",
+      "say": "South Africa just made the World Cup knockouts for the first time ever — knocked out South Korea to do it. Huge moment for them.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: South Africa 1-0 South Korea extended highlights", "url": "https://www.foxsports.com/watch/fmc-bciclbbl9d5hc1i5" },
+        { "kind": "web", "text": "Sky Sports: Maseko's historic winner", "url": "https://www.skysports.com/football/news/12098/13556654/world-cup-2026-south-africa-1-0-south-korea-thapelo-masekos-winner-makes-history-after-heung-min-son-benched" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Stanley Cup",
+      "headline": "Carolina win the Cup — their first since 2006",
+      "body": "The Hurricanes closed out the Vegas Golden Knights with a 3-0 Game 6 shutout to win the Stanley Cup, their first championship in 20 years. Captain Jordan Staal took home the Conn Smythe as playoff MVP after years of Carolina knocking on the door.",
+      "say": "The Hurricanes finally won the Cup — first time since 2006. Twenty years of waiting and they shut out Vegas to clinch it.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "NHL: Hurricanes-Golden Knights Game 6 highlights", "url": "https://www.youtube.com/watch?v=3jbQ58HKtXA" },
+        { "kind": "web", "text": "NHL.com: Canes win Game 6 to lift the Cup", "url": "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Austrian GP",
+      "headline": "F1 heads to the Red Bull Ring with the title fight wide open",
+      "body": "Round 8 lands in the Styrian mountains this weekend (race Sunday). Rookie sensation Kimi Antonelli leads the championship, but Lewis Hamilton arrives red-hot off his first-ever win for Ferrari in Barcelona — a race that gave us the first all-British podium since 1968.",
+      "say": "F1's in Austria this weekend and the title race is actually a race — a rookie's leading, but Hamilton just got his first Ferrari win. Should be fun.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "FORMULA 1: Barcelona GP race highlights", "url": "https://www.youtube.com/watch?v=Ey8j_BlLvFM" },
+        { "kind": "web", "text": "ESPN: Austrian GP preview & how to watch", "url": "https://www.espn.com/f1/story/_/id/49042004/austrian-grand-prix-2026-race-f1-start-s-how-watch-schedule-usa-tv-channel-live-stream-predictions-results" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Dodgers",
+      "headline": "Ohtani keeps mashing as the Dodgers chase a three-peat",
+      "body": "Shohei Ohtani is doing Shohei Ohtani things — leadoff bombs, pitching starts, the works — as the two-time defending champs roll through late June eyeing just the fifth three-peat in World Series history. He recently became a dad again, too, and is right back in the lineup.",
+      "say": "Ohtani's still launching homers and the Dodgers are going for a three-peat — that's only happened a handful of times ever. Hard not to watch.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "MLB: Ohtani's leadoff homer (No. 17)", "url": "https://www.youtube.com/watch?v=xkrz-7W99N8" },
+        { "kind": "web", "text": "Olympics.com: Dodgers' three-peat bid", "url": "https://www.olympics.com/en/news/major-league-baseball-2026-key-dates-schedule-faq-watch-ohtani-dodgers" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦸",
+      "tag": "Culture · Film",
+      "headline": "'Supergirl' flies into theaters this weekend",
+      "body": "Milly Alcock takes the cape after her scene-stealing cameo in last year's 'Superman.' DC Studios' new film follows Kara Zor-El on a revenge-fueled road trip across the galaxy — with a dog named Krypto and a bounty hunter named Lobo along for the ride. Opens Friday.",
+      "say": "The new Supergirl movie opens this weekend — Milly Alcock's got the cape now. Looks like a fun one for the DC reboot.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (DC)", "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs" },
+        { "kind": "web", "text": "DC: Supergirl (2026)", "url": "https://www.dc.com/movies/supergirl-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐻",
+      "tag": "Culture · TV",
+      "headline": "'The Bear' drops its final season — all eight episodes are up",
+      "body": "One last service. FX's kitchen-pressure-cooker landed its fifth and final season on Hulu, with Carmy, Sydney and Richie scrambling to save the restaurant and finally chase down that Michelin star — through money trouble and a literal storm. Yes, chef.",
+      "say": "The Bear's final season just dropped — all eight episodes. I might need the whole weekend to recover from it, honestly.",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Season 5 official trailer (FX)", "url": "https://www.youtube.com/watch?v=ojjCvICC86c" },
+        { "kind": "web", "text": "TV Insider: Season 5 details", "url": "https://www.tvinsider.com/1199100/the-bear-season-5-premiere-date-trailer-cast-plot/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧸",
+      "tag": "Culture · Film",
+      "headline": "'Toy Story 5' is still the runaway box-office champ",
+      "body": "Woody and Buzz are minting money — Pixar's sequel scored the biggest opening of 2026 ($160M domestic) and is still topping the charts as the gang squares off with a sassy new tablet named Lilypad. A solid weekend pick if you've got kids.",
+      "say": "Toy Story 5 is still crushing it at the box office — biggest opening of the year. Have you taken the kids yet?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Final trailer (Pixar)", "url": "https://www.youtube.com/watch?v=QftAW9TTmuQ" },
+        { "kind": "web", "text": "Variety: record-breaking opening", "url": "https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Muse drop 'The Wow! Signal' tomorrow",
+      "body": "The arena-rock trio's tenth album lands Friday — a cosmic concept record named after a famous 1977 radio burst from deep space. Early reviews are calling it their best in 20 years, with singles like 'Nightshift Superstar' and an Ellie Goulding team-up in the mix.",
+      "say": "New Muse album's out tomorrow — apparently it's their best in two decades. The space-signal theme is very on-brand for them.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Nightshift Superstar' official video (Muse)", "url": "https://www.youtube.com/watch?v=p--xk9n1eIM" },
+        { "kind": "web", "text": "NME: 'best album in 20 years' review", "url": "https://www.nme.com/reviews/album/muse-the-wow-signal-album-review-3952795" }
+      ]
+    }
+  ]
+}
