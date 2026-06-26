@@ -4,9 +4,9 @@ description: >-
   Generate the day's "Water-Cooler Digest" — ~8–10 quick-hit small-talk / ice-breaker
   items spanning the biggest sports, esports, and culture happening right now (with
   3–5 slots reserved for culture), each with a specific, VERIFIED must-watch clip,
-  preferring YouTube. Writes a per-day JSON file and updates the manifest for the
-  GitHub Pages site. Use for the daily routine or any time someone asks to
-  refresh/build the digest.
+  preferring YouTube. Reads the recent archive first so it never repeats a story.
+  Writes a per-day JSON file and updates the manifest for the GitHub Pages site. Use
+  for the daily routine or any time someone asks to refresh/build the digest.
 ---
 
 # Water-Cooler Digest
@@ -22,7 +22,17 @@ generate HTML — only JSON. The site renders it.
 Determine today's date in **America/Los_Angeles** (Pacific). Format it as
 `YYYY-MM-DD` (e.g. `2026-06-19`). Build a friendly `label` like `Friday, June 19, 2026`.
 
-## Step 2 — Research what's actually big right now (use WebSearch — always search)
+## Step 2 — Read the recent archive first (so the digest stays FRESH)
+Before researching, open the most recent **~7 day files** in `docs/days/` (their dates
+are listed at the top of `docs/manifest.json`). Skim every item and build a list of the
+stories already covered this week — keyed by the underlying *event*, not the wording.
+Examples: "Falcons won the CS2 Cologne Major", "Knicks won the NBA title", "Hurricanes
+won the Stanley Cup", "Toy Story 5 opened", "Messi's hat-trick vs Algeria".
+
+You will use this list in Step 4. The goal: someone who opens the page every day should
+get NEW conversation starters — never the same headline running four days in a row.
+
+## Step 3 — Research what's actually big right now (use WebSearch — always search)
 Surface the biggest, most talked-about things happening **today and in the last
 24–48 hours**.
 
@@ -46,11 +56,29 @@ cover the full cultural conversation, e.g.
 Verify any specific result (score, who scored, release date, who won) with a second
 search before stating it.
 
-## Step 3 — Pick ~8–10 quick hits
-Roughly 5 sports/esports + 3–5 culture. Rank by how widely talked-about they are and
-spread across topics so the digest is full, current, and comprehensive.
+## Step 4 — Pick ~8–10 quick hits — and DO NOT repeat the archive
+Roughly 5 sports/esports + 3–5 culture, ranked by how widely talked-about they are and
+spread across topics.
 
-## Step 4 — Find a specific clip per item, preferring YouTube
+**De-duplication (important — this is the whole point of Step 2):** Do NOT include a
+story that already appeared in the recent archive UNLESS there's a genuine, meaningful
+NEW development since it last ran — and if so, lead with that new angle, not the old news.
+- **Meaningful update → OK to cover again (frame the new part):** an ongoing tournament
+  reaches a new stage or crowns a champion; a playoff series reaches a deciding game; a
+  record gets broken; a film you previewed posts its actual opening-weekend number; a
+  champion makes a blockbuster trade/signing.
+- **Not meaningful → SKIP it:** restating the same final result, the same champion, the
+  same "opens Friday", or the same ongoing storyline with nothing new since you last
+  covered it. (Example: once "Falcons won the CS2 Cologne Major" has run, the Major is
+  over — don't run it again the next day.)
+
+When a priority category has only already-covered news today: first look for a DIFFERENT
+notable event in that category (another match, a trade, a different game, a transfer). If
+there's genuinely nothing fresh in that category, **skip it and pick a different
+category/topic** so the day still has 8–10 *fresh* items. Rotate across the week so the
+reader keeps getting new things to talk about.
+
+## Step 5 — Find a specific clip per item, preferring YouTube
 For each item, find the ONE specific must-watch video — the exact moment/trailer
 everyone is talking about. **Only use a video URL that literally appears in your search
 results — never invent a YouTube ID.** Pick the source in this order:
@@ -69,7 +97,7 @@ results — never invent a YouTube ID.** Pick the source in this order:
 
 Twitch channel links (e.g. `twitch.tv/esl_csgo`) for live esports are fine as-is.
 
-## Step 5 — VERIFY every YouTube link actually plays in the US (required — do not skip)
+## Step 6 — VERIFY every YouTube link actually plays in the US (required — do not skip)
 For each `https://www.youtube.com/watch?v=<ID>` candidate, before attaching it, run:
 
 1. **Exists / not removed (oEmbed):**
@@ -83,9 +111,9 @@ For each `https://www.youtube.com/watch?v=<ID>` candidate, before attaching it, 
    the US → drop it. If the list is absent (unrestricted) or includes `US`, it's good.
    Also drop anything whose page shows `"status":"ERROR"` / `UNPLAYABLE` / "Video unavailable".
 3. If a clip fails, find another (prefer official channels). If you can't verify a US clip,
-   fall back per Step 4 (broadcaster page, then recap). Never attach an unverified video.
+   fall back per Step 5 (broadcaster page, then recap). Never attach an unverified video.
 
-## Step 6 — Write the day file: `docs/days/TODAY.json`
+## Step 7 — Write the day file: `docs/days/TODAY.json`
 Schema:
 
 ```json
@@ -115,19 +143,22 @@ Field rules:
   culture, f1, golf, tennis`. Culture items use `culture`. Any other value renders neutral.
 - `tag` is the visible label, `Topic · Subtopic` (e.g. `Culture · Film`, `Culture · Music`,
   `Culture · TV`, `Tennis · Wimbledon`).
+- `say` is the ice-breaker opener (the site shows it after an "Ice breaker:" label) — write
+  the opener text only, with no prefix.
 - `watch`: `▶ The clip everyone saw` for a real highlight/trailer, `▶ Worth a look` /
   `▶ Worth a listen` / `▶ Watch it live` otherwise.
 - `links` `kind`: `yt` (verified YouTube, red), `tw` (Twitch, purple), `web` (source/
   broadcaster page, green). Put the clip first, then 1 source. Every `yt` link MUST have
-  passed Step 5.
+  passed Step 6.
 
-## Step 7 — Update `docs/manifest.json`
+## Step 8 — Update `docs/manifest.json`
 Prepend `TODAY` to the `days` array if not present (keep newest-first), update `updated`,
 keep `repo`. Never delete old day files — the archive is the point.
 
-## Step 8 — Commit & push
+## Step 9 — Commit & push
 Commit `docs/days/TODAY.json` + `docs/manifest.json` with message `digest: TODAY` and push
-to the default branch.
+to the default branch. Make ONE normal commit and a normal push — never amend or force-push
+(force-pushing rewrites history and disables GitHub Pages).
 
 ## Tone
 Warm, casual, a little fun — these are ice-breakers, not a news report. Avoid politics.
