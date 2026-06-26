@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-26",
+  "label": "Friday, June 26, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Mbappé vs. Haaland, winner takes the group — France play Norway today",
+      "body": "The heavyweight clash of the group stage. France and Norway are both already through, so this Group I finale (3pm ET, Boston) is a straight shootout for top spot — and a Golden Boot duel. Kylian Mbappé and Erling Haaland have four goals each through two games, chasing Messi (5) for the tournament lead.",
+      "say": "France-Norway is on today — basically Mbappé vs. Haaland for the group and the Golden Boot. That's a heavyweight matchup; you watching?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Olympics.com: France v Norway live & Golden Boot race", "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-france-v-norway-mbappe-haaland-battle-golden-boot-live" },
+        { "kind": "web", "text": "FOX Sports: how to watch Norway vs. France", "url": "https://www.foxsports.com/stories/soccer/norway-vs-france-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-group-i" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🇺🇸",
+      "tag": "Soccer · World Cup",
+      "headline": "USMNT lose a wild one to Türkiye — but they're already in the knockouts",
+      "body": "The U.S. had top spot locked, so Pochettino made 10 changes and rested Pulisic — and still went toe-to-toe. Auston Trusty struck inside three minutes and Sebastian Berhalter made it 2-2, before Kaan Ayhan grabbed a heartbreaking winner deep in stoppage time for a 3-2 Türkiye win. Next up: Bosnia & Herzegovina in the Round of 32 on July 1.",
+      "say": "USMNT lost a crazy one to Türkiye 3-2 on a last-second goal, but they'd already qualified — coach rested half the team. Knockouts start July 1.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: Türkiye vs. USA extended highlights", "url": "https://www.foxsports.com/watch/fmc-xz0k6upui77oas94" },
+        { "kind": "web", "text": "CNN: late winner gives USA its first defeat", "url": "https://www.cnn.com/2026/06/25/sport/usa-turkey-world-cup-june-24" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "Falcons sweep FURIA to win their first-ever CS2 Major",
+      "body": "Curtains on the IEM Cologne Major: Team Falcons blanked Brazil's FURIA 3-0 in the grand final at a roaring Lanxess Arena to lift their first Major trophy. Russian phenom Ilya 'm0NESY' Osipov was named MVP — the crown jewel on a $1.25M event and a breakout moment for the squad.",
+      "say": "Falcons just won their first Counter-Strike Major — swept FURIA 3-0 in Cologne and m0NESY took MVP. Big moment for that roster.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "ESL: Falcons vs. FURIA grand final highlights", "url": "https://www.youtube.com/watch?v=VgNPKBGGdG0" },
+        { "kind": "web", "text": "esports.gg: how Falcons broke the curse", "url": "https://esports.gg/news/counter-strike-2/winners-cologne-major-2026-overview/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Draft",
+      "headline": "Wizards make AJ Dybantsa the No. 1 pick",
+      "body": "Washington kicked off the NBA Draft by taking BYU's AJ Dybantsa first overall. The 6-foot-9 wing averaged 25.5 points a game in his lone college season — and became the first player to lead Division I in scoring and go No. 1 since Glenn Robinson in 1994. A new face to build around in D.C.",
+      "say": "The Wizards took AJ Dybantsa No. 1 in the draft — leading scorer in college ball, first guy to do that and go first overall since 1994. Big swing for D.C.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "NBA: AJ Dybantsa's No. 1 pick press conference", "url": "https://www.youtube.com/watch?v=BJ5xXpGE2kg" },
+        { "kind": "web", "text": "NBA.com: Wizards tab Dybantsa No. 1", "url": "https://www.nba.com/news/wizards-take-aj-dybantsa-no-1-2026-draft" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Wimbledon draw is out — play starts Monday",
+      "body": "Grass-court season hits its peak: the Championships begin June 29 at the All England Club, and today's draw set the bracket. Seven-time champ Novak Djokovic landed in world No. 1 Jannik Sinner's half, and Taylor Fritz drew Jack Draper in a blockbuster first-rounder. Strawberries and cream incoming.",
+      "say": "Wimbledon starts Monday and the draw just dropped — Djokovic's in Sinner's half already. Always a fun two weeks. You follow it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Live draw reveal for Wimbledon 2026", "url": "https://www.youtube.com/watch?v=Q3F6DSB7484" },
+        { "kind": "web", "text": "WTA: Wimbledon 2026 dates, draw & what to know", "url": "https://www.wtatennis.com/news/4525748/wimbledon-2026-what-to-know-dates-draws-schedule-prize-money-and-more" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦸",
+      "tag": "Culture · Film",
+      "headline": "'Supergirl' flies into theaters today",
+      "body": "Milly Alcock takes the cape after her scene-stealing cameo in last year's 'Superman.' DC Studios' new film sends Kara Zor-El on a revenge-fueled road trip across the galaxy — Jason Momoa's bounty hunter Lobo and a dog named Krypto in tow. It's out now, including IMAX.",
+      "say": "The Supergirl movie's finally out — Milly Alcock's got the cape. Could be the weekend pick if you're in the mood for a superhero road trip.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (DC)", "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs" },
+        { "kind": "web", "text": "IMDb: Supergirl (2026)", "url": "https://www.imdb.com/title/tt8814476/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🛹",
+      "tag": "Culture · Film",
+      "headline": "'Jackass: Best and Last' is the franchise's final hurrah",
+      "body": "Twenty-five years on, Knoxville, Steve-O and the crew take a victory lap. The fifth and final Jackass film mixes greatest-hits stunts with brand-new gags and never-before-seen footage — a 'dumbly fitting' goodbye, per the reviews. In theaters today, ice packs optional.",
+      "say": "There's a final Jackass movie out today — 25-year sendoff, old classics plus new stunts. Honestly might be the most fun you have at the theater this weekend.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Paramount Pictures)", "url": "https://www.youtube.com/watch?v=sNwzFhGwA94" },
+        { "kind": "web", "text": "Jackass: Best and Last — official site", "url": "https://www.jackassmovie.com/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Larry David's back — 'Life, Larry and the Pursuit of Unhappiness' premieres",
+      "body": "Call it 'Curb Your Enthusiasm in costumes.' Larry David's new HBO Max comedy drops Kvetching Larry into American history — the Boston Tea Party, the Wright brothers, V-J Day — across improvised sketches. It's produced with the Obamas' Higher Ground, with Seinfeld, Jon Hamm and Bill Hader popping up. First episode is up now.",
+      "say": "Larry David's new show just premiered — it's basically Curb, but set throughout American history. Sketches with Seinfeld, Bill Hader, the works. Very up his alley.",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=Sp7P5JmKvLI" },
+        { "kind": "web", "text": "NPR: the Obamas team up with Larry David", "url": "https://www.npr.org/2026/06/25/nx-s1-5868664/the-obamas-team-up-with-larry-david-in-this-irreverent-look-at-american-history" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Katy Perry torches her past on new single 'Watch It Burn'",
+      "body": "It's a busy New Music Friday — Muse, Justin Bieber and Tyler, the Creator all in the mix — but Katy Perry's comeback is the talker. 'Watch It Burn' continues the storyline from her single 'Bandaids,' complete with a cinematic video where she sprouts a scorpion tail and sets her old life ablaze. Her next pop era is officially lit.",
+      "say": "Katy Perry dropped a new single, 'Watch It Burn' — she literally grows a scorpion tail in the video. Feels like the start of a whole new era for her.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Watch It Burn' official teaser", "url": "https://www.youtube.com/watch?v=gip2Pnzt_SU" },
+        { "kind": "web", "text": "Stereogum: Katy's scorpion-tail comeback", "url": "https://stereogum.com/2503508/katy-perry-acquires-demonic-scorpion-tail-in-watch-it-burn-video/music" }
+      ]
+    }
+  ]
+}
