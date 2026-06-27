@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-27",
+  "label": "Saturday, June 27, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Dembélé bags a first-half hat-trick as France romp past Norway",
+      "body": "So much for the Mbappé-vs-Haaland billing — Ousmane Dembélé stole the whole show. The PSG star ripped off all three of his goals inside the first 32 minutes in Boston, the first first-half hat-trick at a men's World Cup since 1994, as France beat a rotated Norway 4-1 to win Group I. Next up: Sweden in the Round of 32.",
+      "say": "Everyone tuned in for Mbappé vs. Haaland and Dembélé went and scored a hat-trick in the first half hour instead. France looked scary.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: Dembélé's first-half hat-trick", "url": "https://www.foxsports.com/watch/fmc-ow5ubu5zfsvms4in" },
+        { "kind": "web", "text": "ESPN: France 4-1 Norway final", "url": "https://www.espn.com/soccer/match/_/gameId/760475/france-norway" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🏆",
+      "tag": "Soccer · World Cup",
+      "headline": "Group stage is done — the World Cup knockouts begin Sunday",
+      "body": "The bracket is set and the single-elimination madness starts tomorrow, kicking off with South Africa vs. Canada in L.A. The big ones land fast: Brazil-Japan and Germany-Paraguay on Monday, USMNT vs. Bosnia on Wednesday, then France-Sweden and an eventual Argentina-Cape Verde tie. Win or go home from here.",
+      "say": "Group stage's over — knockouts start tomorrow. The U.S. plays Bosnia Wednesday. You filling out a bracket?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Olympics.com: Round of 32 full schedule", "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-bracket-round-32-full-schedule-live-updates" },
+        { "kind": "web", "text": "Sky Sports: the full knockout bracket", "url": "https://www.skysports.com/football/news/11095/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Austrian GP",
+      "headline": "Russell snatches a wild Austrian pole as Verstappen crashes at home",
+      "body": "Drama at the Red Bull Ring: George Russell pipped the two Ferraris of Leclerc and Hamilton to pole on the very last lap — moments after Max Verstappen buried his car in the gravel at Turn 9 in front of his home fans. Russell's lap came through yellow flags and was briefly investigated before stewards let it stand. Race is Sunday.",
+      "say": "Verstappen crashed out of qualifying at his home race and Russell nicked pole on the final lap. Austria's always chaos — the race is Sunday.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Formula 1: Verstappen crashes heavily in Q3", "url": "https://www.formula1.com/en/video/2026-austrian-gp-qualifying-verstappen-crashes-heavily-in-q3.1869164030351504065" },
+        { "kind": "web", "text": "Formula1.com: Russell beats the Ferraris to pole", "url": "https://www.formula1.com/en/latest/article/russell-beats-leclerc-and-hamilton-to-austrian-gp-pole-after-dramatic-late-verstappen-crash.6oiA7Tyo3B89DFJNLWtG8P" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Blockbuster Trade",
+      "headline": "Giannis is a Miami Heat — Bucks finally pull the trigger",
+      "body": "The summer's biggest domino fell: Milwaukee traded two-time MVP Giannis Antetokounmpo to Miami in a blockbuster that beat out Boston. The Bucks land a haul headlined by Tyler Herro, Kel'el Ware and Jaime Jaquez Jr. plus a stack of first-round picks. The Heat suddenly have a title-level centerpiece.",
+      "say": "Did you see Giannis got traded to the Heat? Miami beat out Boston for him. That whole saga's finally over — Milwaukee got a ton of picks back.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "ESPN: Shams reacts on SportsCenter", "url": "https://www.youtube.com/watch?v=XvtTJTA29M8" },
+        { "kind": "web", "text": "ESPN: trade grades, winners & losers", "url": "https://www.espn.com/nba/story/_/id/49112635/giannis-antetokounmpo-trade-grades-winners-losers-reaction-bucks-heat" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Pirates",
+      "headline": "Paul Skenes whiffs his 500th career batter — fastest Pirate ever",
+      "body": "The flamethrower keeps making history: Pittsburgh's Paul Skenes notched the 500th strikeout of his career against the Reds, getting there in just 72 starts — the quickest any Pirates pitcher ever has, passing franchise legend Bob Veale. He's must-watch every fifth day even when the wins won't come.",
+      "say": "Paul Skenes just hit 500 career strikeouts faster than any Pirate in history. The guy throws 100 and it's appointment viewing every start.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB: Skenes fans seven in five innings", "url": "https://www.mlb.com/video/paul-skenes-strikes-out-seven-in-five-innings" },
+        { "kind": "web", "text": "MLB.com: 500th strikeout milestone", "url": "https://www.mlb.com/news/paul-skenes-vs-reds-june-26-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦑",
+      "tag": "Culture · TV",
+      "headline": "'Squid Game' drops its final season today",
+      "body": "Game over — for real this time. The third and final season of Netflix's global juggernaut lands today, picking up with Gi-hun's last, bloody stand against the Front Man. Expect new games, higher stakes, and yes, that giant Red Light, Green Light doll is back. The whole season's up to binge.",
+      "say": "The last season of Squid Game just dropped — I know what I'm doing this weekend. You caught up, or starting over?",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=zgGTVaG2UiQ" },
+        { "kind": "web", "text": "Netflix Tudum: final season guide", "url": "https://www.netflix.com/tudum/articles/squid-game-season-3-plot-release-date-news" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦸",
+      "tag": "Culture · Film",
+      "headline": "'Supergirl' lands a softer-than-hoped opening; 'Toy Story 5' still rules",
+      "body": "Milly Alcock's cape debut pulled in a so-so opening weekend — somewhere around $40M, below what DC was hoping for — as 'Toy Story 5' shrugged it off and held onto the No. 1 spot in its second week. Still a fun watch if you're in a superhero mood; just not the knockout some expected.",
+      "say": "Supergirl opened kind of quietly — Toy Story 5 stayed No. 1 over it. Did you end up seeing either this weekend?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (DC)", "url": "https://www.youtube.com/watch?v=s1-pfiVMKAs" },
+        { "kind": "web", "text": "Deadline: Supergirl & Toy Story 5 box office", "url": "https://deadline.com/2026/06/box-office-supergirl-toy-story-5-1236968254/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎛️",
+      "tag": "Culture · Music",
+      "headline": "Boards of Canada are back with 'Inferno' — their first album in 13 years",
+      "body": "One of electronic music's most mysterious acts resurfaced after over a decade away. The Scottish duo's fifth album 'Inferno' (on Warp) arrived following a wonderfully cryptic rollout — unmarked VHS tapes mailed to old fans, posters in random cities — and that warm, hazy, slightly eerie sound is right back. Headphones recommended.",
+      "say": "Boards of Canada finally put out a new album — first one in 13 years. They even mailed fans mystery VHS tapes to tease it. Very them.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Introit / Prophecy At 1420 MHz' (official)", "url": "https://www.youtube.com/watch?v=74NluS3jzTo" },
+        { "kind": "web", "text": "NPR: BoC's first album in 13 years", "url": "https://www.npr.org/2026/05/29/nx-s1-5837613/fan-favorite-boards-of-canada-returns-with-first-new-album-in-13-years" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Justin Bieber surprise-drops a live album from his Coachella comeback",
+      "body": "Out of nowhere, Bieber released 'SWAG Live From Coachella (Weekend I)' — a 22-track recording of the record-breaking set that became the most-watched performance in festival history. Guests Tems, Wizkid, The Kid LAROI and Mk.gee all show up. Yes, it's the same show he got a little roasted for playing YouTube clips during.",
+      "say": "Bieber surprise-dropped a whole live album from that massive Coachella set — the one everyone was talking about. 22 tracks, a bunch of guests.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Billboard: stream the live album", "url": "https://www.billboard.com/music/pop/justin-bieber-swag-coachella-live-album-stream-it-now-1236281692/" },
+        { "kind": "web", "text": "Pollstar: surprise live-album release", "url": "https://news.pollstar.com/2026/06/26/justin-bieber-relives-coachella-set-with-surprise-release-of-swag-live-album/" }
+      ]
+    }
+  ]
+}
