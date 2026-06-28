@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-28",
+  "label": "Sunday, June 28, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Messi makes history again — scores in a record 7th straight World Cup match",
+      "body": "Argentina had already won the group, so Scaloni rested Messi to start — then brought him on, and the GOAT curled in a low free kick 10 minutes from time to seal a 3-1 win over Jordan in Dallas. It pushed him to six goals at this tournament and made him the first player ever to score in seven consecutive World Cup matches. Lo Celso and a Lautaro penalty did the early damage.",
+      "say": "Messi came off the bench and bent in another free kick — he's now the first guy ever to score in seven World Cup games in a row. The man just keeps rewriting the record book.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: Messi's record-setting free kick", "url": "https://www.foxsports.com/watch/fmc-w33d5ra69gtvdho9" },
+        { "kind": "web", "text": "ESPN: Jordan 1-3 Argentina report", "url": "https://www.espn.com/soccer/report/_/gameId/760483" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Austrian GP",
+      "headline": "Russell converts pole into a win — Verstappen storms back to second",
+      "body": "A day after burying his car in the gravel in qualifying, Max Verstappen charged through the field to finish second at his home race — but he couldn't catch George Russell, who got a clean launch off pole and controlled the Austrian Grand Prix from the front. Rookie sensation Kimi Antonelli took third, though Russell's win trims his Mercedes teammate's championship lead.",
+      "say": "Verstappen crashed in qualifying yesterday and still clawed back to second today — but Russell led it from pole and won. The Mercedes title fight is getting spicy.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "FORMULA 1: Austrian GP race highlights", "url": "https://www.youtube.com/watch?v=usP9O0zFVaA" },
+        { "kind": "web", "text": "ESPN: Russell wins, Verstappen second", "url": "https://www.espn.com/f1/story/_/id/49174036/austrian-grand-prix-2026-live-f1-latest-updates-commentary-result-spain-charles-leclerc-lewis-hamilton-george-russell-kimi-antonelli" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Draft",
+      "headline": "Maple Leafs take Gavin McKenna No. 1 — and Justin Bieber announced the pick",
+      "body": "Hockey's most hyped prospect in years is headed to Toronto. The Leafs made 18-year-old Yukon winger Gavin McKenna the No. 1 overall pick, and die-hard Leafs fan Justin Bieber came out to announce it — McKenna even walked up to Bieber's song 'Yukon.' He tore up college hockey at Penn State and becomes just the second First Nations player ever taken first overall.",
+      "say": "The Maple Leafs took Gavin McKenna No. 1, and Justin Bieber — a huge Leafs fan — came out to announce the pick. Pretty surreal night for an 18-year-old from the Yukon.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NHL.com: McKenna goes No. 1 (video)", "url": "https://www.nhl.com/video/draft-moments-mckenna-goes-no-1-6399506923112" },
+        { "kind": "web", "text": "NHL.com: McKenna drafted first overall by Toronto", "url": "https://www.nhl.com/news/gavin-mckenna-drafted-no-1-overall-by-toronto-maple-leafs-in-2026-nhl-draft" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Women's PGA",
+      "headline": "Final round of the Women's PGA Championship goes today at Hazeltine",
+      "body": "One of the LPGA's five majors comes down to Sunday. South Korea's Hae Ran Ryu takes an 11-under lead into the final round at Hazeltine National in Minnesota, but Canada's Brooke Henderson is lurking just one shot back. There's a record $13M purse on the line — and a major title up for grabs.",
+      "say": "The Women's PGA Championship wraps up today — Hae Ran Ryu's got a one-shot lead with Brooke Henderson right behind her. Should be a tense back nine.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "LPGA: KPMG Women's PGA Championship", "url": "https://www.lpga.com/tournaments/kpmgwomenspgachampionship/overview" },
+        { "kind": "web", "text": "Golf Digest: record prize money at Hazeltine", "url": "https://www.golfdigest.com/story/2026-kpmg-womens-pga-championship-prize-money-payout-each-golfer-purse-13-million-hazeltine-national" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏁",
+      "tag": "Culture · Film",
+      "headline": "Brad Pitt's 'F1' roars to the top — his biggest opening ever",
+      "body": "From the team behind 'Top Gun: Maverick,' the Apple/Warner Bros. racing epic 'F1' sped to a $55.6M domestic debut and $144M worldwide — the biggest opening weekend of Brad Pitt's entire career. Critics loved it too (Certified Fresh, A on CinemaScore). Pitt plays a washed-up driver lured back for one last shot, with Damson Idris as his hotshot rookie teammate.",
+      "say": "The new Brad Pitt F1 movie just had the biggest opening of his whole career — and people are saying it actually delivers on the big screen. Fitting weekend for it, too.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Warner Bros.)", "url": "https://www.youtube.com/watch?v=CT2_P2DZBR0" },
+        { "kind": "web", "text": "Boxoffice Pro: F1 takes first place", "url": "https://www.boxofficepro.com/weekend-box-office-f1-crosses-the-checkered-for-first-place-finish/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤖",
+      "tag": "Culture · Film",
+      "headline": "'M3GAN 2.0' stalls hard — just $10M and a fourth-place finish",
+      "body": "The killer-doll sequel did not dance its way to a hit. 'M3GAN 2.0' opened to roughly $10M — about a third of the original's debut — landing all the way down in fourth as Brad Pitt's 'F1' lapped the field. The knock from fans: swapping the first film's campy horror for a sci-fi/action vibe took the fun out of it.",
+      "say": "M3GAN 2.0 totally flopped — like a third of what the first one opened to. Guess turning the creepy dancing doll into an action hero wasn't the move.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=IYLHdEzsk1s" },
+        { "kind": "web", "text": "Bloody Disgusting: M3GAN 2.0's $10M crash", "url": "https://bloody-disgusting.com/movie/3886154/m3gan-2-0-crashes-at-the-box-office-with-10-million-opening-what-happened/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Tyler, the Creator finally puts 'SAG HARBOR' and 'THAT GUY' on streaming",
+      "body": "For the past two Christmases, Tyler dropped 'THAT GUY' and 'SAG HARBOR' as surprise one-off videos — and fans have been begging for them ever since. This week he officially released both to Spotify and Apple Music for the first time, so you can finally add them to a playlist instead of hunting down the YouTube clips.",
+      "say": "Tyler, the Creator finally put 'SAG HARBOR' and 'THAT GUY' on streaming — those were the surprise Christmas drops everyone's been wanting for ages. About time.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'SAG HARBOR' official video", "url": "https://www.youtube.com/watch?v=1f_cpXJtlQk" },
+        { "kind": "web", "text": "GRAMMY.com: Tyler's surprise releases", "url": "https://www.grammy.com/news/tyler-the-creator-new-album-dont-tap-glass/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · TV",
+      "headline": "The BET Awards take over L.A. tonight with Druski hosting",
+      "body": "Culture's biggest night airs live tonight from the Peacock Theater in L.A., with comedian Druski hosting for the first time. Cardi B leads all artists with six nominations, with Kendrick Lamar and Mariah the Scientist right behind on five apiece. Expect big performances, bigger fits, and a few viral moments.",
+      "say": "The BET Awards are on tonight — Druski's hosting and Cardi B's up for the most awards. Those shows always have a moment everyone's talking about the next day.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Variety: 2026 BET Awards nominations", "url": "https://variety.com/2026/music/news/bet-awards-2026-nominations-cardi-b-1236753557/" },
+        { "kind": "web", "text": "Essence: see the full nominee list", "url": "https://www.essence.com/entertainment/2026-bet-awards-nomination-list/" }
+      ]
+    }
+  ]
+}
