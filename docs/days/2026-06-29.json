@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-29",
+  "label": "Monday, June 29, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Canada win a World Cup knockout game for the first time ever",
+      "body": "Co-hosts Canada had never won a knockout match at a World Cup — until Stephen Eustáquio chested down a loose ball in the box and lashed a half-volley into the corner in the 92nd minute to beat South Africa 1-0. The stoppage-time stunner sends Jesse Marsch's side into the Round of 16, where they'll face the winner of tonight's Netherlands–Morocco.",
+      "say": "Did you catch Canada's last-gasp winner? Goal in the 92nd minute, and it's the first time they've ever won a knockout game at a World Cup.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: Eustáquio's 92nd-minute winner", "url": "https://www.foxsports.com/watch/fmc-5tlamoqzbtk3j08j" },
+        { "kind": "web", "text": "Sky Sports: South Africa 0-1 Canada report", "url": "https://www.skysports.com/football/south-africa-vs-canada/549838" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Three win-or-go-home World Cup ties today: Brazil, Germany and the Dutch",
+      "body": "The Round of 32 keeps rolling with a loaded Monday slate. Brazil face Japan in the early kickoff, Germany take on Paraguay outside Boston, and the Netherlands meet Morocco in Monterrey to close the night. Three knockouts, three flights home for the losers.",
+      "say": "You watching any of the World Cup knockouts today? Brazil–Japan's the early one, then Germany and the Dutch later.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN: Monday's World Cup live updates", "url": "https://www.espn.com/soccer/story/_/id/49213287/world-cup-2026-today-blog-29-06-2026-live-updates-news-fixtures-schedule-results-canada-brazil-japan" },
+        { "kind": "web", "text": "Olympics.com: every June 29 result", "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-every-match-result-29-june-live-scores" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Wimbledon is back — Sinner, Sabalenka and Djokovic open Centre Court",
+      "body": "The grass-court Slam gets going today in southwest London, with top seeds Jannik Sinner and Aryna Sabalenka and seven-time champ Novak Djokovic all in first-round action. One gut-punch for the hosts: British favourite Emma Raducanu withdrew injured on the eve of play.",
+      "say": "Wimbledon kicked off today — strawberries, all-whites, and Djokovic still chasing more history. Always feels like proper summer when it starts.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Wimbledon: live scores & order of play", "url": "https://www.wimbledon.com/en_GB/scores/" },
+        { "kind": "web", "text": "ESPN: Day 1 live updates", "url": "https://www.espn.com/tennis/story/_/id/49213777/wimbledon-2026-today-blog-29-06-2026-tennis-live-updates-news-fixtures-schedule-results-aryna-sabalenka-jannik-sinner" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Red Sox–Yankees",
+      "headline": "Duran walks it off to finish a four-game Red Sox sweep of the Yankees",
+      "body": "After New York grabbed the lead in the 10th, Boston roared back with three runs — Jarren Duran lining the walk-off single into right to complete a stunning four-game sweep at Fenway. Wild twist: Sonny Gray had carried a no-hitter into the 8th before it slipped away.",
+      "say": "Red Sox swept the Yankees four straight, walk-off on Sunday night. Rough weekend to be a Yankees fan.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com: Duran walks it off (video)", "url": "https://www.mlb.com/redsox/video/duran-walks-it-off-in-red-sox-10th-inning-rally" },
+        { "kind": "web", "text": "Boston Sports Journal: near no-no, then the sweep", "url": "https://www.bostonsportsjournal.com/2026/06/28/sonny-grays-near-no-hitter-jarren-durans-walk-off-complete-red-sox-four-game-sweep-of-yankees" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · League of Legends",
+      "headline": "League of Legends' Mid-Season Invitational is live from South Korea",
+      "body": "The year's first big global League event is underway in Daejeon. T1, Team Liquid, Karmine Corp and the rest of the world's best are grinding through a double-elimination play-in stage, with only one team punching through to the main event.",
+      "say": "MSI's on right now — the big mid-season League of Legends tournament over in Korea. T1's in it, naturally.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Riot Games: MSI live on Twitch", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "Esports.gg: MSI 2026 schedule & teams", "url": "https://esports.gg/news/league-of-legends/lol-msi-2026-format-teams-schedule-results/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Olivia Rodrigo posts the biggest album week of any solo artist this year",
+      "body": "Her third record, 'You Seem Pretty Sad for a Girl So in Love,' is camped at No. 1 on the Billboard 200 — her biggest sales week yet and the year's largest for any solo act. There's even a first-ever guest on a Rodrigo album: Robert Smith of The Cure shows up on a track.",
+      "say": "You hear Olivia Rodrigo's new album? It's the biggest week anyone's had on the charts this year — and there's a random Robert Smith cameo on it.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'stupid song' (official video)", "url": "https://www.youtube.com/watch?v=Rt9tW3cMLhI" },
+        { "kind": "web", "text": "Billboard: Rodrigo's record No. 1 week", "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-number-one-second-week-1236282794/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "The Minions take over Hollywood — 'Minions & Monsters' hits theaters this week",
+      "body": "Illumination's third Minions prequel lands Wednesday, July 1, right in time for the long weekend. The little yellow guys conquer old-timey Hollywood, lose it all, and accidentally unleash a monster apocalypse — pure kid-and-parent matinee fuel from 'Despicable Me' director Pierre Coffin.",
+      "say": "Minions & Monsters opens this week — perfect excuse to take the kids to the movies over the Fourth.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Illumination)", "url": "https://www.youtube.com/watch?v=ZSdOwt-G49w" },
+        { "kind": "web", "text": "AWN: Illumination drops the trailer", "url": "https://www.awn.com/news/cue-mayhem-illumination-drops-minions-monsters-trailer-and-poster" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Bad Bunny becomes the first Latin American artist to headline a UK stadium",
+      "body": "He packed 50,000 fans into London's Tottenham Hotspur Stadium across two sold-out nights — the largest Spanish-language concerts in UK history and a milestone moment on his record-smashing 'DeBÍ TiRAR MáS FOToS' world tour.",
+      "say": "Bad Bunny just sold out two stadium nights in London — first Latin American artist to ever headline a UK stadium. Kind of a huge deal.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'NUEVAYoL' (video oficial)", "url": "https://www.youtube.com/watch?v=KU5V5WZVcVE" },
+        { "kind": "web", "text": "ITV News: a history-making London show", "url": "https://www.itv.com/news/2026-06-28/bad-bunny-becomes-first-artist-from-latin-america-to-headline-a-uk-stadium-show" }
+      ]
+    }
+  ]
+}
