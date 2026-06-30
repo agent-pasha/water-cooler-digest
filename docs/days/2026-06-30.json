@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-30",
+  "label": "Tuesday, June 30, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Penalty chaos: Paraguay bounce Germany and Morocco dump out the Dutch",
+      "body": "Two giants went home on the same night — only the fourth time ever two World Cup shootouts landed on one day. Paraguay drew Germany 1-1 (Havertz cancelling out their opener) then won 4-3 on spot kicks, with Havertz, Woltemade and Tah all missing — Germany's first-ever shootout loss. Hours later, Issa Diop equalised for Morocco in the 91st before they edged the Netherlands 3-2 on penalties.",
+      "say": "Wild night at the World Cup — Germany AND the Netherlands both got knocked out on penalties. Paraguay and Morocco are into the last 16. You catch either shootout?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: Germany–Paraguay highlights", "url": "https://www.foxsports.com/watch/fmc-0r37ac5kizsxwbhg" },
+        { "kind": "web", "text": "FOX Sports: full Netherlands–Morocco penalties", "url": "https://www.foxsports.com/watch/fmc-hmfl6n0wnd0977ih" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🇧🇷",
+      "tag": "Soccer · World Cup",
+      "headline": "Brazil survive a Japan scare on a stoppage-time winner",
+      "body": "It nearly went very wrong for the favourites. Japan led at the break, but Casemiro headed Brazil level after the restart and substitute Gabriel Martinelli poked home the winner deep in stoppage time for a heart-stopping 2-1 escape. Brazil are through to the Round of 16 — but they won't want many more like that.",
+      "say": "Brazil almost got dumped out by Japan — needed a goal in stoppage time to win 2-1. The samba boys are sweating a bit more than they expected.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: Brazil–Japan extended highlights", "url": "https://www.foxsports.com/watch/fmc-zznkeoc6znstr8k7" },
+        { "kind": "web", "text": "NBC Sports: Martinelli's late winner", "url": "https://www.nbcsports.com/soccer/live/brazil-vs-japan-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Tonight: Mexico host Ecuador at the Azteca, plus France–Sweden",
+      "body": "The Round of 32 keeps barreling along. France take on Sweden outside New York (5pm ET), Ivory Coast meet Norway in Dallas, and the nightcap is electric — co-hosts Mexico face Ecuador at the legendary Estadio Azteca in Mexico City (9pm ET). A packed Azteca for a knockout game is about as good as the atmosphere gets.",
+      "say": "Mexico play a World Cup knockout at the Azteca tonight — that place is going to be deafening. France–Sweden's the other big one. You watching any?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Yahoo Sports: today's Round of 32 schedule & live", "url": "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html" },
+        { "kind": "web", "text": "ESPN: World Cup 2026 fixtures & bracket", "url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Sinner survives a bloody-shoe scare — and Serena's back today",
+      "body": "Defending champ Jannik Sinner got pushed to the brink, edging Miomir Kecmanovic 4-6, 6-3, 6-7, 6-2, 6-3 while blood seeped through his shoe (he blamed a nail he 'didn't want to disturb'). Djokovic needed four sets too. Today the big draw is Serena Williams stepping back onto the grass for her first Wimbledon singles match since 2022.",
+      "say": "Sinner nearly went out in the first round at Wimbledon — and he was bleeding through his shoe. Plus Serena's playing singles again today. Should be a fun watch.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN: Wimbledon today — Serena returns", "url": "https://www.espn.com/tennis/story/_/id/49217781/wimbledon-2026-today-30-6-2026-live-updates-news-schedule-results-weather-serena-williams-katie-boulter" },
+        { "kind": "web", "text": "ESPN: Sinner's five-set first-round scare", "url": "https://www.espn.com/tennis/story/_/id/49216730/jannik-sinner-begins-wimbledon-title-defense-5-set-win" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Free Agency",
+      "headline": "Ja Morant traded to Portland as NBA free agency goes wild",
+      "body": "The moves are flying. Memphis sent two-time All-Star Ja Morant to the Trail Blazers for Jerami Grant and Kris Murray — Morant joins a young Portland team that already brought Damian Lillard home. Elsewhere the bag is open: Trae Young got a four-year, $212M max from Washington and Austin Reaves locked in $185M with the Lakers.",
+      "say": "Ja Morant got traded to Portland — and NBA free agency's been nuts, Trae Young got like $212 million. Always fun to see where everyone lands.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "ESPN: Shams breaks down the Morant trade", "url": "https://www.youtube.com/watch?v=Lgdy4bctS-U" },
+        { "kind": "web", "text": "ESPN: Grizzlies trade Morant to Blazers", "url": "https://www.espn.com/nba/story/_/id/49218970/sources-grizzlies-trading-star-ja-morant-trail-blazers" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "'Spider-Man: Brand New Day' trailer becomes the most-watched ever",
+      "body": "Tom Holland's web-slinger is back, and the internet noticed: the new 'Brand New Day' trailer racked up a record 718.6 million views in 24 hours and crossed 1.1 billion within four days — the first movie trailer ever to do that. It picks up with a Peter Parker the world has forgotten, with Mark Ruffalo's Hulk and Jon Bernthal's Punisher along for the ride. In theaters July 31.",
+      "say": "The new Spider-Man trailer broke the all-time record — over a billion views in four days. Tom Holland's back, and apparently the Hulk shows up. You seen it yet?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Spider-Man)", "url": "https://www.youtube.com/watch?v=8TZMtslA3UY" },
+        { "kind": "web", "text": "Variety: most-viewed trailer ever", "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-trailer-tom-holland-hulk-1236735764/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦑",
+      "tag": "Culture · TV",
+      "headline": "'Squid Game' final season smashes Netflix's all-time records",
+      "body": "The send-off landed huge. Season 3 pulled 60.1 million views in its first three days — Netflix's biggest debut ever — and was No. 1 in all 93 countries with a Top 10, a first. Two weeks in it's already at 106.3 million views, shattering the streamer's 10-day record. Turns out everyone wanted to see how Gi-hun's story ends.",
+      "say": "The last season of Squid Game just broke basically every Netflix record there is — No. 1 in all 93 countries at once. Did you binge it yet, or pacing yourself?",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "yt",  "text": "Season 3 official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=zgGTVaG2UiQ" },
+        { "kind": "web", "text": "Deadline: another viewership record", "url": "https://deadline.com/2025/07/squid-game-season-3-premiere-viewership-netflix-1236446846/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👠",
+      "tag": "Culture · Film",
+      "headline": "'The Devil Wears Prada 2' hits digital today",
+      "body": "Missed it in theaters? Meryl Streep's Miranda Priestly is back, and the sequel — which became one of the year's biggest hits ($685M worldwide) — lands on digital download today. Anne Hathaway, Emily Blunt and Stanley Tucci all return for a fashion world now at war with the digital age, complete with a new Lady Gaga and Doechii song.",
+      "say": "Devil Wears Prada 2 is out to rent at home today — Meryl Streep's back as Miranda. Perfect couch-night movie if you skipped it in theaters.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (20th Century Studios)", "url": "https://www.youtube.com/watch?v=Wf3lvCJEIYc" },
+        { "kind": "web", "text": "When & where to watch", "url": "https://www.disneyplus.com/explore/articles/the-devil-wears-prada-2-movie" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💖",
+      "tag": "Culture · TV",
+      "headline": "'Elle,' the 'Legally Blonde' prequel, drops tomorrow",
+      "body": "Bend and snap, the origin story. Prime Video's prequel series 'Elle' lands all eight episodes July 1, rewinding to 1995 to meet a high-school Elle Woods (Lexi Minetree) long before Harvard Law — navigating messy friendships, forbidden romance and very questionable '90s fashion. It's already been renewed for a second season.",
+      "say": "There's a Legally Blonde prequel show coming tomorrow — it's teenage Elle Woods in the '90s. Sounds like a perfectly pink summer binge.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Prime Video)", "url": "https://www.youtube.com/watch?v=6KsT3K5ynrU" },
+        { "kind": "web", "text": "Variety: inside the 'Legally Blonde' prequel", "url": "https://variety.com/2026/tv/news/elle-trailer-legally-blonde-prequel-series-prime-video-1236769998/" }
+      ]
+    }
+  ]
+}
