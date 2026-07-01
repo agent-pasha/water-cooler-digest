@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-01",
+  "label": "Wednesday, July 1, 2026",
+  "items": [
+    {
+      "cat": "us",
+      "emoji": "🇺🇸",
+      "tag": "Soccer · World Cup",
+      "headline": "USMNT's knockout run starts tonight vs. Bosnia",
+      "body": "Win or go home, and it's on home soil. The U.S. begin the World Cup knockouts tonight against Bosnia & Herzegovina at Levi's Stadium in Santa Clara (8pm ET). Pochettino's side cruised through Group D and rested starters in a dead-rubber loss to Türkiye — now Pulisic and the first-choice XI are back and the real tournament begins.",
+      "say": "The U.S. play their first World Cup knockout game tonight — Bosnia, just outside San Francisco. Win and they're through, lose and they're out. You watching?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN: Bosnia vs. USA live", "url": "https://www.espn.com/soccer/match/_/gameId/760494/bosnia-herzegovina-united-states" },
+        { "kind": "web", "text": "Yahoo Sports: USMNT face Bosnia in Round of 32", "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-usmnt-set-to-face-bosnia-and-herzegovina-in-round-of-32-205943100.html" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Mbappé bags a brace as France cruise past Sweden",
+      "body": "France look every bit the favourites. Kylian Mbappé struck twice — the second a gorgeous curler into the far corner — while Michael Olise set up both his goal and Bradley Barcola's in a comfortable 3-0 win. Mbappé's now up to 18 career World Cup goals, closing in on Messi's all-time record, and France roll into the Round of 16 to meet surprise package Paraguay in Philadelphia on Saturday.",
+      "say": "Mbappé scored twice and France looked scary — beat Sweden 3-0 to make the last 16. He's now creeping up on Messi's all-time World Cup goals record.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FOX Sports: France vs. Sweden highlights", "url": "https://www.foxsports.com/watch/fmc-qr66om9ntc12o1s7" },
+        { "kind": "web", "text": "Sky Sports: France 3-0 Sweden report", "url": "https://www.skysports.com/football/news/11095/13558813/world-cup-2026-france-3-0-sweden-kylian-mbappe-and-michael-olise-star-in-dominant-win-to-set-up-paraguay-tie" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🦁",
+      "tag": "Soccer · World Cup",
+      "headline": "England meet debutants DR Congo — Kane chasing more history",
+      "body": "England topped their group and face DR Congo in Atlanta today, a first-ever meeting between the two. Harry Kane already became England's all-time leading World Cup scorer in the group stage, and Jude Bellingham has been buzzing — but DR Congo are into the knockouts for the very first time and won't be pushovers.",
+      "say": "England play DR Congo in the World Cup today — Harry Kane's already their all-time top scorer at these tournaments. Congo made the knockouts for the first time ever, so it could get feisty.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Al Jazeera: England vs. DR Congo preview", "url": "https://www.aljazeera.com/sports/2026/6/30/england-vs-dr-congo-world-cup-round-of-32-kane-match-prediction-lineups" },
+        { "kind": "web", "text": "Sports Illustrated: preview & predictions", "url": "https://www.si.com/soccer/england-vs-dr-congo-world-cup-preview-predictions-lineups-7-1-26" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Wimbledon shocker: top American Ben Shelton bounced in round one",
+      "body": "The grass giveth chaos. Fourth seed Ben Shelton — the top-ranked American man in the draw — was stunned by Finnish qualifier Otto Virtanen in a five-set thriller, even after edging in front late in the deciding tiebreak. It's the biggest upset of the tournament so far, and comfortably the biggest win of Virtanen's career.",
+      "say": "Big Wimbledon upset — Ben Shelton, the top American guy, got knocked out in the first round by a qualifier, and he was ahead late in the final-set tiebreak. Brutal way to lose.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Wimbledon: the deciding-tiebreak finish", "url": "https://www.youtube.com/watch?v=a6HvkxUiuo0" },
+        { "kind": "web", "text": "Yahoo Sports: Shelton falls to Virtanen", "url": "https://sports.yahoo.com/tennis/breaking-news/article/wimbledon-2026-ben-shelton-top-ranked-american-in-tournament-falls-in-first-round-to-finnish-qualifier-otto-virtanen-155745300.html" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "The Tour de France rolls out of Barcelona on Saturday",
+      "body": "Cycling's biggest race begins Saturday with its first-ever Grand Départ in Barcelona, before three weeks and 3,300+ km wind their way to Paris. Tadej Pogačar is the runaway favourite, chasing a record-equalling fifth title, with two-time winner Jonas Vingegaard his main threat — and two summit finishes on the legendary Alpe d'Huez waiting near the end.",
+      "say": "Tour de France kicks off Saturday — starting in Barcelona for the first time ever. Pogačar's going for a fifth win. Perfect background watching for a lazy summer weekend.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NBC Sports: 2026 Tour de France preview", "url": "https://www.nbcsports.com/cycling/news/tour-de-france-2026-preview-tadej-pogacar-jonas-vingegaard-remco-evenepoel" },
+        { "kind": "web", "text": "Olympics.com: the full 2026 route", "url": "https://www.olympics.com/en/news/2026-tour-de-france-route-all-stages-climbs-profiles-maps" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Free Agency",
+      "headline": "LeBron is leaving the Lakers — and the league's holding its breath",
+      "body": "The biggest domino in free agency is on the move: LeBron James reportedly told the Lakers he won't be back for a ninth season in L.A. The Cavaliers, Warriors and Heat are the names being floated for a stunning next chapter — and yes, a homecoming to Cleveland is very much in the conversation. Everyone's waiting to see where the King lands.",
+      "say": "LeBron reportedly told the Lakers he's leaving — people are even talking about a Cavs homecoming. Wild to think about where he ends up. Where's your bet?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "CBS Sports: free agency live updates", "url": "https://www.cbssports.com/nba/news/nba-free-agency-2026-live-updates-trade-rumors-news-june-30/live/" },
+        { "kind": "web", "text": "Yahoo Sports: latest on LeBron's decision", "url": "https://sports.yahoo.com/nba/live/nba-free-agency-news-trade-rumors-contracts-signings-live-updates-lebron-james-kawhi-leonard-jaylen-brown-144958712.html" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "'Young Washington' storms into theaters for the Fourth",
+      "body": "Perfect timing for America's 250th: Angel Studios' historical war epic 'Young Washington' opens Friday, following a young George Washington long before the presidency — a soldier whose single misstep helps spark a global war. Ben Kingsley, Andy Serkis, Kelsey Grammer and Mary-Louise Parker fill out the cast, with Jon Erwin ('Jesus Revolution') directing.",
+      "say": "There's a Young Washington movie opening for the Fourth — George Washington before he was, y'know, George Washington. Feels very on-theme for the 250th.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Angel Studios)", "url": "https://www.youtube.com/watch?v=LJek-kc384w" },
+        { "kind": "web", "text": "Young Washington — official site", "url": "https://www.angel.com/movies/young-washington" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Music",
+      "headline": "Ella Langley's 'Choosin' Texas' is the song of the summer",
+      "body": "Country's breakout star has the year's biggest hit. Ella Langley's 'Choosin' Texas' reclaimed No. 1 on the Hot 100 for the July 4 week and is now the longest-running chart-topper of 2026 with 11 weeks on top. The video's a whole party, too — Luke Grimes, Miranda Lambert and Kaitlin Butts all turn up.",
+      "say": "Ella Langley's 'Choosin' Texas' is basically the song of the summer — the longest-running No. 1 of the year. If you've been to a cookout lately, you've definitely heard it.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Choosin' Texas' official video", "url": "https://www.youtube.com/watch?v=nUsrYVxrDwI" },
+        { "kind": "web", "text": "Billboard Hot 100 No. 1s of 2026", "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎆",
+      "tag": "Culture · Events",
+      "headline": "America turns 250 — the biggest Fourth of July ever",
+      "body": "This isn't just any Fourth. Saturday marks 250 years since the Declaration of Independence, and the country is throwing the largest synchronized July 4 in its history. Highlights: a star-packed 'America's Block Party' in L.A. (Chris Stapleton, Smashing Pumpkins and Chaka Khan, hosted by Queen Latifah), a first-ever Times Square ball drop on July 3, and a huge 'Salute to America' fireworks show on the National Mall.",
+      "say": "It's not just the Fourth — it's America's 250th birthday this weekend, so the celebrations are next-level. There's even a Times Square ball drop for it. Any big plans?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "America250: events & moments", "url": "https://america250.org/" },
+        { "kind": "web", "text": "CNN: unique ways to celebrate the 250th", "url": "https://www.cnn.com/2026/06/26/travel/unique-ways-to-celebrate-america-250" }
+      ]
+    }
+  ]
+}
