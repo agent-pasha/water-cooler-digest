@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-07",
+  "label": "Tuesday, July 7, 2026",
+  "items": [
+    {
+      "cat": "us",
+      "emoji": "🇺🇸",
+      "tag": "Soccer · World Cup",
+      "headline": "Heartbreak in Seattle — USMNT's World Cup ends in a 4-1 loss to Belgium",
+      "body": "So close, then gone. The U.S. dream of a first quarterfinal since 2002 unraveled fast against Belgium. Malik Tillman rifled in a free kick to briefly level it, but Charles De Ketelaere ran the show with two goals and an assist, a goalkeeping slip let Hans Vanaken score from distance, and Romelu Lukaku tapped in a fourth in stoppage time. It finished 4-1, and the home-soil run is over — Belgium march on to face Spain in the quarters.",
+      "say": "Tough night for the U.S. — they got knocked out of the World Cup, 4-1 to Belgium. Tillman scored a beauty, but that was about it. Still, home World Cup, deep into July… not bad. You catch it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "ESPN: USMNT's World Cup dream crushed by Belgium", "url": "https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup" },
+        { "kind": "web", "text": "US Soccer: match recap & highlights vs. Belgium", "url": "https://www.ussoccer.com/stories/2026/07/usmnt/match-recap-highlights-vs-belgium-world-cup-round-of-16" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🐐",
+      "tag": "Soccer · World Cup",
+      "headline": "End of an era — Ronaldo's last World Cup ends as Spain nick it in the 91st",
+      "body": "For 90 minutes Portugal held on, and Cristiano Ronaldo hunted one more moment of magic. It never came. Spanish coach Luis de la Fuente rolled the dice with subs Ferran Torres and Mikel Merino, and deep in stoppage time Torres slipped it across for Merino to finish at the near post — 1-0, and Ronaldo's World Cup story is finally over at 41. Spain move into the quarterfinals to meet Belgium; teenage star Lamine Yamal lives to play another round.",
+      "say": "Spain beat Portugal 1-0 on a goal in literally the 91st minute — which means that's it, Ronaldo's last-ever World Cup. Whatever you think of him, that's the end of a huge era. Kind of a moment.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "ESPN: Ronaldo's World Cup career ends as Spain's subs win it late", "url": "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late" },
+        { "kind": "web", "text": "Olympics.com: Portugal 0-1 Spain — as it happened", "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-portugal-vs-spain-round-16-score-lineups-live-updates" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · British GP",
+      "headline": "Leclerc wins a chaotic British GP — and Hamilton's on the Silverstone podium in red",
+      "body": "Drama all afternoon at Silverstone. Charles Leclerc grabbed his first-ever British Grand Prix win, holding on through a late safety car after Max Verstappen crashed out and Mercedes' Kimi Antonelli hit a car problem. George Russell took second, and the storybook bit: Lewis Hamilton finished third — a home podium in his first season driving for Ferrari, right alongside his new teammate. A proper Ferrari party in front of the British crowd.",
+      "say": "Did you see the British Grand Prix? Leclerc won a wild one, and Lewis Hamilton got a podium at home in the Ferrari — his first year with them. Verstappen crashed out. Great race.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Race Highlights | 2026 British Grand Prix (FORMULA 1)", "url": "https://www.youtube.com/watch?v=rnjmSOUYVp8" },
+        { "kind": "web", "text": "Formula1.com: Leclerc wins dramatic British GP", "url": "https://www.formula1.com/en/latest/article/leclerc-wins-dramatic-british-grand-prix-from-russell-and-hamilton-as-antonelli-suffers-issue.3bGl6laB38GIr1PfxJTNmY" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Wimbledon quarterfinal day — Osaka goes for the semis, and a new women's champ is guaranteed",
+      "body": "The business end of Wimbledon is here. With top seeds Aryna Sabalenka and defending champ Iga Swiatek both already out, there will be a brand-new women's champion — and Naomi Osaka's dream run rolls on today against Karolina Muchova. Coco Gauff has already booked her semifinal spot after edging Jessica Pegula. On the men's side, top seed Jannik Sinner and Novak Djokovic are both in quarterfinal action (with Carlos Alcaraz out injured). Great tennis all day.",
+      "say": "Wimbledon's at the quarterfinals — Osaka's still on this crazy run, Gauff's already in the semis, and since Sabalenka and Swiatek are both gone, there's going to be a first-time women's champ. Fun to follow.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "CBS Sports: Wimbledon 2026 live updates, bracket & results", "url": "https://www.cbssports.com/tennis/news/wimbledon-2026-schedule-bracket-live-updates-results-scores-matches-where-to-watch/live/" },
+        { "kind": "web", "text": "Olympics.com: Tuesday's full order of play", "url": "https://www.olympics.com/en/news/wimbledon-2026-order-of-play-7-july-all-matches-complete-schedule" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Breakaway magic — Mads Pedersen wins stage 4 as a surprise name grabs yellow",
+      "body": "The Pyrenees threw up a curveball. Former world champion Mads Pedersen powered clear to win a sun-baked stage 4 into Foix, while the overall lead swung again — Norway's Torsten Træen slipped into the breakaway and rode himself into the yellow jersey, the third different leader in four days. Pogačar and Vingegaard's big duel is on pause for a day, but with the mountains looming, it won't stay quiet for long.",
+      "say": "The Tour had a fun one — Mads Pedersen won the stage, and this surprise Norwegian guy, Træen, snuck into the yellow jersey. Third different leader in four days. Perfect lazy background watching.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews: former World Champion wins stage 4, new leader takes over", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-4-live-will-tuesdays-heatblasted-trek-through-the-foothills-of-the-pyrenees-favour-a-breakaway-or-another-gc-day/" },
+        { "kind": "web", "text": "Olympics.com: stage results & GC standings", "url": "https://www.olympics.com/en/news/tour-de-france-2026-full-schedule-all-stage-results-classification-standings" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Home Run Derby",
+      "headline": "The Home Run Derby is coming to Netflix — and hometown hero Schwarber is the draw",
+      "body": "Baseball's most fun night gets a new home. For the first time, the T-Mobile Home Run Derby streams exclusively on Netflix (Monday, July 13) from Citizens Bank Park in Philadelphia — and the field is filling in. Rays phenom Junior Caminero is the first name locked in, and all eyes are on Phillies slugger Kyle Schwarber, who leads the majors in home runs and would be swinging in his own backyard. Loud, dumb, glorious fun.",
+      "say": "The Home Run Derby's on Netflix this year — Monday night, from Philly. If Schwarber does it in his home park, that place will lose it. You into the Derby, or just here for the dingers?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "All 30 Kyle Schwarber homers in 2026 so far (MLB)", "url": "https://www.youtube.com/watch?v=z005lvA7iUo" },
+        { "kind": "web", "text": "MLB.com: 2026 Home Run Derby participants & bracket", "url": "https://www.mlb.com/news/2026-mlb-home-run-derby-participants" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏡",
+      "tag": "Culture · TV",
+      "headline": "'Little House on the Prairie' rides again — Netflix's reboot lands Thursday",
+      "body": "A comfort-TV classic gets a fresh coat of paint. Netflix's reimagining of 'Little House on the Prairie' premieres July 9, with newcomer Alice Halsey as young Laura Ingalls and Luke Bracey as Pa. It leans into the epic-survival, origin-of-the-American-West side of the story — and even opens up the perspective to the Osage families already living on the land. A big, sweeping family binge for the weekend.",
+      "say": "Netflix rebooted Little House on the Prairie — new one drops Thursday. Total nostalgia if your family watched the old show. Might be a nice one to put on with the kids.",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "web", "text": "Netflix Tudum: cast, release date & trailer", "url": "https://www.netflix.com/tudum/articles/little-house-on-the-prairie-cast-release-date-news" },
+        { "kind": "web", "text": "Variety: inside the 'Little House' reboot", "url": "https://variety.com/2026/tv/news/little-house-on-the-prairie-trailer-reboot-trailer-netflix-1236720379/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👅",
+      "tag": "Culture · Music",
+      "headline": "The Rolling Stones are back — 'Foreign Tongues' drops Friday, with Paul McCartney guesting",
+      "body": "Still no signs of slowing down. The Rolling Stones release their 25th studio album, 'Foreign Tongues,' on July 10 — produced by hitmaker Andrew Watt, with guest turns from Paul McCartney, Steve Winwood and more, plus a track recorded with the late Charlie Watts. Early reviews are strong, and the singles are already out: the de-aged, effects-filled 'In the Stars' and the swaggering 'Jealous Lover.' Prime crank-it-up material.",
+      "say": "The Rolling Stones have a new album out Friday — their 25th, with Paul McCartney on it, and even a song with Charlie Watts before he passed. Give 'Jealous Lover' a spin, it rips.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Jealous Lover' — official video (The Rolling Stones)", "url": "https://www.youtube.com/watch?v=0IOL-vfkpJM" },
+        { "kind": "web", "text": "Rolling Stone: 'Foreign Tongues' album review", "url": "https://www.rollingstone.com/music/music-album-reviews/rolling-stones-foreign-tongues-album-review-1235573246/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🪚",
+      "tag": "Culture · Film",
+      "headline": "'Evil Dead Burn' brings the chainsaw back to theaters this Friday",
+      "body": "Horror fans, it's your weekend. 'Evil Dead Burn' — the sixth film in the blood-soaked franchise Sam Raimi kicked off — hits theaters July 10, with Raimi producing and Sébastien Vaniček directing. This time a grieving widow retreats to her in-laws' remote family home, where, one by one, the family starts turning into Deadites. It's being billed as a proper gut-punch, so maybe don't bring the kids to this one.",
+      "say": "There's a new Evil Dead movie out Friday — 'Evil Dead Burn.' If you like a good gory horror night, that's your weekend sorted. You a scary-movie person or a nope person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Evil Dead Burn | Official Trailer (Sony Pictures)", "url": "https://www.youtube.com/watch?v=qVk-tcCqcjY" },
+        { "kind": "web", "text": "Variety: 'Evil Dead Burn' trailer & Sam Raimi's return", "url": "https://variety.com/2026/film/news/evil-dead-burn-trailer-sam-raimi-horror-1236735708/" }
+      ]
+    }
+  ]
+}
