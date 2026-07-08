@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-08",
+  "label": "Wednesday, July 8, 2026",
+  "items": [
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Djokovic survives the longest quarterfinal in Wimbledon history — and gets Sinner next",
+      "body": "Five hours and 15 minutes of pure grind. At 39, Novak Djokovic outlasted Félix Auger-Aliassime 7-6(10), 3-6, 6-3, 6-7(4), 7-6(10-4) — the longest quarterfinal ever played at Wimbledon — pushing through a calf issue to reach a record 15th Wimbledon semifinal. The reward is a monster: world No. 1 Jannik Sinner, who eased past Jan-Lennard Struff, waits on Friday in a rematch of last year's semi. Old king vs. new king, one more time.",
+      "say": "Djokovic just won the longest quarterfinal in Wimbledon history — five and a quarter hours at 39 years old. Now he gets Sinner in the semis on Friday. That match is going to be must-watch.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Wimbledon: Djokovic survives longest-ever quarterfinal", "url": "https://www.wimbledon.com/en_GB/news/wimbledon_2026_auger-aliassime_djokovic_qf" },
+        { "kind": "web", "text": "Al Jazeera: Djokovic wins five-hour epic to earn Sinner showdown", "url": "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Osaka's dream run ends — and Wimbledon is guaranteed a first-time champion",
+      "body": "The Cinderella story hit its final chapter. Naomi Osaka's brilliant run — she'd toppled world No. 1 Aryna Sabalenka to reach her first Wimbledon quarterfinal — ended against a red-hot Karolina Muchova, 7-6, 6-4. That sets a wide-open women's final four (Thursday): Coco Gauff vs. Muchova and Marta Kostyuk vs. Linda Noskova. None of them has ever won here, so the All-England Club is certain to crown a brand-new grass-court champion.",
+      "say": "Osaka's Wimbledon run finally ended — lost to Muchova. But the women's side is wide open now: Gauff, Muchova, Kostyuk, Noskova left, and none of them has won it before. Fun to have a first-time champ.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN: Muchova ousts Osaka to reach the semis", "url": "https://www.espn.com/tennis/story/_/id/49297667/karolina-muchova-beats-naomi-osaka-reach-wimbledon-semifinals-face-coco-gauff" },
+        { "kind": "web", "text": "WTA: semifinals preview — a new champion is guaranteed", "url": "https://www.wtatennis.com/news/4532071/wimbledon-semifinals-preview-coco-gauff-karolina-muchova-linda-noskova-marta-kostyuk-a-new-champion-is-guaranteed-but-who-reaches-the-final" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🏆",
+      "tag": "Soccer · World Cup",
+      "headline": "The World Cup quarterfinals are set — and they start Thursday with France vs. Morocco",
+      "body": "The last eight is locked in, and it's stacked. It kicks off Thursday in Boston with holders-in-waiting France taking on the tournament's Cinderella, Morocco. Then Spain face Belgium in L.A. on Friday, and Saturday brings a double-header: England vs. surprise package Norway (and Haaland), plus Lionel Messi's Argentina against Switzerland. Four games, eight teams, four tickets to the semifinals. Pick your couch and settle in.",
+      "say": "World Cup quarterfinals start Thursday — France-Morocco first, then Spain-Belgium, England-Norway and Messi's Argentina vs. Switzerland. Down to the last eight. Who's your pick to win it all?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Olympics.com: quarter-finals full schedule & bracket", "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-bracket-quarter-finals-full-schedule-live-updates" },
+        { "kind": "web", "text": "FOX Sports: the quarterfinal matchups are set", "url": "https://www.foxsports.com/stories/soccer/world-cup-bracket-live-quarterfinals-update-standings" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Dodgers",
+      "headline": "Ohtani joins the 300 club — first Japanese-born player ever to get there",
+      "body": "History in the first inning. Shohei Ohtani led off for the Dodgers by launching his 300th career home run — a 409-foot line drive off the Rockies' Michael Lorenzen — becoming the first Japanese-born player in MLB history to reach 300. He's the fifth-fastest to the mark ever (just 1,102 games) and only the second player to ever hit his 300th as a leadoff shot. And of course, he's doing this while also pitching. Ridiculous.",
+      "say": "Ohtani just hit his 300th career homer — first Japanese-born player ever to do it, and one of the fastest to 300 in history. Oh, and he's a starting pitcher too. The guy's not real.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Ohtani becomes first Japanese-born player to 300 HRs (MLB)", "url": "https://www.youtube.com/watch?v=Nx2HFiyiU6k" },
+        { "kind": "web", "text": "MLB.com: Ohtani hits 300th career home run", "url": "https://www.mlb.com/news/shohei-ohtani-hits-300th-career-home-run" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Blockbuster Trade",
+      "headline": "The Grizzlies blow it up — Ja Morant traded to the Trail Blazers",
+      "body": "Another offseason bombshell. Memphis is sending two-time All-Star Ja Morant — the electric 2020 Rookie of the Year — to Portland for Jerami Grant and Kris Murray, giving one of the league's most exciting guards a fresh start. It caps a stunning teardown: the Grizzlies have now moved all three of their franchise cornerstones (Morant, Desmond Bane and Jaren Jackson Jr.). Portland suddenly has a very crowded, very talented backcourt.",
+      "say": "The Grizzlies traded Ja Morant to Portland — and they've now shipped out all three of their star guys. Total teardown in Memphis. This NBA offseason has been absolute chaos.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NBA.com: Trail Blazers add Ja Morant in trade with Grizzlies", "url": "https://www.nba.com/news/blazers-grizzlies-ja-morant-trade" },
+        { "kind": "web", "text": "ESPN: Grizzlies trade Morant for Grant, Murray", "url": "https://www.espn.com/nba/story/_/id/49218970/sources-grizzlies-trading-star-ja-morant-trail-blazers" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "The sprinters finally get their day — Kooij wins in Pau on his Tour debut",
+      "body": "After a week of mountains and breakaways, the fast men took over. Dutch flyer Olav Kooij stayed ice-cool through a chaotic finale — a crash split the bunch inside the final 5km — before uncorking a devastating late kick to win the first bunch sprint of the 2026 Tour in Pau, and on his very first Tour appearance. Up in the standings, surprise leader Torstein Træen hung on to the yellow jersey for another day.",
+      "say": "The Tour had its first big sprint finish — this Dutch kid Kooij won it in Pau on his Tour debut, right through a crash in the final few K. Great easy background watching this time of year.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cycling Weekly: Kooij wins the first bunch sprint of the Tour", "url": "https://www.cyclingweekly.com/racing/tour-de-france/olav-kooij-wins-the-first-bunch-sprint-finish-on-stage-five-of-the-2026-tour-de-france" },
+        { "kind": "web", "text": "Olympics.com: stage results & GC standings", "url": "https://www.olympics.com/en/news/tour-de-france-2026-full-schedule-all-stage-results-classification-standings" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · TV",
+      "headline": "The Emmy nominations landed — 'Pluribus' and 'The Pitt' lead the pack",
+      "body": "TV's big morning delivered. The 2026 Emmy nominations dropped today, and the forecast held: Apple TV's genre-bending 'Pluribus' (from 'Better Call Saul's' Vince Gilligan) topped everything with a projected 22 nods, with HBO Max's real-time ER drama 'The Pitt' right behind at 21. Comedy is a stacked race — 'The Bear,' 'Hacks,' 'Abbott Elementary' and 'Only Murders in the Building' all in the mix. The ceremony airs Sept. 14. Cue the office snub debates.",
+      "say": "Emmy nominations came out today — Pluribus and The Pitt led the way, and comedy's loaded again with The Bear, Hacks and Abbott Elementary. Always fun to argue the snubs. Which show are you pulling for?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "'The Pitt' official trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=ufR_08V38sQ" },
+        { "kind": "web", "text": "Variety: full list of 2026 Emmy nominees", "url": "https://variety.com/2026/tv/awards/emmy-nominations-2026-1236802863/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌬️",
+      "tag": "Culture · Film",
+      "headline": "Team Avatar is back — 'Avatar Aang: The Last Airbender' drops its first trailer",
+      "body": "Big news for 'Last Airbender' fans: the animated movie continuation just released its first trailer and moved its premiere up to July 25 on Paramount+. It reunites the beloved gang for a new adventure — Aang and friends team up with a surviving airbender to track down an airbending staff and revive the Air Nomads. The voice cast is loaded, with Eric Nam as Aang, Dave Bautista, and Steven Yeun as Zuko. Nostalgia, incoming.",
+      "say": "There's a new animated Avatar: The Last Airbender movie — trailer just dropped and it hits Paramount+ on the 25th. If you grew up on that show, it looks like a proper reunion. You a fan?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Avatar Legends / Paramount+)", "url": "https://www.youtube.com/watch?v=7b20GRFZBFE" },
+        { "kind": "web", "text": "Variety: trailer & new July 25 release date", "url": "https://variety.com/2026/tv/news/avatar-aang-the-last-airbender-release-date-july-trailer-1236802799/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌸",
+      "tag": "Culture · Music",
+      "headline": "Ariana Grande's 'Petal' is nearly here — and the lead single already hit No. 1",
+      "body": "Pop's biggest album of the summer is closing in. Ariana Grande's eighth studio record, 'Petal,' arrives July 31 — her first full album in a while — and the rollout is already flying: the moody lead single 'hate that i made you love me' shot straight to No. 1 on the Billboard Hot 100. She's described the record as being about 'growing through the cracks of something cold and hard.' Expect it to be everywhere by August.",
+      "say": "Ariana Grande's got a new album, 'Petal,' out at the end of the month — her first in a while. The lead single already went No. 1. If you like her stuff, it's shaping up to be the big pop record of the summer.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Billboard: everything we know about 'Petal'", "url": "https://www.billboard.com/lists/ariana-grande-petal-album-details-everything-we-know/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏖️",
+      "tag": "Culture · TV",
+      "headline": "'The Five Star Weekend' — Jennifer Garner's beachy new binge drops all eight episodes Thursday",
+      "body": "Looking for the summer's easy watch? Peacock's 'The Five Star Weekend' releases all eight episodes July 9. Jennifer Garner stars as a cookbook author who — reeling from a sudden tragedy — gathers four women from different chapters of her life for a getaway at a big beach house, where everyone's secrets start bubbling up. Adapted from Elin Hilderbrand's bestseller and stacked with a great ensemble, it's being pitched as a breezy vacation binge.",
+      "say": "There's a new Jennifer Garner show on Peacock, The Five Star Weekend — all eight episodes drop Thursday. Total beachy summer binge. Good one to put on when you want something easy.",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "web", "text": "Peacock: watch the trailer & how to stream", "url": "https://www.peacocktv.com/blog/watch-new-the-five-star-weekend-trailer-jennifer-garner" },
+        { "kind": "web", "text": "The Hollywood Reporter: 'The Five-Star Weekend' review", "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-five-star-weekend-review-peacock-jennifer-garner-1236635492/" }
+      ]
+    }
+  ]
+}
