@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-09",
+  "label": "Thursday, July 9, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "The World Cup quarterfinals are here — France vs. Morocco kicks it all off in Boston tonight",
+      "body": "The last eight begins, and it's a beauty. Holders-in-waiting France take on tournament Cinderella Morocco in Boston — a rematch of their 2022 semifinal, and this time the Atlas Lions arrive as the darlings of the whole tournament after knocking out co-hosts Canada. Win and you're 90 minutes from the final; lose and a magical summer ends. Then the quarters roll on: Spain-Belgium on Friday, and Saturday's monster double of England-Norway and Messi's Argentina vs. Switzerland.",
+      "say": "The World Cup quarterfinals start tonight — France against Morocco in Boston, and Morocco's been the story of the whole thing. Then it's Spain-Belgium and Messi on Saturday. Who's your pick to go all the way?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN: France vs. Morocco quarterfinal live updates", "url": "https://www.espn.com/soccer/story/_/id/49312228/world-cup-2026-today-blog-09-07-2026-live-updates-news-fixtures-schedule-results-france-morocco" },
+        { "kind": "web", "text": "Yahoo Sports: quarterfinal bracket & schedule", "url": "https://sports.yahoo.com/soccer/live/world-cup-bracket-schedule-scores-results-live-updates-quarterfinals-203257966.html" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Muchova saves a match point to sink Gauff — and reaches her first Wimbledon final",
+      "body": "An absolute heart-stopper on Centre Court. Karolina Muchova outlasted Coco Gauff 6-2, 1-6, 7-6(12-10) in a wild swing of a semifinal — she led the third-set tiebreak 6-3, watched Gauff storm back and even hold a match point at 9-8, then somehow steadied herself to close it out and reach the first Wimbledon final of her career. The other half of the draw is settled tonight: Marta Kostyuk vs. Linda Nosková, with both chasing a maiden Grand Slam final. Whoever wins, it'll be a first-time Wimbledon champion Saturday.",
+      "say": "Muchova just beat Coco Gauff in a crazy three-setter to make her first Wimbledon final — she literally saved a match point. And since nobody left has won it before, we're getting a brand-new champ this weekend.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "WTA: Muchova saves match point, outlasts Gauff", "url": "https://www.wtatennis.com/news/4532928/muchova-saves-match-point-outlasts-gauff-in-wimbledon-semifinals" },
+        { "kind": "web", "text": "ESPN: Wimbledon semifinals live updates", "url": "https://www.espn.com/tennis/story/_/id/49313045/wimbledon-2026-today-blog-09-07-2026-live-updates-news-schedule-results-coco-gauff-karolina-muchova-marta-kostyuk-linda-noskova" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Pogačar goes nuclear on the Tourmalet — a 40km solo win and the yellow jersey back",
+      "body": "The Tour hit the high mountains and the champ answered. On the legendary Col du Tourmalet, Tadej Pogačar attacked, dropped everyone, and rode solo for roughly 40km to win Stage 6 — a huge statement that also flipped the whole race, wiping out surprise leader Torstein Træen's cushion and putting Pogačar back in the yellow jersey. Chief rival Jonas Vingegaard came home second but a chunky 2:40 back, so the gap is real. Suddenly this looks less like a duel and more like a coronation in waiting.",
+      "say": "Pogačar just destroyed everyone on the Tourmalet at the Tour — attacked and rode solo for like 40k to win the stage and grab the yellow jersey back. Put nearly three minutes into his big rival. Great lazy-afternoon watching.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "BikeRadar: Pogačar wins Stage 6 on the Tourmalet", "url": "https://www.bikeradar.com/news/tour-de-france-2026-tadej-pogacar-wins-stage-6" },
+        { "kind": "web", "text": "Olympics.com: stage results & GC standings", "url": "https://www.olympics.com/en/news/tour-de-france-2026-full-schedule-all-stage-results-classification-standings" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🍸",
+      "tag": "Culture · Film",
+      "headline": "'The Invite' — the dinner party from hell — opens wide this Friday",
+      "body": "The buzzy A24 comedy grown-ups have been waiting for lands in theaters July 10. Directed by Olivia Wilde (from a Rashida Jones & Will McCormack script), it follows a couple on the rocks — Seth Rogen and Wilde — who invite their impossibly charming upstairs neighbors (Penélope Cruz and Edward Norton) over for dinner, and, well, the night goes very sideways. It was a Sundance hit sitting at a shiny 91% on Rotten Tomatoes, so it's the smart date-night pick this weekend.",
+      "say": "There's a new A24 movie out Friday, The Invite — Seth Rogen and Olivia Wilde have their weird neighbors over for dinner and it all goes off the rails. Cruz and Edward Norton are in it too. Critics are loving it. Good grown-up date-night watch.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Invite | Official Trailer (A24)", "url": "https://www.youtube.com/watch?v=nelkiuezJxg" },
+        { "kind": "web", "text": "Variety: 'The Invite' trailer & release", "url": "https://variety.com/2026/film/news/the-invite-trailer-olivia-wilde-a24-1236709864/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🚀",
+      "tag": "Culture · Film",
+      "headline": "'Project Hail Mary' — the year's first blockbuster — just hit Prime Video",
+      "body": "If you missed the Ryan Gosling space smash in theaters, it's finally streamable. 'Project Hail Mary' — from 'Lego Movie' directors Phil Lord and Chris Miller, adapting Andy Weir's beloved novel — landed on Prime Video this week. Gosling plays a schoolteacher who wakes up alone on a spaceship with no memory, slowly realizing he's humanity's last shot at survival… and that he's not alone out there. It grossed a monster $683M and was the year's first genuine sensation. Perfect couch sci-fi.",
+      "say": "That Ryan Gosling space movie everyone raved about, Project Hail Mary, is on Prime now. He wakes up on a spaceship with no memory and has to save Earth — and there's this alien buddy angle people loved. Great weekend watch if you missed it.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Project Hail Mary | Final Trailer (Amazon MGM Studios)", "url": "https://www.youtube.com/watch?v=P0XN3-n-2Lo" },
+        { "kind": "web", "text": "Wikipedia: Project Hail Mary (film)", "url": "https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Big Brother' hits a milestone tonight — Season 28 kicks off with the show's 1,000th episode",
+      "body": "Summer's guilty-pleasure engine roars back to life. 'Big Brother' Season 28 premieres tonight on CBS with a supersized 90-minute episode — and it's a genuine piece of TV history, becoming the first primetime series ever to hit 1,000 original episodes. This year's twist: a time-travel theme, 'Big Brother: Time Trip,' that whisks the houseguests through rooms and comps inspired by the '80s, Y2K and beyond. Feeds, alliances, chaos — you know the drill.",
+      "say": "Big Brother's back tonight — and this season's premiere is actually the show's 1,000th episode, which is kind of wild. There's a time-travel theme this year. Total easy summer TV. You ever get sucked into it?",
+      "watch": "▶ Worth a watch",
+      "links": [
+        { "kind": "web", "text": "Paramount+: Big Brother 28 — everything to know", "url": "https://www.paramountplus.com/sneak-peak/big-brother-season-28-everything-you-need-to-know/" },
+        { "kind": "web", "text": "TODAY: meet the Season 28 houseguests", "url": "https://www.today.com/popculture/tv/big-brother-cast-2026-season-28-rcna353383" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "My Chemical Romance's 'Danger Days' turns 15 — a big deluxe reissue drops Friday",
+      "body": "Emo nostalgia, incoming. This New Music Friday, My Chemical Romance give their 2010 cult classic 'Danger Days: The True Lives of the Fabulous Killjoys' the full 15th-anniversary deluxe treatment — nine extra tracks pulled from B-sides, the 'Mad Gear & Missile Kid' EP, BBC Radio sessions and live cuts. It's the perfect excuse to blast 'Na Na Na' and 'SING' again, and it'll have the whole office arguing about their emo phase.",
+      "say": "My Chemical Romance are putting out a big 15th-anniversary version of Danger Days on Friday — that's the 'Na Na Na' album. Instant nostalgia if you had an emo phase. Throw it on and tell me it doesn't still rip.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Na Na Na' — Official Music Video (My Chemical Romance)", "url": "https://www.youtube.com/watch?v=egG7fiE89IU" },
+        { "kind": "web", "text": "Wikipedia: Danger Days (album)", "url": "https://en.wikipedia.org/wiki/Danger_Days:_The_True_Lives_of_the_Fabulous_Killjoys" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Future is back — 'The Real Me,' his first solo album in four years, drops Friday",
+      "body": "One of hip-hop's biggest hitmakers ends a long wait. Future releases 'The Real Me' on July 10 — his 10th studio album and his first solo full-length in four years, a sprawling 22-track record led by the colorful single 'Radio.' Billed as a more personal, reflective turn from the Atlanta star, it's already one of the summer's most-anticipated drops. Expect these to be all over the radio and the gym by next week.",
+      "say": "Future's got a new album out Friday, The Real Me — his first solo one in four years, like 22 tracks. Lead single's called 'Radio.' If you're into his stuff, it's a big one. Been a minute since he dropped.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Billboard: Future announces 'The Real Me'", "url": "https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-release-date-radio-single-1236281554/" },
+        { "kind": "web", "text": "Wikipedia: The Real Me (Future album)", "url": "https://en.wikipedia.org/wiki/The_Real_Me_(Future_album)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "The 'Stranger Things' kid can actually play — Finn Wolfhard's second album lands Friday",
+      "body": "Here's a fun one for the office. Finn Wolfhard — yes, Mike from 'Stranger Things' — puts out his sophomore album, 'Fire From the Hip,' this Friday, a jangly, likeable indie-rock record led by the single 'I'll Let You Finish.' He's been quietly building a real music career alongside the acting, and reviews of the early singles have been warm. A nice low-key listen, and a great 'did you know' at the water cooler.",
+      "say": "Did you know the kid from Stranger Things, Finn Wolfhard, has a whole music career? His second album's out Friday and it's actually good — proper indie rock. Fun little fact to drop on someone.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'I'll Let You Finish' — Official Visualizer (Finn Wolfhard)", "url": "https://www.youtube.com/watch?v=bVv3x4wkqjE" },
+        { "kind": "web", "text": "NME: Finn Wolfhard announces 'Fire From the Hip'", "url": "https://www.nme.com/news/music/finn-wolfhard-new-album-fire-from-the-hip-single-ill-let-you-finish-3943174" }
+      ]
+    }
+  ]
+}
