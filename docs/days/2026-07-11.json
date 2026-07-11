@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-11",
+  "label": "Saturday, July 11, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Spain vs. France semifinal is locked in — and two more quarterfinals go tonight",
+      "body": "The last four is taking shape. Spain edged Belgium 2-1 on Friday, settled once again by a late Mikel Merino goal after a sub keeper spilled a routine shot — that came a day after France dispatched Cinderella side Morocco 2-0. So it's Spain vs. France in one semifinal, a rematch of Euro 2024. The bracket finishes filling in tonight: Haaland's Norway take on England (5pm ET), then Messi's Argentina — fresh off a wild comeback run — face stubborn Switzerland (8pm ET).",
+      "say": "World Cup's down to the wire — Spain and France are through to the semis, and tonight it's Haaland's Norway vs. England, then Messi against Switzerland. Who do you like to make the final?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Yahoo Sports: quarterfinals live — Spain-France semi set", "url": "https://sports.yahoo.com/soccer/live/world-cup-bracket-schedule-scores-results-live-updates-quarterfinals-203257966.html" },
+        { "kind": "web", "text": "Al Jazeera: today's quarterfinals — schedule & previews", "url": "https://www.aljazeera.com/sports/2026/7/11/fifa-world-cup-quarterfinals" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Sinner dismisses Djokovic and books a title rematch — plus a historic all-Czech women's final",
+      "body": "It's finals weekend at the All England Club. World No. 1 Jannik Sinner powered past 39-year-old Novak Djokovic in straight sets, 6-4, 6-4, 6-4, barely blinking on serve, to reach Sunday's final against Alexander Zverev — who's chasing the rare 'Channel Slam' after winning the French Open. And on the women's side, Wimbledon is guaranteed a brand-new champion today: it's the first-ever all-Czech Grand Slam final, Karolina Muchova vs. Linda Noskova, with neither having won a major before.",
+      "say": "Wimbledon finals are here — Sinner destroyed Djokovic to set up a final with Zverev on Sunday. And the women's final today is two Czechs, both going for their first-ever Slam. Good weekend for tennis.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Sinner vs. Djokovic — semifinal highlights (Wimbledon)", "url": "https://www.youtube.com/watch?v=N5OguIayQME" },
+        { "kind": "web", "text": "ESPN: Sinner beats Djokovic, will face Zverev for the title", "url": "https://www.espn.com/tennis/story/_/id/49326189/jannik-sinner-beats-novak-djokovic-2026-wimbledon-semifinals-face-alexander-zverev-title" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🦌",
+      "tag": "NBA · Blockbuster Trade",
+      "headline": "The Greek Freak is heading to South Beach — Giannis traded to the Heat",
+      "body": "The domino everyone was waiting on finally fell. After 14 years and a title in Milwaukee, two-time MVP Giannis Antetokounmpo is being traded to the Miami Heat (along with Bobby Portis) for a big haul — Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis and a stack of first-round picks. It pairs Giannis with defensive anchor Bam Adebayo and instantly makes Miami a contender: their title odds jumped almost overnight. It's been an absolutely wild NBA offseason, and this is the biggest one yet.",
+      "say": "Giannis got traded to the Heat — after 14 years in Milwaukee. Him and Bam Adebayo together is scary. This NBA offseason has been total chaos, and that's the biggest domino of them all.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Giannis Antetokounmpo — Top 30 career plays (NBA)", "url": "https://www.youtube.com/watch?v=rp8mc34NztY" },
+        { "kind": "web", "text": "NBA.com: Heat acquire Giannis in blockbuster deal", "url": "https://www.nba.com/news/reports-heat-acquire-giannis-antetokounmpo-in-blockbuster-deal" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Scottish Open",
+      "headline": "Hometown hero Bob MacIntyre is out front at the Scottish Open",
+      "body": "A feel-good leaderboard in Scotland. Local favorite Robert 'Bob' MacIntyre — the pride of Oban — is leading the Genesis Scottish Open at The Renaissance Club, thrilling the home crowd as he chases the title on his own soil. It's also the perfect tune-up: the year's final major, The Open Championship, tees off next week, and a hot links form is exactly what you want heading in. Great lazy-weekend golf to have on in the background.",
+      "say": "The Scottish guy Bob MacIntyre is leading the Scottish Open on home soil right now — crowd's loving it. Nice warm-up too, since The Open, the last major, is next week. Easy weekend watch.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "CBS Sports: 2026 Genesis Scottish Open leaderboard", "url": "https://www.cbssports.com/golf/leaderboard/pga-tour/31000101/genesis-scottish-open/" },
+        { "kind": "web", "text": "PGA Tour: live leaderboard & scores", "url": "https://www.pgatour.com/leaderboard" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Merlier makes it two — back-to-back sprint wins as Pogačar cruises in yellow",
+      "body": "The fast men had their say again. Belgian speedster Tim Merlier timed his kick to perfection in Bergerac to win Stage 8, his second straight bunch-sprint victory of this Tour, after a brave day-long breakaway got reeled in inside the final couple of kilometers. Nothing changed at the top: Tadej Pogačar comfortably kept the yellow jersey on a flat day made for the sprinters. A nice, low-stakes one to have on before the mountains bite again.",
+      "say": "The Tour had another sprint finish — this Belgian guy Merlier won again, two in a row now. Pogačar's still comfortably in yellow. Perfect background watching for a lazy Saturday.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews: Stage 8 live — another bunch sprint in Bergerac", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-2026-stage-8-live/" },
+        { "kind": "web", "text": "Olympics.com: stage results & GC standings", "url": "https://www.olympics.com/en/news/tour-de-france-2026-full-schedule-all-stage-results-classification-standings" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌊",
+      "tag": "Culture · Film",
+      "headline": "Disney's live-action 'Moana' opens soft — a $40M-ish debut and rough reviews",
+      "body": "The remake wave hit a wave of its own. Disney's live-action 'Moana' — with Dwayne Johnson back as Maui — is still expected to top the weekend box office, but the opening number came in light at roughly $40-45M domestically, well below the buzz for a movie with a reported $250M budget. Critics haven't been kind either (a chilly 36% on Rotten Tomatoes). It'll still be the family go-to this weekend — just not the runaway smash Disney hoped for. Cue the 'are we over the remakes?' debate.",
+      "say": "The live-action Moana came out and… kind of flopped — soft opening, rough reviews. Still the kid-friendly pick this weekend, but people are asking if we're all done with these Disney remakes. You over them yet?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Moana | Official Trailer (Disney)", "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo" },
+        { "kind": "web", "text": "Deadline: 'Moana' disappoints with $40M-$45M opening", "url": "https://deadline.com/2026/07/box-office-moana-1236979144/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Teddy Swims drops 'Break Up in Reverse' — and the video is a stunner",
+      "body": "The 'Lose Control' guy is back with a gut-punch. Teddy Swims released 'Break Up in Reverse' this week — a soulful, aching breakup song that isn't about bitterness so much as wishing you could rewind and do it all again. The video is the talking point: it opens on a pile of rubble that a bulldozer slowly reassembles, in reverse, into a warm, memory-filled room. It's the kind of big-voiced ballad that'll be everywhere on the radio, and a solid pick for the drive home.",
+      "say": "Teddy Swims — the huge-voiced 'Lose Control' guy — put out a new song, 'Break Up in Reverse.' The video's really something, this whole rewinding-a-breakup idea. Give it a listen.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Break Up in Reverse' — Official Music Video (Teddy Swims)", "url": "https://www.youtube.com/watch?v=6G4tHJS2iGI" },
+        { "kind": "web", "text": "Rolling Stone: Teddy Swims reflects on heartbreak on new single", "url": "https://www.rollingstone.com/music/music-news/teddy-swims-break-up-in-reverse-single-1235591836/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕵️",
+      "tag": "Culture · TV",
+      "headline": "'Murder 101' — the true-crime docuseries everyone will be talking about — hits Prime Monday",
+      "body": "Your next weekend binge is nearly here. 'Murder 101,' a Prime Video docuseries based on the hit true-crime podcast, drops all three episodes Monday, July 13. The hook is a great one: a high-school teacher and his students in small-town Tennessee take on a real cold case — the decades-old 'Redhead Murders' — as an actual class project, and start turning up leads that stumped the grown-ups. It's from some of the 'Spider-Man' movie producers, and it's built for a one-sitting watch.",
+      "say": "There's a true-crime show coming to Prime Monday, Murder 101 — high schoolers actually reinvestigating a real cold case as a class project. Sounds wild. Perfect if you love that true-crime stuff.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Murder 101 | Official Trailer (Prime Video)", "url": "https://www.youtube.com/watch?v=f9HfLRaR6bM" },
+        { "kind": "web", "text": "FandomWire: everything we know about 'Murder 101'", "url": "https://fandomwire.com/murder-101-everything-we-know-about-prime-video-docuseries/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌸",
+      "tag": "Culture · Music",
+      "headline": "Suki Waterhouse's 'Loveland' is out — and the 'Notting Hill' video is a charmer",
+      "body": "The actress-turned-real-musician keeps leveling up. Suki Waterhouse released her new album 'Loveland' this week — 14 dreamy tracks made with an all-star cast of collaborators, including The National's Aaron Dessner and even Fleetwood Mac's Mick Fleetwood. The lead video, 'Notting Hill,' is a warm love letter to her old London neighborhood, complete with a cheeky nod to the 1999 Julia Roberts movie. A breezy, easy-listening pick — and a fun 'did you know she's a musician now?' at the water cooler.",
+      "say": "Did you know Suki Waterhouse — she's an actress — has a legit music career now? New album's out, and the 'Notting Hill' video is really pretty, little nod to the old Julia Roberts movie. Easy summer listen.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Notting Hill' — Official Music Video (Suki Waterhouse)", "url": "https://www.youtube.com/watch?v=HvUHph2XbLk" },
+        { "kind": "web", "text": "Universal Music: Suki Waterhouse releases new album 'Loveland'", "url": "https://www.universalmusic.ca/2026/07/10/suki-waterhouse-releases-new-album-loveland/" }
+      ]
+    }
+  ]
+}
