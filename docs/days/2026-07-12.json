@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-12",
+  "label": "Sunday, July 12, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "The World Cup is down to the final four — France-Spain and Argentina-England next",
+      "body": "Saturday night finished off the bracket. England edged Haaland's Norway 2-1 in extra time, and Messi's Argentina beat a 10-man Switzerland 3-1 in Kansas City. So the semifinals are set and stacked: France vs. Spain in Dallas on Tuesday — a Euro 2024 rematch — then Lionel Messi's Argentina against England in Atlanta on Wednesday. Four teams left, two games, one spot each in the final.",
+      "say": "World Cup's down to four — England got past Norway in extra time and Messi's Argentina rolled Switzerland. So it's France-Spain Tuesday and Argentina-England Wednesday. Who do you like to make the final?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Yahoo Sports: semifinals bracket, schedule & path to the final", "url": "https://sports.yahoo.com/soccer/article/world-cup-semifinals-bracket-full-schedule-matchups-and-path-to-the-final-164942403.html" },
+        { "kind": "web", "text": "Olympics.com: every Saturday July 11 quarterfinal result", "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-every-match-result-saturday-11-july-live-updates" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "It's Wimbledon final day — Sinner defends his crown against Zverev right now",
+      "body": "The men's final is on this afternoon. Defending champ and world No. 1 Jannik Sinner faces No. 2 Alexander Zverev, who's chasing the rare 'Channel Slam' after winning the French Open. Sinner cruised past Novak Djokovic in the semis and is the heavy favorite, but a Zverev win would be his first-ever major — and complete a dream grass-and-clay double. Great Sunday tennis to have on.",
+      "say": "Wimbledon men's final's on right now — Sinner defending his title against Zverev. Zverev already won the French Open this year, so he's going for that clay-and-grass double. Good one to put on.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN: Wimbledon men's final — live updates", "url": "https://www.espn.com/tennis/story/_/id/49342484/wimbledon-2026-men-final-live-tennis-latest-updates-jannik-sinner-alexander-zverev-news-results-schedule-weather" },
+        { "kind": "web", "text": "Yahoo Sports: Sinner vs. Zverev live score", "url": "https://sports.yahoo.com/tennis/live/wimbledon-mens-final-score-live-updates-as-jannik-sinner-alexander-zverev-face-off-140000546.html" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🏆",
+      "tag": "Tennis · Wimbledon",
+      "headline": "A brand-new champion at the All England Club — Linda Nosková wins an all-Czech final",
+      "body": "Saturday's women's final delivered a maiden Grand Slam champion. 21-year-old Linda Nosková beat countrywoman Karolína Muchová 6-2, 5-7, 6-3 in the first-ever all-Czech Slam final, becoming the youngest Wimbledon women's champion in 15 years. Muchová saved five match points to force a decider, but Nosková steadied herself and closed it out on Centre Court. A great story, and a first title for the young Czech.",
+      "say": "Wimbledon crowned a brand-new women's champ — Linda Nosková, just 21, beat Muchová in an all-Czech final. Youngest winner there in 15 years, and Muchová saved five match points along the way. Wild finish.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Olympics.com: Nosková beats Muchová for the Wimbledon title", "url": "https://www.olympics.com/en/news/wimbledon-2026-womens-singles-final-results-karolina-muchova-linda-noskova" },
+        { "kind": "web", "text": "WTA: everything to know about the all-Czech final", "url": "https://www.wtatennis.com/news/4532779/linda-noskova-vs-karolina-muchova-everything-to-know-about-the-wimbledon-final" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Van der Poel wins a breakaway thriller in Ussel — then the Tour finally rests",
+      "body": "The race dived into the Massif Central and the breakaway held on. Former world champion Mathieu van der Poel timed it to perfection to win Stage 9 in Ussel on a punchy, shortened day, holding off a charging peloton right to the line. Nothing changed at the top — Tadej Pogačar keeps the yellow jersey, with Jonas Vingegaard still 2:42 back — and now the riders get Monday's first rest day before it all kicks off again.",
+      "say": "Mathieu van der Poel won a great breakaway stage at the Tour today in Ussel. Pogačar's still comfortably in yellow, and they finally get a rest day tomorrow. Perfect lazy-Sunday background watching.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews: Stage 9 live — breakaway holds off the bunch in Ussel", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-9-live-the-race-heads-into-the-massif-central-on-a-shortened-day-which-suits-the-breakaway/" },
+        { "kind": "web", "text": "ProCyclingStats: Stage 9 result & standings", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-9/result/result" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Scottish Open",
+      "headline": "A three-way scrap for the Scottish Open — MacIntyre, Fitzpatrick and Min Woo Lee, live today",
+      "body": "The Genesis Scottish Open comes down to a Sunday shootout. Home favorite Bob MacIntyre — the pride of Oban — is tied at the top at 12-under with Matt Fitzpatrick and Min Woo Lee heading into the final round, with last year's champ Chris Gotterup lurking a shot back. It's the perfect last tune-up, too: The Open, the year's final major, tees off next week. Great lazy-afternoon golf to have on.",
+      "say": "The Scottish Open's going down to the wire — Bob MacIntyre's tied for the lead on home soil with Fitzpatrick and Min Woo Lee, final round's on this afternoon. Nice warm-up before The Open next week.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Golf Channel: MacIntyre, Fitzpatrick & Min Woo Lee tied entering Round 4", "url": "https://www.golfchannel.com/pga-tour/news/matt-fitzpatrick-tied-with-robert-macintyre-min-woo-lee-as-final-round-begins-in-scotland" },
+        { "kind": "web", "text": "PGA Tour: live leaderboard & scores", "url": "https://www.pgatour.com/leaderboard" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · All-Star Week",
+      "headline": "Baseball's All-Star week is here — Home Run Derby Monday, Midsummer Classic Tuesday in Philly",
+      "body": "The season hits pause for its big party. The 2026 All-Star rosters are set, and the Midsummer Classic lands Tuesday, July 14 at Citizens Bank Park in Philadelphia (8pm ET, FOX), with the Home Run Derby the night before. The National League lineup is loaded — Shohei Ohtani, Freddie Freeman and Juan Soto all selected to start — and the Philly crowd will be roaring for their own slugger Kyle Schwarber. Peak lazy-summer baseball.",
+      "say": "It's MLB All-Star week — Home Run Derby Monday, then the All-Star Game Tuesday in Philly. Ohtani, Soto and Freeman all starting, and Philly's going to be loud for Schwarber. You into the Derby?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB.com: 2026 All-Star Game rosters announced", "url": "https://www.mlb.com/news/2026-mlb-all-star-game-rosters-announcement" },
+        { "kind": "web", "text": "CBS Sports: full 2026 All-Star rosters unveiled", "url": "https://www.cbssports.com/mlb/news/2026-mlb-all-star-game-rosters-unveiled/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Spidey mania is real — the 'Spider-Man: Brand New Day' trailer is smashing records",
+      "body": "Tom Holland's Spider-Man is on the way back, and the internet can't stop hitting replay. 'Spider-Man: Brand New Day' (in theaters July 31) has been shattering trailer records — an earlier trailer became the first movie trailer ever to cross 1 billion views, and the latest one piled up nearly 600 million in a single week. This time Peter Parker is squaring off with Mark Ruffalo's Hulk, with Zendaya back as MJ. Cue the fan theories.",
+      "say": "Did you see the new Spider-Man: Brand New Day trailer? It's breaking every record — one of them hit a billion views. Tom Holland's back, and this time he's up against the Hulk. Comes out end of the month.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Spider-Man: Brand New Day — Official Trailer", "url": "https://www.youtube.com/watch?v=8TZMtslA3UY" },
+        { "kind": "web", "text": "Deadline: second trailer charts a record near 600M views", "url": "https://deadline.com/2026/06/spider-man-brand-new-day-second-trailer-record-1236968469/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💃",
+      "tag": "Culture · Music",
+      "headline": "Madonna's back on the dance floor — 'Confessions II' lands 21 years later",
+      "body": "The Queen of Pop just returned with 'Confessions II,' a long-awaited sequel to her 2005 dance classic, reuniting with producer Stuart Price. It's earning some of her best reviews in years — near-universal acclaim — and the glitzy new single 'Danceteria' hit radio Friday alongside a star-studded short film. If you loved 'Hung Up,' this is squarely your lane: shimmering, non-stop, made for the drive with the windows down.",
+      "say": "Madonna made a sequel to Confessions on a Dance Floor — like 21 years later — and the reviews are actually great. New single 'Danceteria' just dropped. Total throw-it-on-and-dance record.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'I Feel So Free' — Official Visualizer (Madonna)", "url": "https://www.youtube.com/watch?v=Zx83eVfP64A" },
+        { "kind": "web", "text": "Stereogum: Madonna's 'Confessions II' is here", "url": "https://stereogum.com/2504167/madonnas-confessions-ii-is-here/music" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌙",
+      "tag": "Culture · TV",
+      "headline": "'The Sandman' returns for its final chapter — and it's building to a huge ending",
+      "body": "Neil Gaiman's dark fantasy is wrapping up. 'The Sandman' Season 2 — the show's last — is rolling out on Netflix, with Dream (Tom Sturridge) facing the vengeful Kindly Ones and journeying into Hell to confront Gwendoline Christie's Lucifer. Volume 1 is streaming now; the final batch drops July 24, with a bonus episode to close everything out. A big, gorgeous binge for fantasy fans.",
+      "say": "The Sandman's back for its final season on Netflix — Dream's up against the Kindly Ones and heading down to Hell. It looks stunning. If you're into dark fantasy, that's your next binge.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Sandman: Season 2 — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=Er18gmgqy2k" },
+        { "kind": "web", "text": "Netflix Tudum: Season 2 Vol. 2 trailer & release dates", "url": "https://www.netflix.com/tudum/articles/sandman-new-episodes" }
+      ]
+    }
+  ]
+}
