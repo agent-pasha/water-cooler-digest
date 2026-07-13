@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-13",
+  "label": "Monday, July 13, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🐐",
+      "tag": "Soccer · World Cup",
+      "headline": "The World Cup's final four are the four best teams on the planet — and Messi's chasing history",
+      "body": "For the first time ever, the four top-seeded teams have all reached a World Cup semifinal: No. 1 France, No. 2 Argentina, No. 3 Spain and No. 4 England. It's France vs. Spain in Dallas on Tuesday — a Euro 2024 rematch — then Lionel Messi's Argentina vs. England in Atlanta on Wednesday. France have won all six games and scored 16 goals, but the story is Messi: at 39 he leads the Golden Boot race with eight goals (Jude Bellingham's next on six) and is two wins from a second straight title.",
+      "say": "The World Cup semis are the four best teams in the world — France, Argentina, Spain, England. France-Spain Tuesday, then Messi's Argentina against England Wednesday. Messi's 39 and leading the scoring charts. Who you got?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN: semifinal preview, predictions & odds", "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain" },
+        { "kind": "web", "text": "Yahoo Sports: what we've learned ahead of the semis", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-what-weve-learned-about-argentina-england-france-and-spain-ahead-of-the-semifinals-135625486.html" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Wimbledon",
+      "headline": "Sinner defends his Wimbledon crown — comes back to beat Zverev for a fifth major",
+      "body": "The king of Centre Court stays the king. World No. 1 Jannik Sinner dropped a tight opening set, then flipped the switch to beat Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 on Sunday, defending his Wimbledon title and claiming his fifth Grand Slam at just 24. Zverev, chasing his first-ever major and a rare clay-and-grass 'Channel Slam,' pushed him early but couldn't hold on. Back-to-back Wimbledons — Sinner's not going anywhere.",
+      "say": "Sinner defended his Wimbledon title — lost the first set to Zverev, then just took over. Back-to-back titles and his fifth Slam at 24. Zverev's still chasing his first big one. Great final.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Men's Final: Sinner vs. Zverev — Full Highlights (ESPN)", "url": "https://www.youtube.com/watch?v=pCgcsjn2rP4" },
+        { "kind": "web", "text": "ATP Tour: Sinner defends Wimbledon crown", "url": "https://www.atptour.com/en/news/sinner-zverev-wimbledon-2026-final-sunday" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Scottish Open",
+      "headline": "Tom Kim ends a 1,001-day drought with a closing 64 at the Scottish Open",
+      "body": "A feel-good finish in Scotland. Tom Kim fired a bogey-free 6-under 64 on Sunday to win the Genesis Scottish Open at 17-under, two clear of Min Woo Lee — his first PGA Tour title in 1,001 days (since the fall of 2023). Bob MacIntyre's home charge fell into a share of third. And the timing's perfect: it's the last tune-up before The Open Championship, the year's final major, tees off this week.",
+      "say": "Tom Kim finally won again — closed with a 64 to take the Scottish Open, his first win in almost three years. Nice little redemption story right before The Open this week. Good golf to have had on.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Tom Kim wins first title in 1,001 days — Round 4 (PGA TOUR)", "url": "https://www.youtube.com/watch?v=xdJCv_x6uds" },
+        { "kind": "web", "text": "ESPN: Tom Kim cards 64, wins Scottish Open by 2", "url": "https://www.espn.com/golf/story/_/id/49345329/tom-kim-cards-64-wins-scottish-open-2-min-woo-lee" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Home Run Derby",
+      "headline": "Home Run Derby tonight — and two Phillies are swinging in their own backyard",
+      "body": "Baseball's loudest, dumbest, best night is here. The Home Run Derby goes tonight (8pm ET, streaming on Netflix) at Citizens Bank Park in Philadelphia — and for the first time in the event's 41-year history, two teammates are in the field: Phillies sluggers Kyle Schwarber, who leads the majors with 32 homers, and Bryce Harper, both mashing in front of their own roaring crowd. Last year's runner-up Junior Caminero is in the mix too. Then the All-Star Game follows Tuesday.",
+      "say": "The Home Run Derby's tonight in Philly — and Schwarber and Harper are both in it, in their home park. First time ever two teammates go head-to-head. That crowd's going to be unreal. You watching?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "456 FEET! Schwarber's MLB-leading homer (MLB)", "url": "https://www.youtube.com/watch?v=rp2pRdKl9oA" },
+        { "kind": "web", "text": "MLB.com: Schwarber joins the 2026 Home Run Derby", "url": "https://www.mlb.com/news/kyle-schwarber-joins-2026-home-run-derby" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Blockbuster Trade",
+      "headline": "The Celtics break up their title core — Jaylen Brown swapped for Paul George",
+      "body": "The wildest NBA offseason in memory just became official as the league's free-agency moratorium lifted. The headliner: Boston is sending 2024 Finals MVP Jaylen Brown to the 76ers for Paul George and a haul of draft picks, splitting up the Brown–Jayson Tatum duo that won a title two years ago. In Philly, Brown joins Tyrese Maxey and Joel Embiid to form a scary trio. And that's on top of a summer that already saw Giannis land in Miami and Ja Morant head to Portland.",
+      "say": "The Celtics traded Jaylen Brown — the 2024 Finals MVP — to the Sixers for Paul George. They're breaking up the whole title team. Between this, Giannis to Miami and Morant to Portland, this offseason's been insane.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NBA.com: 4 takeaways from the Brown–George trade", "url": "https://www.nba.com/news/4-takeaways-jaylen-brown-paul-george-trade" },
+        { "kind": "web", "text": "ESPN: grading the Brown–George blockbuster", "url": "https://www.espn.com/nba/story/_/id/49242086/jaylen-brown-philadelphia-76ers-boston-celtics-trade-grades-reaction" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏅",
+      "tag": "Culture · TV",
+      "headline": "The greatest athlete who ever lived? Jim Thorpe's incredible story hits Netflix today",
+      "body": "Here's a great one for sports fans. 'Jim Thorpe: Lit by Lightning' — a LeBron James-produced documentary — lands on Netflix today. Thorpe won Olympic gold in both the decathlon AND pentathlon at the 1912 Games, then played pro football and pro baseball — arguably the most staggering résumé in the history of sports — all while a Native American icon overcoming brutal prejudice. At under 90 minutes, it's a fast, jaw-dropping watch.",
+      "say": "There's a doc on Netflix now about Jim Thorpe — the guy won Olympic gold in the decathlon and pentathlon, then played pro football and baseball. People call him the greatest athlete ever. Wild story, worth a watch.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Jim Thorpe: Lit by Lightning — Official Trailer (HISTORY)", "url": "https://www.youtube.com/watch?v=JdDV9zrSYXs" },
+        { "kind": "web", "text": "HISTORY: about 'Jim Thorpe: Lit by Lightning'", "url": "https://www.history.com/specials/jim-thorpe-lit-by-lightning" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💛",
+      "tag": "Culture · Film",
+      "headline": "'Heartstopper' says goodbye — the finale movie lands Thursday",
+      "body": "The beloved Netflix teen romance is wrapping up as a feature film. 'Heartstopper Forever' streams July 17, sending off Nick and Charlie (Kit Connor and Joe Locke) one last time as Nick heads off to university and the couple faces its biggest test yet: long distance. The trailer, soundtracked by a brand-new Olivia Rodrigo song, has fans already reaching for the tissues. A gentle, sweet binge to close out the week.",
+      "say": "Heartstopper — that huge Netflix romance — is ending with a movie on Thursday. Nick and Charlie one last time. The trailer even has a new Olivia Rodrigo song. If you or the kids loved the show, it's the goodbye.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Heartstopper Forever — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=locuQ-skySE" },
+        { "kind": "web", "text": "Variety: 'Heartstopper Forever' trailer wraps up the love story", "url": "https://variety.com/2026/film/global/heartstopper-forever-trailer-netflix-1236169946/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "The song of the summer? Ella Langley's 'Choosin' Texas' just won't leave No. 1",
+      "body": "If you've had a country tune stuck in your head all summer, this is probably it. Ella Langley's 'Choosin' Texas' is the year's longest-running Billboard Hot 100 No. 1 — twelve weeks on top and counting — making it a real front-runner for song of the summer. The video's a fun one too, with cameos from Miranda Lambert and 'Yellowstone' star Luke Grimes. Perfect windows-down, drive-with-the-family listening.",
+      "say": "That Ella Langley song 'Choosin' Texas' has been No. 1 for like twelve weeks now — it might be THE song of the summer. Miranda Lambert and the Yellowstone guy are in the video. Total roll-the-windows-down track.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Ella Langley — 'Choosin' Texas' (Official Video)", "url": "https://www.youtube.com/watch?v=nUsrYVxrDwI" },
+        { "kind": "web", "text": "Wikipedia: Billboard Hot 100 number ones of 2026", "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Bon Jovi are back — a nine-night MSG run after four years away",
+      "body": "One for the dads. Jon Bon Jovi is back on stage for the first time in four years — following a long recovery from vocal-cord surgery — kicking off the Forever Tour with a nine-show residency at New York's Madison Square Garden this month. Opening night, the Rock & Roll Hall of Famers even threw in a Beatles cover. The MSG run rolls on through July before heading overseas. Cue everyone belting 'Livin' on a Prayer.'",
+      "say": "Bon Jovi are back — first time touring in four years after Jon had vocal surgery. They're doing a nine-night run at the Garden right now. Honestly great news if you grew up on 'Livin' on a Prayer.'",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Bon Jovi — 'Livin' On A Prayer' (Official Video)", "url": "https://www.youtube.com/watch?v=lDK9QqIzhwk" },
+        { "kind": "web", "text": "uDiscover Music: Bon Jovi kick off Forever Tour at MSG", "url": "https://www.udiscovermusic.com/news/bon-jovi-at-msg/" }
+      ]
+    }
+  ]
+}
