@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-14",
+  "label": "Tuesday, July 14, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "It's semifinal day — France vs. Spain, Mbappé vs. Yamal, live this afternoon",
+      "body": "The World Cup reaches the final four today, and the opener is a heavyweight. No. 1 France take on No. 3 Spain in Dallas (3pm ET) — a rematch of the Euro 2024 semifinal — with Kylian Mbappé's France chasing a third straight World Cup final and teenage sensation Lamine Yamal leading a Spain side that hasn't lost all tournament. Win and you're 90 minutes from lifting the trophy. Then it's Messi's Argentina vs. England in Atlanta on Wednesday.",
+      "say": "World Cup semis are here — France against Spain this afternoon, Mbappé versus that Yamal kid. Winner's in the final. Then Messi's Argentina plays England tomorrow. Who you got?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NBC News: Spain vs. France semifinal — live updates", "url": "https://www.nbcnews.com/sports/soccer/live-blog/spain-france-world-cup-2026-july-14-live-updates-rcna587324" },
+        { "kind": "web", "text": "Al Jazeera: two unbeaten teams, one spot in the final", "url": "https://www.aljazeera.com/sports/2026/7/14/france-and-spain-are-unbeaten-at-fifa-world-cup-semifinal-but-only-one-can-make-the-final" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "💥",
+      "tag": "MLB · Home Run Derby",
+      "headline": "Jordan Walker crashes the party — stuns Schwarber in Philly to win the Derby",
+      "body": "What a finish. Cardinals slugger Jordan Walker, in his very first Home Run Derby, walked into the hostile Philadelphia crowd and beat home hero Kyle Schwarber in the final round — down to his last swing and needing three homers to tie, he cranked four to steal it, becoming the first Cardinal ever to win the event. He hit 31 bombs on the night. The crowd booed; Walker just smiled. Now the All-Star Game itself goes tonight (8pm ET, FOX) at Citizens Bank Park, doubling as a 250th-birthday bash for the country.",
+      "say": "Did you catch the Home Run Derby? This Cardinals kid Jordan Walker stunned Schwarber in his own park — needed three on his last swing and hit four. Crowd hated it. All-Star Game's tonight now. You watching?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "EVERY HR from Jordan Walker's Derby win (ESPN MLB)", "url": "https://www.youtube.com/watch?v=KeN0VJ4IB-4" },
+        { "kind": "web", "text": "CBS Sports: Walker takes down Schwarber to win the Derby", "url": "https://www.cbssports.com/mlb/news/2026-mlb-home-run-derby-results-live-updates/live/" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Pogačar's Bastille Day statement — a solo win at Le Lioran and a bigger lead",
+      "body": "On France's biggest day, the man in yellow put on a show. Tadej Pogačar attacked in the Massif Central, reeled in lone leader Richard Carapaz and rode straight past him for a solo victory at Le Lioran — his third stage win of this Tour. Remco Evenepoel came home 32 seconds back. Up top, Pogačar now leads chief rival Jonas Vingegaard by 3:36, and this is starting to look less like a duel and more like a march to Paris. Perfect lazy-afternoon background watching.",
+      "say": "Pogačar won again at the Tour — solo on Bastille Day, caught the leader and just rode away. His third stage win, and he's over three and a half minutes clear now. Kind of running away with it.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cycling Up To Date: Pogačar takes solo win at Le Lioran", "url": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-10-tadej-pogacar-takes-solo-win-on-le-lioran-as-isaac-del-toro-loses-time-in-podium-fight" },
+        { "kind": "web", "text": "ProCyclingStats: Stage 10 result & standings", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-10/result/result" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · The Open",
+      "headline": "Golf's oldest major is next — The Open tees off Thursday at Royal Birkdale",
+      "body": "The year's final major is here. The 154th Open Championship starts Thursday at Royal Birkdale on England's northwest coast, and the field is absolutely loaded: all 50 of the world's top-50 players are in, part of a 156-man lineup chasing the Claret Jug. Expect wind, deep pot bunkers and links golf at its most unpredictable — Scottish Open winner Tom Kim arrives red-hot, and everyone's wondering if a first-time major champ or an old hand takes it. Great early-morning weekend viewing.",
+      "say": "The Open — the last golf major of the year — starts Thursday over in England at Royal Birkdale. Whole top 50's playing. Links golf, big wind, always a bit of chaos. Good weekend to have it on with coffee.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "The Open: the 154th Open at Royal Birkdale", "url": "https://www.theopen.com/royal-birkdale-154th-open" },
+        { "kind": "web", "text": "PGA Tour: nine things to know about Royal Birkdale", "url": "https://www.pgatour.com/article/news/needtoknow/2026/07/12/nine-things-to-know-royal-birkdale-major-2026-british-open-championship-scotland-history-stats" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏛️",
+      "tag": "Culture · Film",
+      "headline": "Christopher Nolan's 'The Odyssey' finally sets sail this Friday",
+      "body": "The movie event of the summer lands July 17. Christopher Nolan tackles Homer's ancient epic with a stacked cast — Matt Damon as the war-weary Odysseus, Anne Hathaway as Penelope, plus Tom Holland, Zendaya, Robert Pattinson and Charlize Theron — all shot on brand-new IMAX film cameras. It's a mythic, ten-year voyage home through monsters and gods, and early buzz says it's a big-screen spectacle worth seeing as huge as you can. Cue the 'we have to see it in IMAX' group text.",
+      "say": "The new Christopher Nolan movie, The Odyssey, comes out Friday — Matt Damon as Odysseus, huge cast, all shot in IMAX. Supposed to be the see-it-on-the-biggest-screen kind of movie. You into Nolan's stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Odyssey — Official New Trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI" },
+        { "kind": "web", "text": "Wikipedia: The Odyssey (2026 film)", "url": "https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏈",
+      "tag": "Culture · TV",
+      "headline": "'Quarterback' is back — Netflix's NFL docuseries returns today with a new QB4",
+      "body": "The binge that turns non-football fans into film-room nerds drops its third season on Netflix today. This year's cast of mic'd-up quarterbacks is a great mix: rising star Jayden Daniels, journeyman-turned-folk-hero Joe Flacco, Baker Mayfield and rookie No. 1 pick Cam Ward — followed through the whole 2025 NFL season, on the field and at home with injuries, trades and new babies. It's the perfect pre-season appetizer with real football still weeks away.",
+      "say": "New season of Quarterback just hit Netflix — Jayden Daniels, Baker Mayfield, Joe Flacco, Cam Ward all mic'd up. Great watch even if you're not a huge football person. Gets you ready for the season.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Quarterback: Season 3 — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=rydp5C5QsPQ" },
+        { "kind": "web", "text": "Netflix Tudum: the Season 3 quarterbacks & release date", "url": "https://www.netflix.com/tudum/articles/quarterback-season-3-players-release-date" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "The World Cup is getting a Super Bowl-style halftime show — and the lineup is nuts",
+      "body": "Soccer meets the Super Bowl. For the first time ever, the World Cup Final (Sunday, July 19 at MetLife Stadium) will have a full halftime show, curated by Coldplay's Chris Martin — and the guest list is jaw-dropping: Madonna, Shakira with Burna Boy, BTS, Justin Bieber, conductor Gustavo Dudamel, the PS22 Chorus, and even Kermit and the Muppets. Produced by Global Citizen to raise money for kids' education, it's pitched as a giant, everyone's-invited singalong. Even if the game's a blowout, the break won't be.",
+      "say": "Did you hear the World Cup Final's getting a halftime show like the Super Bowl? Coldplay's putting it together, and it's Madonna, BTS, Shakira, Bieber… and the Muppets. Sunday. That's going to be wild.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sports Illustrated: the full halftime-show lineup", "url": "https://www.si.com/soccer/fifa-announce-2026-world-cup-final-halftime-show-headliners-full-details" },
+        { "kind": "web", "text": "Global Citizen: a World Cup halftime show like no other", "url": "https://www.globalcitizen.org/en/events-broadcasts/fifa-world-cup-final-half-time-show/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔮",
+      "tag": "Culture · Family",
+      "headline": "One for the kids — 'Descendants: Wicked Wonderland' tumbles down the rabbit hole",
+      "body": "The tween-favorite musical franchise is back with an 'Alice in Wonderland' twist. 'Descendants: Wicked Wonderland' premieres on Disney Channel on Wednesday (July 16) and hits Disney+ the next day. When a villain traps the Queen of Hearts, teen heroes Red and Chloe rally a band of unlikely allies to save Wonderland — expect the usual bright colors, big musical numbers and plenty of chaos. If you've got kids of a certain age, this'll be on repeat all week.",
+      "say": "If you've got kids, heads up — the new Descendants movie, Wicked Wonderland, is out this week on Disney Channel and Disney+. It's the Alice in Wonderland one. Catchy songs, the whole deal. Total kid magnet.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Descendants: Wicked Wonderland — Official Trailer (Disney)", "url": "https://www.youtube.com/watch?v=0Gg7x3xBqBU" },
+        { "kind": "web", "text": "The Hollywood Reporter: 2026 TV premiere calendar", "url": "https://www.hollywoodreporter.com/lists/2026-tv-premiere-dates-calendar/" }
+      ]
+    }
+  ]
+}
