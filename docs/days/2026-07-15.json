@@ -1,0 +1,119 @@
+{
+  "date": "2026-07-15",
+  "label": "Wednesday, July 15, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "Spain punch the first ticket to Sunday's final — 2-0 over France",
+      "body": "La Roja shut down Mbappé and France in Dallas. Oyarzabal buried a first-half penalty after Yamal drew the foul, and Pedro Porro slotted the second. Spain now waits on tonight's winner.",
+      "say": "Did you catch Spain? They completely smothered Mbappé — they look scary good heading into the final.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FIFA · Match report & highlights", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/france-spain-match-report-highlights" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🇦🇷",
+      "tag": "Soccer · World Cup",
+      "headline": "Messi vs. England — for the very first time — with a final spot on the line tonight",
+      "body": "The other semifinal is this afternoon in Atlanta, and it's a doozy: in 21 years for Argentina, Messi has somehow never played England. Winner takes on Spain on Sunday.",
+      "say": "Argentina-England is on this afternoon — wild that Messi's never actually faced England before. You watching?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Al Jazeera · Preview & how to watch", "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-england-world-cup-semifinal-messi-kane-prediction-time" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Summer League",
+      "headline": "Cooper Flagg's pro debut — the No. 1 pick edges Bronny in Vegas",
+      "body": "The Mavs' rookie phenom had a rocky shooting night (10 pts on 5-of-21) but stuffed the stat sheet and made the winning plays, beating Bronny James's Lakers 87-85 in front of a packed house.",
+      "say": "Cooper Flagg made his Summer League debut against Bronny — messy shooting, but you can see why everyone's hyped.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NBA.com · Flagg's pro debut", "url": "https://www.nba.com/news/mavericks-cooper-flagg-makes-pro-debut-nba-2k26-summer-league" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · All-Star Game",
+      "headline": "AL blanks the NL 4-0 in Philly — Bellinger takes home MVP",
+      "body": "Eleven AL pitchers combined for a three-hit shutout — the first All-Star shutout since 2013 — and the Yankees' Cody Bellinger drove in the game's only runs with a two-run single in the first.",
+      "say": "The All-Star Game was a pitching clinic — a shutout, and Bellinger grabbed MVP. First one since 2013.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Bellinger's All-Star MVP moment", "url": "https://www.youtube.com/watch?v=qIYkcJ75bqc" },
+        { "kind": "web", "text": "MLB.com · Condensed game", "url": "https://www.mlb.com/video/condensed-game-2026-all-star-game" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Last to first: Wærenskjold wins the fastest road stage in Tour history",
+      "body": "A day after finishing dead last at Le Lioran, Søren Wærenskjold slingshotted through the bunch to win Stage 11 in Nevers at a blistering 50.9 kph — a new record. Pogačar keeps the yellow jersey.",
+      "say": "This cyclist went from dead last one day to winning the fastest stage in Tour history the next — it's a great story.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cycling Weekly · Stage 11 report", "url": "https://www.cyclingweekly.com/racing/tour-de-france/soren-waerenskjold-powers-to-victory-in-record-breaking-tour-de-france-stage-11" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Gracie Abrams drops 'Daughter From Hell' this Friday",
+      "body": "The pop breakout's third album lands July 17 — 16 tracks made with Aaron Dessner, teed up by singles 'Hit the Wall' and the road-trip-in-a-hot-air-balloon video for 'Look at My Life.'",
+      "say": "Gracie Abrams has a new album Friday — that 'Look at My Life' video with the hot air balloon is a whole vibe.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Look at My Life (Official Video)", "url": "https://www.youtube.com/watch?v=2YSnCqHXMGY" },
+        { "kind": "web", "text": "Rolling Stone · Tracklist", "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-track-list-1235579647/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "⛳",
+      "tag": "Culture · TV",
+      "headline": "Will Ferrell chases one last major in Netflix's 'The Hawk'",
+      "body": "Ferrell's first TV comedy drops Thursday: he plays washed-up golf pro Lonnie 'The Hawk' Hawkins, dragging his ex (Molly Shannon), caddie (Fortune Feimster) and rival son (Jimmy Tatro) into the chaos.",
+      "say": "Will Ferrell's playing a washed-up golf pro in a new Netflix show — the trailer alone had me.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Hawk · Official Trailer", "url": "https://www.youtube.com/watch?v=sSRJ6PXHx88" },
+        { "kind": "web", "text": "Netflix Tudum", "url": "https://www.netflix.com/tudum/articles/the-hawk-trailer" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎆",
+      "tag": "Culture · Festival",
+      "headline": "Tomorrowland lights up Belgium this weekend",
+      "body": "The world's biggest EDM festival is back in Boom, Belgium starting Friday — David Guetta, Martin Garrix and Calvin Harris headline. Can't make the trip? The livestream is basically its own event.",
+      "say": "Tomorrowland kicks off this weekend — even the livestream looks unreal. Have you ever wanted to go?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Tomorrowland Belgium 2026 · Trailer", "url": "https://www.youtube.com/watch?v=580jJIsv0r8" },
+        { "kind": "web", "text": "Music Festival Wizard · July 2026", "url": "https://www.musicfestivalwizard.com/festival-month/july-2026/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💍",
+      "tag": "Culture · TV",
+      "headline": "'The Ultimatum: Marry or Move On' is back for Season 4 today",
+      "body": "Nick and Vanessa Lachey return as six couples who can't agree on marriage swap partners for the ultimate reality-TV pressure cooker. New episodes hit Netflix today.",
+      "say": "New season of The Ultimatum is out — it's trashy in the best way. Perfect summer background TV.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Season 4 · Official Trailer", "url": "https://www.youtube.com/watch?v=5PJbRJIcWKg" },
+        { "kind": "web", "text": "Netflix Tudum", "url": "https://www.netflix.com/tudum/articles/the-ultimatum-marry-or-move-on-season-4-release-date-news" }
+      ]
+    }
+  ]
+}
