@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-16",
+  "label": "Thursday, July 16, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🇦🇷",
+      "tag": "Soccer · World Cup",
+      "headline": "Messi drags Argentina back from the brink — 2-1 over England sets up a Spain final",
+      "body": "England looked headed to the final after Anthony Gordon's second-half goal, but Argentina struck twice in the last six minutes — Enzo Fernández in the 85th and a Lautaro Martínez header in stoppage time — both teed up by Lionel Messi, who dedicated the win to Diego Maradona. So it's Argentina vs. Spain in Sunday's final at MetLife.",
+      "say": "Argentina did it again — down to England late, then two goals in six minutes, both set up by Messi. It's Argentina-Spain in the final Sunday. Who you got?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "FIFA · Match highlights & report", "url": "https://www.fifa.com/en/match-centre/match/17/285023/289290/400021540?date=2026-07-15" },
+        { "kind": "web", "text": "NPR · Argentina's late comeback stuns England", "url": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · The Open",
+      "headline": "The Open is underway at Royal Birkdale — surprise names out front, Scheffler lurking",
+      "body": "The year's final major teed off Thursday on England's northwest coast. Englishman Dan Brown and South Korea's Sungjae Im share the early lead at 4-under 66, while world No. 1 Scottie Scheffler opened with a 68. Cue three more days of wind, pot bunkers and links-golf chaos.",
+      "say": "The Open started today at Royal Birkdale — Dan Brown and Sungjae Im out front, Scheffler right behind. Perfect weekend to have golf on with the coffee.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN · Best sights, sounds & shots from Round 1", "url": "https://www.espn.com/golf/story/_/id/49366410/open-championship-2026-first-round-sights-sounds-best-shots" },
+        { "kind": "web", "text": "PGA Tour · Round 1 live updates", "url": "https://www.pgatour.com/article/news/latest/2026/07/16/british-open-championship-live-updates-royal-birkdale-scores-tee-times-rory-mcilroy-scottie-scheffler" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Merlier makes it a hat-trick — a third bunch-sprint win at the Tour",
+      "body": "On a rainy, twitchy run into Chalon-sur-Saône, Belgian speedster Tim Merlier timed his kick to perfection again to win Stage 12 — his third sprint victory of this Tour. Nothing changed up top: Tadej Pogačar rolls on in the yellow jersey, still marching toward Paris.",
+      "say": "That Belgian sprinter Merlier won another Tour stage — three now. Pogačar's still cruising in yellow. Easy lazy-afternoon background watch.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ProCyclingStats · Stage 12 result & standings", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-12/result/result" },
+        { "kind": "web", "text": "CyclingStage · Tour de France 2026 results", "url": "https://www.cyclingstage.com/tour-de-france-2026-results/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · All-Star",
+      "headline": "The WNBA All-Star teams are set — Caitlin Clark and A'ja Wilson headline the draft",
+      "body": "Rosters for the July 25 All-Star Game in Chicago are locked. Legends Cynthia Cooper and Teresa Weatherspoon drafted the squads, landing Caitlin Clark and A'ja Wilson on one side and Paige Bueckers and Breanna Stewart on the other. Tip-off is a week from Saturday on ABC.",
+      "say": "WNBA All-Star teams just got drafted — Caitlin Clark and A'ja Wilson on one squad, Paige Bueckers and Stewart on the other. Game's the 25th in Chicago.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "WNBA.com · All-Star 2026", "url": "https://www.wnba.com/allstar/2026" },
+        { "kind": "web", "text": "CBS Sports · All-Star draft results", "url": "https://www.cbssports.com/wnba/news/2026-wnba-all-star-draft-caitlin-clark-paige-bueckers/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Second Half",
+      "headline": "Baseball's back Friday — and it opens with Dodgers-Yankees in the Bronx",
+      "body": "The All-Star break is over and the second half starts Friday with a World Series-flavored series: the Dodgers visit the Yankees. Shohei Ohtani is set to return as DH after having fluid drained from his knee, while Aaron Judge is still out with a fractured rib. And a loaded Aug. 3 trade deadline is looming over everything.",
+      "say": "Baseball's back Friday — and it's Dodgers-Yankees in the Bronx right off the bat. Ohtani's back, Judge is still hurt, and the trade deadline drama's coming. You following the races?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Yahoo Sports · Biggest second-half storylines", "url": "https://sports.yahoo.com/articles/aaron-judge-status-dodgers-three-021952702.html" },
+        { "kind": "web", "text": "CBS Sports · Bold second-half predictions", "url": "https://www.cbssports.com/mlb/news/mlb-second-half-bold-predictions-shohei-ohtani-no-hitter-tarik-skubal-trade-aaron-judge-home-runs/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏛️",
+      "tag": "Culture · Film",
+      "headline": "It's here: Nolan's 'The Odyssey' hits theaters — and the reactions are huge",
+      "body": "The movie event of the summer arrives this weekend, and the first reactions are in: critics and early audiences are calling Christopher Nolan's IMAX-shot epic a genuine big-screen spectacle, with Matt Damon as Odysseus leading a stacked cast. It's tracking for one of the biggest openings of the year. Cue the 'we have to see it in IMAX' group text.",
+      "say": "Nolan's Odyssey is finally out this weekend and the early reactions are wild — sounds like a see-it-on-the-biggest-screen kind of movie. You in for IMAX?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Odyssey — Official Trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI" },
+        { "kind": "web", "text": "Wikipedia · The Odyssey (2026 film)", "url": "https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐉",
+      "tag": "Culture · TV",
+      "headline": "'House of the Dragon' is mid-war — and Sunday's episode is a big one",
+      "body": "HBO's Targaryen epic is deep into its third season and it's a monster again — the premiere drew 21.5 million viewers. The dragons-vs-dragons civil war is in full swing, with Episode 5 landing this Sunday on HBO Max. If you fell off, now's a great weekend to catch up.",
+      "say": "You keeping up with House of the Dragon? It's full-on dragon war this season, new episode Sunday. Might be the biggest show on TV right now.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "House of the Dragon S3 — Official Final Trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=0JlMjgqduVw" },
+        { "kind": "web", "text": "Wikipedia · House of the Dragon season 3", "url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_3" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The Rolling Stones are back — 'Foreign Tongues' is racing to No. 1",
+      "body": "The Stones just dropped their 25th studio album, 'Foreign Tongues,' to some of their best reviews in years — and it's charging up the charts. Paul McCartney plays bass on a track, Bruno Mars guests, and there's even a song recorded with the late Charlie Watts. Lead single 'In the Stars' is the easy way in.",
+      "say": "The Rolling Stones put out a new album and it's actually getting great reviews — Paul McCartney's even on it. Wild that they're still going. Give 'In the Stars' a spin.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "The Rolling Stones — 'In the Stars' (Official Video)", "url": "https://www.youtube.com/watch?v=oT5LwwEHgnc" },
+        { "kind": "web", "text": "Official Charts · 'Foreign Tongues' racing to No. 1", "url": "https://www.officialcharts.com/chart-news/the-rolling-stones-foreign-tongues-number-1-album-midweek/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "The song you'll hear all weekend — Shakira & Burna Boy's World Cup anthem 'Dai Dai'",
+      "body": "With the final on Sunday, the official 2026 World Cup anthem 'Dai Dai' — Shakira teaming up with Burna Boy — is absolutely everywhere. The Miami-shot video even opens with cameos from Messi, Mbappé and Haaland. Perfect windows-down, get-hyped-for-the-final track.",
+      "say": "That World Cup song 'Dai Dai' by Shakira and Burna Boy is everywhere right now — good hype music heading into Sunday's final. Have you heard it?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Shakira, Burna Boy — 'Dai Dai' (Official Video)", "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk" },
+        { "kind": "web", "text": "FIFA · The official World Cup 2026 song", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/shakira-and-burna-boy-dai-dai-the-official-song" }
+      ]
+    }
+  ]
+}
