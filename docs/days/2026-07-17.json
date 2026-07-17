@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-17",
+  "label": "Friday, July 17, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🏆",
+      "tag": "Soccer · World Cup",
+      "headline": "Two days to the final — and Spain, not Messi, are the favorites",
+      "body": "The World Cup final is Sunday at MetLife (3pm ET), and the buildup has a twist: Spain are the betting favorites, not Messi's Argentina. Spain have conceded exactly once all tournament and keeper Unai Simón owns a record six clean sheets. Argentina are chasing history too — no team has repeated as champions since Brazil in 1962 — and it's almost certainly 39-year-old Messi's last World Cup match. Cue the 19-year-old Yamal vs. the GOAT storyline.",
+      "say": "The World Cup final's Sunday and here's the wild part — Spain are actually favored over Messi's Argentina. It's probably Messi's last World Cup game ever. Nineteen-year-old Yamal on the other side. Who you got?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN · Final preview, predictions & odds", "url": "https://www.espn.com/soccer/story/_/id/49370934/fifa-world-cup-final-argentina-vs-spain-need-know-predictions-odds" },
+        { "kind": "web", "text": "NBC · Argentina-Spain key players & preview", "url": "https://www.nbcnewyork.com/world-cup/argentina-spain-final-preview-messi-yamal/6526274/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · The Open",
+      "headline": "History at Royal Birkdale — Herbert and Burns fire 62s, tying the major record",
+      "body": "Friday belonged to two low rounds for the ages. Australia's Lucas Herbert shot an 8-under 62 — his front-nine 28 is the lowest nine-hole score in Open Championship history — and Sam Burns matched the 62 soon after, both tying the all-time major record of 62. It blew the leaderboard wide open heading into the weekend, with Scottie Scheffler and Rory McIlroy lurking a few back.",
+      "say": "Two guys shot 62 at The Open today — that ties the lowest round in major history, ever. One of them had a 28 on the front nine. Golf's going to be must-watch this weekend. You following it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Yahoo Sports · Herbert & Burns tie the record 62", "url": "https://sports.yahoo.com/golf/live/the-open-championship-friday-live-updates-leaderboard-lucas-herbert-is-on-an-all-time-heater-051615354.html" },
+        { "kind": "web", "text": "PGA Tour · Round 2 live updates & leaderboard", "url": "https://www.pgatour.com/article/news/latest/2026/07/17/british-open-championship-live-round-2-friday-updates-cut-royal-birkdale-scores-tee-times-rory-mcilroy-scottie-scheffler" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Breakaway thriller in the Vosges — Mauro Schmid outsprints Tejada for Stage 13",
+      "body": "The Tour hit the Vosges mountains and the breakaway held. Switzerland's Mauro Schmid slipped clear with Colombian Harold Tejada inside the final 16 km and then out-kicked him to the line in Belfort for his first win of this Tour. Nothing shifted up top — Tadej Pogačar keeps rolling in the yellow jersey. Perfect lazy-afternoon background watch.",
+      "say": "Another great breakaway day at the Tour — this Swiss guy Schmid won the sprint into Belfort. Pogačar's still cruising in yellow. Easy one to have on in the background.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ProCyclingStats · Stage 13 result & standings", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-13/result/result" },
+        { "kind": "web", "text": "Cyclingnews · Stage 13 as it happened", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-13-live-chance-for-breakaway-success-as-race-heads-into-the-vosges/" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Belgian GP",
+      "headline": "F1 is back from break — and it's the Spa spectacle this weekend",
+      "body": "Formula 1 returns this weekend at Spa-Francorchamps, the drivers' favorite track on the calendar — a huge, sweeping, often-rainy rollercoaster through the Ardennes forest with the legendary Eau Rouge–Raidillon climb. Qualifying is Saturday, the race Sunday at 9am ET. If you're going to watch one Grand Prix all year, this is the one.",
+      "say": "F1's back this weekend at Spa — it's the drivers' favorite track, this huge rollercoaster in the forest. Race is Sunday morning. Even if you're not a big F1 person, Spa's the fun one.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Formula 1 · 2026 Belgian Grand Prix", "url": "https://www.formula1.com/en/racing/2026/belgium" },
+        { "kind": "web", "text": "Formula 1 · What time is the race & how to watch", "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-belgian-grand-prix-and-how-can-i-watch-it.2tkW6m4Z9v4nsrUhAwcwWj" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "Two ex-champs collide — Du Plessis vs. Usman headlines UFC Oklahoma City",
+      "body": "Saturday night's main event is a proper heavyweight-of-résumés clash at 185 pounds: former middleweight king Dricus Du Plessis, bouncing back from his first loss in nearly seven years, takes on welterweight legend Kamaru Usman, back after 13 months and going full-time at middleweight. Main card's 8pm ET on Paramount+.",
+      "say": "There's a big UFC main event Saturday — Dricus Du Plessis against Kamaru Usman, two former champs. Both trying to prove they've still got it. You into the fights?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "UFC · Du Plessis vs. Usman event page", "url": "https://www.ufc.com/event/ufc-fight-night-july-18-2026" },
+        { "kind": "web", "text": "Bloody Elbow · Full card, start time & how to watch", "url": "https://bloodyelbow.com/2026/07/14/ufc-oklahoma-city-preview-start-time-full-card-and-how-to-watch-dricus-du-plessis-vs-kamaru-usman/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏛️",
+      "tag": "Culture · Film",
+      "headline": "Nolan's 'The Odyssey' opens huge — a $17.6M preview night, the best of 2026",
+      "body": "The numbers are in and they're big. Christopher Nolan's IMAX epic 'The Odyssey,' with Matt Damon as Odysseus, hauled $17.6 million in Thursday-night previews — the best preview haul of any movie in 2026 and the third-best of Nolan's career. It's tracking toward a $90–100M opening weekend, with well over half of tickets coming from IMAX and other premium big screens. The 'we have to see it in IMAX' group text was right.",
+      "say": "Nolan's Odyssey opened even bigger than people expected — best preview night of the whole year. It's a see-it-on-the-biggest-screen thing. You catching it in IMAX this weekend?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Odyssey — Official Trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI" },
+        { "kind": "web", "text": "Deadline · 'The Odyssey' tops $17M in Thursday previews", "url": "https://deadline.com/2026/07/box-office-the-odyssey-1236993792/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "Steve Lacy is back — 'Oh yeah?' lands to rave reviews",
+      "body": "Four years after 'Bad Habit' took over the summer, Steve Lacy dropped his third album 'Oh yeah?' today — 10 tracks he wrote, produced and played himself, with SZA and Erykah Badu guesting. Critics are calling it a career-best, the work of one of his era's defining pop auteurs. Lead single 'the feeling' is the easy way in.",
+      "say": "Steve Lacy — the 'Bad Habit' guy — put out a new album today and the reviews are great. SZA and Erykah Badu are on it. Give 'the feeling' a spin.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Steve Lacy — 'the feeling' (Official Video)", "url": "https://www.youtube.com/watch?v=Qw20tg1v7Fc" },
+        { "kind": "web", "text": "Rolling Stone · 'Oh yeah?' review", "url": "https://www.rollingstone.com/music/music-album-reviews/steve-lacy-oh-yeah-album-review-1235594783/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "😈",
+      "tag": "Culture · Music",
+      "headline": "Gracie Abrams drops 'Daughter from Hell' — and Olivia Rodrigo's already obsessed",
+      "body": "The pop breakout's third album is out today: 16 songs made in a quiet stretch after her big tour wrapped, and she's calling it her favorite thing she's ever made. Olivia Rodrigo has already crowned the track 'Death Wish' her favorite. Start with lead single 'Hit the Wall' and its dreamy series-of-blue-doors video.",
+      "say": "Gracie Abrams' new album is out — she says it's the best thing she's made, and Olivia Rodrigo's already calling one of the songs her favorite. That 'Hit the Wall' video is a whole mood.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Gracie Abrams — 'Hit the Wall' (Official Music Video)", "url": "https://www.youtube.com/watch?v=jFCTQ68gxoY" },
+        { "kind": "web", "text": "Rolling Stone · 'Daughter from Hell' is here", "url": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Rick Ross returns — 'Set In Stone' is his first album in five years",
+      "body": "The Biggest Boss is back. Rick Ross dropped 'Set In Stone' today, his 12th studio album and first solo record in nearly five years — a stacked 19-track affair with Don Toliver, Gucci Mane, Jeezy, T.I., French Montana and a long list of guests. Peak windows-down, drive-to-the-cookout hip-hop.",
+      "say": "Rick Ross put out his first album in like five years today — big 19-track thing with Gucci Mane, Jeezy, all the guests. Solid weekend driving-around music.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Apple Music · Rick Ross — 'Set In Stone'", "url": "https://music.apple.com/us/album/set-in-stone/6767398649" },
+        { "kind": "web", "text": "HotNewHipHop · Albums dropping July 17", "url": "https://www.hotnewhiphop.com/1002206-hip-hop-albums-songs-july-17-2026" }
+      ]
+    }
+  ]
+}
