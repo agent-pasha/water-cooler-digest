@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-18",
+  "label": "Saturday, July 18, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · World Cup",
+      "headline": "One sleep to the final — and there's a France-England consolation game today",
+      "body": "The World Cup ends tomorrow: Messi's Argentina vs. Spain, 3pm ET at MetLife, with Argentina chasing an unheard-of four straight major titles and Spain riding a defense that's conceded exactly once all tournament. Today's the appetizer — France and England, the two beaten semifinalists, meet in the third-place playoff in Miami this evening.",
+      "say": "World Cup final's tomorrow — Messi's Argentina against Spain. There's even a France-England game today for third place. Who you got in the final?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN · World Cup today: France-England 3rd place, final looming", "url": "https://www.espn.com/soccer/story/_/id/49389119/world-cup-2026-today-live-updates-news-england-france-spain-argentina" },
+        { "kind": "web", "text": "ESPN · The final — Argentina vs. Spain, what you need to know", "url": "https://www.espn.com/soccer/story/_/id/49370934/fifa-world-cup-final-argentina-vs-spain-need-know-predictions-odds" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · The Open",
+      "headline": "A THIRD 62 in two days — Ryan Fox joins the record book and grabs a share of the lead",
+      "body": "Royal Birkdale has turned into a birdie carnival. Ryan Fox poured in nine birdies for a 62 on Saturday — the eighth score of 62 in major-championship history and, incredibly, the third in just 48 hours after Lucas Herbert and Sam Burns did it Friday. Fox is tied with Herbert at 8-under going into Sunday, with Scottie Scheffler lurking three back.",
+      "say": "Golf's gone nuts at The Open — three guys have now shot 62, ties the major record, and two of them did it back-to-back days. Ryan Fox is tied for the lead going into Sunday. Scheffler's right there too.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "PGA Tour · Round 3 live updates & leaderboard", "url": "https://www.pgatour.com/article/news/latest/2026/07/18/british-open-third-round-live-updates-royal-birkdale-scores-tee-times-rory-mcilroy-scottie-scheffler" },
+        { "kind": "web", "text": "Golf Monthly · Ryan Fox on the charge at Royal Birkdale", "url": "https://www.golfmonthly.com/news/live/the-open-championship-2026-round-three-leaderboard-live-updates" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Belgian GP",
+      "headline": "Teenager on pole at Spa — Kimi Antonelli beats Verstappen for a shock front row",
+      "body": "Qualifying at F1's favorite track delivered a jolt: 19-year-old Kimi Antonelli charged to pole at Spa, edging Max Verstappen by three-tenths for his sixth pole of the season. There's a twist for the grid, too — Lando Norris set the third-fastest time but drops to 13th with an engine-parts penalty, bumping George Russell up to start third. Race is Sunday, 9am ET.",
+      "say": "Wild F1 qualifying at Spa — the 19-year-old kid Antonelli grabbed pole ahead of Verstappen. Race is Sunday morning, and it's the best track of the year. Worth setting the alarm.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Formula 1 · Antonelli charges to pole in exhilarating qualifying", "url": "https://www.formula1.com/en/latest/article/antonelli-charges-to-pole-position-in-exhilarating-belgian-gp-qualifying.zpGgC6xi6e3QnZEOmi6qS" },
+        { "kind": "web", "text": "The Race · Belgian GP qualifying results", "url": "https://www.the-race.com/formula-1/belgian-grand-prix-2026-f1-qualifying-results/" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Pogačar just keeps winning — a solo Stage 14 in the Vosges stretches his lead past four minutes",
+      "body": "Back in the mountains, Tadej Pogačar attacked with 7km to go, hauled in the breakaway and rode away alone for his fourth stage win of this Tour. His lead over Jonas Vingegaard is now a commanding 4:30. The feel-good story of the day was 19-year-old Frenchman Paul Seixas, who climbed all the way to fourth overall. Easy lazy-Saturday background watch.",
+      "say": "Pogačar won again at the Tour — solo in the mountains, and he's over four minutes clear now. Kind of running away with it. Perfect thing to have on in the background this afternoon.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ProCyclingStats · Stage 14 result & standings", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-14/result/result" },
+        { "kind": "web", "text": "Cyclingnews · Stage 14 as it happened", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-14-live-tadej-pogacar-ready-for-battle-as-race-returns-to-the-mountains/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Second Half",
+      "headline": "Baseball's back — Dodgers edge the Yankees 2-1 in a World Series rematch, Ohtani returns",
+      "body": "The second half opened Friday in the Bronx with a Fall Classic flavor, and the Dodgers took it 2-1. Max Muncy's two-run homer off Gerrit Cole in the seventh was the whole ballgame, Roki Sasaki turned in a strong start, and Shohei Ohtani was back in the lineup as DH after getting his knee drained over the break. He's slated to pitch again Wednesday.",
+      "say": "Baseball's back — Dodgers beat the Yankees 2-1 last night, Muncy took Gerrit Cole deep for the only runs. Ohtani's back in the lineup too. You following the pennant races?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Dodgers 2, Yankees 1 — game story", "url": "https://www.mlb.com/stories/game/823524" },
+        { "kind": "web", "text": "ESPN · Dodgers 2-1 Yankees, final", "url": "https://www.espn.com/mlb/game/_/gameId/401816142/dodgers-yankees" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏛️",
+      "tag": "Culture · Film",
+      "headline": "Nolan's 'The Odyssey' is a monster — $51M on Friday alone, the biggest opening day of 2026",
+      "body": "The numbers are in and they're huge. Christopher Nolan's IMAX epic, with Matt Damon as Odysseus, banked $51 million on Friday — the best single day of any movie this year — and is now tracking toward a $117M+ opening weekend. That one Friday already out-grossed the entire opening weekend of Nolan's 'Interstellar.' The 'see it on the biggest screen' crowd was right.",
+      "say": "That new Nolan movie, The Odyssey, made $51 million on Friday alone — biggest opening day of the whole year. Everyone's saying see it in IMAX. You catching it this weekend?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Odyssey — Official Trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI" },
+        { "kind": "web", "text": "Variety · 'The Odyssey' makes $51M on opening day", "url": "https://variety.com/2026/film/box-office/box-office-the-odyssey-opening-day-christopher-nolan-1236815411/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦸",
+      "tag": "Culture · Comic-Con",
+      "headline": "Nerd Christmas is almost here — San Diego Comic-Con kicks off Wednesday",
+      "body": "The biggest pop-culture gathering of the year is nearly upon us, running July 22–26. Marvel is returning to the legendary Hall H stage ahead of 'Avengers: Doomsday,' the live-action 'Avatar: Aang' movie will preview its cast, and Prime Video is bringing 'Rings of Power' Season 3 — so expect a week of trailer drops and jaw-on-the-floor first looks to talk about.",
+      "say": "Comic-Con starts Wednesday — Marvel's back in Hall H for Avengers: Doomsday, and there's a live-action Avatar movie coming. Basically a whole week of trailer drops. You geek out over any of that stuff?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Deadline · Comic-Con 2026 schedule of movie & TV panels", "url": "https://deadline.com/lists/comic-con-2026-schedule-movies-tv-panels/" },
+        { "kind": "web", "text": "GamesRadar · SDCC 2026 schedule, panels & streams", "url": "https://www.gamesradar.com/entertainment/superhero-movies/san-diego-comic-con-2026-schedule-sdcc/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏅",
+      "tag": "Culture · Awards",
+      "headline": "The ESPYs handed out sports' biggest trophies — A'ja Wilson and Jalen Brunson take top athlete",
+      "body": "Sports' answer to the Oscars went down this week in New York, hosted by comedian Marcello Hernández. A'ja Wilson won Best Athlete in women's sports and Knicks star Jalen Brunson took the men's award, while Steph Curry picked up the Muhammad Ali humanitarian honor and figure skater Alysa Liu was named Best Breakthrough Athlete. A fun, feel-good night of speeches and highlight reels.",
+      "say": "The ESPYs were this week — A'ja Wilson and Jalen Brunson won top athlete, and Steph Curry got the humanitarian award. It's basically the Oscars for sports. Always some good speeches.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN · Full list of 2026 ESPY winners", "url": "https://www.espn.com/espys/story/_/id/49359664/espys-2026-award-winners-jalen-brunson-aja-wilson-fernando-mendoza" },
+        { "kind": "web", "text": "E! · 2026 ESPYs winners, complete list", "url": "https://www.eonline.com/news/1433939/espys-2026-winners-see-the-complete-list-live-updates" }
+      ]
+    }
+  ]
+}
