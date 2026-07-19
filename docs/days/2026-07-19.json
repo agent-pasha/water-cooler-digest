@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-19",
+  "label": "Sunday, July 19, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🏆",
+      "tag": "Soccer · World Cup",
+      "headline": "It's finally here — Messi's Argentina vs. Spain for the World Cup, today at MetLife",
+      "body": "The whole month has been building to this: the 2026 World Cup final kicks off this afternoon (3pm ET) just outside New York. Argentina are chasing history — no team has repeated as champions since Brazil in 1962 — and it's almost certainly 39-year-old Messi's last-ever World Cup match. Spain are the slight favorites off a defense that's conceded exactly once all tournament, with 19-year-old Lamine Yamal the kid trying to dethrone the GOAT.",
+      "say": "The World Cup final's today — Messi's Argentina against Spain. Probably Messi's last World Cup game ever, with that teenager Yamal on the other side. Who you got?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN · The final — Argentina vs. Spain, what you need to know", "url": "https://www.espn.com/soccer/story/_/id/49370934/fifa-world-cup-final-argentina-vs-spain-need-know-predictions-odds" },
+        { "kind": "web", "text": "Al Jazeera · Final preview, schedule & Messi latest", "url": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · The Open",
+      "headline": "Claret Jug up for grabs — a wide-open final round at Royal Birkdale",
+      "body": "The year's last major is decided today, and it's a logjam. Sam Burns started Sunday with the lead after a record-tying 62-65 middle two rounds, but a couple of early bogeys bunched the top: Si Woo Kim, Cameron Young and Ryan Fox are all right there around 9-10 under, with Scottie Scheffler lurking a few back. Links golf, wind, pot bunkers, and a first-time major winner very much in play.",
+      "say": "The Open finishes today and it's totally wide open — like five guys have a real shot at the Claret Jug, and Scheffler's creeping up. Great one to have on with the coffee.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Golf Monthly · Final-round leaderboard & live updates", "url": "https://www.golfmonthly.com/news/live/the-open-2026-final-round-leaderboard" },
+        { "kind": "web", "text": "PGA Tour · Sunday final-round live blog", "url": "https://www.pgatour.com/article/news/latest/2026/07/19/final-round-sunday-updates-live-blog-recap-the-british-open-royla-birkdale-sam-burns-tommy-fleetwood-bryson-dechambeau-scottie-scheffler" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Huge day at the Tour — Vingegaard crashes OUT, and Evenepoel outduels Pogačar for the stage",
+      "body": "The Tour's biggest shake-up yet: two-time champ Jonas Vingegaard crashed on Stage 15 and abandoned, leaving the race in an ambulance with his arm in a sling — Pogačar's main rival is gone with a week to go. Up front it was a thriller, Remco Evenepoel edging Pogačar in a two-up sprint atop the Plateau de Solaison. Pogačar keeps yellow and now looks almost untouchable.",
+      "say": "Wild day at the Tour de France — Vingegaard, the guy who's supposed to challenge Pogačar, crashed and had to quit. And Evenepoel beat Pogačar to the stage win. Kind of blows the race wide open.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews · Stage 15 as it happened", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-15-live-week-two-comes-to-a-close-with-major-mountain-top-finish/" },
+        { "kind": "web", "text": "ProCyclingStats · Stage 15 result & standings", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-15/result/result" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Belgian GP",
+      "headline": "The teenager delivers — Antonelli wins at Spa and stretches his title lead",
+      "body": "He put it on pole, then backed it up: 19-year-old Kimi Antonelli held off Ferrari's Charles Leclerc to win the Belgian Grand Prix, with Max Verstappen third. Antonelli survived an opening-lap lunge from Verstappen at Eau Rouge and a Ferrari undercut before reclaiming the lead for good. His Mercedes teammate George Russell spun out early, and the win pushes Antonelli further clear at the top of the championship.",
+      "say": "That 19-year-old Antonelli won at Spa yesterday — held off Leclerc and Verstappen and he's now leading the whole championship. A teenager running away with F1 is pretty fun to watch.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Formula 1 · Antonelli beats Leclerc to win, extends title lead", "url": "https://www.formula1.com/en/latest/article/antonelli-beats-leclerc-to-belgian-grand-prix-win-to-extend-title-lead-as-russell-retires.MAqSJSgXvRP6dLbwiRbWI" },
+        { "kind": "web", "text": "The Race · Belgian GP full results", "url": "https://www.the-race.com/formula-1/f1-2026-belgian-grand-prix-results/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Second Half",
+      "headline": "Sunday-night showcase in the Bronx — Ohtani's Dodgers wrap the weekend at the Yankees",
+      "body": "Baseball's back in full swing and the marquee series of the weekend is a World Series rematch: the Dodgers close out three games at Yankee Stadium tonight. Shohei Ohtani is back in the lineup as DH after getting his knee drained over the break, and there's a fun subplot — he's staring across at Cody Bellinger, the Yankees outfielder who just took home All-Star Game MVP.",
+      "say": "Dodgers and Yankees again tonight — Ohtani's back in the lineup, and he's up against Bellinger, the guy who just won All-Star MVP. Good Sunday-night baseball. You following the races?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Dodgers at Yankees — preview", "url": "https://www.mlb.com/stories/game-preview/823521" },
+        { "kind": "web", "text": "ESPN · Dodgers-Yankees game page", "url": "https://www.espn.com/mlb/game/_/gameId/401897386/dodgers-yankees" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏛️",
+      "tag": "Culture · Film",
+      "headline": "Nolan's 'The Odyssey' didn't just win the weekend — it set a record",
+      "body": "The final numbers are in and they're massive: Christopher Nolan's IMAX epic, with Matt Damon as Odysseus, opened to $124.5 million domestically — the biggest opening of 2026, the best ever for a Matt Damon movie, and Nolan's largest worldwide launch. Moana's re-release and Toy Story 5 were left in the dust. The 'we have to see it in IMAX' group text absolutely delivered.",
+      "say": "That Nolan movie, The Odyssey, made $124 million its opening weekend — biggest of the year, everyone's saying see it in IMAX. You catch it yet?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Odyssey — Official Trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI" },
+        { "kind": "web", "text": "Deadline · 'The Odyssey' opens to $124M+, a record", "url": "https://deadline.com/2026/07/box-office-the-odyssey-1236993792/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "U2 crashed a rave — Martin Garrix debuts 'Fireflies' with The Edge at Tomorrowland",
+      "body": "One of the wilder crossover moments of the summer: closing out the mainstage at Tomorrowland in Belgium, Martin Garrix brought out U2's The Edge to premiere their new single 'Fireflies,' with Bono on the recorded vocals. It's the duo's first team-up since the Euro 2020 anthem, and the crowd lost it. The single officially drops July 24.",
+      "say": "Did you see Martin Garrix brought out The Edge from U2 at Tomorrowland to debut a new song? U2 at a giant EDM festival — kind of a fun combo. The single's out this Friday.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Tomorrowland 2026 — Mainstage (official Tomorrowland)", "url": "https://www.youtube.com/watch?v=unrobrGhlv0" },
+        { "kind": "web", "text": "Billboard · Garrix debuts 'Fireflies' with U2's The Edge", "url": "https://www.billboard.com/music/music-news/martin-garrix-fireflies-u2-edge-tomorrowland-1236297377/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏡",
+      "tag": "Culture · TV",
+      "headline": "A comfort-TV reboot is quietly ruling Netflix — 'Little House on the Prairie' is No. 1",
+      "body": "Netflix's big-budget remake of the classic 'Little House on the Prairie' has climbed to the top of the charts this week, a sweeping new take on Laura Ingalls Wilder's frontier stories that's already been renewed for a second season. It's the easy, wholesome, watch-with-the-whole-family pick of the moment — and a jolt of nostalgia for anyone who grew up on the original.",
+      "say": "The Little House on the Prairie remake is somehow the No. 1 thing on Netflix right now — total comfort-watch, and a nostalgia hit if you remember the old one. Good family watch.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Little House on the Prairie — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=jSds4Oi83Eg" },
+        { "kind": "web", "text": "What's on Netflix · This week's Top 10", "url": "https://www.whats-on-netflix.com/whats-new/new-releases-on-netflix-this-week-and-top-10-movies-series-july-18-2026/" }
+      ]
+    }
+  ]
+}
