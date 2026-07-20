@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-20",
+  "label": "Monday, July 20, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🏆",
+      "tag": "Soccer · World Cup",
+      "headline": "Spain are World Cup champions — 1-0 over Argentina, and Messi bows out",
+      "body": "It ended in extra time and in heartbreak for the GOAT. Ferran Torres poked home the only goal in the 106th minute — set up by Nico Williams — after Argentina's Enzo Fernández was sent off in the 93rd, and Spain saw out a 1-0 win at MetLife to lift their second-ever World Cup and first since 2010. Nineteen-year-old Lamine Yamal dazzled, keeper Unai Simón took the Golden Glove, and a quiet Lionel Messi walked off what's almost certainly his last World Cup stage in tears.",
+      "say": "Spain won the World Cup — beat Argentina 1-0 in extra time after Argentina went down a man. Probably Messi's last-ever World Cup game, and he's in tears at the end. Did you catch it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Spain vs Argentina — Final Highlights (FOX Sports)", "url": "https://www.youtube.com/watch?v=x-cpRHf4xd4" },
+        { "kind": "web", "text": "NBC News · Spain outlasts Argentina 1-0 to win the title", "url": "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-final-2026-argentina-spain-messi-yamal-live-updates-rcna587754" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · The Open",
+      "headline": "A 200-1 shot lifts the Claret Jug — Ryan Fox birdies the 72nd to win The Open",
+      "body": "What a finish at Royal Birkdale. New Zealand's Ryan Fox, ranked 56th in the world and a long shot all week, birdied four of his last six holes and rolled in an 11-foot putt on the 18th to beat Cameron Young by one and claim his first major at 39. He's only the third Kiwi ever to win a men's major, joining Bob Charles and Michael Campbell. Sam Burns, the 54-hole leader, faded to third; Scottie Scheffler tied for fourth.",
+      "say": "The Open finished yesterday and this guy Ryan Fox — a total long shot from New Zealand — birdied the very last hole to steal it. First major at 39. Great story if you had golf on this weekend.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ryan Fox WINS THE 154TH OPEN — Final Round Highlights (The R&A)", "url": "https://www.youtube.com/watch?v=GDJRsRC6MJk" },
+        { "kind": "web", "text": "ESPN · Fox birdies 72nd hole to capture The Open", "url": "https://www.espn.com/golf/story/_/id/49401078/ryan-fox-birdies-72nd-hole-capture-open-championship" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "Du Plessis makes a statement — a lopsided decision over Usman in Oklahoma City",
+      "body": "The former middleweight champ bounced back in style. Dricus Du Plessis bullied welterweight legend Kamaru Usman for five rounds Saturday night, wobbling him repeatedly with clubbing shots and knees on the way to a clear unanimous decision (50-45, 49-46, 49-46). It snapped Du Plessis's first losing streak in years and had the crowd chanting 'DDP,' while a 39-year-old Usman's return at 185 fell flat.",
+      "say": "Did you see the UFC Saturday? Du Plessis absolutely handled Usman — two former champs, and it wasn't even close. He's right back in the title mix. You watch the fights?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "UFC · Du Plessis vs. Usman official highlights", "url": "https://www.ufc.com/video/158483" },
+        { "kind": "web", "text": "Bloody Elbow · Du Plessis returns to the win column", "url": "https://bloodyelbow.com/2026/07/18/dricus-du-plessis-vs-kamaru-usman-result-ex-champ-returns-to-the-win-column-at-ufc-oklahoma-city/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "💸",
+      "tag": "Soccer · Transfers",
+      "headline": "The summer window is heating up — Tottenham smash their record for Tonali",
+      "body": "With the World Cup wrapped, the transfer gossip takes over. The headline deal so far: Tottenham landing midfielder Sandro Tonali from Newcastle in a club-record move worth up to £100m, the centerpiece of a De Zerbi rebuild. Elsewhere Manchester United grabbed Brazil's Andrey Santos from Chelsea, and clubs across the Premier League are wheeling and dealing before the window shuts September 1.",
+      "say": "Now that the World Cup's over it's all transfer stuff — Spurs just spent like £100 million on Tonali, a club record. Silly season's in full swing. You follow the transfer drama at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sky Sports · Summer transfer window — all the deals", "url": "https://www.skysports.com/football/news/11095/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs" },
+        { "kind": "web", "text": "ESPN · Every club's confirmed ins & outs", "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Second Half",
+      "headline": "Vintage stuff in the Bronx — Yamamoto throws a complete-game gem at the Yankees",
+      "body": "Complete games barely happen anymore, which made this one special: Yoshinobu Yamamoto went the distance in the Dodgers' 8-2 win in Sunday's doubleheader opener, scattering four hits and two runs with seven strikeouts and no walks on just 102 pitches. It was his first regular-season complete game in the majors, and the first by any Dodger against the Yankees since Jerry Reuss in the 1981 World Series. The Yankees did grab the nightcap 2-1 to split.",
+      "say": "Yamamoto threw a complete game against the Yankees on Sunday — you almost never see those anymore, first one for a Dodger against them since 1981. Baseball's fun again in the second half. You following the races?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Yamamoto tosses a complete game vs. Yankees", "url": "https://www.mlb.com/video/yoshinobu-yamamoto-tosses-complete-game-vs-yankees" },
+        { "kind": "web", "text": "MLB.com · Yamamoto's complete-game masterpiece", "url": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-complete-game-against-yankees" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "The World Cup got a Super Bowl-style halftime show — and it was a spectacle",
+      "body": "For the first time ever, the final had a full halftime show, and it delivered talkers: Madonna rolled in on a dune buggy driven by Ronaldo and Ronaldinho, BTS did a soccer-themed 'Dynamite,' Justin Bieber and Shakira (with Burna Boy) took turns, and an orchestra — plus the Muppets' Electric Mayhem — ripped 'Seven Nation Army.' Coldplay's Chris Martin curated the whole thing for charity. Reviews were mostly 'that was actually great.'",
+      "say": "Did you see they gave the World Cup final a halftime show like the Super Bowl? Madonna in a dune buggy driven by Ronaldo, BTS, the Muppets doing Seven Nation Army. Kind of amazing. Worth pulling up the clip.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Full 2026 World Cup Final Halftime Show (FOX Sports)", "url": "https://www.youtube.com/watch?v=Gi_M6FnK1NE" },
+        { "kind": "web", "text": "ESPN · Rating every halftime performer", "url": "https://www.espn.com/soccer/story/_/id/49402540/world-cup-final-half-show-2026-rating-every-performer-madonna-bts-justin-bieber-shakira-headline-argentina-spain" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · TV",
+      "headline": "Hank Hill is back — 'King of the Hill' drops a whole new season today",
+      "body": "The beloved Texas comfort-comedy returns with all 10 episodes of its new season landing on Hulu today. Hank and Peggy are back on Rainey Street, settling into retirement while trying to keep the neighborhood from going off the rails, and Bobby's grown up into a stressed-out entrepreneur. After last year's revival was a smash, Hulu already renewed it through two more seasons. Pure easy, nostalgic weeknight watching.",
+      "say": "New season of King of the Hill just dropped on Hulu — all the episodes at once. Total comfort watch, and somehow Hank Hill still holds up. You ever a King of the Hill person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "King of the Hill Season 15 — Official Trailer (Hulu)", "url": "https://www.youtube.com/watch?v=g2JXuQ3nKPU" },
+        { "kind": "web", "text": "Variety · Season 15 release date & details", "url": "https://variety.com/2026/tv/news/king-of-the-hill-season-15-release-date-hulu-1236738157/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The Strokes are back — 'Reality Awaits' lands this Friday",
+      "body": "One for the indie-rock crowd: The Strokes drop 'Reality Awaits' on July 24, their first album since 2020's Grammy-winning 'The New Abnormal.' They've been teasing it for months — the lead single 'Going Shopping' first went out to fans on actual cassette tapes before hitting streaming, followed by the moodier 'Falling Out of Love.' A good excuse to dust off 'Is This It' this week.",
+      "say": "The Strokes have a new album out Friday — their first in like five years. Feels like 2001 all over again. You into that early-2000s New York rock stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "The Strokes — 'Going Shopping' (thestrokesVEVO)", "url": "https://www.youtube.com/watch?v=zgaLAliC3-8" },
+        { "kind": "web", "text": "Stereogum · The Strokes announce 'Reality Awaits'", "url": "https://stereogum.com/2494916/the-strokes-announce-new-album-reality-awaits/news" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌌",
+      "tag": "Culture · TV",
+      "headline": "'Big Bang Theory' spins off again — 'Stuart Fails to Save the Universe' hits Thursday",
+      "body": "The comic-shop guy gets his own show. In this 'Big Bang Theory' spin-off landing Thursday on HBO Max, Stuart Bloom (Kevin Sussman) breaks a gadget built by Sheldon and Leonard and accidentally kicks off a multiverse meltdown — bouncing through a Matrix-y world, a Mad Max dystopia and a reality where Kripke's a dictator. Chuck Lorre co-created it, with theme music by Danny Elfman. A fun one for the sitcom crowd.",
+      "say": "There's a new Big Bang Theory spin-off coming Thursday — the comic-shop guy Stuart accidentally breaks the multiverse. Looks goofy in a good way. You ever watch Big Bang?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Stuart Fails to Save the Universe — Official Trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=QipUzWSdxUA" },
+        { "kind": "web", "text": "Variety · The 'Big Bang' spinoff trailer", "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-trailer-big-bang-theory-1236787788/" }
+      ]
+    }
+  ]
+}
