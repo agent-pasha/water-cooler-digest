@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-23",
+  "label": "Thursday, July 23, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "💸",
+      "tag": "Soccer · Transfers",
+      "headline": "Chelsea smash the British record — £117m for Morgan Rogers",
+      "body": "With the World Cup wrapped, the Premier League's summer spending has a new high-water mark: Chelsea signed England forward Morgan Rogers from Aston Villa for a British-record £117m, making the 23-year-old the most expensive British player of all time — edging past Elliot Anderson's £116m move to Man City earlier this window. He's put pen to a seven-year deal under new boss Xabi Alonso, and Arsenal (who wanted him badly) were left empty-handed.",
+      "say": "Chelsea just spent £117 million on Morgan Rogers — most expensive British player ever. The transfer window's gone completely mad this summer. You follow the Premier League stuff at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sky Sports · Chelsea complete record £117m Rogers deal", "url": "https://www.skysports.com/football/news/11095/13564944/morgan-rogers-transfer-news-chelsea-complete-record-breaking-lb117m-deal-to-sign-forward-from-aston-villa" },
+        { "kind": "web", "text": "ESPN · Chelsea agree £117m deal for Aston Villa's Rogers", "url": "https://www.espn.com/soccer/story/_/id/49392368/chelsea-agree-117m-deal-aston-villa-morgan-rogers-sources-transfer" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Red Sox",
+      "headline": "History cut just short — Orioles snap the Red Sox's 15-game win streak",
+      "body": "Boston went on a tear Fenway hadn't seen in 80 years: 15 straight wins, matching the 1946 Ted Williams team's franchise record, before the Orioles finally cooled them off 5-1 in the nightcap of Wednesday's doubleheader. Left for dead back in June, the Red Sox have played their way right back into the thick of the AL race.",
+      "say": "The Red Sox ripped off 15 wins in a row — tied a franchise record from the 1946 Ted Williams team — before the Orioles finally beat them last night. Baseball's fun again in the second half. You following the races?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Orioles halt Boston's 15-game streak", "url": "https://www.mlb.com/stories/game/824732" },
+        { "kind": "web", "text": "Boston Globe · Red Sox streak ends at 15", "url": "https://www.bostonglobe.com/2026/07/22/sports/red-sox-orioles-winning-streak/" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Carapaz conquers the Alps — a gutsy solo Stage 18 win as Pogačar holds yellow",
+      "body": "The Tour hit the high Alps for the first of three brutal mountain days, and Ecuador's Richard Carapaz — the 2019 Giro champ and Olympic gold medalist — timed his breakaway attack to perfection, riding clear on the climb to Orcières-Merlette for a superb solo win. Up top nothing moved: Tadej Pogačar keeps the yellow jersey with Paris now in sight.",
+      "say": "The Tour de France is up in the Alps for its final few days — Carapaz won a great solo stage today, and Pogačar's basically got the yellow jersey locked up. Easy one to have on in the background.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ProCyclingStats · Stage 18 result & standings", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-18/result/result" },
+        { "kind": "web", "text": "Cyclingnews · Stage 18 as it happened", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-18-live-race-returns-to-the-mountains-for-first-of-alpine-triple-header/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌪️",
+      "tag": "Culture · Film",
+      "headline": "Aang is all grown up — 'Avatar Aang: The Last Airbender' arrives Saturday",
+      "body": "The beloved animated world is back. Paramount moved this new animated Avatar film way up to July 25 (Saturday, right in the middle of Comic-Con), with Aang now a grown Avatar racing to save the last of his people's culture. The voice cast is stacked — Eric Nam as Aang, Steven Yeun as Zuko, plus Dave Bautista and Jessica Matten — and it premieres on Paramount+.",
+      "say": "There's a new animated Avatar: The Last Airbender movie dropping Saturday — grown-up Aang, and Steven Yeun's voicing Zuko. The trailer looks awesome. You ever into Avatar?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Avatar Aang: The Last Airbender — Official Trailer (Paramount+ · Avatar)", "url": "https://www.youtube.com/watch?v=7b20GRFZBFE" },
+        { "kind": "web", "text": "Variety · Avatar Aang moves up to July, drops trailer", "url": "https://variety.com/2026/tv/news/avatar-aang-the-last-airbender-release-date-july-trailer-1236802799/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "🧗",
+      "tag": "MLB · Wild Card",
+      "headline": "A walk-off off his shoetops — Vargas lifts the D-backs into a playoff spot",
+      "body": "One of those endings you have to see twice: with the game tied in the 10th, Arizona's Ildemaro Vargas reached way up and slapped a pitch well above the strike zone into a walk-off single, capping a wild 6-5 comeback over the A's — and nudging the Diamondbacks into the last NL wild-card spot. Peak late-July pennant-race chaos.",
+      "say": "Did you see the D-backs walk-off? The guy hit the game-winner on a pitch basically over his head, and it jumped them into a playoff spot. Baseball in the second half is the best. You into the wild-card races?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Vargas' clutch walk-off winner (video)", "url": "https://www.mlb.com/video/ildemaro-vargas-comes-up-clutch-with-walk-off-winner" },
+        { "kind": "web", "text": "AZ Sports · D-backs walk off the A's into the wild card", "url": "https://arizonasports.com/mlb/arizona-diamondbacks/diamondbacks-walk-off-athletics-wild-card" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · TV",
+      "headline": "Saddle up — 'Ransom Canyon' gallops back for Season 2 today",
+      "body": "Netflix's glossy contemporary-Western romance drops all eight episodes of Season 2 today. Josh Duhamel's rancher Staten and Minka Kelly's Quinn reunite six months after she left to play with the New York Philharmonic — with a new guy (Ben Robson) stirring the pot and the future of the ranch on the line. Comfort-watch cowboy drama — basically Netflix's answer to 'Yellowstone.'",
+      "say": "New season of Ransom Canyon just dropped on Netflix — it's that easy-watch cowboy romance, kind of Netflix's Yellowstone. All the episodes at once. You watch any of the ranch-drama stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ransom Canyon: Season 2 — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=2XKyPE92owY" },
+        { "kind": "web", "text": "Netflix Tudum · Ransom Canyon Season 2, cast & photos", "url": "https://www.netflix.com/tudum/articles/ransom-canyon-season-2-news-photos-cast" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Shania goes back to her roots — 'Little Miss Twain' lands Friday",
+      "body": "The Queen of Country Pop returns with her seventh album on July 24, her most personal yet — digging into her childhood and the country, rock and R&B sounds that shaped her. There's a fun wrinkle, too: she teams with Queens of the Stone Age's Josh Homme on 'Faded Blue Jeans' and country legend Tanya Tucker on the title track.",
+      "say": "Shania Twain's got a new album Friday — and she did a song with the Queens of the Stone Age guy, which is a wild combo. Impossible not to sing along to Shania. You a fan?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Billboard · Shania on her personal new album", "url": "https://www.billboard.com/music/country/shania-twain-little-miss-twain-new-album-1236300814/" },
+        { "kind": "web", "text": "Apple Music · Shania Twain — 'Little Miss Twain'", "url": "https://music.apple.com/us/album/little-miss-twain/1896356105" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎪",
+      "tag": "Culture · Festivals",
+      "headline": "Lolla is a week out — Lorde, Charli XCX and Smashing Pumpkins headline Grant Park",
+      "body": "Summer's biggest festival lands in Chicago's Grant Park July 30–Aug 2, and the just-released lineup is a monster: 170-plus artists across eight stages, topped by Lorde, Charli XCX, Tate McRae, The Smashing Pumpkins, JENNIE, The xx and DJ John Summit. Whether you're going or just catching the sets online, it's the music conversation of the next couple weeks.",
+      "say": "Lollapalooza's next week in Chicago — Lorde, Charli XCX, Smashing Pumpkins, all of them. Even if you're not going, the sets end up all over the internet. You ever done a big music festival?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Lollapalooza · 2026 lineup", "url": "https://www.lollapalooza.com/lineup" },
+        { "kind": "web", "text": "Stereogum · Lollapalooza announces 2026 lineup", "url": "https://stereogum.com/2492494/lollapalooza-announces-2026-lineup/news" }
+      ]
+    }
+  ]
+}
