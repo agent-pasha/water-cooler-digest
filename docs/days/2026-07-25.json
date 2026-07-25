@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-25",
+  "label": "Saturday, July 25, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🔴",
+      "tag": "Soccer · Germany",
+      "headline": "Klopp takes the Germany job — his first-ever national team gig",
+      "body": "Big one for soccer fans: Jürgen Klopp, the fist-pumping former Liverpool and Dortmund boss, has been named head coach of Germany's men's national team. It's his first international job after decades in the club game, and it comes after Germany's shock Round-of-32 exit to Paraguay at the World Cup ended Julian Nagelsmann's run. Klopp signed a four-year deal through Euro 2028 and the 2030 World Cup, walking away from his Red Bull front-office role, and he takes charge for the first time in September against the Netherlands.",
+      "say": "Did you see Klopp is taking over the German national team? That's his first time coaching a country after all those years with Liverpool. Germany got knocked out early at the World Cup so they went and got him. Fun hire.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "CNN · Klopp named head coach of Germany", "url": "https://www.cnn.com/2026/07/24/sport/jurgen-klopp-germany-head-coach" },
+        { "kind": "web", "text": "Yahoo Sports · Official: Klopp appointed Germany coach", "url": "https://sports.yahoo.com/articles/official-j-rgen-klopp-appointed-091300933.html" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Hungarian GP",
+      "headline": "Norris nicks pole by twelve-thousandths — Hungarian GP qualifying goes to the wire",
+      "body": "Qualifying at the twisty Hungaroring came down to nothing: Lando Norris pipped Ferrari's Lewis Hamilton to pole by just 0.012 seconds — a blink — for his first pole of the season, ending Mercedes' recent grip on the front row. Charles Leclerc lines up third, teenage championship leader Kimi Antonelli fourth, and Max Verstappen only sixth after spinning at the final corner on his last lap. On a track where passing is famously brutal, that pole is gold. Race is Sunday, 9am ET, the last one before F1's summer break.",
+      "say": "F1 qualifying today was nuts — Norris beat Hamilton to pole by like a hundredth of a second. And you basically can't pass at this track, so whoever starts up front usually wins. Race is Sunday morning.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "The Race · Hungarian GP qualifying results", "url": "https://www.the-race.com/formula-1/hungarian-grand-prix-2026-f1-qualifying-results/" },
+        { "kind": "web", "text": "PlanetF1 · 2026 Hungarian GP qualifying report", "url": "https://www.planetf1.com/news/f1-results-hungarian-grand-prix-2026-qualifying" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Giants",
+      "headline": "Devers does it all — homer in the first, walk-off in the tenth",
+      "body": "One of those nights that reminds you why you watch: Rafael Devers homered in his very first at-bat and then, with the game tied in the 10th, slapped a two-run walk-off single to give the Giants a 7-6 win over the Angels at Oracle Park. Bookending a wild comeback with a leadoff homer and a walk-off is about as good as a hitter's day gets — and it keeps San Francisco right in the thick of the NL race.",
+      "say": "Did you catch the Giants last night? Devers homered in his first at-bat and then won it with a walk-off in extra innings. When a star has one of those games where he does everything, it's the best. You following the playoff races?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Devers' walk-off hit lifts Giants in extras (video)", "url": "https://www.mlb.com/giants/video/rafael-devers-walk-off-hit-lifts-giants-in-extras" },
+        { "kind": "web", "text": "NBC Sports Bay Area · Devers the walk-off hero vs. Angels", "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/rafael-devers-walk-off-win-observations-angels/1952053/" }
+      ]
+    },
+    {
+      "cat": "boxing",
+      "emoji": "🥊",
+      "tag": "Boxing · Heavyweight",
+      "headline": "Anthony Joshua fights again tonight — his comeback after a scary car crash",
+      "body": "Heavyweight star Anthony Joshua steps back in the ring tonight in Jeddah against big underdog Kristian Prenga — his first fight since a January car crash that he says nearly killed him. Fittingly billed 'The Comeback,' it tops a stacked 13-fight card as AJ tries to shake off the rust and line up a monster all-British heavyweight showdown later this year. Emotional night for one of the sport's biggest names.",
+      "say": "Anthony Joshua's fighting tonight — first time back since that car crash in January that he said almost killed him. They're literally calling it 'The Comeback.' Should be an emotional one. You keep up with boxing at all?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Yahoo Sports · Joshua vs. Prenga live results & start time", "url": "https://sports.yahoo.com/boxing/live/anthony-joshua-vs-kristian-prenga-live-results-round-by-round-updates-ring-walks-start-time-for-joshuas-return-053000077.html" },
+        { "kind": "web", "text": "Forbes · Joshua vs. Prenga start time, ring walks & card", "url": "https://www.forbes.com/sites/brianmazique/2026/07/24/anthony-joshua-vs-kristian-prenga-start-time-ring-walks-and-weigh-in-results/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · 3M Open",
+      "headline": "Lee Hodges is torching Minnesota — a birdie-fest at the 3M Open",
+      "body": "If you want easy weekend golf to have on, the 3M Open in Blaine, Minnesota is a birdie carnival: Lee Hodges has been going ridiculously low, sitting way out front around 24-under with Kurt Kitayama chasing a shot back. It's the calm-before-the-majors-are-over stretch of the PGA schedule — low scores, no drama-free naps required — and it wraps up Sunday.",
+      "say": "There's golf on this weekend — the 3M Open — and this guy Lee Hodges is just torching it, like 24-under. Good lazy-Sunday background watching. You play at all, or just watch?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "PGA Tour · 3M Open leaderboard", "url": "https://www.pgatour.com/leaderboard" },
+        { "kind": "web", "text": "PGA Tour · 3M Open overview & tee times", "url": "https://www.pgatour.com/tournaments/2026/3m-open/R2026525/overview" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Comedy's back at the movies — 'Naked Gun' and 'Bad Guys 2' open this weekend",
+      "body": "Two crowd-pleasers just hit theaters. The 'Naked Gun' reboot has Liam Neeson deadpanning as Frank Drebin Jr. (Leslie Nielsen's son) alongside Pamela Anderson — pure silly-spoof fun — opening to a solid ~$17M. And DreamWorks' animated heist sequel 'The Bad Guys 2' brings Mr. Wolf and the crew back for the kids (and adults), pulling ~$22M. 'Fantastic Four: First Steps' hangs onto No. 1 in its second weekend, but there's finally a real laugh option at the multiplex.",
+      "say": "There's actually funny stuff at the movies again — the new Naked Gun with Liam Neeson, and Bad Guys 2 if you've got kids. Nice to have a comedy option for once. You catching anything this weekend?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Naked Gun — Official Trailer (Paramount Pictures)", "url": "https://www.youtube.com/watch?v=uLguU7WLreA" },
+        { "kind": "yt", "text": "The Bad Guys 2 — Official Trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=TY1lWh20VSw" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧟",
+      "tag": "Culture · TV",
+      "headline": "Maggie and Negan are back — 'Dead City' Season 3 drops Sunday",
+      "body": "The Walking Dead's slickest spin-off returns Sunday on AMC and AMC+: 'Dead City' Season 3 has old enemies Maggie (Lauren Cohan) and Negan (Jeffrey Dean Morgan) reluctantly teaming up to build the first real community in a walker-overrun Manhattan — while their ugly history keeps threatening to blow the whole thing up. Great, tense, comfort-horror binge material to kick off the week.",
+      "say": "New season of Dead City drops Sunday — it's the Walking Dead spin-off with Maggie and Negan stuck in a zombie-infested Manhattan. Even if you fell off the main show, this one's a fun watch. You ever do the zombie stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Walking Dead: Dead City Season 3 — Official Trailer (AMC)", "url": "https://www.youtube.com/watch?v=cctvSNDaaYs" },
+        { "kind": "web", "text": "AMC · Watch the Dead City Season 3 trailer", "url": "https://www.amc.com/blogs/watch-the-thrilling-trailer-for-the-walking-dead-dead-city-season-3--1075249" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "BTS is officially back — the comeback single 'NORMAL' is smashing records",
+      "body": "The K-pop juggernaut has fully returned: BTS's comeback single 'NORMAL' is out, and it's an easygoing alt-pop tune about the un-glamorous everyday side of being, well, the biggest band on the planet (the video even opens with the seven of them lined up at a bathroom sink). It racked up 8.6 million Spotify streams in its first day — a new single-day record — and the whole internet is talking about the group being back together.",
+      "say": "BTS is officially back — they dropped a new song called 'NORMAL' and it already broke a streaming record. Even if you're not a fan, it's kind of a big pop-culture moment. You into any of the K-pop stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "BTS — 'NORMAL' Official MV (BIGHIT MUSIC)", "url": "https://www.youtube.com/watch?v=EpK5sXxe2Mo" },
+        { "kind": "web", "text": "Korea Herald · BTS returns with 'Normal'", "url": "https://www.koreaherald.com/article/10811068" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎭",
+      "tag": "Culture · Film",
+      "headline": "DC goes full horror — the 'Clayface' trailer is genuinely creepy",
+      "body": "One of the buzziest reveals of Comic-Con week: DC dropped the trailer for 'Clayface,' its first true horror movie, and it's a squirmy body-horror take on the classic Batman villain. Welsh actor Tom Rhys Harries plays an up-and-coming actor whose face gets grotesquely disfigured, and the film — from horror director James Watkins — surprised fans by crashing a DC Comics panel in San Diego. It hits theaters October 23, just in time for Halloween.",
+      "say": "Did you see the Clayface trailer? DC's doing a straight-up horror movie about the Batman villain, and it looks genuinely gross in a good way. Out around Halloween. You into the scary stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Clayface — Official Trailer (DC)", "url": "https://www.youtube.com/watch?v=OGO4Mqvo3jI" },
+        { "kind": "web", "text": "Deadline · DC's 'Clayface' trailer arrives", "url": "https://deadline.com/2026/07/clayface-trailer-tom-rhys-harries-1237000368/" }
+      ]
+    }
+  ]
+}
