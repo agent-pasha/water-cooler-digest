@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-26",
+  "label": "Sunday, July 26, 2026",
+  "items": [
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Tour de France",
+      "headline": "Pogačar seals a FIFTH Tour de France — into the all-time club",
+      "body": "The Tour de France wrapped up in Paris today and it was a coronation: Tadej Pogačar rolled down the Champs-Élysées to seal his fifth Tour title — and his third in a row. That ties him with the sport's untouchable legends (Merckx, Hinault, Indurain and Anquetil), the only other riders to win five. He'd led essentially the whole race, finishing more than six minutes clear of Remco Evenepoel, and wildfires even forced organizers to shorten the final stage — but nothing was catching him this year.",
+      "say": "The Tour de France ended today — Pogačar won it for the fifth time, third year running. Only four riders in history had ever won five, so he's officially one of the all-time greats now. Kind of wild watching someone dominate like that.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews · Stage 21 in Paris, as it happened", "url": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-21-live-shortened-stage-around-montmartre-and-champs-elysees-brings-race-to-a-close/" },
+        { "kind": "web", "text": "ProCyclingStats · Stage 21 result & final GC", "url": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-21/result/result" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Hungarian GP",
+      "headline": "Norris wins in Hungary — F1's last dance before the summer break",
+      "body": "Formula 1's final race before its three-week summer break went to Lando Norris, who turned his pole into a win at the twisty Hungaroring. It wasn't a cruise — teammate Oscar Piastri actually led the early laps before a gearbox failure ended his day — but Norris held on for the victory, with Max Verstappen fighting up to a superb second and teen sensation Kimi Antonelli taking third. Now the whole paddock disappears on holiday until late August.",
+      "say": "F1 had its last race before the summer break today — Norris won it in Hungary. His own teammate was leading before the car broke, and Verstappen clawed back up to second. You keeping up with F1 this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "The Race · 2026 Hungarian GP results", "url": "https://www.the-race.com/formula-1/f1-2026-hungarian-grand-prix-results/" },
+        { "kind": "web", "text": "RaceFans · Hungarian GP result & championship points", "url": "https://www.racefans.net/2026/07/26/2026-hungarian-grand-prix-race-result-and-championship-points/" }
+      ]
+    },
+    {
+      "cat": "boxing",
+      "emoji": "🥊",
+      "tag": "Boxing · Heavyweight",
+      "headline": "Joshua gets dropped twice — then wakes up and KOs Prenga",
+      "body": "What a scare. In his first fight since a January car crash, Anthony Joshua got knocked down TWICE in the opening round by big underdog Kristian Prenga and looked in real trouble in Jeddah. Then he flipped it — settled down, loaded up two enormous right hands in the second, and knocked Prenga out cold at 2:43 of the round. The dramatic comeback keeps a long-awaited all-British superfight with Tyson Fury alive for later this year.",
+      "say": "Did you see Anthony Joshua's fight? He got knocked down twice in the first round, looked finished — then came back and knocked the guy out in the second. Wild swing. Sets up a huge fight with Tyson Fury next.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Sky Sports · Joshua vs. Prenga highlights (video)", "url": "https://www.skysports.com/boxing/video/13273/13567045/highlights-anthony-joshua-vs-kristian-prenga" },
+        { "kind": "web", "text": "ESPN · Joshua survives two knockdowns to KO Prenga", "url": "https://www.espn.com/boxing/story/_/id/49449387/anthony-joshua-survives-two-knockdowns-ko-kristian-prenga" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥋",
+      "tag": "UFC · Abu Dhabi",
+      "headline": "Ankalaev grinds one out — a fifth-round finish in Abu Dhabi",
+      "body": "Over at Etihad Arena in Abu Dhabi, light-heavyweight wrecking ball Magomed Ankalaev took his time but got the job done, wearing down late-replacement Bogdan Guskov before finishing him with strikes in the fifth and final round. It was a patient, bounce-back win — Ankalaev chipped away for four rounds, then opened up in the championship rounds for the TKO. An easy lunchtime card for US viewers, too.",
+      "say": "The UFC was out of Abu Dhabi — Ankalaev wore his guy down and finished him in the fifth round. And it was actually a lunchtime card here for once. You watch the fights?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "UFC · Ankalaev's fifth-round finish (official video)", "url": "https://www.ufc.com/video/158638" },
+        { "kind": "web", "text": "Yahoo Sports · Ankalaev manhandles Guskov — full results", "url": "https://sports.yahoo.com/mma/live/ufc-abu-dhabi-live-results-magomed-ankalaev-vs-bogdan-guskov-updates-round-by-round-scoring-highlights-060000170.html" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "⭐",
+      "tag": "WNBA · All-Star",
+      "headline": "Jonquel Jones runs the table — MVP as Team Spoon takes the All-Star Game",
+      "body": "The WNBA All-Star Game lit up a record crowd in Chicago, and Team Spoon — captained by Caitlin Clark — took it 129-122 over Team Coop. The star of the night was Liberty center Jonquel Jones, who stuffed the stat sheet (22 points, 13 rebounds, 8 assists) to grab MVP and become the first player ever to collect All-Star, regular-season, Finals AND Commissioner's Cup MVP trophies. She dedicated the night to her late aunt.",
+      "say": "The WNBA All-Star Game was Saturday — Caitlin Clark's team won, but Jonquel Jones stole the show and took MVP. She's now the first player ever to win basically every MVP the league hands out. You catch any WNBA this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "WNBA.com · All-Star Game recap: Team Spoon 129, Team Coop 122 (video)", "url": "https://www.wnba.com/watch/video/2026-wnba-all-star-game-recap-team-spoon-129-team-coop-122-07-25-2026" },
+        { "kind": "web", "text": "ESPN · Jones, Clark carry Team Spoon to the win", "url": "https://www.espn.com/wnba/story/_/id/49451406/jones-clark-carry-team-spoon-wnba-all-star-game-victory" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "Counter-Strike shocker — Liquid bounce favorites Vitality from the qualifier",
+      "body": "Counter-Strike's BLAST Bounty Summer qualifier wrapped up this week, and it had a jolt: Team Liquid stunned tournament favorite Vitality 2-0 to knock them out early, while heavyweights like FaZe, Astralis and MOUZ punched their tickets to the LAN finals in Malta. It's the fresh-rosters, low-stakes-but-spicy stretch of the CS calendar — perfect background viewing while everyone figures out their new lineups.",
+      "say": "Counter-Strike had its summer qualifier this week — and Liquid actually knocked out Vitality, who everybody figured would cruise. Always fun when a favorite goes down early. You keeping up with CS at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Egamersworld · Liquid defeat Vitality at BLAST Bounty Summer", "url": "https://egamersworld.com/counterstrike/news/36327/liquid-defeat-vitality-at-blast-bounty-summer-2026-08siKNvNJ" },
+        { "kind": "tw", "text": "BLAST — live on Twitch", "url": "https://www.twitch.tv/blast" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦸",
+      "tag": "Culture · Comic-Con",
+      "headline": "Marvel owns Hall H — Ryan Gosling as Ghost Rider, plus a new 'Doomsday' look",
+      "body": "Marvel came back to Comic-Con's legendary Hall H on Saturday for the first time in two years and put on a show. Fans got a brand-new 'Avengers: Doomsday' sizzle (Robert Downey Jr.'s Doctor Doom on his throne, raising an army of Sentinels), and Kevin Feige dropped two reveals that broke the internet: Ryan Gosling is playing Ghost Rider, and Ryan Coogler is returning for a third Black Panther. 'Doomsday' hits theaters December 18.",
+      "say": "Marvel did their big Comic-Con panel Saturday — new Avengers: Doomsday footage, and they announced Ryan Gosling as Ghost Rider, which nobody saw coming. Plus another Black Panther. You into the Marvel stuff?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Marvel.com · All the Hall H news from San Diego Comic-Con 2026", "url": "https://www.marvel.com/articles/live-events/marvel-studios-san-diego-comic-con-2026-hall-h-recap" },
+        { "kind": "web", "text": "Variety · New 'Avengers: Doomsday' trailer rocks Comic-Con", "url": "https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Festivals",
+      "headline": "Newport Folk is happening now — and the surprise guests are stacking up",
+      "body": "One of the coziest weekends in music is going on right now: the Newport Folk Festival, out on the water at Fort Adams in Rhode Island. Paramore's Hayley Williams kicked it off with a wild 'and Friends' set that pulled up surprise guests like Jack Antonoff, Jenny Lewis and Lucy Dacus, and the weekend rolls on with The Lumineers, Nathaniel Rateliff, Brandon Flowers and a closing Brandi Carlile set. It's sold out — but the clips are everywhere.",
+      "say": "The Newport Folk Festival's going on this weekend — Hayley Williams from Paramore brought out like five surprise guests, and Brandi Carlile and The Lumineers are playing too. Those videos always end up all over the internet. You ever do the festival thing?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Stereogum · Hayley Williams' surprise-packed Newport set", "url": "https://stereogum.com/2506269/hayley-williams-brings-out-wednesday-this-is-lorelei-jack-antonoff-more-at-newport-folk-festival/news" },
+        { "kind": "web", "text": "Newport Folk Festival · 2026 lineup", "url": "https://newportfolk.org/lineup" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Box office: 'Bad Guys 2' wins the new arrivals as 'Fantastic Four' clings to No. 1",
+      "body": "The weekend numbers are in and it's a three-way pileup at the multiplex. Marvel's 'Fantastic Four: First Steps' held onto first place with about $40 million — though it tumbled a steep 66% in week two. DreamWorks' animated heist sequel 'The Bad Guys 2' won the new-release race with a strong ~$23 million debut and an 'A' from audiences, while the Liam Neeson 'Naked Gun' reboot opened third around $16.5 million. Something for everyone this weekend.",
+      "say": "The box office numbers came in — Fantastic Four's still on top, but Bad Guys 2 had the best opening of the new movies and people loved it. Good weekend if you've got kids or just want a laugh. You catch anything?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "The Hollywood Reporter · 'Fantastic Four' holds No. 1 amid a sharp drop", "url": "https://www.hollywoodreporter.com/movies/movie-news/fantastic-four-first-steps-box-office-sharp-drop-1236336444/" },
+        { "kind": "web", "text": "THR · 'Naked Gun' & 'Bad Guys 2' open at the box office", "url": "https://www.hollywoodreporter.com/movies/movie-news/naked-gun-box-office-bad-guy-sequel-open-1236335634/" }
+      ]
+    }
+  ]
+}
