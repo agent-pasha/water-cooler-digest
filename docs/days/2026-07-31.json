@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-31",
+  "label": "Friday, July 31, 2026",
+  "items": [
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Spider-Man broke a box-office record before it even opened wide",
+      "body": "'Spider-Man: Brand New Day' swung into theaters today, and it made history the night before: Tom Holland's return pulled a staggering $72 million in Thursday preview screenings — a new record that tops even 'Avengers: Endgame.' It's now tracking for a monster opening weekend north of $280 million, on pace to be the single biggest movie debut of 2026.",
+      "say": "The new Spider-Man opened today and it already broke a record — it made $72 million in Thursday previews alone, more than Avengers: Endgame. It's gonna be the biggest opening of the year. You seeing it this weekend?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Spider-Man: Brand New Day — Official Trailer (Sony)", "url": "https://www.youtube.com/watch?v=8TZMtslA3UY" },
+        { "kind": "web", "text": "Variety · $72M previews set a new all-time record", "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-record-previews-1236824394/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Walk-Off",
+      "headline": "No-hit for six innings, then a walk-off grand slam — Kody Clemens stuns Kansas City",
+      "body": "One of the wildest finishes you'll ever see: the Twins were being no-hit into the seventh, then trailed by three in the ninth with two outs and an 0-2 count — and Kody Clemens (yes, Roger's son) launched a walk-off grand slam to win it 4-3. Per Elias, it's the first time in MLB history a team broke up a no-hitter that late and then won on a walk-off slam.",
+      "say": "Did you see the Twins game? They were getting no-hit into the seventh, then down three in the ninth, two outs, and Kody Clemens — Roger Clemens' kid — hits a walk-off grand slam. They said it's literally never happened before. Baseball's crazy.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Kody Clemens' walk-off ultimate grand slam (video)", "url": "https://www.mlb.com/twins/video/kody-clemens-hits-a-grand-slam-19-to-right-center-field-ryan-jeffers-scor" },
+        { "kind": "web", "text": "ESPN · Clemens blasts walk-off grand slam vs. Royals", "url": "https://www.espn.com/mlb/story/_/id/49491240/twins-kody-clemens-blasts-walk-grand-slam-vs-royals" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Leagues Cup",
+      "headline": "Messi's back — the big MLS vs. Liga MX Leagues Cup kicks off next week",
+      "body": "Soccer's summer border war is nearly here: the Leagues Cup runs Aug. 4 through Sep. 6 with all 18 MLS clubs against all 18 Liga MX clubs, so every group-stage game is a cross-border grudge match. Lionel Messi has just rejoined Inter Miami training after the World Cup, and Miami open their campaign Aug. 5 at home against Atlético San Luis.",
+      "say": "The Leagues Cup starts next week — it's the whole US league against the whole Mexican league, so every game's a bit of a grudge match. And Messi's just back with Miami. Good stuff to have on. You follow MLS at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "LeaguesCup.com · 2026 schedule & format", "url": "https://www.leaguescup.com/" },
+        { "kind": "web", "text": "Inter Miami · Messi & Miami's Leagues Cup Phase One schedule", "url": "https://www.intermiamicf.com/news/inter-miami-cf-s-leagues-cup-2026-phase-one-schedule-announced" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎪",
+      "tag": "Culture · Festivals",
+      "headline": "Lollapalooza's big weekend — Charli XCX headlines tonight, Jennie and Tate McRae to come",
+      "body": "The party rolls on in Chicago's Grant Park: Charli XCX brings her 'Brat' chaos to the Friday headline slot tonight, BLACKPINK's Jennie makes history Saturday as the first solo female K-pop star to headline Lolla, and Tate McRae closes it out Sunday. Lorde already stole night one and pulled Charli out for a surprise 'Girl, So Confusing' duet.",
+      "say": "Lollapalooza's in full swing this weekend — Charli XCX headlines tonight, and Jennie from BLACKPINK's the first solo female K-pop star to ever headline it. The clips always end up everywhere. You ever do a festival like that?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Charli xcx — '360' (Official Video)", "url": "https://www.youtube.com/watch?v=WJW-VvmRKsE" },
+        { "kind": "web", "text": "Live Nation · Lollapalooza 2026 headliners", "url": "https://newsroom.livenation.com/news/charli-xcx-tate-mcrae-lorde-olivia-dean-john-summit-jennie-the-smashing-pumpkins-and-the-xx-to-headline-lollapalooza-2026/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "Counter-Strike's Malta finals hit the semis — Spirit and MOUZ through, trophy Sunday",
+      "body": "The CS2 BLAST Bounty Summer LAN in Malta is down to the final four: Team Spirit knocked out Liquid (with star 'donk' doing donk things) and MOUZ got past 3DMax to reach the semifinals, with the grand final set for Sunday and a $740K pot on the line. Prime have-it-on-in-the-background weekend viewing.",
+      "say": "The Counter-Strike LAN in Malta is down to the semifinals — Spirit and MOUZ are through, trophy gets decided Sunday. Good background watch if you're into CS. You keeping up with it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "BLAST — live on Twitch", "url": "https://www.twitch.tv/blast" },
+        { "kind": "web", "text": "HLTV · BLAST Bounty Finals semis set", "url": "https://www.hltv.org/news/43704/blast-bounty-finals-semis-set" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Women's Major",
+      "headline": "A record-setting 64 — Jeeno Thitikul grabs the Women's Open lead at Lytham",
+      "body": "The year's final women's major has a new front-runner: Thailand's Jeeno Thitikul lit up Royal Lytham & St Annes with a seven-under 64 — a new AIG Women's Open scoring record — to lead by two. Right behind her is Haeran Ryu, who's still chasing the barely-believable feat of a third straight major win. Round two is underway Friday.",
+      "say": "The women's golf major in England has this player Jeeno Thitikul who just shot a record round to take the lead. And the person chasing her is going for her third major in a row, which basically never happens. Fun leaderboard. You watch any golf?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sky Sports · AIG Women's Open live leaderboard & scores", "url": "https://www.skysports.com/golf/news/12176/13568344/aig-womens-open-charley-hull-lottie-woad-in-major-mix-as-jeeno-thitikul-grabs-early-lead-at-royal-lytham-and-st-annes" },
+        { "kind": "web", "text": "Golf.com · How to watch Round 2 at Royal Lytham", "url": "https://golf.com/news/2026-aig-womens-open-friday-tv-coverage-watch-round-2/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Music",
+      "headline": "Country's hot newcomer drops a summer 'Sunburn Mixtape'",
+      "body": "One for the country crowd: Tucker Wetmore — this year's ACM New Male Artist of the Year — surprised fans with a six-song 'Sunburn Mixtape' today, pairing three favorites with three brand-new tracks and led by his current single 'Who Told You That.' Easy, sun-soaked stuff from one of the genre's fastest-rising names.",
+      "say": "There's a new country drop today from Tucker Wetmore — he's the hot new guy in country right now, just won a big award. Perfect summer-driving music. You into any country?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Tucker Wetmore — 'Who Told You That' (Official)", "url": "https://www.youtube.com/watch?v=45KZ3PBTGBA" },
+        { "kind": "web", "text": "uDiscover Music · Wetmore releases 'Sunburn Mixtape'", "url": "https://www.udiscovermusic.com/news/tucker-wetmore-who-told-you-that/" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Canada",
+      "headline": "The hardcourt Masters lands in Canada — the National Bank Open starts this weekend",
+      "body": "The big US Open tune-up is here: the National Bank Open — a Masters 1000 for the men in Montreal and a WTA 1000 for the women in Toronto — begins Saturday, with the draws made Friday. It's loaded with stars like Alexander Zverev, Félix Auger-Aliassime, Taylor Fritz, Daniil Medvedev and defending champ Ben Shelton. Two weeks of big-name hardcourt tennis.",
+      "say": "The big Canadian tennis tournament starts this weekend — it's one of the last tune-ups before the US Open, so all the top guys are playing. Good one to throw on. You watch any tennis?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ATP Tour · National Bank Open (Montreal) preview", "url": "https://www.atptour.com/en/news/montreal-2026-atp-masters-1000-history-draw-schedule" },
+        { "kind": "web", "text": "National Bank Open · Scores & schedule", "url": "https://nationalbankopen.com/matches-players/scores" }
+      ]
+    }
+  ]
+}
