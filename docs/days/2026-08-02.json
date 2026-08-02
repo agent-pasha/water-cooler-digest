@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-02",
+  "label": "Sunday, August 2, 2026",
+  "items": [
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Spider-Man swings to the second-biggest opening weekend ever",
+      "body": "'Spider-Man: Brand New Day' pulled in a jaw-dropping $355M in North America — landing within about $2M of Avengers: Endgame's all-time record. Tom Holland's back, and crowds handed it a rare A CinemaScore.",
+      "say": "Did you catch Spider-Man this weekend? It basically broke the box office — second-biggest opening of all time.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=8TZMtslA3UY" },
+        { "kind": "web", "text": "Variety", "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Trade Deadline",
+      "headline": "The Dodgers landed the best pitcher in baseball — Skubal's headed to LA",
+      "body": "In the deadline's biggest bombshell, the two-time reigning champs traded for back-to-back Cy Young winner Tarik Skubal, sending three prospects to Detroit. An already-scary rotation just got scarier.",
+      "say": "You see the Dodgers grabbed Skubal? The best pitcher in the game going to the two-time champs — kind of unfair, right?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Skubal being filthy", "url": "https://www.youtube.com/watch?v=GDagal3iV9E" },
+        { "kind": "web", "text": "MLB.com", "url": "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · MLS",
+      "headline": "Messi's back on the field — and Suárez lit up a 2-2 thriller",
+      "body": "Two weeks after the World Cup final, Lionel Messi came off the bench for Inter Miami as Luis Suárez rifled in a long-range stunner. A late Brais Méndez free kick rescued a 2-2 draw for Columbus.",
+      "say": "Messi's finally back for Miami after the World Cup — Suárez scored an absolute rocket, but they only drew 2-2.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "FOX Soccer highlights", "url": "https://www.youtube.com/watch?v=MPH3oPRRmoE" },
+        { "kind": "web", "text": "ESPN", "url": "https://www.espn.com/soccer/report/_/gameId/761701" }
+      ]
+    },
+    {
+      "cat": "wwe",
+      "emoji": "🤼",
+      "tag": "WWE · SummerSlam",
+      "headline": "SummerSlam's wild Night 1 — Oba Femi topples Brock Lesnar, Night 2 tonight",
+      "body": "In a brutal Hell in a Cell, rising star Oba Femi beat Brock Lesnar in a genuine torch-passing moment, while CM Punk kept his title thanks to a shock Randy Orton return. The two-night event closes tonight.",
+      "say": "Did you see SummerSlam? Oba Femi actually beat Brock Lesnar in Hell in a Cell — and there's a whole second night tonight.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Femi vs. Lesnar highlights", "url": "https://www.youtube.com/watch?v=NWG1hYXMS0M" },
+        { "kind": "web", "text": "WWE.com", "url": "https://www.wwe.com/videos/oba-femi-vs-brock-lesnar-hell-in-a-cell-match-summerslam-2026-highlights" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎯",
+      "tag": "Esports · CS2",
+      "headline": "Counter-Strike crowns a champion today — Spirit vs. MOUZ in Malta",
+      "body": "The BLAST Bounty Summer finals reach the trophy match at BLAST Arena in Malta, with world No. 3 Team Spirit facing MOUZ in a best-of-five. MOUZ swiped the opening map — it's playing out live.",
+      "say": "The CS2 Bounty final is happening right now — Spirit vs MOUZ for the trophy in Malta. You watching any of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "BLAST live", "url": "https://www.twitch.tv/blast" },
+        { "kind": "web", "text": "HLTV", "url": "https://www.hltv.org/matches/2396021/spirit-vs-mouz-blast-bounty-2026-season-2-finals" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥋",
+      "tag": "UFC · Belgrade",
+      "headline": "A 30-second demolition — and the most finishes in UFC history",
+      "body": "In the UFC's first-ever card in Serbia, hometown hero Uroš Medić flattened Daniel Rodriguez in just 30 seconds. The Belgrade crowd witnessed the most first-round finishes on a single card ever.",
+      "say": "The UFC's Belgrade card was nuts — the main event ended in 30 seconds, and it set the record for most finishes ever.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "UFC.com clip", "url": "https://www.ufc.com/video/158819" },
+        { "kind": "web", "text": "Bloody Elbow", "url": "https://bloodyelbow.com/2026/08/01/uros-medic-vs-daniel-rodriguez-result-ufc-belgrade-main-event-ends-in-30-second-knockout/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Women's Open",
+      "headline": "The last major of the year ends today — Yealimi Noh chasing a breakthrough",
+      "body": "Noh takes a three-shot lead into Sunday's final round at Royal Lytham, hunting her first major title with Esther Henseleit in the final pairing. The seaside links are throwing everything at the field.",
+      "say": "The Women's Open wraps up today — Yealimi Noh's up three going for her first major. Could be a big moment.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Lytham highlights", "url": "https://www.youtube.com/watch?v=mOzzpj4knU0" },
+        { "kind": "web", "text": "Sky Sports leaderboard", "url": "https://www.skysports.com/golf/news/12176/13567418/aig-womens-open-2026-leaderboard-latest-golf-scores-from-royal-lytham-and-st-annes-weather-and-tee-times-for-final-womens-major-of-the-year" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤖",
+      "tag": "Culture · TV",
+      "headline": "Good news, everyone — Futurama returns tomorrow",
+      "body": "Season 14 lands Monday on Hulu with two new episodes, promising swaggering space pirates, lab-grown meats, and the return of Dr. Zoidberg's long-lost love. Ten episodes are on the way.",
+      "say": "Futurama's back tomorrow on Hulu with a new season — you ever watch it? 'Good news, everyone!'",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Season 14 trailer", "url": "https://www.youtube.com/watch?v=16_bvalOd_E" },
+        { "kind": "web", "text": "Deadline", "url": "https://deadline.com/2026/07/futurama-new-extended-episodes-season-14-trailer-1237003526/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Festivals",
+      "headline": "Lollapalooza closes out its biggest weekend — Tate McRae headlines the finale",
+      "body": "The four-day Chicago blowout wraps tonight with Tate McRae and The xx up top, plus Turnstile, aespa and The Chainsmokers. Can't make it to Grant Park? It's streaming live on Hulu.",
+      "say": "It's the last day of Lollapalooza — Tate McRae and The xx close it out tonight. You catch any of the streams?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Lolla livestream", "url": "https://www.lollapalooza.com/livestream" },
+        { "kind": "web", "text": "Variety schedule", "url": "https://variety.com/2026/shopping/news/lollapalooza-livestream-schedule-stream-live-online-hulu-1236825623/" }
+      ]
+    }
+  ]
+}
