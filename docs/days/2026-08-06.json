@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-06",
+  "label": "Thursday, August 6, 2026",
+  "items": [
+    {
+      "cat": "us",
+      "emoji": "⚽",
+      "tag": "Soccer · Leagues Cup",
+      "headline": "Messi's back in business — a first-half brace and a Leagues Cup record",
+      "body": "Making his first start since winning the World Cup, Lionel Messi scored twice in the opening half to flip an early deficit as Inter Miami beat Liga MX's Atlético San Luis 4-2. They were his first goals since lifting the trophy — and they pushed him to 14 in Leagues Cup play, the most anyone has ever scored in the tournament.",
+      "say": "Messi scored his first goals since winning the World Cup last night — a two-goal half in Miami's Leagues Cup opener, and he's now the all-time top scorer in that tournament. Guy just doesn't stop. You catch any of it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "MESSI BRACE 💥 Inter Miami vs. Atlético San Luis — Highlights (ESPN FC)", "url": "https://www.youtube.com/watch?v=LfksKqEfYug" },
+        { "kind": "web", "text": "LeaguesCup.com · Messi leads Inter Miami past San Luis", "url": "https://www.leaguescup.com/news/match-recap-lionel-messi-leads-inter-miami-past-atletico-de-san-luis" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Preseason",
+      "headline": "Football's officially back tonight — and the Colts just paid their star runner",
+      "body": "The NFL preseason kicks off tonight with the Hall of Fame Game (Cardinals vs. Panthers in Canton, 8pm ET on NBC) — the first live football since the Super Bowl. It caps a busy day: Jonathan Taylor and the Colts agreed to a two-year, $44M extension, the richest third contract ever for an NFL running back, after he led the league in rushing touchdowns last season.",
+      "say": "Football's actually back tonight — the Hall of Fame Game kicks off preseason. And the Colts just made Jonathan Taylor the highest-paid running back on a third contract ever. You ready for the season?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Jonathan Taylor 2025 Season Highlights (NFL)", "url": "https://www.youtube.com/watch?v=aS-CSeWaCh8" },
+        { "kind": "web", "text": "ESPN · Taylor, Colts agree to 2-year, $44M extension", "url": "https://www.espn.com/nfl/story/_/id/49544515/jonathan-taylor-agree-2-year-44m-extension-colts" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Cubs",
+      "headline": "The Cubs swept the champs — and Ohtani's two homers weren't enough",
+      "body": "Wrigley threw a party: the Cubs finished off a sweep of the two-time champion Dodgers with a 7-6 win, powered by Pete Crow-Armstrong's two homers and four RBIs and a Max Muncy three-run shot in a five-run eighth. Shohei Ohtani went deep twice himself (Nos. 25 and 26), but Chicago had the last word.",
+      "say": "The Cubs just swept the Dodgers — Pete Crow-Armstrong hit two homers, and even Ohtani going deep twice couldn't save LA. Chicago's been a lot of fun this year. You follow baseball at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Dodgers vs. Cubs — Full Game Highlights (Aug 5, MLB)", "url": "https://www.youtube.com/watch?v=ssWBVH7Kboo" },
+        { "kind": "web", "text": "ESPN · Cubs 7-6 Dodgers recap", "url": "https://www.espn.com/mlb/recap/_/gameId/401816406" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🚔",
+      "tag": "Culture · Film",
+      "headline": "Meow — 'Super Troopers 3' hits theaters Friday, eight years later",
+      "body": "The Broken Lizard gang is back on patrol: 'Super Troopers 3' opens Friday, with the original mustachioed crew reuniting when Farva's wildly over-the-top engagement collides with a brand-new drug ring. Brian Cox and Chace Crawford join the mayhem. It's been eight years since the last one, so the syrup-chugging cult comedy finally has a new chapter.",
+      "say": "There's a Super Troopers 3 out Friday — first one in eight years. If you ever quoted 'meow' or the syrup bit, that's your weekend sorted. You a fan of those?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "SUPER TROOPERS 3 | Official Trailer (Searchlight Pictures)", "url": "https://www.youtube.com/watch?v=cYFevn5frf0" },
+        { "kind": "web", "text": "Boxoffice Pro · Super Troopers 3 kicks off August", "url": "https://www.boxofficepro.com/long-range-forecast-one-night-only-super-troopers-3-kick-off-august-as-summer-market-enters-holdover-mode/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Karol G drops a new album Friday — with Drake and Bruno Mars along for the ride",
+      "body": "The Colombian superstar releases her sixth album, 'No Me Arrepiento de Sentir Tanto' (\"I Don't Regret Feeling So Much\"), this Friday — and the just-revealed tracklist is stacked. Drake turns up on \"Ahí\" for their first official collab, Bruno Mars features on \"Still,\" and Cigarettes After Sex's Greg Gonzalez closes it out. A big Latin-pop moment to cap the week's playlist.",
+      "say": "Karol G's got a new album out Friday and the guest list is wild — Drake and Bruno Mars are both on it. It's gonna be everywhere this weekend. You into her stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Billboard · Karol G's tracklist with Drake & Bruno Mars", "url": "https://www.billboard.com/music/latin/karol-g-drake-bruno-mars-collabs-new-album-tracklist-1236309706/" },
+        { "kind": "web", "text": "Billboard · Karol G sets new album 'No Me Arrepiento de Sentir Tanto'", "url": "https://www.billboard.com/music/latin/karol-g-new-album-no-me-arrepiento-de-sentir-tanto-1236305976/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💌",
+      "tag": "Culture · TV",
+      "headline": "The Walter Boys are back — Season 3 lands on Netflix today",
+      "body": "Netflix's small-town romance juggernaut returns today with all 10 episodes of Season 3, picking up after that love-triangle bombshell and George's hospital scare. Jackie's caught between the Walter brothers again while Cole chases a racing dream and Alex takes up rodeo. Pure comfort-binge catnip for the YA crowd.",
+      "say": "My Life with the Walter Boys just dropped its whole third season today — if you or the kids got hooked on that Netflix small-town romance, there you go. You watch it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "My Life With the Walter Boys: Season 3 | Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=_nneiDtbdbk" },
+        { "kind": "web", "text": "Netflix Tudum · Season 3 release & first look", "url": "https://www.netflix.com/tudum/articles/my-life-with-the-walter-boys-season-3" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📖",
+      "tag": "Culture · TV",
+      "headline": "The Buendías' final chapter — 'One Hundred Years of Solitude' Part 2 is streaming",
+      "body": "Netflix's lavish adaptation of Gabriel García Márquez's masterpiece returned this week with Part 2, the back half of the sweeping Buendía family saga in Macondo. Seven episodes are streaming now, with a nearly feature-length grand finale still to come on August 26. Gorgeous, epic prestige TV if you want to sink into something.",
+      "say": "The second half of Netflix's One Hundred Years of Solitude just came out — it's that beautiful adaptation of the famous novel. Great pick if you want something a bit epic. You read the book or catch season one?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "One Hundred Years of Solitude: Part Two | Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=F7iKrcc5L3M" },
+        { "kind": "web", "text": "Variety · Part 2 premieres Aug. 5, finale Aug. 26", "url": "https://variety.com/2026/tv/global/netflix-one-hundred-years-of-solitude-dates-part-2-1236812149/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Street Fighter",
+      "headline": "A 15-year-old just became the youngest Esports World Cup champ ever",
+      "body": "One of the coolest stories in gaming right now: 15-year-old Chilean prodigy Jaime \"Craime\" Bustos won the Street Fighter 6 title at the Esports World Cup in Paris, dismantling Hibiki 5-2 in the grand final with a masterclass in patience and spacing — and banking $250,000. He's officially the youngest EWC champion in history.",
+      "say": "A 15-year-old kid from Chile just won the Street Fighter title at that giant Esports World Cup — youngest champ ever, took home a quarter-million bucks. Pretty wild. You play any fighting games?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Craime vs Hibiki | Street Fighter 6 at EWC 26 | Grand Final", "url": "https://www.youtube.com/watch?v=xdD87H4Ej8w" },
+        { "kind": "web", "text": "Esports World Cup · Craime claims the SF6 title", "url": "https://esportsworldcup.com/en/press-releases/craime-claims-sf6-at-ewc26-title" }
+      ]
+    }
+  ]
+}
