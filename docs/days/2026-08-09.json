@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-09",
+  "label": "Sunday, August 9, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Dodgers",
+      "headline": "Ohtani ends the misery — a 10th-inning walk-off snaps the Dodgers' seven-game skid",
+      "body": "The Dodgers' worst slide of the year is finally over. After blowing a ninth-inning lead in Arizona, Shohei Ohtani dribbled home the winner in the 10th for a nervy 2-1 win — his first walk-off as a Dodger.",
+      "say": "Did you catch the Dodgers finally win? Took an Ohtani walk-off in extras to stop the bleeding.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Watch the walk-off", "url": "https://www.mlb.com/dodgers/video/dodgers-walk-off-against-the-d-backs-morning-lineup" },
+        { "kind": "web", "text": "Box score & recap", "url": "https://www.espn.com/mlb/recap?gameId=401816452" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Fever",
+      "headline": "Kelsey Mitchell makes history — and Caitlin Clark stuffed the stat sheet in a Fever win",
+      "body": "Mitchell poured in 27 for her 16th straight game of 20-plus points — a new WNBA single-season record — while Clark added 26 points and 11 assists as Indiana held off Chicago 90-86.",
+      "say": "Kelsey Mitchell just set a WNBA record — 16 straight 20-point games — with a 26-and-11 from Clark right beside her.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Game highlights", "url": "https://www.nbcsports.com/watch/wnba/2026-wnba-highlights-caitlin-clark-kelsey-mitchell-lead-fever-past-sky" },
+        { "kind": "web", "text": "Recap", "url": "https://www.espn.com/wnba/recap?gameId=401857126" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "A star is born in Vegas — Salkilld chokes out Gamrot in Round 1",
+      "body": "In his first UFC main event, Aussie Quillan Salkilld took the veteran's back and sank a rear-naked choke late in the opening round — his fourth straight first-round finish, and now a perfect 6-0 in the UFC.",
+      "say": "This Aussie kid Salkilld is the real deal — submitted a top-ranked vet in the first round to go 6-0.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "The finish", "url": "https://www.espn.com/mma/story/_/id/49565279/salkilld-submits-gamrot-first-round-ufc-fight-night" },
+        { "kind": "web", "text": "Full results", "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-results-live-updates-mateusz-gamrot-quillan-salkilld/live/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · PGA Tour",
+      "headline": "Win or go home — the FedExCup bubble bursts today at the Wyndham",
+      "body": "It's the last stop of the PGA Tour regular season, and only the top 70 make the playoffs. Beau Hossler and Michael Brennan share the lead into Sunday, with a pack of stars sweating the cut line.",
+      "say": "Today's the last day to make golf's playoffs — a bunch of guys are playing to save their whole season.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Live leaderboard", "url": "https://www.pgatour.com/leaderboard" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Nearly back — the Premier League returns in two weeks, and the Shield's next Sunday",
+      "body": "Champions Arsenal open at home to newly-promoted Coventry on Aug 21, with Newcastle–Liverpool and Man City–Bournemouth also on the opening slate. First, a trophy: Arsenal meet Man City in the Community Shield next Sunday.",
+      "say": "Footy's basically back — Premier League kicks off in two weeks and the Community Shield's next weekend.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "The fixtures", "url": "https://www.premierleague.com/en/news/4675508/premier-league-fixture-schedulereleased-for-season-202627" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "Stray Kids are back — new mini-album 'THIS & THAT' is here",
+      "body": "The K-pop juggernauts dropped their first full-group release of the year, an eight-track EP written and produced by their own in-house trio, 3RACHA. The 'This & That' video racked up millions of views within hours.",
+      "say": "Stray Kids just dropped a new album — the video blew past ten million views on day one.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "‘This & That’ M/V", "url": "https://www.youtube.com/watch?v=BZ4UzthYTss" },
+        { "kind": "web", "text": "New Music Friday", "url": "https://www.etonline.com/new-music-friday-august-7-madonna-kylie-minogue-karol-g-stray-kids-role-model-audrey-nuna-and-more" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Big guy, big trouble — 'Reacher' Season 4 lands Wednesday",
+      "body": "Alan Ritchson's one-man wrecking crew is back Aug 12 on Prime Video, pulled into a deadly mystery after a chance run-in on the Philadelphia subway. Three episodes drop day one.",
+      "say": "New season of Reacher drops Wednesday — three episodes right out of the gate.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Season 4 trailer", "url": "https://www.youtube.com/watch?v=PCbp1FfipPg" },
+        { "kind": "web", "text": "On Prime Video", "url": "https://www.primevideo.com/detail/0K16R3PLUFGC2JUE457C26O4OD" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🟢",
+      "tag": "Culture · TV",
+      "headline": "DC goes full detective — 'Lanterns' premieres next Sunday",
+      "body": "The buzzy HBO Max series pairs Aaron Pierre's rookie Green Lantern John Stewart with Kyle Chandler's grizzled Hal Jordan as intergalactic cops untangling a very earthly murder. It debuts Aug 16.",
+      "say": "Have you seen the Lanterns trailer? It's basically a Green Lantern detective show — looks slick.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=7UIBOsuUwc4" },
+        { "kind": "web", "text": "First look", "url": "https://www.tvinsider.com/1160385/lanterns-premiere-date-cast-trailer-plot/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐾",
+      "tag": "Culture · Film",
+      "headline": "Pups meet dinosaurs — 'PAW Patrol: The Dino Movie' hits theaters Friday",
+      "body": "The next big-screen adventure strands the pups on a dino-filled island where they befriend a marooned pup named Rex. If there are little kids in the picture, that's the Aug 14 weekend sorted.",
+      "say": "If you've got kids, the new PAW Patrol dinosaur movie is out Friday — weekend plan, done.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=xgI5iYmOf5Q" },
+        { "kind": "web", "text": "Tickets & info", "url": "https://www.pawpatrol.movie/" }
+      ]
+    }
+  ]
+}
