@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-10",
+  "label": "Monday, August 10, 2026",
+  "items": [
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · PGA Tour",
+      "headline": "He birdied his way into the playoffs — Michael Brennan wins the Wyndham",
+      "body": "Brennan closed with a 64, including five straight birdies, to win by three at 22-under and snag the very last ticket into the FedExCup Playoffs. It's already his second PGA Tour title of the year.",
+      "say": "Did you catch the Wyndham? This kid Brennan basically birdied his way into the playoffs on the final Sunday.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "PGA Tour · final-round highlights", "url": "https://www.pgatour.com/video/competition/6403125875112/highlights--final-round--wyndham-championship--" },
+        { "kind": "web", "text": "Recap & final leaderboard", "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/08/09/2026-wyndham-championship-final-results-prize-money-payout-pga-tour-leaderboard-and-how-much-each-golfer-won-144320/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Arsenal just paid a record fee for a midfielder — Bruno Guimarães is a Gunner",
+      "body": "Arsenal signed Newcastle captain Bruno Guimarães for a reported £75m — no midfielder over 28 has ever cost more — dropping a Brazil international into the engine room of a title-chasing side right before kickoff.",
+      "say": "Arsenal splashing £75m on Bruno Guimarães — you reckon that's finally the midfield that wins them the league?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN · Arsenal sign Bruno Guimarães", "url": "https://www.espn.com/soccer/story/_/id/49511174/arsenal-sign-bruno-guimaraes-newcastle" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Canadian Open",
+      "headline": "Coco Gauff is rolling in Toronto — into the quarters without breaking a sweat",
+      "body": "Gauff dropped just four games in a 6-3, 6-1 win to reach her first Canadian Open quarterfinal since 2023. Belinda Bencic — who ended Cinderella Alexandra Eala's run — is next, with Osaka and Rybakina also through. Prime US Open tune-up.",
+      "say": "Coco's cruising at the Canadian Open — big US Open tune-up. You following the hard-court swing?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "WTA · Gauff def. Korneeva", "url": "https://www.youtube.com/watch?v=SZhgotwOaa8" },
+        { "kind": "web", "text": "WTA · Gauff into the quarters", "url": "https://www.wtatennis.com/news/4556823/coco-gauff-returns-to-canadian-open-quarters-with-handling-of-alina-korneeva" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Padres",
+      "headline": "Tatis went yard off the warehouse — Padres knock off the AL West-leading Astros",
+      "body": "Fernando Tatis Jr.'s two-out, three-run bomb — a 421-foot shot off Petco's iconic brick warehouse in left — sank Houston 7-2, and new Padre Austin Hays homered in his first at-bat. San Diego has won 12 of 16 and sits a game out of a playoff spot.",
+      "say": "Tatis launched one off the warehouse at Petco — Padres are red-hot heading into the stretch run.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "MLB · Astros–Padres highlights", "url": "https://www.youtube.com/watch?v=XTXfFfOSXLU" },
+        { "kind": "web", "text": "ESPN · game recap", "url": "https://www.espn.com/mlb/recap?gameId=401816466" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Preseason",
+      "headline": "Real football's (almost) back — NFL preseason Week 1 kicks off Thursday",
+      "body": "Sixteen games across three nights (Aug 13-15) give the first live look at this year's rookie class and a wave of newly-acquired stars suiting up in new colors — including Raiders No. 1 pick Fernando Mendoza pushing for reps.",
+      "say": "Preseason starts Thursday — got a rookie you're actually excited to finally see in pads?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NFL.com · Week 1 debuts to watch", "url": "https://www.nfl.com/news/2026-nfl-season-s-most-highly-anticipated-week-1-debuts-newly-acquired-players-spice-up-all-16-games" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "BTS are back on stage — and the 'ARIRANG' tour is hitting US stadiums",
+      "body": "With military service behind them, all seven members reunited for their first tour in years — and it's enormous: 85-plus dates across 34 cities on a 360° in-the-round stage. Arlington's AT&T Stadium gets them this weekend.",
+      "say": "BTS are finally touring again after the army — they're playing stadiums over here right now.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "BTS · 'ARIRANG' tour trailer", "url": "https://www.youtube.com/watch?v=zKGTr8yakig" },
+        { "kind": "web", "text": "The tour, explained", "url": "https://www.aol.com/articles/bts-stream-arirang-concerts-live-155014438.html" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Shane Gillis is back at the auto shop — 'Tires' Season 3 lands Thursday",
+      "body": "Netflix's chaotic workplace comedy returns Aug 13, with Will and Shane now co-owners trying (and mostly failing) to keep Valley Forge Auto afloat. It's quietly become one of the platform's biggest comedy hits.",
+      "say": "New season of Tires drops Thursday — that Shane Gillis show is dumb in the best possible way.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Netflix · Season 3 trailer", "url": "https://www.youtube.com/watch?v=1lGZSnSht8s" },
+        { "kind": "web", "text": "THR · Season 3 first look", "url": "https://www.hollywoodreporter.com/tv/tv-news/tires-season-3-trailer-shane-gillis-netflix-1236655199/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎮",
+      "tag": "Culture · Gaming",
+      "headline": "Rockstar's teasing GTA VI again — a new 'Extended Look' drops Aug 27",
+      "body": "Grand Theft Auto VI, arguably the most anticipated game ever, gets a fresh 'Extended Look' premiering on Netflix and YouTube on Aug 27. Until then, Trailer 2 — already one of the most-watched trailers in history — is the thing to rewatch.",
+      "say": "Rockstar's dropping a new GTA VI look on the 27th — the hype for this game is genuinely unreal.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Rockstar · GTA VI Trailer 2", "url": "https://www.youtube.com/watch?v=VQRLujxTm3c" },
+        { "kind": "web", "text": "Variety · the Aug 27 reveal", "url": "https://variety.com/2026/gaming/news/gta-6-trailer-netflix-youtube-aug-27-1236789693/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Morgan Wallen won't leave No. 1 — 'I'm the Problem' is back on top",
+      "body": "Wallen's record-smashing album 'I'm the Problem' climbed back to the summit of the Billboard 200 this week, extending a ridiculously dominant run atop the chart in a monster year for country music.",
+      "say": "Morgan Wallen's album is back at No. 1 again — the guy has basically lived at the top of the charts all year.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Billboard 200 No. 1s of 2026", "url": "https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_2026" }
+      ]
+    }
+  ]
+}
