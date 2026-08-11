@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-11",
+  "label": "Tuesday, August 11, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🛡️",
+      "tag": "Soccer · Community Shield",
+      "headline": "English football's back on Sunday — Arsenal vs Man City for the first trophy",
+      "body": "The season curtain-raiser is set: reigning champs Arsenal face Manchester City in the Community Shield at Cardiff's Principality Stadium on Aug 16. First silverware of the year, and a proper heavyweight opener before the league kicks off.",
+      "say": "Football's officially back this weekend — Arsenal and City are already playing for a trophy on Sunday.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Sky Sports · season schedule", "url": "https://www.skysports.com/football/news/11095/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Dota 2",
+      "headline": "The biggest event in Dota is here — The International tips off Thursday in Shanghai",
+      "body": "The International 2026 runs Aug 13–23 at Shanghai's Oriental Sports Center — 16 teams, the Aegis of Champions on the line, and the whole Dota world watching. It streams free on the official channels.",
+      "say": "The International's this week — it's basically the World Cup of Dota, and it's free to watch on Twitch.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Live · official TI stream", "url": "https://www.twitch.tv/dota2ti" },
+        { "kind": "web", "text": "Bracket & teams", "url": "https://liquipedia.net/dota2/The_International/2026" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Cincinnati Open",
+      "headline": "The last big US Open tune-up — but Sinner AND Alcaraz are both out",
+      "body": "The Cincinnati Open is on, and the two biggest names in men's tennis have pulled out injured — Sinner with a knee, Alcaraz with a wrist. That blows the draw wide open with the US Open just weeks away.",
+      "say": "Both Sinner and Alcaraz just pulled out of Cincinnati hurt — the door's wide open for someone before the US Open.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Order of play & results", "url": "https://www.olympics.com/en/news/tennis-cincinnati-open-2026-atp-wta-order-of-play-live-results-scores" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Cardinals",
+      "headline": "A legend gets his due — the Cardinals will retire Larry Fitzgerald's No. 11",
+      "body": "Days after entering the Hall of Fame, Fitzgerald learned Arizona is retiring his No. 11 and adding him to the Ring of Honor this October. Seventeen seasons, all in one uniform, franchise leader in just about everything.",
+      "say": "The Cardinals are finally retiring Larry Fitzgerald's number — one of the classiest players the game's ever had.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "His best career catches", "url": "https://www.youtube.com/watch?v=Gzf46ufw0cU" },
+        { "kind": "web", "text": "Cardinals · career timeline", "url": "https://www.azcardinals.com/news/larry-fitzgerald-career-timeline-cardinals-hall-of-fame" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · FedExCup Playoffs",
+      "headline": "The race for the FedExCup starts now — St. Jude tees off Thursday",
+      "body": "The playoffs open at the FedEx St. Jude Championship in Memphis (Aug 13–16), top 70 players, $20M on the line and no cut. Win-or-fall-behind golf, with the season title three events away.",
+      "say": "Golf's playoffs start this week — 70 guys, twenty million bucks, and no room to have a bad round.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "FedEx St. Jude Championship", "url": "https://www.fedexchampionship.com/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "The Michael Jackson movie you can finally stream — 'Michael' lands on Starz",
+      "body": "Antoine Fuqua's biopic 'Michael,' starring MJ's real-life nephew Jaafar Jackson, crossed a billion dollars in theaters and is now streaming on Starz. If you skipped it in the spring, here's your chance.",
+      "say": "The Michael Jackson movie just hit Starz — it made over a billion dollars, and MJ's actual nephew plays him.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=mbtgEE6rkxw" },
+        { "kind": "web", "text": "Variety · streaming date", "url": "https://variety.com/2026/film/news/michael-streaming-release-date-michael-jackson-starz-1236757504/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👽",
+      "tag": "Culture · TV",
+      "headline": "Xenomorphs come home — 'Alien: Earth' premieres to rave reviews",
+      "body": "FX's first-ever 'Alien' TV series drops Aug 12 on FX and Hulu, and critics are calling it the best the franchise has been in decades — cerebral, gorgeous and genuinely scary. A great one to have queued up.",
+      "say": "There's a new 'Alien' TV show and critics are losing it — apparently the scariest thing on TV this year.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=ZbsiKjVAV28" },
+        { "kind": "web", "text": "TIME · review", "url": "https://time.com/7306915/alien-earth-review-fx/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Phoebe Bridgers is back — 'Lost Weekend' is her first album in six years",
+      "body": "The indie-rock favorite drops her long-awaited third solo record 'Lost Weekend' on Aug 14, her first since 2020's 'Punisher.' Lead single 'Lost Boys' has fans very much ready for it.",
+      "say": "Phoebe Bridgers has a new album out Friday — her first solo record in six years.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Lost Boys' official video", "url": "https://www.youtube.com/watch?v=4KXnboPN1p4" },
+        { "kind": "web", "text": "Variety · album announcement", "url": "https://variety.com/2026/music/news/phoebe-bridgers-new-album-lost-weekend-1236789183/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Benson Boone goes full theater kid — a wild new video with Alix Earle",
+      "body": "Boone dropped 'The Time of My Life,' his first new music of 2026, with a cinematic video co-starring Alix Earle — medieval meet-cutes, a dragon fight and all. He's calling it his favorite thing he's ever made.",
+      "say": "Have you seen Benson Boone's new video? He and Alix Earle are fighting a dragon in it — it's a whole production.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official music video", "url": "https://www.youtube.com/watch?v=ptlsli-QXXc" },
+        { "kind": "web", "text": "Rolling Stone · the video", "url": "https://www.rollingstone.com/music/music-news/benson-boone-alix-earle-new-song-the-time-of-my-life-video-1235584667/" }
+      ]
+    }
+  ]
+}
