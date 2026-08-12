@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-12",
+  "label": "Wednesday, August 12, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🏆",
+      "tag": "Soccer · UEFA Super Cup",
+      "headline": "Europe's first trophy is up for grabs today — PSG vs Aston Villa",
+      "body": "The new European season kicks off with silverware: Champions League winners PSG take on Europa League winners Aston Villa in the UEFA Super Cup in Salzburg (3pm ET, CBS/Paramount+). It's Villa's first Super Cup in 44 years — they last played in it, and won it, back in 1982.",
+      "say": "The European season's back today — PSG and Aston Villa are playing for the Super Cup. Villa haven't been in this thing since 1982.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "UEFA · preview & how to watch", "url": "https://www.uefa.com/uefasupercup/news/02a8-2149ed5e5bc1-0b130f0cdccd-1000--paris-vs-aston-villa-super-cup-preview-where-to-watch-ki/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🔫",
+      "tag": "Esports · Counter-Strike",
+      "headline": "The Counter-Strike showdown everyone's waited for starts today at the Esports World Cup",
+      "body": "The CS2 event at the Esports World Cup tips off today in Paris — 32 teams, a record $2M pool, and all the giants in one bracket: Vitality, MOUZ, FaZe, Falcons, NAVI and defending EWC champs The MongolZ, plus underdogs 100 Thieves. Group stage runs through Aug 16, and every match streams free.",
+      "say": "The big Counter-Strike event at the Esports World Cup starts today — Vitality, FaZe, all the top teams. It's free to watch. You following any of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Live · official EWC stream", "url": "https://www.twitch.tv/ewc_stcarena_en" },
+        { "kind": "web", "text": "Bracket, teams & schedule", "url": "https://liquipedia.net/counterstrike/Esports_World_Cup/2026" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "💰",
+      "tag": "Soccer · Transfers",
+      "headline": "Deadline day is coming — and Chelsea are outspending the planet",
+      "body": "The summer window shuts Sept 1, and the spending is wild: Chelsea have brought in 11 players for north of €400m, more than any club on earth, while Tottenham dropped big money on Sandro Tonali and Arsenal added Bruno Guimarães. Three weeks of frantic dealing left before the music stops.",
+      "say": "The transfer window shuts in a few weeks and it's been nuts — Chelsea have spent over €400 million on eleven players. You keep up with the transfer stuff?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sky Sports · summer transfer centre", "url": "https://www.skysports.com/football/news/11095/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · MVP Race",
+      "headline": "The two best players in the world are in a dead heat — and the Lynx just made a statement",
+      "body": "The WNBA MVP race is down to A'ja Wilson and Napheesa Collier, and Collier's league-leading Lynx (26-7, best record in the league) just handled Wilson's Aces 98-87, with rookie Olivia Miles dropping 26. Wilson answered days later with her 17th double-double. It's the best rivalry in the sport right now.",
+      "say": "The WNBA MVP thing is basically A'ja Wilson vs Napheesa Collier, and Collier's Lynx just beat A'ja's Aces. Best league in sports right now. You been watching?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "WNBA · Aces–Lynx full highlights", "url": "https://www.youtube.com/watch?v=UnZ_WX6oBxs" },
+        { "kind": "web", "text": "Recap · Miles & Collier lead the Lynx", "url": "https://sports.yahoo.com/articles/olivia-miles-napheesa-collier-shine-193250616.html" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Yankees",
+      "headline": "The Yankees might get their MVP back for the stretch run — Aaron Judge is ramping up",
+      "body": "Big news in the Bronx: Aaron Judge, sidelined since late May with a broken rib, has been cleared to start running and lifting again and says he'll return this season. Best guess is a September comeback right as the playoff race heats up — a scary thought for the rest of the league.",
+      "say": "Sounds like Aaron Judge is close to coming back for the Yankees' playoff push. Imagine adding the MVP back in September. You following the pennant races?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Judge cleared for light activity, eyeing a return", "url": "https://www.nbcnewyork.com/news/sports/aaron-judge-cleared-light-activity-return-injury-season/6534096/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦖",
+      "tag": "Culture · Film",
+      "headline": "The surprise movie of the summer? Anne Hathaway fights dinosaurs on Friday",
+      "body": "Warner Bros.' wild sci-fi swing 'The End of Oak Street' opens Friday, with Anne Hathaway and Ewan McGregor as suburban parents whose whole neighborhood gets yanked into a dino-filled unknown. Early reactions are raving — one memorable bit has Hathaway blasting a T-Rex with a shotgun. Reviewers are calling it the biggest surprise of the summer.",
+      "say": "There's a new movie Friday where Anne Hathaway shotguns a T-Rex — critics are saying it's the surprise of the summer. Looks like a blast. You up for it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=3oB9AxspVow" },
+        { "kind": "web", "text": "Deadline · early reactions", "url": "https://deadline.com/2026/08/the-end-of-oak-street-review-anne-hathaway-ewan-mcgregor-1237031428/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🚢",
+      "tag": "Culture · Film",
+      "headline": "Nolan's 'Odyssey' is now his biggest movie ever — and the summer just crossed $4 billion",
+      "body": "Christopher Nolan's epic 'The Odyssey,' with Matt Damon as Odysseus, has sailed past $1.1 billion to become the highest-grossing film of Nolan's career — and the biggest IMAX release ever. Paired with Spider-Man's monster run, it helped push the summer box office over $4 billion, only the second time that's happened since the pandemic.",
+      "say": "Nolan's Odyssey is now the biggest movie he's ever made — the whole summer just crossed four billion dollars. Movies are officially back. You catch it in IMAX?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ" },
+        { "kind": "web", "text": "Variety · the $4B summer", "url": "https://variety.com/2026/film/box-office/summer-box-office-4-billion-odyssey-spiderman-obsession-backrooms-1236831246/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Becky G goes back to her roots — new album 'Baraja Bendita' drops Friday",
+      "body": "Becky G returns Friday with her fifth album, 'Baraja Bendita' (\"Blessed Deck of Cards\") — a 17-track record she's called a 'reverse crossover' that leans back into her rap roots while weaving in her Latin heritage. The single 'Patrona' — as in 'female boss' — has set the tone.",
+      "say": "Becky G's got a new album Friday — she's going back to rapping on this one. That 'Patrona' single goes hard. You into her stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'PATRONA' official video", "url": "https://www.youtube.com/watch?v=gnPOCwh7HE0" },
+        { "kind": "web", "text": "Billboard · the new album", "url": "https://www.billboard.com/music/latin/becky-g-new-album-baraja-bendita-single-patrona-1236281198/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌪️",
+      "tag": "Culture · Music",
+      "headline": "Afrobeats' brightest star is back — Ayra Starr's 'Starr Girl' arrives Friday",
+      "body": "Nigerian superstar Ayra Starr — the Grammy-nominated voice behind 'Rush' and 'Commas' — releases her third album 'Starr Girl' on Friday. The lead single 'Tornado' kicked off the era with a slick video and a buzzy Tiny Desk performance. One for the end-of-summer playlist.",
+      "say": "Ayra Starr has a new album out Friday — she's that Afrobeats singer who did 'Rush.' Perfect summer-playlist stuff. You come across her yet?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Tornado' official video", "url": "https://www.youtube.com/watch?v=90jy5Jgzb-Y" },
+        { "kind": "web", "text": "uDiscover · new single & album", "url": "https://www.udiscovermusic.com/news/ayra-starr-tornado/" }
+      ]
+    }
+  ]
+}
