@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-13",
+  "label": "Thursday, August 13, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🏆",
+      "tag": "Soccer · UEFA Super Cup",
+      "headline": "PSG do it again — a 2-1 win over Aston Villa keeps the Super Cup in Paris",
+      "body": "Europe's first trophy of the season went to the Champions League holders: PSG edged Aston Villa 2-1 in Salzburg, with Désiré Doué and Khvicha Kvaratskhelia on the scoresheet. It's back-to-back Super Cups for PSG — only AC Milan and Real Madrid had ever done that — and a gutsy showing from Villa in their first Super Cup since 1982.",
+      "say": "Did you catch the Super Cup? PSG beat Aston Villa to win it two years running — Villa hadn't even been in the thing since 1982. The European season's officially back.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "CBS Sports Golazo · extended highlights", "url": "https://www.youtube.com/watch?v=WwQQaXVu-lI" },
+        { "kind": "web", "text": "ESPN · PSG 2-1 Aston Villa — final score", "url": "https://www.espn.com/soccer/match/_/gameId/401873624/aston-villa-paris-saint-germain" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🛡️",
+      "tag": "Esports · Dota 2",
+      "headline": "The biggest event in Dota is live — The International tips off in Shanghai",
+      "body": "The International 2026 got underway today in Shanghai: 16 of the best teams on earth, a Swiss-format group stage running through Aug 16, and the Aegis of Champions waiting at the end. BetBoom came out swinging with two wins on day one. It all streams free.",
+      "say": "The International started today — it's basically the World Cup of Dota, biggest prize in gaming. It's free to watch. You following any of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Live · official TI stream", "url": "https://www.twitch.tv/dota2ti" },
+        { "kind": "web", "text": "Bracket, teams & day-one results", "url": "https://liquipedia.net/dota2/The_International/2026" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Cincinnati Open",
+      "headline": "The last big US Open tune-up starts today — and the men's draw is wide open",
+      "body": "Main-draw play begins at the Cincinnati Open, the final Masters/WTA 1000 before the US Open. The men's field cracked wide open with Sinner and Alcaraz both sitting out injured, while Naomi Osaka just withdrew too — leaving Aryna Sabalenka and Coco Gauff as the women's favorites heading into New York.",
+      "say": "The last big tennis tune-up before the US Open starts today, and the men's side is wide open — Sinner and Alcaraz both skipped it. Anyone's title. You watch the hard-court stuff?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "WTA · Cincinnati draw & favorites", "url": "https://www.wtatennis.com/news/4557737/cincinnati-open-draw-sabalenka-gauff-andreeva-svitolina-osaka-lead-top-half" },
+        { "kind": "web", "text": "Order of play & live results", "url": "https://www.olympics.com/en/news/tennis-cincinnati-open-2026-atp-wta-order-of-play-live-results-scores" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Yankees",
+      "headline": "The Bronx bats erupted — Grisham goes deep twice as the Yankees roll",
+      "body": "The Yankees spoiled an early Seattle lead and pulled away for a 10-5 win, powered by two Trent Grisham home runs and a Spencer Jones extra-base show. Randy Arozarena homered for the Mariners — his 10th at Yankee Stadium, more than he's hit at any road park — but New York's late barrage was too much.",
+      "say": "Yankees put up ten on the Mariners last night — Grisham hit two bombs. Wild-card race is getting fun. You keeping up with the pennant chase?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB · full game highlights", "url": "https://www.mlb.com/video/game/823511" },
+        { "kind": "web", "text": "ESPN · Mariners–Yankees recap", "url": "https://www.espn.com/mlb/game/_/gameId/401816499/mariners-yankees" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · FedExCup Playoffs",
+      "headline": "The FedExCup Playoffs are on — Matsuyama and Tom Kim lead out of the gate",
+      "body": "The postseason opened at the FedEx St. Jude Championship in Memphis, and Hideki Matsuyama and Tom Kim grabbed the early lead after Round 1 at TPC Southwind. Top 70 players, $20M purse, no cut — three weeks of win-or-fall-behind golf with the season title on the line.",
+      "say": "Golf's playoffs teed off today — Matsuyama's out front early. Twenty million bucks, no cut, everyone sweating the standings. You into golf at all?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "PGA Tour · live leaderboard", "url": "https://www.pgatour.com/leaderboard" },
+        { "kind": "web", "text": "Round 1 recap from Memphis", "url": "https://sports.yahoo.com/articles/2026-fedex-st-jude-championship-110135690.html" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐆",
+      "tag": "Culture · Music",
+      "headline": "KATSEYE go full 'WILD' — the buzzy pop group's new EP drops Friday",
+      "body": "The global girl group KATSEYE release their EP 'WILD' on Friday, five tracks led by 'Pinky Up' and the Ed Sheeran-cowritten 'Animal' — whose video features a scene-stealing cameo from Demi Moore, her first music-video appearance in nearly 30 years. They've quietly become one of pop's biggest new acts.",
+      "say": "KATSEYE have a new EP out Friday — that pop group that's blown up this year. Demi Moore randomly shows up in the video. You come across them yet?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'Animal' official MV (feat. Demi Moore)", "url": "https://www.youtube.com/watch?v=m7k9UMcHbr0" },
+        { "kind": "web", "text": "Variety · the 'WILD' EP", "url": "https://variety.com/2026/music/news/katseye-ep-wild-1236722536/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "☀️",
+      "tag": "Culture · Music",
+      "headline": "Perfect end-of-summer soul — Jungle's 'Sunshine' lands Friday",
+      "body": "British neo-soul favorites Jungle drop their fifth album 'Sunshine' on Friday, a warm, danceable record led by singles 'Carry On' and the sun-soaked title track. Their videos are always a whole choreographed event — ideal for a late-August playlist.",
+      "say": "Jungle have a new album out Friday — that British band with the amazing dance videos. Real feel-good summer stuff. You listen to them?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Sunshine' official video", "url": "https://www.youtube.com/watch?v=5f3sMmdG2sg" },
+        { "kind": "web", "text": "DIY · the new album", "url": "https://diymag.com/news/jungle-new-album-sunshine-carry-on" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧟",
+      "tag": "Culture · Film",
+      "headline": "A modern horror classic returns — 'Train to Busan' rides back into theaters Friday",
+      "body": "The Korean zombie thriller everyone eventually recommends turns 10, and it's back on the big screen Friday in a new 4K remaster — the first time it's played US theaters in 4K. If you've never seen the last-stand-on-a-train masterpiece, this is the way to do it.",
+      "say": "They're re-releasing Train to Busan in theaters Friday for its 10th anniversary — that Korean zombie movie is genuinely one of the best. Have you seen it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "10th Anniversary official trailer", "url": "https://www.youtube.com/watch?v=fVEURju797Y" },
+        { "kind": "web", "text": "FirstShowing · the re-release", "url": "https://www.firstshowing.net/2026/new-10th-anniversary-trailer-for-train-to-busan-korean-zombie-classic/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · TV",
+      "headline": "Camp Rock is back — and so are the Jonas Brothers",
+      "body": "Nostalgia alert: 'Camp Rock 3' hits Disney Channel tonight and Disney+ on Friday, reuniting Joe, Nick and Kevin Jonas at the old summer camp as their band hunts for the next big opening act. Pure throwback comfort viewing for anyone who grew up on the first two.",
+      "say": "There's a Camp Rock 3 dropping this week — the Jonas Brothers are all back. If you were around for the first ones, that's a hit of nostalgia. You a fan?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=02-RDIZ5Rdw" },
+        { "kind": "web", "text": "Disney+ · release & first look", "url": "https://www.disneyplus.com/explore/articles/camp-rock-3-movie" }
+      ]
+    }
+  ]
+}
