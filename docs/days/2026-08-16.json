@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-16",
+  "label": "Sunday, August 16, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Community Shield",
+      "headline": "Arsenal grab the first trophy in 23 seconds — 3-0 over Man City",
+      "body": "The season's curtain-raiser was over almost before it began: Riccardo Calafiori scored inside 23 seconds, Kai Havertz and Martin Odegaard piled on, and Arsenal lifted the Community Shield in Cardiff. Ouch for Enzo Maresca in his first competitive game as City's boss.",
+      "say": "Did you see Arsenal score 23 seconds into the season? City barely got off the bus.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "ESPN · match highlights", "url": "https://www.espn.com/soccer/match/_/gameId/670111" },
+        { "kind": "web", "text": "UEFA recap", "url": "https://www.uefa.com/news-media/news/0218-0f8feb63b942-feff8a11ad4d-1000--arsenal-defeat-city-to-lift-community-shield/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Cardinals",
+      "headline": "The greatest debut ever? Joshua Báez homers in his first 3 at-bats",
+      "body": "Called up from Triple-A hours earlier, Cardinals rookie Joshua Báez became the first player in MLB history to homer three times in his debut — a 449-foot bomb on the very first pitch he saw, then two more. He had 30 family members watching at Wrigley.",
+      "say": "A kid gets called up, and homers on the first big-league pitch he sees — then does it twice more. Wildest debut ever.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "All three homers", "url": "https://www.youtube.com/watch?v=uqTWvqdGc4w" },
+        { "kind": "web", "text": "MLB.com recap", "url": "https://www.mlb.com/news/joshua-baez-mlb-debut" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "🔥",
+      "tag": "MLB · Brewers-Dodgers",
+      "headline": "Rookie flamethrower stares down Ohtani — and wins",
+      "body": "In a battle of division leaders, Brewers phenom Jacob Misiorowski hit 102 mph on his first six pitches to Shohei Ohtani, then fanned Ohtani and Freddie Freeman to escape a bases-loaded jam. Milwaukee beat the Dodgers 4-1.",
+      "say": "There's a 24-year-old kid throwing 102 and striking out Ohtani with the bases loaded. Baseball's fun again.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ohtani vs. Misiorowski — every at-bat", "url": "https://www.youtube.com/watch?v=kiJgHNwvtjs" },
+        { "kind": "web", "text": "Game recap", "url": "https://www.espn.com/mlb/recap?gameId=401816545" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Preseason",
+      "headline": "Rams rookie Ty Simpson looks the part — 21-of-25, 2 TDs",
+      "body": "Football's easing back in. The Rams' rookie QB — this year's most-debated first-rounder — went 21-of-25 for 190 yards and two scores to Dean Connors in a 20-12 preseason win over the Chiefs. Small sample, big buzz.",
+      "say": "Did you catch the Rams' rookie QB in preseason? 21 of 25 — looked way too comfortable for August.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Rams · Ty Simpson's best plays", "url": "https://www.therams.com/video/ty-simpson-best-plays-preseason-week-1-win-vs-kansas-city-chiefs" },
+        { "kind": "web", "text": "NFL.com game highlights", "url": "https://www.nfl.com/videos/rams-vs-chiefs-highlights-preseason-week-1" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "IndyCar · Markham",
+      "headline": "IndyCar races through the streets of Canada for the first time",
+      "body": "Something new today: the inaugural Ontario Honda Dealers Indy at Markham sends open-wheel cars tearing around a brand-new street circuit outside Toronto. Green flag this afternoon on FOX.",
+      "say": "IndyCar's running its first-ever street race in Canada today — those cars flying between the guardrails is a sight.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "yt", "text": "Race preview", "url": "https://www.youtube.com/watch?v=5mBTWHYzk48" },
+        { "kind": "web", "text": "How to watch (FOX Sports)", "url": "https://www.foxsports.com/stories/motor/how-watch-2026-indycar-markham-start-time-tv-channel-streaming-schedule" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Spider-Man is eating the box office — 'Brand New Day' three-peats at No. 1",
+      "body": "It already broke Avengers: Endgame's all-time opening record, and now 'Spider-Man: Brand New Day' has held No. 1 for a third straight weekend and become the highest-grossing movie of 2026 — over $1.1 billion and counting.",
+      "say": "Spider-Man's now the biggest movie of the year — it topped the box office three weekends in a row.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Final trailer", "url": "https://www.youtube.com/watch?v=P3uI5sLosKU" },
+        { "kind": "web", "text": "Variety · box office", "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-highest-grossing-movie-box-office-1236828413/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "A whole neighborhood gets yanked into space — 'The End of Oak Street' opens",
+      "body": "The counter-programming this weekend is wild: Ewan McGregor and Anne Hathaway star in a sci-fi survival thriller where a cosmic event rips their entire suburban street off the map and drops it somewhere unknown. From the director of 'It Follows.'",
+      "say": "New McGregor–Hathaway movie where a whole cul-de-sac gets teleported into space. That's a premise.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=3oB9AxspVow" },
+        { "kind": "web", "text": "About the film", "url": "https://en.wikipedia.org/wiki/The_End_of_Oak_Street" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "King Gizzard surprise-drop a techno album — their 28th record",
+      "body": "The band that never stops dropped 'Alien Metal' out of nowhere — and despite the name, they ditched the guitars for eight uptempo, rave-ready techno tracks. Fans are calling it their weirdest swerve yet, which is saying something.",
+      "say": "King Gizzard put out their 28th album with zero warning — and it's a techno record. These guys never sleep.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Alien Metal' visualiser", "url": "https://www.youtube.com/watch?v=rdQyYsl_rDs" },
+        { "kind": "web", "text": "Stereogum", "url": "https://www.stereogum.com/2508246/king-gizzard-the-lizard-wizards-new-album-alien-metal-is-out-now/music/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Lanterns' is finally here — DC's space-cop mystery lands tonight",
+      "body": "It premieres tonight on HBO: Aaron Pierre and Kyle Chandler play Green Lanterns John Stewart and Hal Jordan, but this is less superhero spectacle and more slow-burn True Detective-style murder mystery in the American heartland.",
+      "say": "The new 'Lanterns' show drops tonight — it's basically Green Lantern meets True Detective. In for that.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=7UIBOsuUwc4" },
+        { "kind": "web", "text": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-premiere-date-new-trailer-hbo-dc-studios-1236598640/" }
+      ]
+    }
+  ]
+}
