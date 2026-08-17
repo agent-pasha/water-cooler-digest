@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-17",
+  "label": "Monday, August 17, 2026",
+  "items": [
+    {
+      "cat": "ufc",
+      "emoji": "🥋",
+      "tag": "UFC · UFC 330",
+      "headline": "Makhachev makes history — 17 straight wins, a new UFC record",
+      "body": "A bloodied Islam Makhachev outlasted Ian Machado Garry by unanimous decision in Philadelphia to keep his welterweight belt and push his win streak to 17 — passing Anderson Silva's legendary mark for the longest in UFC history.",
+      "say": "Did you catch Makhachev? He just broke the UFC's all-time win-streak record.",
+      "watch": "▶ Watch the finish",
+      "links": [
+        { "kind": "web", "text": "UFC 330 results", "url": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · FedExCup Playoffs",
+      "headline": "Scottie Scheffler runs away with it — an 8-shot win at the St. Jude",
+      "body": "Scheffler closed out the FedEx St. Jude Championship by eight, the biggest winning margin in the event's 68-year history, ending a nearly seven-month drought and grabbing the No. 1 seed heading into the FedExCup Playoffs.",
+      "say": "Scheffler won by eight this weekend — is anyone else even close right now?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Course-record 61", "url": "https://www.youtube.com/watch?v=OyZFGy8Ihl4" },
+        { "kind": "web", "text": "PGA Tour recap", "url": "https://www.pgatour.com/article/news/latest/2026/08/16/fedex-st-jude-championship-winner-scotties-scheffler-tpc-southwind-results-storylines" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Cincinnati Open",
+      "headline": "Sabalenka survives a scare — six match points to get past Gibson",
+      "body": "World No. 1 Aryna Sabalenka rifled 13 aces on a hot, gusty day in Cincinnati but needed six match points to shake off qualifier Talia Gibson, 6-2, 7-6(2), in a bumpy US Open tune-up.",
+      "say": "Sabalenka needed six match points to close one out — brutal in that wind.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Match highlights", "url": "https://www.youtube.com/watch?v=8-5mOFtiqoY" },
+        { "kind": "web", "text": "WTA report", "url": "https://www.wtatennis.com/news/4560847/sabalenka-rips-13-aces-on-hot-gusty-day-in-cincy-to-power-past-gibson" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Mariners",
+      "headline": "Big swings in Houston — Raleigh and Arozarena down the Astros",
+      "body": "Cal Raleigh snapped a homer drought and Randy Arozarena went deep in the first inning as the Mariners edged the AL West-leading Astros 3-2 in a Sunday night thriller.",
+      "say": "Cal Raleigh's back to mashing — Seattle just stole one from the Astros in Houston.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB game story", "url": "https://www.mlb.com/stories/game/824156" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Dota 2",
+      "headline": "The field's set for Dota's biggest stage — TI playoffs begin Thursday",
+      "body": "The International's group stage wrapped in Shanghai with eight teams left standing — Team Vision on top, defending champs Team Falcons still alive, and Cinderella squad Iron Wing crashing the party — with the Aegis on the line starting Aug 20.",
+      "say": "The International playoffs start Thursday — eight teams left and millions on the line.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Iron Wing punch their ticket", "url": "https://www.youtube.com/watch?v=ifiMczHJO9E" },
+        { "kind": "web", "text": "TI 2026 schedule & results", "url": "https://dotesports.com/dota-2/news/dota-2-ti-2026-schedule-results" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "😎",
+      "tag": "Culture · TV",
+      "headline": "The Gang's back tonight — 'It's Always Sunny' returns for Season 18",
+      "body": "TV's longest-running live-action sitcom kicks off a full 10-episode season on FXX tonight, complete with a Renaissance faire, a wedding, and every degenerate you remember from Paddy's Pub.",
+      "say": "New 'Always Sunny' starts tonight — a Ren faire AND a wedding, apparently.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Season 18 trailer", "url": "https://www.youtube.com/watch?v=0uGkGEwOZs8" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏝️",
+      "tag": "Culture · TV",
+      "headline": "The Pogues ride off for good — 'Outer Banks' drops its final season Thursday",
+      "body": "Netflix's treasure-hunt hit returns for its fifth and final chapter on Aug 20 — all 10 episodes at once — with the crew out for revenge after last season's gut-punch.",
+      "say": "Outer Banks' last season lands Thursday — perfect binge for the weekend.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Final season trailer", "url": "https://www.youtube.com/watch?v=ZP_-xfWQ6_U" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👻",
+      "tag": "Culture · Film",
+      "headline": "Spooky season starts early — 'Insidious: Out of the Further' opens Friday",
+      "body": "The sixth Insidious film creeps into theaters Aug 21, following a young mom who discovers she can cross into The Further — Lin Shaye's haunted realm of lost souls.",
+      "say": "New Insidious hits theaters Friday if you're up for a good scare.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=jxU8FU3o75A" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "Trippie Redd drops a 25-track monster — 'NDA' is here",
+      "body": "Trippie Redd's sixth album landed stacked with features — Lil Wayne, Young Thug, Sexyy Red — led by the eerie, Backrooms-inspired video for 'SWAGGER.'",
+      "say": "You hear the new Trippie Redd album? Twenty-five tracks — the 'SWAGGER' video is wild.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'SWAGGER' video", "url": "https://www.youtube.com/watch?v=hKbk4Hqzj18" }
+      ]
+    }
+  ]
+}
