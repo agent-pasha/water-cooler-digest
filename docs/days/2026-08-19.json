@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-19",
+  "label": "Wednesday, August 19, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Greenwood rescues Fener — 1-1 with Lyon in the CL playoff",
+      "body": "Mason Greenwood's strike right after halftime cancelled out Loïs Openda's header, leaving the Champions League playoff tie all square before next week's return leg in Lyon. Win it and you're in the group stage; lose it and you drop to the Europa League.",
+      "say": "Did you catch Greenwood bailing out Fenerbahçe against Lyon? That playoff second leg is going to be must-watch.",
+      "watch": "▶ The goals everyone saw",
+      "links": [
+        { "kind": "web", "text": "ESPN · Match recap", "url": "https://www.espn.com/soccer/match/_/gameId/401909204/lyon-fenerbahce" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Cubs",
+      "headline": "Wrigley's walk-off machine strikes again — Bregman sinks the Sox",
+      "body": "Alex Bregman tied it late, then won it with a two-out single — the Cubs' second straight walk-off over the crosstown White Sox. It's their 13th walk-off win of the year, the most in baseball and a franchise record that ties the 2015 club.",
+      "say": "The Cubs have 13 walk-off wins already this year — how are they that good at winning in the last at-bat?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB · Bregman's walk-off single", "url": "https://www.mlb.com/cubs/video/trevor-richards-in-play-run-s-to-alex-bregman" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "🥎",
+      "tag": "Baseball · Little League World Series",
+      "headline": "The best two weeks of summer are here — LLWS first pitch today",
+      "body": "The Little League World Series opens in Williamsport with four games on ESPN, 20 teams chasing the title through Aug 30. It's the annual dose of pure joy: walk-off dogpiles, dugout dances and cameras cutting to nervous dads in the stands.",
+      "say": "Little League World Series started today — those kids play with zero fear, it's the most fun baseball of the year.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN · LLWS schedule & results", "url": "https://www.espn.com/llws/story/_/id/49490865/2026-little-league-world-series-baseball-softball-schedule-results-how-watch" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · FedExCup Playoffs",
+      "headline": "Playoff golf, round 2 — the BMW Championship tees off Thursday",
+      "body": "The FedExCup Playoffs roll into St. Louis' Bellerive with just 50 players and no cut. Only the top 30 punch their ticket to the Tour Championship, so it's crunch time for the bubble — with Scheffler, McIlroy and Schauffele leading the way.",
+      "say": "The BMW Championship starts Thursday — top 30 make it to East Lake, so this is where the FedExCup gets real.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "GOLF.com · How to watch", "url": "https://golf.com/news/2026-bmw-championship-tv-schedule-watch-tee-times/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Jason Statham vs. a whole cargo ship — 'Mutiny' opens Friday",
+      "body": "Statham plays a man framed for his billionaire boss's murder who boards a freighter on a one-man revenge mission and stumbles into an international conspiracy. Exactly the meat-and-potatoes action you'd order from him.",
+      "say": "New Jason Statham movie this weekend — he's on a cargo ship taking out bad guys. You basically already know if you're in.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official Trailer", "url": "https://www.youtube.com/watch?v=FKSdXH89jbo" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Weezer's 20th album lands Friday — yep, another self-titled one",
+      "body": "The 'Gold Album' is Weezer's seventh self-titled record and their 20th overall, led by the single 'We Might As Well Be Strangers' featuring indie darlings Wednesday.",
+      "say": "Weezer just dropped their 20th album — and it's another self-titled one. At this point it's a running joke.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'We Might As Well Be Strangers' video", "url": "https://www.youtube.com/watch?v=GyE8bkeSt8w" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Music",
+      "headline": "The Killers' frontman goes full country — Brandon Flowers' 'THRASHER'",
+      "body": "Brandon Flowers' first solo album in 11 years arrives Friday, cut at Nashville's historic RCA Studio A — a full-on pivot into country and Americana, a long way from Las Vegas synth-rock.",
+      "say": "The Killers' singer just made a straight-up country album — heard the single 'Plans'? It's a real turn.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Plans' (Live from RCA Studio A)", "url": "https://www.youtube.com/watch?v=g5kuOomwvs0" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Conan hits the road again — 'Must Go' Season 3 drops Friday",
+      "body": "'Conan O'Brien Must Go' returns on HBO Max with four new episodes, this time barging in on unsuspecting fans in the Philippines, India, Morocco and Amsterdam. One man, four countries, zero shame.",
+      "say": "New season of Conan O'Brien Must Go this week — him ambushing random fans around the world never stops being funny.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Season 3 Official Trailer", "url": "https://www.youtube.com/watch?v=TcX6cGOq-9A" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "The Linda Lindas + Hayley Williams — 'Closer' is the collab of the week",
+      "body": "The teen punk sensations teamed up with Paramore's Hayley Williams — who flew out to co-write the bridge in person — on 'Closer', the buzzy new single ahead of their album 'Gotta Get Out'.",
+      "say": "The Linda Lindas got Hayley Williams from Paramore on their new song — the young band that went viral years ago is all grown up now.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Closer' (Official Visualizer)", "url": "https://www.youtube.com/watch?v=vXPtx-Le-Jw" }
+      ]
+    }
+  ]
+}
