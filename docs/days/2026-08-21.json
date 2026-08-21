@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-21",
+  "label": "Friday, August 21, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "The Premier League is BACK tonight — Arsenal open the title defense vs Coventry",
+      "body": "The long summer's over: reigning champions Arsenal kick off the 2026-27 season at home tonight against newly promoted Coventry City (3pm ET, USA Network). Ten months of football starts here, and the rest of the weekend is stacked — Man United at Hull, Spurs at Brentford, the whole circus rolling back into gear.",
+      "say": "Premier League's back tonight — Arsenal start their title defense against Coventry. Feels like the summer flew by. You got a team you follow?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Premier League · all 380 fixtures for 2026/27", "url": "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season" },
+        { "kind": "web", "text": "NBC Sports · how to watch the new season", "url": "https://www.nbcsports.com/pressbox/press-releases/the-premier-league-is-back-the-2026-27-season-begins-in-three-days-across-nbcuniversal-platforms-featuring-nbc-sports-premier-league-live-studio-team-on-the-ground-in-the-u-k" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Dutch Grand Prix",
+      "headline": "Russell nicks a shock Sprint pole at Zandvoort — and the title leader ends up in the gravel",
+      "body": "F1's back from the break and it started with a jolt: George Russell pulled a stunner out of nowhere to grab Sprint pole by 0.041s over Lando Norris — after topping neither of the first two segments. Meanwhile 19-year-old points leader Kimi Antonelli slid into the gravel and could only manage fifth. The Sprint runs Saturday, the last-ever Dutch GP on Sunday.",
+      "say": "F1 came back from break and George Russell grabbed a surprise sprint pole while the teenage kid leading the title spun off into the gravel. Should be a fun one at Zandvoort. You keeping up with this season?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "F1.com · Russell charges to Sprint pole", "url": "https://www.formula1.com/en/latest/article/russell-charges-to-pole-position-in-dutch-grand-prix-sprint-qualifying-ahead-of-norris.4agXz49Klz5hEljnOkKRwa" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "CS2's $2M finale is in Paris — the Esports World Cup hits the quarterfinals today",
+      "body": "The biggest Counter-Strike event of late summer is down to the business end: the Esports World Cup playoffs are in Paris with $2 million on the line, and today's quarterfinals include a monster Vitality vs Team Spirit clash. Reigning champs The MongolZ are trying to defend, with the grand final at the Accor Arena on Sunday. All free to stream.",
+      "say": "The big Counter-Strike tournament in Paris is down to the quarterfinals today — two million bucks on the line, Vitality vs Spirit is the one to watch. You still follow CS at all?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "HLTV · Esports World Cup 2026 hub", "url": "https://www.hltv.org/events/8261/esports-world-cup-2026" },
+        { "kind": "web", "text": "esports.gg · bracket, schedule & results", "url": "https://esports.gg/news/counter-strike-2/ewc-2026-cs2-overview-results/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Cubs",
+      "headline": "Leadoff bomb, walk-off bomb — Pete Crow-Armstrong bookends a game with home runs",
+      "body": "Cubs center fielder Pete Crow-Armstrong did something only five players had ever done: he homered on the very first swing of the game, then ended it with a two-run walk-off shot in the 10th to beat the White Sox 7-5. He's the only player besides Vic Power in 1957 to do it starting with a first-pitch leadoff homer. Manager Craig Counsell called it his best game in the bigs.",
+      "say": "A Cubs guy homered on the first pitch of the game AND hit the walk-off to win it — only the sixth player ever to do that. What a way to bookend a night. You catch much baseball?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "PCA's walk-off homer", "url": "https://www.youtube.com/watch?v=xygLQdYDjHI" },
+        { "kind": "web", "text": "MLB.com · leadoff and walk-off in one game", "url": "https://www.mlb.com/news/pete-crow-armstrong-hits-walk-off-homer-for-cubs-to-beat-white-sox" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏁",
+      "tag": "Culture · Film",
+      "headline": "Where it all began — 'The Fast and the Furious' roars back for its 25th anniversary",
+      "body": "Before the space cars and the impossible stunts, it was just a cop, a street racer, and a pile of tuna sandwiches. The original 2001 film is back on the big screen for its 25th anniversary — Vin Diesel, the late Paul Walker, and the quarter-mile that launched a $7 billion franchise. Pure nostalgia fuel.",
+      "say": "They put the original Fast and the Furious back in theaters for its 25th anniversary — the first one, before it got completely ridiculous. Kind of wild it's been that long. You a fan of those movies?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "25th Anniversary re-release trailer", "url": "https://www.youtube.com/watch?v=iIU1xlDbbQk" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎙️",
+      "tag": "Culture · Music",
+      "headline": "Sam Smith's 'Hazel Eyes' is here — a love letter to New York",
+      "body": "Sam Smith's fifth album lands today, and it's their warmest, most personal yet — billed as an ode to New York, where the London native now lives, with help from Feist and Rob Moose. The lead single 'My Guy' is stripped-back and soulful, all that big voice and not much else. Easy Friday listening.",
+      "say": "New Sam Smith album out today — it's supposed to be this whole love letter to New York. The single 'My Guy' is really pretty. What's been on your playlist lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'My Guy' (Official Video)", "url": "https://www.youtube.com/watch?v=K0G7jODNtEo" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐺",
+      "tag": "Culture · TV",
+      "headline": "The greatest dynasty in college hoops gets its documentary — UConn's story drops today",
+      "body": "'The Dynasty: UConn Huskies' hits Apple TV today — a three-part deep-dive into Geno Auriemma's 40-year juggernaut, the most dominant program in college basketball history. It pulls in basically everyone: Sue Bird, Diana Taurasi, Maya Moore, Breanna Stewart, and current stars Paige Bueckers and Azzi Fudd. A must for any hoops fan.",
+      "say": "There's a new doc on Apple TV about the UConn women's basketball dynasty — Sue Bird, Taurasi, all of them. That program has been unbelievable for like 40 years. You watch much college hoops?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=qygK7CQUe_o" },
+        { "kind": "web", "text": "Apple TV · about the series", "url": "https://www.apple.com/tv-pr/originals/the-dynasty-uconn-huskies/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Jorja Smith goes to the dancefloor — 'What Are The Odds' lands today",
+      "body": "The British soul star's third album is out today, and it's her most danceable yet — reuniting with producer P2J and led by the sultry single 'Alive' featuring Afrobeats superstar Wizkid, its video shot across one sweaty summer night in Paris. Smooth, late-summer stuff.",
+      "say": "New Jorja Smith album out today — she went more dance-y this time, and there's a great one with Wizkid on it. Really good end-of-summer vibe. You know her?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Alive' feat. Wizkid", "url": "https://www.youtube.com/watch?v=KkDHSWq7XGw" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Fever",
+      "headline": "Kelsey Mitchell just won't stop scoring — a WNBA record 21 straight 20-point games",
+      "body": "Indiana's Kelsey Mitchell poured in a game-high 37 (a perfect 15-for-15 at the line) and set a WNBA record with her 21st consecutive 20-point game, passing A'ja Wilson. The Fever fell 91-85 to Dallas — Arike Ogunbowale answered with 32 — but Mitchell's run is one of the great hot streaks the league's ever seen.",
+      "say": "Caitlin Clark's teammate Kelsey Mitchell just set a WNBA record — 21 straight games scoring 20-plus, and she went 15-for-15 from the line. The Fever have been fun to watch this year. You catch any WNBA?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "TSN · Mitchell sets the record", "url": "https://www.tsn.ca/wnba/article/fevers-mitchell-sets-wnba-record-for-consecutive-20-point-games-n1-49676949/" },
+        { "kind": "web", "text": "WNBA · Fever vs Wings box score", "url": "https://www.wnba.com/game/ind-vs-dal-1022600269" }
+      ]
+    }
+  ]
+}
