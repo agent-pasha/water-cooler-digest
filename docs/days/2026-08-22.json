@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-22",
+  "label": "Saturday, August 22, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🐯",
+      "tag": "Soccer · Premier League",
+      "headline": "Mauled by the Tigers — newly promoted Hull stun Manchester United 2-0 on opening day",
+      "body": "Well, that's a way to start the season. Back in the Premier League after nearly a decade away, Hull City ambushed Manchester United 2-0 at the MKM Stadium — both goals from center-backs, Semi Ajayi and Nobel Mendy, off set pieces whipped in by Regan Slater. United looked shell-shocked, and Hull's fans lost their minds.",
+      "say": "Did you see Hull beat Man United on opening day? First game back in the league in like ten years and they win 2-0. United fans must be furious already. You follow the Premier League at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Sports Mole · match report & highlights", "url": "https://www.sportsmole.co.uk/football/hull-city/result/mauled-by-the-tigers-hull-city-secure-shock-victory-against-man-utd_603522.html" },
+        { "kind": "web", "text": "NBC Sports · United shocked on opening day", "url": "https://www.nbcsports.com/soccer/news/manchester-united-shocked-by-newly-promoted-hull-city-on-opening-day" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Dutch Grand Prix",
+      "headline": "George Russell just won't quit — he wins the Zandvoort Sprint lights-to-flag",
+      "body": "A day after nicking a shock Sprint pole, George Russell backed it up: he led every one of the 24 laps to win Saturday's Dutch GP Sprint ahead of Charles Leclerc and Lando Norris, with title leader Kimi Antonelli fourth and home hero Max Verstappen only sixth. Rain hit right as he crossed the line — a lap earlier and it might've been chaos. The last-ever Dutch GP runs Sunday.",
+      "say": "Russell's been the man at Zandvoort — grabbed the sprint pole then went and won the sprint too. The actual race is Sunday, and it's the last-ever Dutch Grand Prix. You keeping up with F1 this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "F1.com · Russell surges to Sprint victory", "url": "https://www.formula1.com/en/latest/article/russell-surges-to-victory-in-zandvoort-sprint-ahead-of-leclerc-and-norris.3evWfVZ0yONnfGGp3t8qyK" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "CS2's $2M weekend hits the semis in Paris — and a Cinderella just knocked out the Major champs",
+      "body": "The Esports World Cup Counter-Strike finale is down to four in Paris, and the story is Legacy — the underdogs bounced reigning Major winners Team Falcons 2-0 to reach the semis. Today it's FURIA vs FUT and Legacy vs Team Spirit, with the $2 million grand final at the Accor Arena on Sunday. All free to stream.",
+      "say": "The big Counter-Strike tournament in Paris is down to the final four — some underdog team just knocked out the reigning champs. Two million bucks on the line Sunday. You still watch any CS?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "dotesports · EWC 2026 CS2 bracket, schedule & streams", "url": "https://dotesports.com/counter-strike/news/cs2-ewc-2026-schedule-results" },
+        { "kind": "web", "text": "BLAST.tv · Esports World Cup 2026 CS2 hub", "url": "https://blast.tv/cs/tournaments/esports-world-cup-2026-cs2/match" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🛡️",
+      "tag": "Esports · Dota 2",
+      "headline": "The Aegis is one win away — Team Vision are first into The International grand final",
+      "body": "Dota's biggest night is nearly here: Team Vision beat Team Yandex 2-1 in the upper-bracket final in Shanghai to book the first spot in Sunday's International grand final, where a $3.19M prize and the Aegis of Champions await. Defending champs Team Falcons are still clawing through the lower bracket to try to meet them.",
+      "say": "The International — basically the Super Bowl of Dota — has its grand final Sunday, and Team Vision are already through. Millions on the line and it's free to watch. You into any esports?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Team Vision vs Team Yandex — highlights", "url": "https://www.youtube.com/watch?v=11Srt2jI7aI" },
+        { "kind": "web", "text": "GosuGamers · Vision reach the grand final", "url": "https://www.gosugamers.net/dota2/news/79025-team-vision-are-the-first-team-to-advance-to-the-international-2026-grand-finals" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · White Sox",
+      "headline": "Down 4-0, then bedlam — White Sox go back-to-back-to-back and walk it off",
+      "body": "Wild night on the South Side. The AL Central-leading White Sox were down 4-0 to the Mets before Miguel Vargas, Randal Grichuk and Colson Montgomery went back-to-back-to-back in the 6th, then journeyman catcher Jake Rogers ended it with a two-run walk-off homer in the 9th — the first walk-off of his career — for a 6-4 win.",
+      "say": "The White Sox were down 4-0, hit three homers in a row to climb back, then won it on a walk-off in the ninth. Baseball's a crazy sport sometimes. You catch much baseball this time of year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com · Rogers' walk-off caps the comeback", "url": "https://www.mlb.com/news/jake-rogers-walk-off-hr-white-sox-vs-mets" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Spidey just won't leave No. 1 — 'Brand New Day' owns a FOURTH straight weekend",
+      "body": "The box office belongs to Spider-Man: 'Brand New Day' — already the biggest movie of 2026 at over $1.1 billion — is holding the top spot for a fourth weekend in a row. The new challenger, horror sequel 'Insidious: Out of the Further,' opens in second with a solid-if-modest debut around $24M, the franchise's smallest opening in 11 years but still a tidy profit.",
+      "say": "Spider-Man's been number one at the box office four weekends running — it's officially the biggest movie of the year. Have you gotten out to see it yet, or are you waiting for streaming?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Deadline · Spider-Man holds, Insidious 6 opens", "url": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Rex Orange County and Daniel Caesar reunite — 'Indecision' is the soft-focus song of the week",
+      "body": "Two of the most soothing voices in music got back together: Rex Orange County and Daniel Caesar's new ballad 'Indecision' is a warm, second-guessing slow-burner that landed BBC Radio 1's Hottest Record, with a dreamy video shot out in Montana. Perfect late-summer, windows-down listening.",
+      "say": "Rex Orange County and Daniel Caesar have a new song out together — really pretty, mellow one called 'Indecision.' Good end-of-summer vibe. What's been on your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Indecision' (Official Video)", "url": "https://www.youtube.com/watch?v=uh0SpzMsZAs" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "A 2000s indie fever dream — The Strokes & LCD Soundsystem headline Just Like Heaven today",
+      "body": "If you grew up on skinny jeans and blog-rock, today's your day: the Just Like Heaven festival takes over the Rose Bowl grounds in Pasadena with The Strokes and LCD Soundsystem up top, plus Feist, Chromeo and TV Girl. One day, no camping, pure indie nostalgia — the kind of lineup that would've melted a 2007 iPod.",
+      "say": "There's a festival in LA today that's basically peak-2000s indie — The Strokes, LCD Soundsystem, Feist. Total nostalgia trip. You have a band from back then you'd drop everything to see?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "The Strokes · 'Reptilia' (Official Video)", "url": "https://www.youtube.com/watch?v=b8-tXG8KrWs" },
+        { "kind": "web", "text": "Time Out LA · things to do this weekend", "url": "https://www.timeout.com/los-angeles/things-to-do/things-to-do-in-la-this-weekend" }
+      ]
+    }
+  ]
+}
