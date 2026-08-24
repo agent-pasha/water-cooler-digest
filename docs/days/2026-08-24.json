@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-24",
+  "label": "Monday, August 24, 2026",
+  "items": [
+    {
+      "cat": "esports",
+      "emoji": "🏆",
+      "tag": "Esports · Counter-Strike",
+      "headline": "Team Spirit do the double in Paris — CS2 kings win the Esports World Cup, donk named MVP",
+      "body": "Team Spirit closed out the whole Esports World Cup by beating Türkiye's FUT Esports 3-1 in the Paris grand final. They dropped the opener on Cache, ground out two nervy overtime maps, then ran away 13-5 on Nuke to lift the $600K trophy. Nineteen-year-old superstar donk was untouchable — 88 kills, a 91.9 rating — and walked off with MVP.",
+      "say": "Team Spirit just won that big Counter-Strike event in Paris — the kid donk was the best player there by a mile. You keep up with any CS?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Spirit vs Legacy — EWC semifinal highlights", "url": "https://www.youtube.com/watch?v=3h-YQCUoIoo" },
+        { "kind": "web", "text": "talkEsport — Spirit crowned champions", "url": "https://www.talkesport.com/news/cs2/team-spirit-wins-cs2-esports-world-cup-2026/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · FedExCup Playoffs",
+      "headline": "Wyndham Clark birdies the last three to hold off Rory — the BMW Championship is his",
+      "body": "Clark took a five-shot lead into Sunday at Bellerive, wobbled with a few 'dumb bogeys' as Rory McIlroy charged, then slammed the door — birdies on each of the final three holes to win by three at 17 under. He heads to next week's Tour Championship with a real shot at the whole FedExCup.",
+      "say": "Wyndham Clark birdied the last three holes to win the BMW and hold off Rory. The FedExCup wraps up next week — you follow golf at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "PGA TOUR — final round highlights", "url": "https://www.youtube.com/watch?v=PsJvcITOVRc" },
+        { "kind": "web", "text": "ESPN — Clark's win at Bellerive", "url": "https://www.espn.com/golf/story/_/id/49696343/bmw-championship-2026-fourth-round-sights-sounds-best-shots" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Cincinnati Open",
+      "headline": "All-American in Cincy — Coco Gauff beats Pegula for her second title, no sets dropped",
+      "body": "Coco Gauff cruised past fellow American Jessica Pegula 6-2, 6-4 to win the Cincinnati Open without dropping a single set all week — her second Cincy crown and fourth WTA 1000 title, joining Serena and Azarenka as the only women to win it twice in the Open Era. Perfect timing, too: the US Open main draw starts this weekend in New York.",
+      "say": "Coco Gauff won Cincinnati without dropping a set — she's rolling into the US Open, which starts this weekend. Feels like it's set up for her.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "WTA — Gauff vs Pegula final highlights", "url": "https://www.youtube.com/watch?v=Z2_awLHqcww" },
+        { "kind": "web", "text": "Tennis Majors — Gauff downs Pegula", "url": "https://www.tennismajors.com/wta-tour-news/coco-gauff-downs-jessica-pegula-to-win-second-cincinnati-title-859284.html" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Ninety-ninth minute! Szoboszlai's penalty rescues Liverpool at Newcastle in a wild 2-2",
+      "body": "New Liverpool boss Andoni Iraola's first league game was a rollercoaster. Newcastle led through Anthony Elanga, Cody Gakpo levelled with a classy finish, sub Joe Willock nudged the Magpies back ahead — then, deep into nine minutes of stoppage time, Dominik Szoboszlai buried a penalty at the death for a 2-2 draw. Fulham-Chelsea tonight closes out opening weekend.",
+      "say": "Did you see Liverpool nick a point at Newcastle with a penalty in like the 99th minute? Absolute chaos. Chelsea play tonight to wrap the first weekend.",
+      "watch": "▶ The goals everyone saw",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — extended highlights", "url": "https://www.nbcsports.com/watch/watch/premier-league/extended-highlights-newcastle-united-2-liverpool-2-matchweek-1" },
+        { "kind": "web", "text": "Sky Sports — match report", "url": "https://www.skysports.com/football/news/11661/13567632/newcastle-2-2-liverpool-dominik-szoboszlai-snatches-last-minute-leveller-from-penalty-spot-to-rescue-andoni-iraola" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Preseason",
+      "headline": "Cutdown week is here — and the Browns' QB mess is the one everyone's watching",
+      "body": "The NFL's final preseason games (Aug 27-29) are the last auditions before rosters trim to 53 by Aug 30. The juiciest battle: Cleveland's Shedeur Sanders vs Deshaun Watson for the starting job, with drama in Indy (Richardson vs Leonard) and a four-deep quarterback room in Pittsburgh too. Real football is almost back.",
+      "say": "It's NFL cutdown week — the Browns still can't sort out their quarterback, Shedeur Sanders vs Watson. Who's your team this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — preseason takeaways & roster questions", "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions" },
+        { "kind": "web", "text": "CBS Sports — preseason QB storylines", "url": "https://www.cbssports.com/nfl/news/nfl-preseason-storylines-2026-qb-injuries-aaron-donald/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Awards season lifts off — the Venice Film Festival opens next week with Danny Boyle's 'Ink'",
+      "body": "The fall movie race kicks off at Venice on Sept 2, opening with Danny Boyle's 'Ink' — a juicy Rupert Murdoch/tabloid drama starring Jack O'Connell, Guy Pearce and Claire Foy — with Maggie Gyllenhaal presiding over the jury. Twenty films chase the Golden Lion, and Venice launchers have a habit of becoming Oscar frontrunners.",
+      "say": "The Venice Film Festival kicks off next week — it's basically where the Oscar race starts. Danny Boyle's got the opening film. You catch many of the awards movies?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Deadline — full Venice 2026 lineup", "url": "https://deadline.com/2026/07/venice-film-festival-lineup-2026-1237001062/" },
+        { "kind": "web", "text": "The Hollywood Reporter — Venice unveils lineup", "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-film-festival-unveils-2026-lineup-1236653842/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Music",
+      "headline": "Country owns the summer — Ella Langley's 'Choosin' Texas' is 2026's longest-running No. 1",
+      "body": "Ella Langley's 'Choosin' Texas' just keeps sitting on top of the Billboard Hot 100 — the longest-running No. 1 of 2026 so far — with Morgan Wallen's 'Been By Now' right on its tail. Country music having this kind of pop-chart takeover has been one of the year's real storylines.",
+      "say": "Country's completely taken over the charts this summer — that Ella Langley song 'Choosin' Texas' has been number one forever. You into any country?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Ella Langley — 'Choosin' Texas' (Official Video)", "url": "https://www.youtube.com/watch?v=nUsrYVxrDwI" },
+        { "kind": "web", "text": "Billboard Hot 100 No. 1s of 2026", "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐰",
+      "tag": "Culture · Music",
+      "headline": "A billion-dollar man — Bad Bunny becomes the first Latin artist to gross $1B on tour",
+      "body": "Bad Bunny wrapped his most successful run yet — 3.1 million tickets and $467.5M from the 'Debí Tirar Más Fotos' world tour — pushing his career touring total past $1 billion, a first for any Latin artist. The wild part: the whole tour didn't play a single date in the United States.",
+      "say": "Bad Bunny just became the first Latin artist to make a billion dollars touring — and he didn't even play the US. Kind of incredible.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Bad Bunny — 'BAILE INoLVIDABLE' (Video Oficial)", "url": "https://www.youtube.com/watch?v=a1Femq4NPxs" },
+        { "kind": "web", "text": "Billboard — first Latin artist to $1B touring", "url": "https://www.billboard.com/pro/bad-bunny-first-latin-artist-billion-touring/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🖤",
+      "tag": "Culture · TV",
+      "headline": "Wednesday's back for round two — Part 2, with Lady Gaga, drops Sept 3",
+      "body": "Netflix's monster hit returns: after Part 1 landed earlier this month, the four final episodes of 'Wednesday' Season 2 arrive Sept 3 — and Lady Gaga guest stars as a legendary Nevermore teacher, Rosaline Rotwood. Jenna Ortega's deadpan detective is still Netflix's biggest English-language series ever.",
+      "say": "The second half of Wednesday season 2 drops next week — and Lady Gaga's in it. That show is Netflix's biggest ever. You watch it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Netflix — Season 2 Part 2 official trailer", "url": "https://www.youtube.com/watch?v=ueCc-AYUMRs" },
+        { "kind": "web", "text": "TV Guide — everything to know about Part 2", "url": "https://www.tvguide.com/news/wednesday-season-2-part-2-release-date-cast-trailer-everything-to-know/" }
+      ]
+    }
+  ]
+}
