@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-25",
+  "label": "Tuesday, August 25, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🔵",
+      "tag": "Soccer · Premier League",
+      "headline": "Xabi Alonso's Chelsea start with a bang — a 3-2 thriller at Fulham",
+      "body": "New boss Xabi Alonso couldn't have asked for a wilder opener. João Pedro scored inside the first minute, Morgan Rogers netted on his Chelsea debut, and Cole Palmer looked back to his best in a 3-2 win at Craven Cottage. Fulham twice pulled a goal back and threw everything at it late, but the Blues' new-look front three held on for a proper West London derby.",
+      "say": "Chelsea's new manager won his first game 3-2 at Fulham — João Pedro scored in like 30 seconds and Palmer was back to his old self. Fun way to start. You follow the Premier League at all?",
+      "watch": "▶ The goals everyone saw",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — Rogers' goal & highlights", "url": "https://www.nbcsports.com/watch/watch/premier-league/morgan-rogers-blasts-chelsea-2-1-in-front-of-fulham" },
+        { "kind": "web", "text": "Sky Sports — Alonso's winning debut", "url": "https://www.skysports.com/football/fulham-vs-chelsea/report/559453" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "Serena's back — and she's got Alcaraz — as the US Open's star-packed mixed doubles takes over",
+      "body": "The US Open's revamped, celebrity-stacked mixed doubles is the hottest ticket in New York before the main draw even begins. Serena Williams — playing her first tournament since her 2022 farewell — teamed with Carlos Alcaraz on Tuesday at Ashe, while Novak Djokovic partnered Aryna Sabalenka on the other side of a draw full of superstars. Two rounds today, the semis and $1 million final on Wednesday.",
+      "say": "Serena Williams came out of retirement to play mixed doubles with Alcaraz at the US Open — and Djokovic's paired up with Sabalenka. It's basically an all-star exhibition. You catch any of it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "US Open — Serena & Alcaraz get the wild card", "url": "https://www.usopen.org/en_US/news/articles/2026-08-22/serena_williams_carlos_alcaraz_granted_2026_us_open_mixed_doubles_wild_card.html" },
+        { "kind": "web", "text": "NBC Sports — how to watch", "url": "https://www.nbcsports.com/tennis/news/how-to-watch-serena-williams-carlos-alcaraz-us-open-mixed-doubles-2026" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Gaming",
+      "headline": "Gaming's biggest night — Gamescom kicks off with the first Witcher 3 expansion in a decade",
+      "body": "Geoff Keighley's Gamescom Opening Night Live went off today with a two-hour parade of trailers, and the headliner was a jolt of nostalgia: the first-ever look at 'The Witcher 3: Songs of the Past,' a brand-new expansion for the 2015 classic (with Gwent making its return). There was fresh 'Final Fantasy VII Revelation,' a new peek at 'Gears of War: E-Day,' and the usual pile of surprises.",
+      "say": "Gamescom's big showcase was today — they announced a whole new Witcher 3 expansion, more than ten years after the game came out. Wild that it's still going. You play any of the Witcher games?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "IGN — Witcher 3: Songs of the Past revealed", "url": "https://www.youtube.com/watch?v=o0jmqRA0YsE" },
+        { "kind": "web", "text": "VGC — everything at Gamescom 2026", "url": "https://www.videogameschronicle.com/news/gamescom-2026/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Fever",
+      "headline": "Caitlin Clark goes supernova — 37 points, a career-high 8 threes, and the Fever punch their playoff ticket",
+      "body": "Caitlin Clark torched the Chicago Sky for 37 points and 10 assists, drilling a career-high eight three-pointers as Indiana buried a franchise-record 18 as a team in a 113-90 rout. It was her fifth career 30-and-10 game — more than the rest of the WNBA has managed combined — and the Fever are locked into the playoffs for a third straight year.",
+      "say": "Caitlin Clark dropped 37 with eight threes the other night, and the Fever are into the playoffs again. She just keeps doing stuff nobody's ever done. You been watching the WNBA this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "WNBA on ESPN — Clark's career night vs. Sky", "url": "https://www.youtube.com/watch?v=n4G1p62qEKQ" },
+        { "kind": "web", "text": "SI — 8 threes power the Fever", "url": "https://www.si.com/wnba/fever/caitlin-clark-s-career-high-8-threes-power-fever-past-sky-takeaways-01m0raj3z18s" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Phillies",
+      "headline": "Nine in a row — Schwarber caps a six-run ninth with a 459-foot walk-off to keep the Phillies red-hot",
+      "body": "Down 4-0 with two outs left, the Phillies erupted for six in the ninth, and Kyle Schwarber ended it with a towering 459-foot walk-off blast — his MLB-leading 39th homer — to complete a sweep of the Cardinals and stretch Philadelphia's win streak to nine. The comeback pushed them right into the thick of the NL race.",
+      "say": "The Phillies were down 4-0 with one out to go, then scored six and Schwarber walked it off — his 39th homer, most in the majors. Nine straight wins now. Baseball's wild in August. You catch much?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "MLB — Schwarber's walk-off homer", "url": "https://www.youtube.com/watch?v=HSenGTYYJ1c" },
+        { "kind": "web", "text": "ESPN — comeback caps 9th straight win", "url": "https://www.espn.com/mlb/story/_/id/49706394/kyle-schwarber-walk-home-run-caps-phillies-comeback-vs-cardinals-9th-straight-win" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Vuelta a España",
+      "headline": "The last Grand Tour is on — and Pogačar is already in red",
+      "body": "Cycling's third and final Grand Tour of the year, the Vuelta a España, rolled out of Monaco this week, and superstar Tadej Pogačar grabbed the leader's red jersey by winning the opening time trial. Stage 3 got wild when hail and brutal weather forced organizers to halt the race with no winner declared. Three weeks of mountains all the way to Granada on Sept. 13.",
+      "say": "The Vuelta's going on right now — the big Spanish bike race — and Pogačar's already in the leader's jersey. One stage literally got stopped by a hailstorm. You ever watch the Grand Tours?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "FloBikes — Stage 3 highlights", "url": "https://www.youtube.com/watch?v=gBHVvKPSXWA" },
+        { "kind": "web", "text": "ProCyclingStats — GC standings", "url": "https://www.procyclingstats.com/race/vuelta-a-espana/2026/results" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎯",
+      "tag": "Culture · Film",
+      "headline": "The movie Hollywood tried to kill — 'Coyote vs. ACME' finally hits theaters Friday",
+      "body": "One of the great comeback stories in movie history: shelved for a tax write-off back in 2023, then rescued after fan outrage, the live-action/animated 'Coyote vs. ACME' finally opens Aug. 28. Wile E. Coyote hires a down-on-his-luck lawyer (Will Forte) to sue the ACME Corporation for its endlessly faulty gadgets — with John Cena as the slick company attorney on the other side.",
+      "say": "That Coyote vs. ACME movie is finally coming out Friday — the studio literally shelved it for years and fans forced it back to life. Will Forte and John Cena are in it. Kind of a fun underdog story.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "IGN — official trailer", "url": "https://www.youtube.com/watch?v=w4tjvbLn8Xs" },
+        { "kind": "web", "text": "THR — inside the film's revival", "url": "https://www.hollywoodreporter.com/movies/movie-features/inside-revival-coyote-vs-acme-movie-1236671186/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🟢",
+      "tag": "Culture · TV",
+      "headline": "DC goes moody — 'Lanterns' is HBO Max's 'True Detective' with Green Lanterns",
+      "body": "Forget the space capes — HBO Max's 'Lanterns' plays like a gritty crime thriller, dropping a new episode each Sunday. Kyle Chandler's veteran Hal Jordan and Aaron Pierre's rookie John Stewart investigate a murder in small-town Nebraska, backed by a stacked cast (Laura Linney, Nathan Fillion, Kelly Macdonald). It's the buzzy, grounded corner of the new DC universe.",
+      "say": "There's a new DC show, 'Lanterns,' that's basically True Detective with Green Lanterns — a murder mystery in rural Nebraska. Really different vibe for a superhero thing. You watching anything good lately?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "HBO Max — official trailer", "url": "https://www.youtube.com/watch?v=7UIBOsuUwc4" },
+        { "kind": "web", "text": "TV Guide — everything to know", "url": "https://www.tvguide.com/news/lanterns-hbo-green-lantern-tv-series-release-date-cast-trailer/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "☀️",
+      "tag": "Culture · Music",
+      "headline": "Ariana's back on stage — the Eternal Sunshine Tour is her first in six years",
+      "body": "After stepping away for movies and a much-needed reset, Ariana Grande is finally touring again — her first run since 2019 — and she's closing it out with a 10-night takeover of London's O2 that wraps Sept. 1. It's a smaller, more intentional tour than her old marathon treks, built around the dreamy 'Eternal Sunshine' era. Fans have been losing it.",
+      "say": "Ariana Grande's on tour again — first time in six years. She's doing this big run of shows and everyone who's gone says it's incredible. You a fan of her stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Ariana Grande — 'we can't be friends' (official video)", "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI" },
+        { "kind": "web", "text": "Billboard — the Eternal Sunshine Tour", "url": "https://www.billboard.com/music/pop/ariana-grande-final-eternal-sunshine-2026-tour-dates-london-1236067300/" }
+      ]
+    }
+  ]
+}
