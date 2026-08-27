@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-27",
+  "label": "Thursday, August 27, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "🎰",
+      "tag": "Soccer · Champions League",
+      "headline": "Draw day in Monaco — the 36 Champions League clubs learn their fate today",
+      "body": "The best day of the soccer calendar that isn't an actual game: this afternoon in Monaco, all 36 Champions League teams get slotted into the giant league-phase table, each drawing eight opponents (four home, four away). Back-to-back winners PSG headline a field stacked with Real Madrid, Barcelona, Bayern, Arsenal, Liverpool and Man City, and by tonight every fan will know exactly which glamour ties are coming when it all kicks off Sept. 9.",
+      "say": "The Champions League draw is today — that's when all the big clubs find out who they've got. Always fun seeing which monster matchups fall out of it. You follow any European soccer?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "UEFA — league phase draw hub", "url": "https://www.uefa.com/uefachampionsleague/draws/" },
+        { "kind": "web", "text": "Al Jazeera — draw live blog & fixtures", "url": "https://www.aljazeera.com/sports/liveblog/2026/8/27/champions-league-draw-live-2026-27-league-phase-fixtures-schedule" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "💸",
+      "tag": "Soccer · Transfers",
+      "headline": "Deadline week is chaos — Arsenal chase Vinícius as Real Madrid smash the record for an African player",
+      "body": "The summer window slams shut Sept. 1, and the final scramble is wild. The saga everyone's watching: Arsenal circling Real Madrid superstar Vinícius Júnior amid his contract standoff in Spain. Meanwhile Madrid already dropped a reported €125M on 19-year-old Ivorian winger Yan Diomande — the biggest fee ever paid for an African footballer — with Enzo Fernández, Bruno Guimarães and a pile of others still swirling before the buzzer.",
+      "say": "Transfer deadline day is Monday and it's already nuts — Arsenal are apparently going after Vinícius, and Madrid just paid a record fee for some teenager. Deadline day is basically a soccer holiday. You into the transfer drama at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Real Madrid — Vinícius Jr.'s best goals", "url": "https://www.youtube.com/watch?v=BILoCGIIN24" },
+        { "kind": "web", "text": "Goal — biggest deals of the 2026 window", "url": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · FedExCup Finale",
+      "headline": "$10 million on the line — the Tour Championship tees off today at East Lake",
+      "body": "The whole PGA Tour season comes down to this: 30 players, all starting even at East Lake, playing four rounds where the winner also walks off with the FedExCup and a $10 million check. World No. 1 Scottie Scheffler headlines, with Matt Fitzpatrick, BMW champ Wyndham Clark, Rory McIlroy and Collin Morikawa all in the hunt. First round is today, the whole thing decided Sunday.",
+      "say": "The golf season finale starts today — winner takes the FedExCup and ten million bucks. Scheffler's the guy to beat but it's a small field, anyone can get hot. You keep up with golf at all?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "PGA Tour — Tour Championship hub", "url": "https://www.pgatour.com/tournaments/2026/tour-championship" },
+        { "kind": "web", "text": "Golf Channel — the 30-man field & how to watch", "url": "https://www.golfchannel.com/pga-tour/news/tour-championship-2026-first-round-tee-times-pairings-how-to-watch" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Diamondbacks",
+      "headline": "Rookie magic — Ryan Waldschmidt walks it off again to keep Arizona's playoff push alive",
+      "body": "Down four in the ninth to the Cubs on Tuesday night, the Diamondbacks stormed back, and pinch-hitter Ryan Waldschmidt ended it with a two-run walk-off blast — his second comeback walk-off homer of the month. He's now the first rookie in MLB history to hit two walk-off homers while trailing in the same calendar month, and it was Arizona's league-leading 40th comeback win. This team just refuses to lose quietly.",
+      "say": "A rookie for the Diamondbacks hit a walk-off homer to cap a four-run ninth — his second one this month, which has literally never been done by a rookie before. Baseball in August is the best. You catch much?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com — Waldschmidt's walk-off homer", "url": "https://www.mlb.com/dbacks/video/ryan-waldschmidt-homers-3-on-a-fly-ball-to-left-field-jose-fernandez-scor" },
+        { "kind": "web", "text": "Arizona Sports — the stunning comeback over the Cubs", "url": "https://arizonasports.com/mlb/arizona-diamondbacks/ryan-waldschmidt-hits-walk-off-home-run-in-stunning-comeback-over-cubs" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "The pros crash the star party — Muchová & Menšík win the celebrity-stacked mixed doubles",
+      "body": "That glitzy US Open mixed doubles experiment — Serena with Alcaraz, Djokovic with Sabalenka — ended with the actual tennis players winning. Every A-list singles pairing flamed out early, and it was Karolína Muchová and Jakub Menšík who took the $1 million title, beating Belinda Bencic and Flavio Cobolli in a match tiebreak. Fun spectacle, but a nice reminder that doubles is its own skill. The singles main draw starts Sunday.",
+      "say": "That celebrity mixed doubles thing at the US Open — Serena, Alcaraz, Djokovic all played — and none of the big names won it. Two normal tour players took the million bucks. Kind of a perfect ending. You catch any of it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "US Open — mixed doubles final highlights", "url": "https://www.youtube.com/watch?v=NPCGnkFzrgQ" },
+        { "kind": "web", "text": "Sportico — the star showcase, explained", "url": "https://www.sportico.com/leagues/tennis/2026/us-open-mixed-doubles-2026-singles-serena-alcaraz-1234942996/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌌",
+      "tag": "Culture · TV",
+      "headline": "'Dark Matter' is back — Apple's mind-bending sci-fi returns Friday",
+      "body": "One of the best sci-fi shows going returns for Season 2 on Apple TV+ this Friday, with new episodes weekly. Joel Edgerton and Jennifer Connelly are back in Blake Crouch's multiverse thriller — the one where a physicist gets abducted into a parallel version of his own life. Season 1 was a word-of-mouth hit; Season 2 promises the multiverse getting even messier. Perfect 'one more episode' fall TV.",
+      "say": "New season of Dark Matter drops Friday — that Apple show about a guy pulled into parallel versions of his own life. Genuinely one of the twistier sci-fi shows out there. You watch that one?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Apple TV — Season 2 official trailer", "url": "https://www.youtube.com/watch?v=3raY8_ICeb4" },
+        { "kind": "web", "text": "TV Insider — everything about Season 2", "url": "https://www.tvinsider.com/1268871/dark-matter-season-2-cast-premiere-date-trailer-book-details/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "Last year's breakout goes big — Alex Warren drops sophomore album 'WILDCHILD' Friday",
+      "body": "The guy behind the inescapable ballad 'Ordinary' is back with his second album, 'WILDCHILD,' out Friday on Atlantic. Alex Warren went from TikTok star to bona-fide pop force — his 2025 debut racked up 9 billion streams and a Best New Artist VMA — and the new record, led by single 'PASSENGER,' is his swing at proving the moment wasn't a fluke. Big anthemic, festival-sized pop.",
+      "say": "New Alex Warren album Friday — he's the one who did 'Ordinary,' that song that was everywhere last year. Went from making videos online to legit huge. You know his stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Alex Warren — 'Ordinary' (Official Video)", "url": "https://www.youtube.com/watch?v=u2ah9tWTkmk" },
+        { "kind": "web", "text": "Hotpress — 'WILDCHILD' announcement", "url": "https://www.hotpress.com/music/alex-warren-announces-new-album-wildchild-23144118" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎮",
+      "tag": "Culture · Gaming",
+      "headline": "XCOM, but make it Star Wars — 'Zero Company' lands this week",
+      "body": "For anyone who loves a good strategy game, this is a big one: 'Star Wars: Zero Company' is out now, a single-player, turn-based tactics game (think XCOM in a galaxy far, far away) built by a studio led by ex-Firaxis developers. You assemble a squad of misfit operatives and outthink the enemy one careful move at a time. Early looks have been sharp, and Star Wars plus tactics is a fun combo.",
+      "say": "There's a new Star Wars game out that's basically XCOM — the turn-based, think-before-you-move kind of thing. Right up my alley. You play much on the strategy side, or more action stuff?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Star Wars — 'Zero Company' gameplay trailer", "url": "https://www.youtube.com/watch?v=ksOBF-T5LrA" },
+        { "kind": "web", "text": "GameSpot — the biggest games of August 2026", "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-august-2026/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏜️",
+      "tag": "Culture · Film",
+      "headline": "The fall movie race begins — 'Dune: Part Three' trailer has everyone counting down to December",
+      "body": "Summer's winding down, and the fall-movie hype machine is roaring to life. Leading the charge: Denis Villeneuve's 'Dune: Part Three,' the finale of the Timothée Chalamet–Zendaya saga, whose latest trailer is racking up views ahead of its Dec. 18 IMAX release. It's the anchor of a monster fall slate that also includes 'Avatar: Fire and Ash' and 'Wicked: For Good' — plenty to argue about at the water cooler.",
+      "say": "The fall movie lineup is shaping up to be huge — the final Dune, new Avatar, Wicked part two. That Dune trailer looks unreal. What are you most hyped to actually go see?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Warner Bros. — 'Dune: Part Three' official trailer", "url": "https://www.youtube.com/watch?v=NdvqHc56lE0" },
+        { "kind": "web", "text": "The Playlist — 88 must-see fall movies", "url": "https://theplaylist.net/fall-2026-movie-preview-20260820/" }
+      ]
+    }
+  ]
+}
