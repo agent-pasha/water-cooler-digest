@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-28",
+  "label": "Friday, August 28, 2026",
+  "items": [
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Tour Championship",
+      "headline": "Min Woo Lee lights up East Lake — a bogey-free 62 with $10M on the line",
+      "body": "In his first-ever Tour Championship, Min Woo Lee opened with eight birdies and zero bogeys for a 62 to grab a two-shot lead over Viktor Hovland. Fun detail: he says he tuned up by watching his own highlights on YouTube.",
+      "say": "Did you see Min Woo Lee open the Tour Championship with a 62? Bloke prepped by watching YouTube — apparently it works.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "That record-chasing 62", "url": "https://www.youtube.com/watch?v=yMNB0BgwlO8" },
+        { "kind": "web", "text": "Golf Channel recap", "url": "https://www.golfchannel.com/pga-tour/news/in-tour-championship-debut-min-woo-lee-ties-career-low-with-62-to-take-east-lake-lead" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Playoff Race",
+      "headline": "Paige Bueckers punches her first ticket — and now the whole WNBA field is set",
+      "body": "The No. 1 pick dropped 22 points and 11 assists as Dallas beat Portland to grab the eighth and final playoff spot — the Wings' first trip back to the postseason since 2023, and a franchise-record win total with games to spare.",
+      "say": "Paige Bueckers just dragged the Wings back to the playoffs in her rookie year — the whole WNBA bracket's locked now.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Bueckers' clinching night", "url": "https://www.youtube.com/watch?v=J7sviNAiZY8" },
+        { "kind": "web", "text": "ESPN report", "url": "https://www.espn.com/wnba/story/_/id/49728293/dallas-wings-secure-final-wnba-playoff-berth-23rd-win" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Walk-Off",
+      "headline": "Cold as ice, then a hero — Ha-Seong Kim walks off the Dodgers",
+      "body": "Kim was mired in a brutal slump (a hit in his last 27 at-bats) when he came off the bench in the ninth and laced a walk-off single, sending the Braves past LA 6-5 for their third straight win and the season-series tiebreaker.",
+      "say": "Ha-Seong Kim was ice cold for weeks, then comes off the bench and walks off the Dodgers — you can't script baseball.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com: the walk-off", "url": "https://www.mlb.com/video/ha-seong-kim-walks-it-off-for-the-braves" },
+        { "kind": "web", "text": "How it reshapes the NL", "url": "https://lastwordonsports.com/baseball/2026/08/27/braves-walk-off-win/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "CS2's back on the big stage — BLAST Open Fall is live, playoffs head to Porto",
+      "body": "After a summer of majors, the world's top Counter-Strike teams are back at it: BLAST Open Fall (Aug 26–Sep 6) has $1.1M on the line, with the group stage in Copenhagen before a live-crowd finale in Portugal. NAVI vs M80 already pulled nearly 300K viewers.",
+      "say": "Counter-Strike's already back — BLAST Open Fall is on, finals in Porto. Have you caught any of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "BLAST on Twitch", "url": "https://www.twitch.tv/blast" },
+        { "kind": "web", "text": "Groups & results", "url": "https://esports.gg/news/counter-strike-2/groups-blast-open-fall-2026-full-results/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "The title race gets real this weekend — Liverpool, Chelsea and Spurs all in action",
+      "body": "It's the last Premier League weekend before Monday's transfer deadline: Liverpool host Nottingham Forest on Saturday, Tottenham face Newcastle, and Chelsea's Xabi Alonso era rolls on at home to Brighton on Sunday.",
+      "say": "Premier League's back this weekend — Liverpool Saturday, Chelsea Sunday, and deadline day right after. Who are you watching?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "The full weekend slate", "url": "https://www.premierleague.com/en/matches" },
+        { "kind": "web", "text": "Sky fixtures & TV", "url": "https://www.skysports.com/football-scores-fixtures/2026-08-29" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Alabama Shakes are back — 'I Must Be Dreaming' is their first album in 11 years",
+      "body": "Brittany Howard and co. return with their third album and first since 2015's 'Sound & Color' — now a trio, and picking up right where their soulful, Grammy-winning rock left off.",
+      "say": "Alabama Shakes finally dropped a new album — first one in eleven years. Brittany Howard's voice still gives me chills.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'I Feel Hope Coming'", "url": "https://www.youtube.com/watch?v=qB8bqpVn_SA" },
+        { "kind": "web", "text": "NPR's New Music Friday", "url": "https://www.npr.org/2026/08/28/nx-s1-5946388/new-music-friday-the-best-albums-out-aug-28" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🪕",
+      "tag": "Culture · Music",
+      "headline": "Billy Strings gets personal — 'So Much for Goodbyes' is a tribute to his late mom",
+      "body": "The bluegrass phenom's fifth album is his most personal yet — 16 tracks written in the wake of his mother's passing, and it's already one of the biggest roots releases of the year.",
+      "say": "New Billy Strings album's out and it's a tribute to his mom — heard it's a heavy, beautiful one.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Burn the Other End'", "url": "https://www.youtube.com/watch?v=Gyp1OqCwnpE" },
+        { "kind": "web", "text": "Premier Guitar", "url": "https://www.premierguitar.com/news/billy-strings-new-album-so-much-for-goodbyes" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🖤",
+      "tag": "Culture · Music",
+      "headline": "Interpol return to the shadows — 'This Mirror Weighs a Ton' is out",
+      "body": "The New York post-punk mainstays are back with a new album of the moody, guitar-driven sound that made them 2000s indie royalty. One more heavyweight on a stacked New Music Friday.",
+      "say": "Interpol put out a new record today — that broody NYC sound is right in the pocket for a rainy afternoon.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Title-track visualizer", "url": "https://www.youtube.com/watch?v=KgJ8JBeJnXQ" },
+        { "kind": "web", "text": "Consequence", "url": "https://consequence.net/2026/08/interpol-this-mirror-weighs-a-ton-new-album-stream/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👻",
+      "tag": "Culture · Film",
+      "headline": "'The Further' reopens — Insidious 6 brings the horror franchise back to theaters",
+      "body": "'Insidious: Out of the Further' revives the hit supernatural series with a new family, a new terror, and Lin Shaye back as fan-favorite Elise. It's off to a solid start — a $25M-plus debut for the sixth film.",
+      "say": "The new Insidious is out — perfect if you want a jump-scare night. Are you a horror person or a hide-behind-the-couch person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=jxU8FU3o75A" },
+        { "kind": "web", "text": "About the film", "url": "https://en.wikipedia.org/wiki/Insidious:_Out_of_the_Further" }
+      ]
+    }
+  ]
+}
