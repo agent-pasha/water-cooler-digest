@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-30",
+  "label": "Sunday, August 30, 2026",
+  "items": [
+    {
+      "cat": "f1",
+      "emoji": "🚴",
+      "tag": "Cycling · Vuelta a España",
+      "headline": "A day after chaos, a new king takes command — Enric Mas wins atop Alto de Aitana",
+      "body": "One day after superstar Tadej Pogačar crashed out while leading, the Vuelta had its first big mountain showdown without him — and Spain's own Enric Mas seized it. On the brutal summit finish at Alto de Aitana, Mas timed his move perfectly, took the inside line inside the final 200 meters, and rode clear for the stage win, tightening his grip on the red leader's jersey with four-time champ Primož Roglič now his closest chaser.",
+      "say": "Remember that cyclist Pogačar who crashed out of the Vuelta yesterday? Well the race got interesting fast — a Spanish rider, Enric Mas, won the big mountain stage today and now he's leading the whole thing on home roads. You ever get into the bike tours?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews — GC shifts as Mas wins Stage 9", "url": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-9-live-alto-de-aitana-awaits-as-race-carries-on-without-pogacar/" },
+        { "kind": "web", "text": "La Vuelta — Stage 9 official", "url": "https://www.lavuelta.es/en/stage-9" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Week 0",
+      "headline": "Belichick gets his revenge — North Carolina beats TCU 15-10 in Ireland",
+      "body": "College football is officially back, and the headliner delivered. A year after TCU embarrassed Bill Belichick's UNC in his coaching debut, the Tar Heels flipped the script in Dublin — a gritty, rainy 15-10 win at Aviva Stadium. New QB Billy Edwards Jr. threw for 232 yards, a fourth-quarter strip-sack set up the go-ahead points, and the six-time Super Bowl winner walked off with his statement win to open Year 2 of the college experiment.",
+      "say": "Bill Belichick — yeah, the NFL legend — is coaching college football now, and his team just won its opener over in Ireland. A year after getting blown out by the same team. Still so strange seeing him on a college sideline. You watch any college ball?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "On3 — UNC downs TCU in Belichick's Year 2 opener", "url": "https://www.on3.com/news/north-carolina-tcu-live-updates-score-highlights-analysis" },
+        { "kind": "web", "text": "ESPN — final score & box score", "url": "https://www.espn.com/college-football/game/_/gameId/401856766/north-carolina-tcu" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "City click into gear — Cherki and Haaland both bag braces in a 4-1 romp at Palace",
+      "body": "Manchester City look right at home under Enzo Maresca. After a tight first half at Selhurst Park, City turned it on: summer signing Rayan Cherki scored twice in three minutes and Erling Haaland added a header and a late finish for his own brace, sinking Crystal Palace 4-1. It's two wins from two to start the season, and Cherki looks like the creative spark City have been missing.",
+      "say": "Man City took Crystal Palace apart 4-1 — Haaland with two and their new signing Cherki with two more. Looked scary good. You catch any of the Premier League this weekend?",
+      "watch": "▶ The goals everyone saw",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — score, goals & highlights", "url": "https://www.nbcsports.com/soccer/live/crystal-palace-vs-manchester-city-live-updates-score-goals-highlights-stats-2026-august-28" },
+        { "kind": "web", "text": "Sky Sports — Cherki & Haaland braces sink Palace", "url": "https://www.skysports.com/football/news/33694/13570912/crystal-palace-1-4-man-city-rayan-cherki-and-erling-haaland-net-doubles-as-enzo-marescas-reign-begins-with-back-to-back-wins" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "The last Slam of the year is on — and a 46-year-old Venus Williams is back at Ashe",
+      "body": "The US Open singles main draw got underway in New York, and there's plenty to talk about. Carlos Alcaraz plays his first singles match since April after a wrist injury, Novak Djokovic opens another chase for the record books, and — the feel-good story of the day — 46-year-old Venus Williams walked back out onto Arthur Ashe on a wild-card, still swinging decades after her first US Open. Two weeks of tennis, one champion crowned Sept. 13.",
+      "say": "The US Open started — and Venus Williams is back playing at 46, which is just wild longevity. Alcaraz and Djokovic are in there too. You ever get sucked into the late-night tennis matches?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "The National — Alcaraz returns, Venus & Djokovic headline Day 1", "url": "https://www.thenationalnews.com/sport/tennis/2026/08/30/us-open-2026-alcaraz-returns-djokovic-chases-history-and-womens-no-1-spot-is-up-for-grabs/" },
+        { "kind": "web", "text": "Olympics.com — full order of play", "url": "https://www.olympics.com/en/news/us-open-2026-full-order-of-play-sunday-30-august-all-matches-complete-schedule" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Roster Cuts",
+      "headline": "Cut day — every NFL team trims to 53 today, and over 1,000 dreams end",
+      "body": "The last, brutal step before the real season: all 32 teams have to get down to a 53-man roster by 6 p.m. ET today, meaning more than 1,000 players get waived, released, or stashed on injured lists. It's moved to a Sunday this year partly because the 49ers fly to Melbourne on Wednesday for a Week 1 game in Australia. Once the dust settles, Week 1 is a few short days away.",
+      "say": "It's NFL cut-down day — every team has to drop to 53 guys, so a thousand-plus players lose their jobs today. Rough, but it means real football is basically here. You got a team you're riding with this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "CBS Sports — live roster cuts tracker", "url": "https://www.cbssports.com/nfl/news/2026-nfl-roster-cuts-tracker-live-updates-latest-moves-trade-rumors-as-all-32-teams-finalize-53-man-rosters/live/" },
+        { "kind": "web", "text": "NFL.com — team-by-team cuts", "url": "https://www.nfl.com/news/nfl-roster-cuts-tracker-team-by-team-player-moves-ahead-of-2026-season" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Spider-Man just won't quit — a fifth straight weekend on top as Coyote pulls off a comeback",
+      "body": "'Spider-Man: Brand New Day' grabbed its fifth consecutive box-office crown (about $21M) and is closing in on $900M domestic — an absolute monster. But the better story underneath it: 'Coyote vs. ACME,' the Wile E. Coyote courtroom comedy that Warner Bros. literally shelved for a tax write-off before fans forced it back to life, opened to a solid ~$14M with rave reviews. Not bad for a movie that almost never existed.",
+      "say": "That Coyote vs. ACME movie — the one the studio shelved for years before fans saved it — actually opened well this weekend. Meanwhile Spider-Man is somehow still number one five weeks running. You seen either yet?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Coyote vs. ACME — Final Trailer", "url": "https://www.youtube.com/watch?v=kMsiD1Nky5I" },
+        { "kind": "web", "text": "Deadline — the weekend box office", "url": "https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Oscar season really kicks off — the Telluride Film Festival lands next weekend",
+      "body": "If Venice fires the starting gun on awards season, Telluride is where the race gets serious. The famously secretive Colorado festival runs Sept. 4-7 with Rebecca Hall as this year's guest director, and it has a habit of quietly unveiling the eventual Best Picture frontrunner. Rumored premieres include new films from Werner Herzog (with Kate and Rooney Mara) and Jesse Eisenberg — the first real look at this winter's prestige movies.",
+      "say": "The fall movie festivals are starting up — Telluride's next weekend, and it's usually where the big Oscar movies first show up. Fun time of year if you like the artsy stuff. You into the awards-season films or more of a popcorn-movie person?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Gold Derby — Telluride 2026 slate & dates", "url": "https://www.goldderby.com/film/2026/rebecca-hall-telluride-2026-guest-director-movie-slate-dates/" },
+        { "kind": "web", "text": "Telluride Film Festival — official", "url": "https://www.telluridefilmfestival.org/news" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Where it all began — Post Malone's debut 'August 26th' mixtape finally hits streaming",
+      "body": "A fun bit of nostalgia for one of pop's biggest stars: to mark its 10th anniversary, Post Malone's very first mixtape, 'August 26th,' just landed on Spotify and the streamers for the first time (newly remastered, and on vinyl too). It's the raw, early project — with cameos from 2 Chainz and Lil Yachty — that he put out on hip-hop blogs right as 'White Iverson' was turning him into a superstar.",
+      "say": "Post Malone just put his very first mixtape on streaming for its 10-year anniversary — the stuff from before he was famous. Kind of cool to hear where a huge artist started. You a Posty fan, or more into other stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Post Malone — 'White Iverson' (Official Video)", "url": "https://www.youtube.com/watch?v=SLsTskih7_I" },
+        { "kind": "web", "text": "Billboard — 'August 26th' hits streaming", "url": "https://www.billboard.com/music/rb-hip-hop/post-malone-august-26th-mixtape-available-streaming-vinyl-1236324842/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏈",
+      "tag": "Culture · TV",
+      "headline": "The fake QB returns — Glen Powell's 'Chad Powers' is back for Season 2 this week",
+      "body": "Perfect timing with football season kicking off: 'Chad Powers,' the goofy comedy where Glen Powell plays a disgraced star quarterback who disguises himself under prosthetics to sneak back onto a college team, returns for Season 2 on Hulu Sept. 3. Season 1 was a word-of-mouth hit, and this run pushes Chad's double life toward a College Football Playoff run — and closer to getting found out.",
+      "say": "There's this really funny show, Chad Powers — Glen Powell plays a washed-up quarterback who puts on a disguise to sneak back into college football. New season drops this week and it's perfect with the season starting. You watch that one?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Chad Powers — Official Trailer (Hulu)", "url": "https://www.youtube.com/watch?v=_nFZMD8FMM0" },
+        { "kind": "web", "text": "Deadline — Season 2 details", "url": "https://deadline.com/2026/08/chad-powers-season-2-trailer-hulu-glen-powell-1237033247/" }
+      ]
+    }
+  ]
+}
