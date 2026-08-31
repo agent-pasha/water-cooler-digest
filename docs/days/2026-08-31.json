@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-31",
+  "label": "Monday, August 31, 2026",
+  "items": [
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "Djokovic is out already — Navone stuns him in the first round at Flushing Meadows",
+      "body": "Novak Djokovic hadn't lost a Grand Slam opener since 2006 — 78 straight first-round wins — until Monday. Battling brutal New York heat and visibly ill on court, the 24-time major champ fell in five sets (7-6, 5-7, 4-6, 6-2, 6-1) to Argentine clay specialist Mariano Navone, a guy ranked well outside the top 30 with a losing hard-court record. It's arguably the biggest tennis upset of the year, and it blows the US Open wide open.",
+      "say": "Djokovic just got knocked out of the US Open in the FIRST round — first time that's happened to him in like twenty years. Some Argentine guy nobody had heard of beat him while Novak was throwing up on court. You catch any of the tennis?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Navone vs. Djokovic — Round 1 highlights", "url": "https://www.youtube.com/watch?v=Gk9aXcoo9SI" },
+        { "kind": "web", "text": "ATP Tour — Navone stuns an ailing Djokovic", "url": "https://www.atptour.com/en/news/djokovic-navone-us-open-2026-r1" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Tour Championship",
+      "headline": "Scheffler storms back for the FedExCup — and passes Tiger on the all-time money list",
+      "body": "The golf season is over, and Scottie Scheffler owns it. Three shots back Sunday at East Lake, he fired a final-round 66 to run down Viktor Hovland and win the Tour Championship by three — his second FedExCup and a cool $10 million check. He's now just the third player ever (with Tiger Woods and Rory McIlroy) to win it twice, and in the same afternoon he passed Tiger for the most career earnings in PGA Tour history.",
+      "say": "Scottie Scheffler came from behind to win the golf season finale and the ten-million-dollar prize — and he just passed Tiger Woods for the most money ever made on tour. The guy's on another planet right now. You keep up with golf at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "PGA TOUR — Scheffler's Sunday to win the FedExCup", "url": "https://www.youtube.com/watch?v=U3misH4gzvM" },
+        { "kind": "web", "text": "PGA Tour — final-round recap", "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/08/30/round-4-tour-championship-east-lake-golf-club-leaderboard-scores-results-storylines" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Bruno to the rescue — Man United come from behind to hammer Ipswich 5-2",
+      "body": "After a rocky start to the season, Manchester United finally clicked at Old Trafford. Ipswich actually led early through Leif Davis, but captain Bruno Fernandes took the game over with a hat-trick (one from the penalty spot), Bryan Mbeumo added a fifth, and United ran out 5-2 winners for their first victory of the campaign. A big exhale for a club that's been under the microscope all summer.",
+      "say": "Man United were actually losing at home to Ipswich, then Bruno Fernandes scored a hat-trick and they won 5-2. First win of the season — you could feel the relief through the screen. You follow the Premier League?",
+      "watch": "▶ The goals everyone saw",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — score, goals & highlights", "url": "https://www.nbcsports.com/soccer/live/manchester-united-vs-ipswich-town-live-updates-score-goals-highlights-stats-2026-august-30" },
+        { "kind": "web", "text": "Sky Sports — Bruno's hat-trick sinks Ipswich", "url": "https://www.skysports.com/football/manchester-united-vs-ipswich-town/559461" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "Baseball · Little League WS",
+      "headline": "Curaçao are Little League champs — and a Nevada girl made history in the final",
+      "body": "The Little League World Series wrapped up in Williamsport, and the tiny island of Curaçao took the crown, beating Henderson, Nevada 11-2 to win it all — just the second title in the country's history. There was history on the losing side too: Nevada outfielder Carsynn Meyer became the first American girl ever to play in a Little League World Series championship game.",
+      "say": "The Little League World Series wrapped up — a team from the island of Curaçao won the whole thing, and a 12-year-old girl from Nevada became the first American girl ever to play in the final. Those kids are honestly some of the most fun baseball all year. You ever get sucked into it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "ESPN — Curaçao vs. Nevada championship highlights", "url": "https://www.youtube.com/watch?v=7x3tpOUgMsU" },
+        { "kind": "web", "text": "MLB.com — Curaçao wins the LLWS title", "url": "https://www.mlb.com/news/curacao-wins-2026-little-league-world-series-championship" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "CS2's Porto showdown is set — Spirit and donk roll into the BLAST playoffs",
+      "body": "The group stage of BLAST Open Fall has wrapped, and the field is locked for the live finale in Porto (Sept 4-6), with $1.1M on the line. Reigning wonderkid donk and Team Spirit look scary again after topping their group, while a resurgent G2 battled all the way through the lower bracket to book their spot. The trophy gets decided in front of a packed Portuguese crowd this weekend.",
+      "say": "Counter-Strike's got a big LAN finale in Portugal this weekend — Spirit and that teenager donk are through and looking unstoppable again. You been keeping up with any CS lately?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "BLAST on Twitch", "url": "https://www.twitch.tv/blast" },
+        { "kind": "web", "text": "HLTV — BLAST Open Porto bracket & results", "url": "https://www.hltv.org/events/8249/blast-open-porto-2026" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 1",
+      "headline": "The NFL is going Down Under — 49ers-Rams kick off the season in Melbourne",
+      "body": "Football's back next week, and Week 1 has a genuine first: the San Francisco 49ers and LA Rams will play the NFL's first-ever regular-season game in Australia, at the enormous Melbourne Cricket Ground on Thursday, Sept 10. It's an old NFC West rivalry played on the other side of the world — and it streams on Netflix. Real football, finally.",
+      "say": "Did you know the NFL's opening the season with a game in Australia this year? Niners and Rams at a giant cricket stadium in Melbourne, streaming on Netflix of all places. Kind of wild. You got a team you're riding with this season?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NFL.com — 49ers-Rams set for Melbourne, Sept 10", "url": "https://www.nfl.com/videos/49ers-rams-to-be-played-in-melbourne-on-thurs-sept-10-the-insiders" },
+        { "kind": "web", "text": "49ers.com — opening in Melbourne", "url": "https://www.49ers.com/news/49ers-to-open-2026-season-vs-rams-in-melbourne-on-sept-10" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "The VMAs are coming — Madonna leads the noms, Taylor and Sabrina close behind",
+      "body": "MTV's big night is set for Sept 27 in LA (its first West Coast show in nine years), and the nominations are a fun mix of old and new: Madonna leads the whole field with 11, Taylor Swift has nine, and Sabrina Carpenter and Ariana Grande grabbed seven apiece. Fan voting is open now through late September, so there's plenty to argue about before anyone hands out a Moon Person.",
+      "say": "The MTV VMAs nominations are out — Madonna's actually leading, then Taylor and Sabrina Carpenter. Voting's open if you've got a favorite. Who would you actually vote for?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Sabrina Carpenter — 'Tears' (Official Video)", "url": "https://www.youtube.com/watch?v=V9vuCByb6js" },
+        { "kind": "web", "text": "Billboard — the full 2026 VMA nominations list", "url": "https://www.billboard.com/lists/2026-mtv-vma-nominations-list-madonna-video-music-awards/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "The internet's favorite creepy book is a movie — 'Verity' drops its unsettling trailer",
+      "body": "One of fall's most-talked-about thrillers just landed its trailer: 'Verity,' based on Colleen Hoover's wildly popular (and deeply twisted) bestseller, stars Dakota Johnson as a ghostwriter who uncovers dark secrets in the home of a famous author (Anne Hathaway), with Josh Hartnett caught in the middle. It hits theaters Oct 2 — and if you've read the book, you know exactly how unnerving this one gets.",
+      "say": "They finally made a movie of that book Verity — the Colleen Hoover thriller everyone online was obsessed with. Dakota Johnson and Anne Hathaway, and the trailer is genuinely creepy. You read that one, or do you steer clear of the scary stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Verity' — Official Trailer", "url": "https://www.youtube.com/watch?v=nmf9kHqA_XM" },
+        { "kind": "web", "text": "Variety — inside the 'Verity' trailer", "url": "https://variety.com/2026/film/news/verity-trailer-anne-hathaway-dakota-johnson-colleen-hoover-1236711313/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Little Big Town are back — 'It's A Dying Art' is their 12th album",
+      "body": "The country-harmony favorites just dropped their twelfth studio album, 'It's A Dying Art,' a warm, easygoing collection with guest turns from Kelsea Ballerini, Ashley Monroe and Jason Isbell. Led by the hopeful single 'Hey There Sunshine,' it's classic Little Big Town — those four-part harmonies you just can't fake. Perfect background music to ease into the long weekend.",
+      "say": "New Little Big Town album's out — that country group with the gorgeous harmonies, the 'Girl Crush' folks. Good easy long-weekend listening. You into any country?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Little Big Town — 'Hey There Sunshine' (Official Video)", "url": "https://www.youtube.com/watch?v=Q4thqUUQ8zw" },
+        { "kind": "web", "text": "uDiscover — 'It's A Dying Art' is here", "url": "https://www.udiscovermusic.com/news/little-big-town-its-a-dying-art/" }
+      ]
+    }
+  ]
+}
