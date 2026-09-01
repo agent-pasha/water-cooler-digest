@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-01",
+  "label": "Tuesday, September 1, 2026",
+  "items": [
+    {
+      "cat": "f1",
+      "emoji": "🏁",
+      "tag": "F1 · Dutch Grand Prix",
+      "headline": "Wild day at Zandvoort — Norris wins as Verstappen crashes out at home",
+      "body": "The final-ever Dutch Grand Prix went off with a bang. Lando Norris held off Kimi Antonelli and George Russell to take the checkered flag at Zandvoort, but the story was home hero Max Verstappen crashing out and bringing out the red flag in front of his own sea of orange fans. A big swing in a tight title race with the season winding down.",
+      "say": "Did you catch the F1 at Zandvoort? Norris won, but the wild part was Max Verstappen crashing out at his home race — in front of that giant Dutch crowd. Brutal way to go. You follow Formula 1 at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "FORMULA 1 — Dutch GP race highlights", "url": "https://www.youtube.com/watch?v=3OMLs3yI-KE" },
+        { "kind": "web", "text": "Formula1.com — Norris wins as Verstappen crashes out", "url": "https://www.formula1.com/en/latest/article/norris-wins-dramatic-dutch-grand-prix-from-antonelli-and-russell-as-verstappen-crashes-out.Zn7iYevVGp5eHzFkTEAz7" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "💸",
+      "tag": "Soccer · Transfer Deadline",
+      "headline": "Deadline day madness — the summer window slams shut with clubs spending big",
+      "body": "The summer transfer window closed Tuesday night (11 p.m. in England), and deadline day was the usual glorious chaos — a flurry of last-minute deals, medicals racing the clock, and Premier League clubs once again outspending the rest of Europe. Tottenham, Arsenal and Manchester United were among the busiest as managers scrambled to finish their squads before the buzzer.",
+      "say": "Yesterday was soccer transfer deadline day — that crazy last day where clubs throw money around trying to sign players before the window shuts. It's basically a holiday for fans. You into the transfer drama or just the actual games?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sky Sports — confirmed deadline-day deals", "url": "https://www.skysports.com/transfer/news/12691/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more" },
+        { "kind": "web", "text": "Premier League — deadline day, everything to know", "url": "https://www.premierleague.com/en/news/4698998/summer-2026-transfer-deadline-day-everything-you-need-to-know" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Week 1",
+      "headline": "Week 1 is loaded — Kiffin's LSU hosts Clemson under the lights at Death Valley",
+      "body": "College football really cranks up this weekend with a monster opener: Lane Kiffin makes his LSU debut Saturday night (Sept. 5) as Clemson visits a sold-out Death Valley in Baton Rouge for the first time ever — a likely top-10 showdown with playoff stakes. The next night, Notre Dame and Wisconsin square off at Lambeau Field in Green Bay. College GameDay's on-site for the party.",
+      "say": "College football really kicks off this weekend — the big one is Clemson at LSU on Saturday night, first game of the Lane Kiffin era down in Baton Rouge. A night game at Death Valley is one of the wildest atmospheres in all of sports. You pulling for anybody this fall?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "ESPN College Football — 2026 anthem 'High Noon'", "url": "https://www.youtube.com/watch?v=OxmruZbWldE" },
+        { "kind": "web", "text": "On3 — top 10 games to watch in Week 1", "url": "https://www.on3.com/news/top-10-games-to-watch-week-1-of-college-football-2026-season/" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "Carlitos is back — Alcaraz returns from injury with a statement win in New York",
+      "body": "A day after Djokovic's shock first-round exit, the defending champion made his own statement. Carlos Alcaraz, playing his first singles match since a wrist injury sidelined him back in the spring, cruised past Roman Safiullin 6-4, 6-4, 6-4 at Arthur Ashe. Top seed Aryna Sabalenka rolled through her opener too, as the year's final Grand Slam builds toward next weekend's business end.",
+      "say": "Alcaraz is back at the US Open after missing months with a wrist injury, and he looked totally fine — won in straight sets. And with Djokovic already knocked out, it's getting interesting over there. You ever stay up for the late-night US Open matches?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "US Open — Alcaraz's on-court interview after the win", "url": "https://www.youtube.com/watch?v=ITPWaoSwaXo" },
+        { "kind": "web", "text": "Al Jazeera — Alcaraz & Sabalenka advance", "url": "https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Pennant Race",
+      "headline": "Welcome to September — the playoff races (and a wild home-run chase) hit crunch time",
+      "body": "The MLB stretch run is officially here. The Brewers, Dodgers and Braves are jockeying for the National League's best record (and the first-round bye that comes with it), while the AL wild-card picture is a genuine scramble. Toss in a loaded home-run race — Kyle Schwarber, Shohei Ohtani, Aaron Judge and Seattle's 'Big Dumper' Cal Raleigh all mashing — and suddenly every night matters.",
+      "say": "Baseball's hitting the fun part — it's September, everybody's fighting for playoff spots, and there's a great home-run race going with Schwarber, Ohtani, Judge and that Mariners catcher Cal Raleigh. You keeping an eye on the pennant races?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB.com — what's at stake entering September", "url": "https://www.mlb.com/news/mlb-playoff-picture-award-races-stat-leaders-entering-september-2026" },
+        { "kind": "web", "text": "ESPN — 2026 playoff tracker & clinch scenarios", "url": "https://www.espn.com/mlb/story/_/id/49752366/mlb-2026-playoff-tracker-clinch-scenarios-postseason-bracket-schedule" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Awards season sails into Venice — Clooney honored, a young Murdoch opens the show",
+      "body": "The 83rd Venice Film Festival kicks off Wednesday (Sept. 2) on the Lido — the glamorous launchpad for the fall's big Oscar hopefuls. It opens with Danny Boyle's 'Ink,' a drama about a young Rupert Murdoch (Jack O'Connell, Guy Pearce, Claire Foy), and George Clooney is picking up a lifetime-achievement Golden Lion, with new films from Martin McDonagh, Werner Herzog and more premiering over the next ten days.",
+      "say": "The Venice Film Festival starts this week — it's basically where all the big awards-season movies get their first screening. Clooney's getting a lifetime achievement award this year. You into the artsy fall movies, or more of a blockbuster person?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Deadline — Danny Boyle's 'Ink' opens Venice", "url": "https://deadline.com/2026/07/danny-boyle-ink-venice-film-festival-2026-1236983918/" },
+        { "kind": "web", "text": "La Biennale — official festival news", "url": "https://www.labiennale.org/en/news/danny-boyle%E2%80%99s-ink-opening-film-biennale-cinema-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎪",
+      "tag": "Culture · Music",
+      "headline": "Bad Bunny takes over Philly — Made in America returns to the Parkway",
+      "body": "Jay-Z's Made in America festival is back on the Ben Franklin Parkway in Philadelphia this week, and the bill is stacked: Bad Bunny and Tyler, the Creator headline, with Lil Uzi Vert, Jazmine Sullivan, Burna Boy, Tate McRae and Don Toliver all in the mix. It's a big, sweaty end-of-summer send-off before everyone shuffles back to school and work.",
+      "say": "The Made in America festival's going on in Philly — Bad Bunny and Tyler the Creator headlining. Peak last-hurrah-of-summer energy. You ever done a big music festival, or is that your personal nightmare?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Bad Bunny — 'BAILE INoLVIDABLE' (Official Video)", "url": "https://www.youtube.com/watch?v=a1Femq4NPxs" },
+        { "kind": "web", "text": "Made in America — official site", "url": "https://www.madeinamericafest.com/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📰",
+      "tag": "Culture · TV",
+      "headline": "'The Office' spin-off is back — 'The Paper' drops its whole second season next week",
+      "body": "Good news for mockumentary fans: 'The Paper,' the Office spin-off set at a scrappy Toledo newspaper (with Oscar Nuñez back as Oscar), returns for Season 2 on Peacock on Sept. 9 — and all 10 episodes drop at once, so you can binge the whole thing in a weekend. Same awkward-workplace DNA, fresh newsroom chaos.",
+      "say": "You watch The Paper? It's the Office spin-off set at a dying little local newspaper — Oscar from the original show is in it. New season lands next week and they're dropping all the episodes at once. Perfect binge. Do you still rewatch The Office?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Peacock — 'The Paper' Season 2 official trailer", "url": "https://www.youtube.com/watch?v=m0egsFCDTIo" },
+        { "kind": "web", "text": "Peacock — Season 2 premiere details", "url": "https://www.peacocktv.com/blog/the-paper-season-2-premiere-date-details" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎮",
+      "tag": "Culture · Gaming",
+      "headline": "Logan gets his own game — Marvel's Wolverine slashes onto PS5 this month",
+      "body": "One of the most anticipated games in years is nearly here. 'Marvel's Wolverine,' from Insomniac — the studio behind the hit Spider-Man games — lands exclusively on PlayStation 5 on Sept. 15. It's a single-player, story-driven, brutally violent take on Logan (claws, rage, a hard mature rating), and the latest trailers have gamers counting down the days.",
+      "say": "The new Wolverine video game comes out in a couple weeks — from the same studio that made those great Spider-Man games. Supposed to be gory and awesome. You still game at all, or did life get in the way like it did for me?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "PlayStation — Marvel's Wolverine Story Trailer", "url": "https://www.youtube.com/watch?v=3Z42tBfBLJY" },
+        { "kind": "web", "text": "PlayStation Blog — inside Marvel's Wolverine", "url": "https://blog.playstation.com/2026/08/28/marvels-wolverine-details-on-logans-mutant-abilities-game-features-and-more/" }
+      ]
+    }
+  ]
+}
