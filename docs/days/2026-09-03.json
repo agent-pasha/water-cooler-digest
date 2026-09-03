@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-03",
+  "label": "Thursday, September 3, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Those famous nights are back — the Champions League returns next week",
+      "body": "Club soccer's grandest stage is nearly here: the 2026/27 UEFA Champions League league phase kicks off Tuesday (Sept. 8), with all 36 clubs back in the mix and that goosebump-inducing anthem echoing around Europe's biggest stadiums. It's the second year of the new bigger-league format, so everyone plays eight different opponents before the knockouts — more marquee matchups, right from the jump.",
+      "say": "The Champions League is back next week — that's the big European club tournament with the anthem that gives you chills. Best teams on the continent all in one bracket. You have a club you pull for over there, or just tune in for the big games?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "The UEFA Champions League anthem", "url": "https://www.youtube.com/watch?v=zwV3h1vqU0A" },
+        { "kind": "web", "text": "UEFA — 2026/27 league phase fixtures", "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "The Porto bracket is locked — Spirit and MOUZ are already waiting in the semis",
+      "body": "CS2's live finale in Portugal is set. BLAST Open Porto ($1.1M on the line) opens its playoffs Friday with two quarterfinals — Falcons vs. G2, then FURIA vs. Vitality — and the winners have a nasty reward: semifinals Saturday against the two teams that skipped straight through, wonderkid donk's Team Spirit and MOUZ. The trophy gets lifted in front of a packed Portuguese crowd this weekend.",
+      "say": "Counter-Strike's got its big LAN finale in Portugal this weekend — Spirit and MOUZ are already through to the semis and everyone else is fighting to reach them. You been keeping up with any CS lately?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "BLAST on Twitch", "url": "https://www.twitch.tv/blast" },
+        { "kind": "web", "text": "HLTV — Porto playoff bracket set", "url": "https://www.hltv.org/news/45431/blast-open-porto-playoff-bracket-set" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Ryder Cup",
+      "headline": "Team USA is set — Bradley makes his picks, but leaves himself off the squad",
+      "body": "The U.S. Ryder Cup team is complete. Captain Keegan Bradley used his six picks on Justin Thomas, Collin Morikawa, Ben Griffin, Cameron Young, Patrick Cantlay and Sam Burns — and, in the big talking point, chose not to pick himself despite ranking 11th, passing on becoming the first playing captain since 1963. They join qualifiers Scottie Scheffler, Xander Schauffele and co. for the showdown with Europe at Bethpage Black (Sept. 25-27).",
+      "say": "The U.S. Ryder Cup team got finalized — and the captain, Keegan Bradley, is playing well enough to make it but decided not to put himself on the team, which is the whole debate right now. The big USA-vs-Europe golf grudge match is in New York in a few weeks. You into the Ryder Cup?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — Bradley's picks, and why not himself", "url": "https://www.espn.com/golf/story/_/id/46087419/keegan-bradley-pick-us-ryder-cup-squad" },
+        { "kind": "web", "text": "Ryder Cup — official site", "url": "https://www.rydercup.com/" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "The UFC lands in Paris — Hooker vs. Parnasse headlines a rowdy Saturday",
+      "body": "One of the loudest crowds in the sport gets a fight night: the UFC is at the Accor Arena in Paris on Saturday (Sept. 5), with a lightweight main event between fan-favorite banger Dan Hooker and unbeaten French home hope Salahdine Parnasse. The French fans are famously electric, and it all streams on Paramount+.",
+      "say": "There's a UFC card in Paris on Saturday — a lightweight main event, and the French crowds go absolutely bananas, it's one of the best atmospheres they get. You ever watch the fights?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "UFC — Fight Night Paris details", "url": "https://www.ufc.com/news/updates-ufc-fight-night-paris-2026" },
+        { "kind": "web", "text": "ESPN — live fight coverage", "url": "https://www.espn.com/mma/fightcenter/_/id/600059993/league/ufc" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Wahlberg and Abdul-Mateen hunt a killer — 'By Any Means' opens Friday",
+      "body": "The weekend's big theatrical newcomer is 'By Any Means,' out Friday (Sept. 4) — a based-on-a-true-story crime thriller from director Elegance Bratton. Yahya Abdul-Mateen II plays a young 1960s FBI agent forced into an uneasy alliance with a notorious mob hitman (Mark Wahlberg) to track down a string of killings, with a stacked supporting cast including Giancarlo Esposito and David Strathairn.",
+      "say": "New Mark Wahlberg movie out Friday — he's a mob hitman who gets teamed up with a young FBI agent, played by Yahya Abdul-Mateen. Based on a true story, and the cast is loaded. You still get out to the theater, or you a wait-till-streaming person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "By Any Means — official trailer", "url": "https://www.youtube.com/watch?v=6kxU3NVBANk" },
+        { "kind": "web", "text": "Wikipedia — By Any Means (2026 film)", "url": "https://en.wikipedia.org/wiki/By_Any_Means_(2026_film)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏎️",
+      "tag": "Culture · Film",
+      "headline": "Ka-chow turns 20 — Pixar's 'Cars' races back onto the big screen",
+      "body": "A fun bit of nostalgia for the whole family: Pixar's 'Cars' returns to theaters Friday (Sept. 4) for its 20th anniversary, in its original format. Fitting timing, too — fans celebrate 'Lightning McQueen Day' every Sept. 5, a nod to Lightning's racing number, 95. Two decades on, 'Ka-chow' and Radiator Springs still hit.",
+      "say": "Pixar's Cars is turning 20 and they're putting it back in theaters this weekend. Wild that it's been that long — that movie was everywhere. You a Lightning McQueen guy, or were you more of a Toy Story or Monsters Inc. kid?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Cars — the original trailer", "url": "https://www.youtube.com/watch?v=pQly7_Cj34U" },
+        { "kind": "web", "text": "Variety — 'Cars' returns for its 20th anniversary", "url": "https://variety.com/2026/film/news/cars-returns-theaters-20th-anniversary-1236841637/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Kasabian crank it back up — 'Act III' lands for New Music Friday",
+      "body": "The British rock swaggerers are back: Kasabian drop their new album 'Act III' this Friday (Sept. 4), led by the big, loud, made-to-play-at-full-volume single 'Great Pretender.' It's exactly the kind of festival-ready anthem-rock they've built a career on — a solid one to headline your New Music Friday if you like guitars.",
+      "say": "New Kasabian album out Friday — they're that big British rock band, all swagger and stadium-sized choruses. Perfect crank-it-in-the-car stuff. You have a way you find new music, or do you just kind of stumble onto it?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Kasabian — 'Great Pretender' (Official Video)", "url": "https://www.youtube.com/watch?v=RldCtPsSWTU" },
+        { "kind": "web", "text": "Wikipedia — Act III (Kasabian album)", "url": "https://en.wikipedia.org/wiki/Act_III_(Kasabian_album)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Jackson Lamb is back — the 'Slow Horses' Season 6 trailer just dropped",
+      "body": "Good news for one of TV's best shows: Apple TV just dropped the trailer for 'Slow Horses' Season 6, premiering Sept. 16. Gary Oldman's gloriously grubby spymaster Jackson Lamb and his band of misfit agents are on the run this time as Diana Taverner pulls them into a high-stakes game of revenge — and Olivia Cooke's Sid, believed dead since Season 1, is back.",
+      "say": "The new season of Slow Horses is almost here — that Gary Oldman spy show where he plays the disgusting, brilliant boss of a bunch of washed-up MI5 agents. Trailer just dropped and it looks great. You watch that one? It's one of the best things on right now.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Apple TV — Slow Horses Season 6 official trailer", "url": "https://www.youtube.com/watch?v=mZbJxpYHLuI" },
+        { "kind": "web", "text": "The Hollywood Reporter — Season 6 trailer", "url": "https://www.hollywoodreporter.com/tv/tv-news/slow-horses-apple-drops-season-6-trailer-1236675838/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "The 'Torn' singer is back — Natalie Imbruglia drops 'Algorithm' Friday",
+      "body": "A welcome return for '90s pop fans: Natalie Imbruglia — yes, the 'Torn' voice — releases her seventh album, 'Algorithm,' this Friday (Sept. 4), led by the singles 'Upside Down' and the title track. It's her most personal record in years, and a nice change of pace from the heavier stuff on New Music Friday.",
+      "say": "Natalie Imbruglia has a new album out Friday — she's the 'Torn' singer, which is one of those songs everybody somehow knows every word to. Kind of a fun throwback that she's still making music. What's a song you can't help but sing along to?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Natalie Imbruglia — 'Algorithm' (Official Video)", "url": "https://www.youtube.com/watch?v=SHEbeb9qVUE" },
+        { "kind": "web", "text": "Natalie Imbruglia — official site", "url": "https://natalieimbruglia.com/" }
+      ]
+    }
+  ]
+}
