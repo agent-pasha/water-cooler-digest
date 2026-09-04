@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-04",
+  "label": "Friday, September 4, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "Basketball · World Cup",
+      "headline": "Caitlin Clark dazzles in her debut — Team USA rolls China 94-61 to open the World Cup",
+      "body": "Team USA's title defense started with a statement in Berlin. Caitlin Clark, Paige Bueckers and Rhyne Howard all poured in 14 points in their World Cup debuts, and Clark added a game-high 11 assists — the first double-digit-assist game by a USA player at a World Cup since Dawn Staley did it in 1998. All 12 Americans scored in the 94-61 rout, and the new-wave national team looked every bit as fun as advertised.",
+      "say": "Caitlin Clark played her first game for the senior national team and Team USA absolutely smoked China at the Basketball World Cup — she had 14 points and 11 assists, everybody scored. That whole young group is really fun to watch. You catch any of it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "USA Basketball — USA vs. China highlights", "url": "https://www.usab.com/videos/2026/09/highlights-usa-vs-china-2026-fiba-womens-world-cup-september-4-2026" },
+        { "kind": "web", "text": "NBC Sports — Clark double-doubles as U.S. romps", "url": "https://www.nbcsports.com/olympics/news/fiba-womens-basketball-world-cup-2026-usa-china" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "The Premier League is back this weekend — and Sunday hands us Arsenal vs. Chelsea",
+      "body": "After deadline-day madness, the league returns with a loaded Sunday: Chelsea head across London to face Arsenal at the Emirates (4:30 p.m. UK) in a heavyweight clash of title hopefuls, right after Manchester United visit a fired-up Everton at 2. Saturday's got its own fun — newly promoted Coventry at Manchester City, and Spurs at Nottingham Forest. Plenty to argue about before the Champions League kicks off midweek.",
+      "say": "Premier League's back this weekend and the big one is Arsenal vs. Chelsea on Sunday — two of the best teams, proper London derby. Man United are at Everton earlier too. You watching any of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Premier League — this weekend's matches", "url": "https://www.premierleague.com/en/matches" },
+        { "kind": "web", "text": "Sky Sports — scores & fixtures", "url": "https://www.skysports.com/premier-league-scores-fixtures" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Milestone",
+      "headline": "Fastest ever — Ronald Acuña Jr. blasts into the 200-homer, 200-steal club",
+      "body": "Braves star Ronald Acuña Jr. just did something no one in baseball history has done this quickly. He launched the 200th home run of his career — a three-run shot at Nationals Park — to become the fastest player ever to reach both 200 homers and 200 stolen bases, hitting the milestone in his 904th game and beating Alfonso Soriano's old mark by 25 games. Power and speed like that basically don't exist in one player.",
+      "say": "Did you see Ronald Acuña became the fastest guy ever to hit 200 home runs AND steal 200 bases? That combo of power and speed is just unreal — nobody does both like him. You keeping an eye on baseball as the playoff races heat up?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com — Acuña joins the 200/200 club", "url": "https://www.mlb.com/video/ronald-acuna-jr-joins-the-200-200-club" },
+        { "kind": "web", "text": "MLB.com — fastest to 200 HR & 200 SB", "url": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "CS2's Porto playoffs are live right now — quarterfinals today, trophy Sunday",
+      "body": "The Counter-Strike weekend everyone's been waiting for is happening. BLAST Open Porto's playoffs are underway in front of a packed Portuguese crowd ($1.1M up for grabs): Falcons vs. G2 and FURIA vs. Vitality battle through the quarterfinals today, and the winners get a brutal Saturday reward — semifinals against wonderkid donk's Team Spirit and MOUZ, who both earned a bye. The champion gets crowned Sunday.",
+      "say": "Counter-Strike's big LAN finals are actually going on right now in Portugal — quarterfinals today, and Spirit with that teenager donk are waiting in the semis. Trophy gets lifted Sunday. You been following any CS?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "BLAST on Twitch", "url": "https://www.twitch.tv/blast" },
+        { "kind": "web", "text": "HLTV — BLAST Open Porto bracket & results", "url": "https://www.hltv.org/events/8249/blast-open-porto-2026" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Vuelta a España",
+      "headline": "Spain has a new hero — Enric Mas is defending the red jersey in the mountains",
+      "body": "Ever since Tadej Pogačar crashed out while leading, the Vuelta has belonged to a home rider: Movistar's Enric Mas has seized the red leader's jersey and is defending it stage by stage through the race's brutal final-week climbs, fending off four-time champ Primož Roglič, who's shadowing him in the standings. With the finish in Madrid on Sept. 13, every mountain day now swings the whole thing.",
+      "say": "That Spanish bike race, the Vuelta, got wild after the best rider in the world crashed out — now a Spaniard, Enric Mas, is leading it on home roads and holding off everyone in the mountains. Kind of a great underdog-hero story. You ever get into the grand tours?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews — Vuelta GC standings & latest", "url": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-gc-standings-from-yellow-to-red-tadej-pogacar-takes-leaders-jersey-on-opening-day/" },
+        { "kind": "web", "text": "Olympics.com — schedule, results & GC", "url": "https://www.olympics.com/en/news/vuelta-espana-2026-schedule-stage-results-general-classification-standings" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "The 'Friday' girl, all grown up — Rebecca Black drops 'Age of the Exhibitionist'",
+      "body": "One of the internet's great redemption arcs adds a chapter: Rebecca Black — yes, the viral 'Friday' kid from 2011 — releases her new album 'Age of the Exhibitionist' today, and critics are treating her as a genuinely sharp electropop artist now. Led by the glitchy, self-aware single 'Speakerphone,' it's all about performing your life online. A long way from where she started.",
+      "say": "You remember Rebecca Black, the 'Friday' girl everybody memed back in the day? She's actually a legit pop artist now — new album out today and people are really into it. Wild turnaround. Isn't it kind of great when someone flips the script like that?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Rebecca Black — 'Speakerphone' (Official Video)", "url": "https://www.youtube.com/watch?v=WcHW89jq1kk" },
+        { "kind": "web", "text": "Wikipedia — Age of the Exhibitionist", "url": "https://en.wikipedia.org/wiki/Age_of_the_Exhibitionist" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "From a viral anthem to a full album — Paris Paloma releases 'The Fatal Flaw'",
+      "body": "If you were anywhere near TikTok when 'Labour' took over, you know Paris Paloma. The English singer-songwriter drops her second album, 'The Fatal Flaw,' today — moody, literary, dark-folk-meets-alt-pop, led by the cathartic single 'Stem the Flow.' It's a lush, headphones-on kind of record and a nice counterweight to New Music Friday's louder stuff.",
+      "say": "There's a singer, Paris Paloma — she had that huge song 'Labour' that was everywhere online — and she just put out a new album. Really pretty, kind of dark-folk stuff. Do you find new music somewhere, or mostly stick with what you know?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Paris Paloma — 'Stem the Flow' (Official Music Video)", "url": "https://www.youtube.com/watch?v=HasPLp596MU" },
+        { "kind": "web", "text": "Nettwerk — 'The Fatal Flaw' announcement", "url": "https://nettwerk.com/news/paris-paloma-announces-her-second-album-the-fatal-flaw-out-september-4th" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "'Hercules, hello!' — Eddie Murphy's 'The Nutty Professor' is back in theaters",
+      "body": "Pure nostalgia for the weekend: 'The Nutty Professor' returns to theaters nationwide today for its 30th anniversary. It's the 1996 comedy where Eddie Murphy plays practically the entire Klump family under Oscar-winning makeup — a showcase that still holds up as one of the great one-man comedic performances. A fun excuse to laugh at Sherman Klump and Buddy Love on a big screen again.",
+      "say": "They put Eddie Murphy's 'The Nutty Professor' back in theaters for its 30th anniversary — the one where he plays like six characters, the whole Klump family at the dinner table. That movie's a classic. You more of a theater person or a wait-for-streaming person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The Nutty Professor: 30th Anniversary — trailer", "url": "https://www.youtube.com/watch?v=sy_I-_7LBF0" },
+        { "kind": "web", "text": "Fandango — showtimes & details", "url": "https://www.fandango.com/the-nutty-professor-30th-anniversary-2026-246685/movie-overview" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Ryan Murphy's 'Monster' is back — 'The Lizzie Borden Story' has its trailer out",
+      "body": "The true-crime juggernaut returns: Netflix has dropped the trailer for 'Monster: The Lizzie Borden Story,' the fourth season of Ryan Murphy's blockbuster anthology, premiering Sept. 17. Ella Beatty stars as Borden, the woman famously (and unprovenly) accused of the 1892 axe murders of her father and stepmother, with Vicky Krieps and Charlie Hunnam in the cast. All eight episodes land at once.",
+      "say": "The new season of that Netflix 'Monster' show is coming — this time it's the Lizzie Borden case, the old axe-murder trial everybody half-remembers from that creepy nursery rhyme. Trailer just dropped. Those seasons always seem to take over the internet for a week. You watch that show?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Netflix — Monster: The Lizzie Borden Story teaser", "url": "https://www.youtube.com/watch?v=EkQDfMLhRLM" },
+        { "kind": "web", "text": "Netflix Tudum — release date, cast & details", "url": "https://www.netflix.com/tudum/articles/monster-season-4-lizzie-borden-release-date-cast-news" }
+      ]
+    }
+  ]
+}
