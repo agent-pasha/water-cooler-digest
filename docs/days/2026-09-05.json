@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-05",
+  "label": "Saturday, September 5, 2026",
+  "items": [
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Italian Grand Prix",
+      "headline": "Gasly's Monza miracle — a shock first-ever pole for Alpine",
+      "body": "Pierre Gasly stunned the Temple of Speed, pipping George Russell by six-hundredths of a second to grab the first pole of his career — and the first for a French driver since Jean Alesi back in 1997. The race goes Sunday.",
+      "say": "Did you catch Gasly nicking pole at Monza? First French pole since the '90s — nobody saw that coming.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "F1 qualifying report", "url": "https://www.formula1.com/en/latest/article/gasly-charges-to-sensational-maiden-f1-pole-at-monza-over-russell-and-piastri.4CKkkbvgmqL04ijMNBfuXF" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Bundesliga",
+      "headline": "Bayern are flying — and today they visit a reborn Schalke",
+      "body": "Bayern kicked off the new Bundesliga season with a 5-1 romp and roll into Gelsenkirchen on Saturday, where a promoted Schalke are back in the big time with the Veltins-Arena rocking again.",
+      "say": "Schalke are finally back in the Bundesliga — and they drew Bayern at home first up. Brutal, right?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Bayern's opener (5-1)", "url": "https://www.youtube.com/watch?v=iUqD611x9Ps" },
+        { "kind": "web", "text": "Bundesliga matchday", "url": "https://www.bundesliga.com/en/bundesliga/matchday" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Home Run Chase",
+      "headline": "Schwarbombs everywhere — Kyle Schwarber is chasing 60",
+      "body": "Philly's slugger was the first to 40 homers this year and hasn't cooled off one bit, headlining a wild National League long-ball race as the Phillies barrel toward October.",
+      "say": "You seeing what Schwarber's doing? Dude might actually run down 60 home runs.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Schwarber's 40th bomb", "url": "https://www.mlb.com/video/kyle-schwarber-homers-40-on-a-fly-ball-to-right-center-field-brandon-mars" },
+        { "kind": "web", "text": "ESPN: chasing 60", "url": "https://www.espn.com/mlb/story/_/id/48807197/mlb-2026-phillies-kyle-schwarber-home-runs-astounding-stats-prediction" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Shamrock Series",
+      "headline": "College football at Lambeau — Notre Dame hits the frozen tundra",
+      "body": "Notre Dame takes its Shamrock Series to Lambeau Field on Sunday to face Wisconsin — the Irish's first-ever game at the Packers' iconic home, and only the third college game the storied stadium has ever hosted.",
+      "say": "Notre Dame's playing at Lambeau this weekend — reckon anyone tries a Lambeau Leap?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Shamrock Series reveal", "url": "https://www.youtube.com/watch?v=EB3FdQYxS-I" },
+        { "kind": "web", "text": "Notre Dame Athletics", "url": "https://fightingirish.com/notre-dame-to-face-wisconsin-at-lambeau-field-in-shamrock-series-on-september-6-2026/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Beyoncé reopens 'B'Day' at 20 — with a Selena duet",
+      "body": "For her birthday, Beyoncé dropped a 20th-anniversary deluxe of 'B'Day' stuffed with unreleased tracks — including a posthumous 'Irreemplazable (Como La Flor)' duet with Selena Quintanilla that had fans in their feelings.",
+      "say": "Beyoncé put out a Selena duet for the B'Day reissue — a 'Como La Flor' mashup. Total chills.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Listen on Apple Music", "url": "https://music.apple.com/us/album/bday-20th-anniversary-deluxe-edition/6808332952" },
+        { "kind": "web", "text": "Variety: the story", "url": "https://variety.com/2026/music/news/beyonce-bday-20th-anniversary-duets-selena-maluma-1236851153/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Miley's back on the dance floor — 'Bass Persuades' opens a new era",
+      "body": "Miley Cyrus dropped the sultry title track and video for her tenth album 'Bass Persuades' (out Sept. 18) — a smoky, bass-heavy nightclub romp that has her fully in dance-pop mode.",
+      "say": "New Miley single 'Bass Persuades' — very late-night dance floor energy. You into it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Bass Persuades'", "url": "https://www.youtube.com/watch?v=D70Ld2UoZVI" },
+        { "kind": "web", "text": "Variety review", "url": "https://variety.com/2026/music/news/miley-cyrus-steamy-dance-floor-bass-persuades-music-video-1236851134/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'The Grand Tour' is back — with a brand-new trio behind the wheel",
+      "body": "Prime Video's petrolhead epic returns with a fresh set of hosts tearing across deserts and airfields (with ex-F1 champ Jenson Button dropping by for the mayhem). New crew, same very-bad-ideas spirit.",
+      "say": "The Grand Tour rebooted with all-new hosts — curious if it still has the magic. You gonna watch?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=Xtr-oPCp2GQ" },
+        { "kind": "web", "text": "The new-look series", "url": "https://www.geektown.co.uk/2026/08/25/the-grand-tour-trailer-introduces-new-trio-with-supercars-fighter-jets-very-bad-ideas/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Spidey just won't leave No. 1 — six straight weekends on top",
+      "body": "'Spider-Man: Brand New Day' won Labor Day weekend for its sixth consecutive week atop the box office — the longest #1 streak since 'Avatar: The Way of Water' in 2022, and now it's creeping up on an all-time domestic record.",
+      "say": "Spider-Man's been No. 1 six weekends in a row — haven't seen a run like that since Avatar 2.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=8TZMtslA3UY" },
+        { "kind": "web", "text": "Box-office recap", "url": "https://www.goldderby.com/film/2026/spider-man-weekend-box-office-record-coyote-vs-acme-by-any-means/" }
+      ]
+    }
+  ]
+}
