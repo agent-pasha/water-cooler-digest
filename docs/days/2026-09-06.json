@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-06",
+  "label": "Sunday, September 6, 2026",
+  "items": [
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Italian Grand Prix",
+      "headline": "Monza loses its mind — Antonelli wins at home from 19th on the grid",
+      "body": "A day after grabbing everyone's attention, the story at Monza got even bigger. Kimi Antonelli — the 19-year-old Italian championship leader — started way back in 19th after an engine penalty and carved his way all the way to the front, holding off Mercedes teammate George Russell over the closing laps for a 1-2, with Max Verstappen third. He's the first Italian to win at Monza in 60 years, in front of a delirious home crowd, and he stretched his title lead to 66 points.",
+      "say": "Did you catch the F1 at Monza? A 19-year-old Italian kid, Antonelli, started 19th and won his home race — first Italian to win there in like 60 years. The place absolutely lost it. You follow any Formula 1?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Formula1.com — Antonelli's stunning comeback win", "url": "https://www.formula1.com/en/latest/article/antonelli-beats-russell-to-italian-grand-prix-win-with-stunning-comeback-drive.15WtFEBT5JEe4drdeO88t2" },
+        { "kind": "web", "text": "ESPN — from 19th to victory at his home race", "url": "https://www.espn.com/f1/story/_/id/49813281/kimi-antonelli-comes-19th-grid-win-home-italian-grand-prix-italian-grand-prix-formula-1-monza" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Week 1",
+      "headline": "The Kiffin era opens with a statement — LSU smashes Clemson 51-10",
+      "body": "So much for a nervy top-10 opener. Lane Kiffin's LSU debut turned into a rout: the 11th-ranked Tigers smothered Clemson 51-10 in a rocking Death Valley, outgaining them 644 yards to 145 and looking like an instant playoff contender. New QB Sam Leavitt ran the show with three total touchdowns. About as good a first impression as a new coach could ask for.",
+      "say": "LSU absolutely hammered Clemson to kick off the college football season — 51-10, first game of the Lane Kiffin era. That was supposed to be a close top-10 fight and it wasn't close at all. You pulling for anybody this fall?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "ESPN — LSU vs. Clemson full highlights", "url": "https://www.espn.com/video/clip/_/id/46117781" },
+        { "kind": "web", "text": "ESPN — final score & box score", "url": "https://www.espn.com/college-football/game/_/gameId/401856660/clemson-lsu" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "MOUZ are the Porto champions — they take down Spirit 3-1 in the final",
+      "body": "The Counter-Strike weekend in Portugal wrapped up with a new team lifting the trophy. In front of a packed Porto crowd, MOUZ beat wonderkid donk's Team Spirit 3-1 in the best-of-five grand final to win BLAST Open Porto and the $1.1M top prize — their first title with this lineup, powered by a monster individual showing from Spinx.",
+      "say": "Counter-Strike's big Portugal LAN wrapped up — MOUZ beat that scary Spirit team 3-1 in the final to win the whole thing. First trophy for this MOUZ roster. You been keeping up with any CS lately?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "HLTV — BLAST Open Porto grand final", "url": "https://www.hltv.org/matches/2396951/blast-open-porto-2026-grand-final-blast-open-porto-2026" },
+        { "kind": "tw", "text": "BLAST on Twitch (VODs)", "url": "https://www.twitch.tv/blast" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night Paris",
+      "headline": "A star is born in Paris — Parnasse flattens Hooker in Round 1",
+      "body": "The rowdy Accor Arena crowd got exactly what it wanted. French home favorite Salahdine Parnasse made a jaw-dropping UFC debut in Saturday's main event, dropping tough veteran Dan Hooker with a brutal kick to the liver and finishing him with punches just 2:35 into the first round. Then he grabbed the mic and called out Max Holloway. Instant contender.",
+      "say": "There was a UFC card in Paris and the French guy, Parnasse, knocked out Dan Hooker in the first round in his very first fight — nasty body kick, then finished him. Crowd went absolutely bananas. You ever watch the fights?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "ESPN — Parnasse wins in UFC debut", "url": "https://www.espn.com/mma/story/_/id/49840367/salahdine-parnasse-knocks-dan-hooker-ufc-debut" },
+        { "kind": "web", "text": "UFC — Paris main card results", "url": "https://www.ufc.com/news/ufc-paris-results-hooker-vs-parnasse" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "The second week is here — Alcaraz rolls as the Americans pile up",
+      "body": "The US Open is down to the round of 16, and defending champion Carlos Alcaraz looks scary good since coming back from a wrist injury — he dropped just a handful of games in his last match. With a big home contingent still alive (Tommy Paul and Taylor Townsend among them), Flushing Meadows is loaded with American storylines heading into the business end, ahead of the finals next weekend.",
+      "say": "The US Open's into the second week and Alcaraz is cruising, but there's also a bunch of Americans still in it — which always makes it more fun over here. You ever get sucked into the late-night matches?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Al Jazeera — Alcaraz & Sabalenka into the last 16", "url": "https://www.aljazeera.com/sports/2026/9/5/alcaraz-sabalenka-into-us-open-last-16-as-williams-sisters-lose-on-return" },
+        { "kind": "web", "text": "Olympics.com — order of play & results", "url": "https://www.olympics.com/en/news/us-open-2026-order-of-play-6-september-all-matches-schedule" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Venice has its frontrunner — 'Wild Horse Nine' gets a 14-minute ovation",
+      "body": "The awards-season buzz just found its center of gravity. Martin McDonagh's new film 'Wild Horse Nine' (with John Malkovich and Sam Rockwell) premiered at the Venice Film Festival to a rapturous, nearly 15-minute standing ovation — one of the longest of the fest — with Malkovich fighting back tears. It's stormed straight into the Oscar conversation, and it's from the guy who made 'In Bruges' and 'The Banshees of Inisherin.'",
+      "say": "The fall movie festivals are in full swing, and there's a new Martin McDonagh film — the 'Banshees of Inisherin' guy — that just got like a 14-minute standing ovation in Venice. Sounds like an early Oscar favorite. You into the awards-season movies?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Deadline — 14-minute Venice ovation", "url": "https://deadline.com/2026/09/wild-horse-nine-14-minutes-ovation-venice-film-festival-1237066729/" },
+        { "kind": "web", "text": "Variety — Malkovich, Rockwell storm the Oscar race", "url": "https://variety.com/2026/film/festivals/wild-horse-nine-john-malkovich-sam-rockwell-venice-premiere-1236850074/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The Gallaghers, together again — the Oasis doc premieres in Venice",
+      "body": "One of the great pop-culture reunions got its big-screen moment. The Oasis documentary 'Don't Look Back in Anger' premiered at the Venice Film Festival, and once-estranged brothers Liam and Noel Gallagher stood side by side and raised their hands together to an eight-minute standing ovation. A fitting cap to the year the biggest band in Britpop finally buried the hatchet and got back on the road.",
+      "say": "There's a new Oasis documentary that just premiered — and Liam and Noel actually stood together and raised their hands to a big ovation, which, if you know those two, is kind of a miracle. Their reunion was massive. You an Oasis fan?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Oasis — 'Don't Look Back In Anger' (Official Video)", "url": "https://www.youtube.com/watch?v=YZG7z4FOn0g" },
+        { "kind": "web", "text": "Variety — Gallaghers electrify Venice", "url": "https://variety.com/2026/film/festivals/oasis-documentary-premiere-liam-noel-gallagher-venice-ovation-1236845853/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · TV",
+      "headline": "Emmy season is on — the Creative Arts winners are in, big night next Monday",
+      "body": "TV's awards run kicked off this weekend with the Creative Arts Emmys in LA, where Bad Bunny's Super Bowl LX Halftime Show led all winners with seven, 'The Traitors' cleaned up in reality, and Octavia Spencer picked up her first-ever Emmy. It's all a warm-up for the big one: the 78th Primetime Emmys air Monday, Sept. 14 on NBC, hosted by Mariska Hargitay — with 'The Pitt' and 'Hacks' leading the nominations.",
+      "say": "The Emmys are basically here — they handed out the technical awards this weekend and the big ceremony's next Monday, with Mariska Hargitay from Law & Order hosting. You watch any of the shows that are up this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Variety — Creative Arts Emmys winners list", "url": "https://variety.com/2026/artisans/news/creative-arts-emmy-awards-winners-list-night-one-1236849746/" },
+        { "kind": "web", "text": "NBC — 2026 Emmys date, host & nominees", "url": "https://www.nbc.com/nbc-insider/2026-emmys-air-date-host-nominees-details" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧑‍🚀",
+      "tag": "Culture · Film",
+      "headline": "This is the way — 'The Mandalorian & Grogu' is finally on Disney+",
+      "body": "If you skipped it in theaters this spring, now's your chance: 'The Mandalorian & Grogu,' the first big-screen 'Mandalorian' movie (Jon Favreau directing, Pedro Pascal back as Din Djarin with everyone's favorite green little guy), just landed on Disney+. Perfect couch-and-blanket, whole-family viewing for a lazy weekend.",
+      "say": "That Mandalorian movie — the one with Baby Yoda — just hit Disney+, so you don't have to have caught it in theaters. Good easy weekend watch with the kids. You a Star Wars person, or did you tap out somewhere along the way?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Star Wars — 'The Mandalorian and Grogu' Official Trailer", "url": "https://www.youtube.com/watch?v=IHWlvwu8t1w" },
+        { "kind": "web", "text": "Disney+ — now streaming", "url": "https://www.disneyplus.com/explore/articles/the-mandalorian-and-grogu-movie" }
+      ]
+    }
+  ]
+}
