@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-07",
+  "label": "Monday, September 7, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Arsenal win a London thriller — and Havertz sinks his old club again",
+      "body": "The big Sunday derby delivered. Chelsea stunned the Emirates with a Morgan Rogers goal inside the first two minutes, but Arsenal roared back: Kai Havertz — who used to play for Chelsea — leveled it, and captain Martin Ødegaard curled in the winner just after halftime for a 2-1 victory. Arsenal are now a perfect three-for-three and top of the table, while it was new Chelsea boss Xabi Alonso's first defeat.",
+      "say": "Did you catch Arsenal-Chelsea? Arsenal went down inside two minutes but came back to win 2-1 — and Havertz, who used to play for Chelsea, scored against them again. Proper London derby. You follow the Premier League at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — score, goals & highlights", "url": "https://www.nbcsports.com/soccer/live/arsenal-vs-chelsea-live-updates-score-goals-highlights-stats-2026-september-6" },
+        { "kind": "web", "text": "ESPN — Arsenal 2-1 Chelsea game analysis", "url": "https://www.espn.com/soccer/report/_/gameId/401879292" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · La Liga",
+      "headline": "Lamine Yamal puts on a show — Barça thump Valencia 5-0",
+      "body": "Barcelona are absolutely flying. Teen superstar Lamine Yamal scored twice (and had a third ruled out for offside) as the defending champions steamrolled Valencia 5-0 at the Mestalla, with Raphinha, Fermín López and Pedri also getting in on the fun. That's four games, four wins and 17 goals to start the season — and Barça sit top of La Liga with a three-point cushion.",
+      "say": "Barcelona are rolling — they went to Valencia and won 5-0, and that 19-year-old Lamine Yamal scored twice. The kid is unreal. You keep up with the Spanish league, or mostly just the big Champions League nights?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "ESPN — Valencia 0-5 Barcelona game analysis", "url": "https://www.espn.com/soccer/report/_/gameId/401882888" },
+        { "kind": "web", "text": "Yahoo Sports — Mestalla rout recap", "url": "https://sports.yahoo.com/articles/valencia-0-5-barcelona-la-161935929.html" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Shamrock Series",
+      "headline": "College football at Lambeau — Notre Dame pulls away from Wisconsin 41-13",
+      "body": "The Irish took their Shamrock Series to the Green Bay Packers' iconic Lambeau Field on Sunday night — just the third college game ever played on the frozen tundra — and turned a tight one into a rout. No. 4 Notre Dame led only 13-10 at the half before outscoring Wisconsin 28-3 after the break, behind two touchdown passes from quarterback CJ Carr and two rushing scores from Aneyas Williams.",
+      "say": "Notre Dame played a college football game at Lambeau Field — the Packers' stadium — and won 41-13. Something fun about a college game on that frozen tundra. You getting into college football this fall?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Notre Dame Football — highlights vs. Wisconsin", "url": "https://www.youtube.com/watch?v=m6LA_1_oBuM" },
+        { "kind": "web", "text": "NBC Sports — Irish roll at Lambeau", "url": "https://www.nbcsports.com/college-football/news/no-4-notre-dame-overcomes-sluggish-start-to-beat-wisconsin-41-13-at-lambeau-field" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Vuelta a España",
+      "headline": "A boiling day at the Vuelta — Van Aert wins a stage cut short by the heat",
+      "body": "The Spanish grand tour served up some real drama. Sunday's Stage 15 into Córdoba was slashed from about 190 km to just 110 because of extreme heat, and Belgian star Wout van Aert powered to the win in the sweltering conditions anyway. Monday is a rest day, with home favorite Enric Mas still holding the red leader's jersey as the race heads into its brutal final week.",
+      "say": "That big Spanish bike race, the Vuelta, had a stage this weekend so hot they literally chopped it in half — and Wout van Aert won it anyway. You ever get into the grand tours, or is cycling not really your thing?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cyclingnews — Vuelta a España 2026", "url": "https://www.cyclingnews.com/races/vuelta-a-espana-2026/" },
+        { "kind": "web", "text": "Olympics.com — stage results & GC standings", "url": "https://www.olympics.com/en/news/vuelta-espana-2026-schedule-stage-results-general-classification-standings" }
+      ]
+    },
+    {
+      "cat": "boxing",
+      "emoji": "🥊",
+      "tag": "Boxing · Croke Park",
+      "headline": "A fairytale goodbye — Katie Taylor wins her farewell fight in front of 80,000",
+      "body": "Irish boxing icon Katie Taylor went out exactly the way she wanted. In front of more than 80,000 fans at Dublin's Croke Park — the first boxing card there since Muhammad Ali fought in 1972 — the three-time undisputed champion outclassed France's Flora Pili over 10 rounds to win by unanimous decision, then took an emotional final lap of the ring to close the book on a legendary career.",
+      "say": "Katie Taylor — the Irish boxing legend — had her retirement fight in front of 80,000 people at Croke Park in Dublin and went out with a win. About as perfect a sendoff as you can script. You into boxing at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "DAZN Boxing — Taylor vs. Pili fight highlights", "url": "https://www.youtube.com/watch?v=JNqNfgGkq-4" },
+        { "kind": "web", "text": "Sky Sports — Taylor's emotional Croke Park farewell", "url": "https://www.skysports.com/boxing/news/12183/13582040/katie-taylor-wins-final-fight-of-boxing-career-after-beating-flora-pili-on-emotional-night-at-dublins-croke-park" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "The trio's back on the case — 'Only Murders' Season 5 lands this week",
+      "body": "One of TV's coziest whodunits returns: 'Only Murders in the Building' Season 5 hits Hulu on Sept. 9, with Steve Martin, Martin Short and Selena Gomez chasing the killer of the Arconia's doorman — a case that drags them into New York's mob world this time. The guest list is stacked, too: Renée Zellweger, Christoph Waltz, Keegan-Michael Key and Logan Lerman all turn up.",
+      "say": "The new season of Only Murders in the Building drops this week — that fun murder-mystery comedy with Steve Martin, Martin Short and Selena Gomez. Perfect easy binge. You watch that one?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Hulu — Only Murders Season 5 trailer", "url": "https://www.youtube.com/watch?v=eMHPkbn0hdM" },
+        { "kind": "web", "text": "Wikipedia — Only Murders in the Building season 5", "url": "https://en.wikipedia.org/wiki/Only_Murders_in_the_Building_season_5" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Best. Movie summer. Ever. — 2026 sets an all-time box-office record",
+      "body": "Hollywood just wrapped its biggest summer at the box office in history — roughly $4.76 billion, edging the old 2013 record — and the engine was 'Spider-Man: Brand New Day.' The web-slinger took a sixth straight weekend at No. 1 over Labor Day, pushed past $900 million domestically, and is now closing in on the all-time domestic record. Turns out people still love a night at the movies.",
+      "say": "Apparently this was the biggest movie summer of all time, and that new Spider-Man just won the box office for the sixth weekend in a row. When's the last time you actually made it out to the theater?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Spider-Man: Brand New Day — official trailer", "url": "https://www.youtube.com/watch?v=8TZMtslA3UY" },
+        { "kind": "web", "text": "Deadline — summer 2026 hits $4.76B record", "url": "https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧛",
+      "tag": "Culture · Music",
+      "headline": "The song that's everywhere — Tame Impala and Jennie's 'Dracula'",
+      "body": "If you keep hearing a woozy, hypnotic tune with a K-pop twist, that's the one: Tame Impala's 'Dracula,' remixed with BLACKPINK's Jennie, has become a genuine crossover smash. It blew up as a TikTok trend, climbed into the top five of the Hot 100, and right now it's sitting atop pop radio — the kind of earworm that just won't leave your head.",
+      "say": "You know that 'Dracula' song by Tame Impala with Jennie from BLACKPINK on it? It's absolutely everywhere right now — kind of an unexpected combo that just works. What's been stuck in your head lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Tame Impala, JENNIE — 'Dracula' (Remix, official)", "url": "https://www.youtube.com/watch?v=0UPDBODtxzw" },
+        { "kind": "web", "text": "Wikipedia — 'Dracula' (Tame Impala song)", "url": "https://en.wikipedia.org/wiki/Dracula_(Tame_Impala_song)" }
+      ]
+    }
+  ]
+}
