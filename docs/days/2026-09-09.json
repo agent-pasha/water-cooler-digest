@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-09",
+  "label": "Wednesday, September 9, 2026",
+  "items": [
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "Bedlam at 3:30 a.m. — Ben Shelton stuns Alcaraz in the latest finish in US Open history",
+      "body": "One of the wildest nights Flushing Meadows has ever seen. American Ben Shelton knocked off defending champ and world No. 2 Carlos Alcaraz in a five-set epic — 6-7, 6-1, 6-3, 1-6, 7-6 — that didn't end until 3:33 a.m., the latest finish in US Open history. It was Shelton's first-ever win over a top-3 player and it ended Alcaraz's 18-match Grand Slam streak. Even better for the home crowd: Frances Tiafoe won too, so Friday's semifinal is all-American, guaranteeing a U.S. man in the final for the first time in over 20 years.",
+      "say": "Did you see Ben Shelton beat Alcaraz at the US Open? It went till like 3:30 in the morning — latest finish they've ever had — and now it's two Americans playing each other in the semis, so we're finally getting a U.S. guy in the final. You ever stay up for the late ones?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "US Open — Shelton vs. Alcaraz highlights", "url": "https://www.youtube.com/watch?v=wYd7I5_tMEs" },
+        { "kind": "web", "text": "CNN — the latest-ever US Open finish", "url": "https://www.cnn.com/2026/09/09/sport/ben-shelton-carlos-alcaraz-latest-ever-us-open-finish" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📱",
+      "tag": "Culture · Tech",
+      "headline": "Big day in Cupertino — Apple unveils its first foldable iPhone (and its new boss)",
+      "body": "Apple's 'Surprise and Shine' event goes down today (10 a.m. Pacific), and it's a milestone one: it's the first keynote led by new CEO John Ternus, who just took over from Tim Cook. The headliner everyone's buzzing about is Apple's long-rumored first folding iPhone — reportedly a book-style device that could start around $2,000 — alongside the iPhone 18 Pro, new Apple Watches and fresh AirPods. Whether you upgrade every year or squeeze five out of one phone, this is the gadget chatter of the week.",
+      "say": "Apple's got their big iPhone event today — and this year they're finally doing a foldable phone, the one that folds like a little book. First one they've ever made, apparently like two grand. You an every-year-upgrade person, or do you run your phone into the ground?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Apple — 'Surprise and shine'", "url": "https://www.apple.com/newsroom/in-the-loop/2026/08/surprise-and-shine/" },
+        { "kind": "web", "text": "MacRumors — what to expect", "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Those famous nights are back — Mbappé sinks Inter as the Champions League returns",
+      "body": "The anthem is back. The Champions League league phase kicked off, and opening night belonged to the big names: at the Bernabéu, Kylian Mbappé struck early and Federico Valverde added a second as Real Madrid held on to beat Inter 2-1 — a sweet result for new manager José Mourinho against one of his old clubs. Elsewhere, Erling Haaland and Manchester City won 2-0 at Porto and Dortmund edged Villarreal 3-2, so the goals came thick and fast right from the first whistle.",
+      "say": "The Champions League is back — that European tournament with the goosebumps anthem — and Mbappé scored to get Real Madrid past Inter on opening night. Mourinho's their manager now, too. You pull for a club over there, or just tune in for the big nights?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — Real Madrid 2-1 Inter analysis", "url": "https://www.espn.com/soccer/report/_/gameId/401915451" },
+        { "kind": "web", "text": "Al Jazeera — Mbappé sets Mourinho's men on their way", "url": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📰",
+      "tag": "Culture · TV",
+      "headline": "The mockumentary's back — 'The Paper' Season 2 drops all at once today",
+      "body": "Good news for anyone still mourning 'The Office': its spinoff 'The Paper' returns for Season 2 today, with all 10 episodes landing on Peacock at once. Set at the scrappy Toledo Truth Teller newspaper, it follows earnest editor Ned Sampson (Domhnall Gleeson) and his misfit staff — Oscar Nuñez's Oscar carries over from the original — as an ambitious 'journalistic crusade' threatens to sink the whole paper. Same cringe-comedy DNA, whole new binge.",
+      "say": "The Office spinoff — it's called The Paper — dropped its whole second season today on Peacock. Same mockumentary style, set at a tiny newspaper, and Oscar from the original is in it. Perfect easy binge. You ever give that one a shot?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Peacock — 'The Paper' Season 2 official trailer", "url": "https://www.youtube.com/watch?v=m0egsFCDTIo" },
+        { "kind": "web", "text": "TV Insider — premiere date, cast & details", "url": "https://www.tvinsider.com/1212749/the-paper-season-2-premiere-date-trailer-cast-plot/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "Basketball · World Cup",
+      "headline": "Team USA rolls into the quarterfinals — knockout basketball starts Thursday in Berlin",
+      "body": "After that white-knuckle 55-52 escape against Italy, Team USA finished a perfect 3-0 to win its group and now the tournament gets serious: quarterfinals tip off Thursday in Berlin, with the four-time defending champs facing the Japan-vs-Hungary winner. It's win-or-go-home from here for Caitlin Clark, Paige Bueckers and the rest of the new-look U.S. squad, with the semis Saturday and the gold-medal game Sunday.",
+      "say": "The Women's Basketball World Cup hits the knockout rounds Thursday — Team USA's through, but now it's win-or-go-home, and that young group with Caitlin Clark and Paige Bueckers is really fun. They're going for a fifth title in a row. You catch any of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — full schedule & start times", "url": "https://www.nbcsports.com/olympics/news/fiba-womens-basketball-world-cup-2026-full-game-schedule-start-times" },
+        { "kind": "web", "text": "Olympics.com — schedule, results & standings", "url": "https://www.olympics.com/en/news/fiba-women-world-cup-schedule-results-standings" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Playoff Race",
+      "headline": "September baseball is here — and the playoff races are getting spicy",
+      "body": "The best month of the regular season is on: with a few weeks left, the postseason picture is tightening. Aaron Judge is back from injury to power the Yankees' stretch run, the Braves and Phillies look like they're on a collision course in the NL, and Shohei Ohtani — who says he's done pitching for the year to focus on hitting — is trying to drag the Dodgers back to another title. Every game matters now, and the wild-card scramble is where the drama lives.",
+      "say": "Baseball's playoff races are heating up — Aaron Judge is back for the Yankees, the Braves and Phillies are on a collision course, and Ohtani's mashing for the Dodgers. September ball is the best. You got a team you're watching down the stretch?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB.com — playoff picture entering September", "url": "https://www.mlb.com/news/mlb-playoff-picture-award-races-stat-leaders-entering-september-2026" },
+        { "kind": "web", "text": "NBC Sports — power rankings & stretch-run storylines", "url": "https://www.nbcsports.com/fantasy/baseball/news/mlb-power-rankings-aaron-judge-returns-for-stretch-run-braves-and-phillies-on-collision-course" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Vuelta a España",
+      "headline": "A record-breaking sprinter — Matthew Brennan wins his 5th stage as the Vuelta hits its final days",
+      "body": "The Spanish grand tour is barreling toward the finish, and the breakout star is a 20-year-old Brit: Matthew Brennan won Stage 17 into Seville for his fifth stage victory of this Vuelta, helping his Visma–Lease a Bike team to a record seven stage wins in a single grand tour. Up in the standings, home favorite Enric Mas is still clinging to the red leader's jersey with Primož Roglič lurking, and it all comes down to the mountains this week before Sunday's grand finish in Madrid.",
+      "say": "That big Spanish bike race, the Vuelta, has this 20-year-old British kid, Matthew Brennan, who's already won five stages — kind of came out of nowhere. And a Spaniard, Enric Mas, is still holding the lead heading into the last few days. You ever get into the grand tours?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Velo — Brennan's record Stage 17 win", "url": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/vuelta-a-espana-stage-17-results-report" },
+        { "kind": "web", "text": "Olympics.com — stage results & GC standings", "url": "https://www.olympics.com/en/news/vuelta-espana-2026-schedule-stage-results-general-classification-standings" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Fan voting is open — and Madonna leads the MTV VMA nominations",
+      "body": "Awards-season chatter is spilling into music: the 2026 MTV VMAs go down Sept. 27 at LA's Peacock Theater, and the nominations are a fun mix. Madonna leads the whole field with 11 nods, followed by Taylor Swift with nine, and Ariana Grande and Sabrina Carpenter with seven apiece. Fan voting is open now, so it's peak 'who are you rooting for' season — a good low-stakes debate for anyone who half-follows pop.",
+      "say": "The MTV VMA nominations are out and fans are voting now — Madonna's actually leading with 11, then Taylor Swift. Wild that Madonna's still racking those up. If you had a vote, who are you pulling for?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Billboard — Madonna leads the 2026 VMA nominations", "url": "https://www.billboard.com/lists/2026-mtv-vma-nominations-list-madonna-video-music-awards/" },
+        { "kind": "web", "text": "TV Insider — host, nominees & how to watch", "url": "https://www.tvinsider.com/1258685/mtv-video-music-awards-2026-host-nominees-performers-vanguard/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧟",
+      "tag": "Culture · Film",
+      "headline": "Raccoon City on the big screen — the new 'Resident Evil' hits theaters next week",
+      "body": "Horror fans, mark it down: 'Resident Evil' arrives Sept. 18, and this one's got real buzz because it's from Zach Cregger, the writer-director behind the sleeper hits 'Barbarian' and 'Weapons.' Austin Abrams stars as a medical courier who stumbles into one very bad night at Raccoon City General, with Paul Walter Hauser along for the chaos. It's a from-scratch reboot of the video-game franchise that leans hard into survival-horror — perfect spooky-season fuel.",
+      "say": "There's a new Resident Evil movie coming next Friday, and it's from the guy who made Barbarian and Weapons — so people actually think it'll be good, which is rare for a video-game movie. Good kickoff to spooky season. You into horror, or is that a hard no?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Deadline — 'Resident Evil' trailer & first look", "url": "https://deadline.com/2026/07/resident-evil-trailer-zach-cregger-austin-abrams-1236876910/" },
+        { "kind": "web", "text": "Wikipedia — Resident Evil (2026 film)", "url": "https://en.wikipedia.org/wiki/Resident_Evil_(2026_film)" }
+      ]
+    }
+  ]
+}
