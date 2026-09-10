@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-10",
+  "label": "Thursday, September 10, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "The holders come out swinging — PSG batter Slovan 6-1 as the goals fly across Europe",
+      "body": "Champions League matchday one kept rolling and the reigning champs made a statement: Paris Saint-Germain hammered Slovan Bratislava 6-1, with new signing Ferran Torres bagging a hat-trick in his very first CL game for the club and Ousmane Dembélé chipping in a brace. It was a big night all around — Barcelona ran riot 5-1 over Feyenoord, Liverpool came from behind to edge Atlético Madrid 2-1, and Arsenal grabbed a hard-fought 1-0 win at Napoli. The anthem's back and so are the blowouts.",
+      "say": "The Champions League is in full swing — PSG, the defending champs, just put six past a team, and that new guy Ferran Torres scored three in his first game for them. Barcelona won 5-1 too. You pull for a club over there, or just tune in for the big nights?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "UEFA — matchday 1 highlights & round-up", "url": "https://www.uefa.com/uefachampionsleague/news/02a9-218d8d30549a-1b24ad6c6a98-1000--champions-league-matchday-1-wednesday-highlights-and-roun/" },
+        { "kind": "web", "text": "Yahoo Sports — Torres hat-trick leads PSG, all the results", "url": "https://sports.yahoo.com/soccer/live/champions-league-scores-results-schedule-live-updates-psg-liverpool-aresenal-barcelona-180000635.html" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "The final four is the top four — the US Open women's semis are tonight",
+      "body": "For the first time since 1975, the four top seeds all made a Grand Slam semifinal — and they play tonight in New York. Aryna Sabalenka takes on American Jessica Pegula in a rematch of the 2024 final, and Coco Gauff meets Elena Rybakina, who just knocked Sabalenka off the top of the rankings to become the new world No. 1. Gauff earned her spot the hard way, saving two match points before rallying past teenager Mirra Andreeva. And there's still an all-American men's semifinal on tap for Friday.",
+      "say": "The US Open women's semis are tonight and it's stacked — the top four players in the world all still in it, which basically never happens. Gauff had to save two match points just to get here. Worth staying up for. You ever get sucked into the late-night matches?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "WTA — Sabalenka, Pegula, Gauff & Rybakina make their case", "url": "https://www.wtatennis.com/news/4573859/us-open-semifinals-sabalenka-pegula-gauff-rybakina-making-the-case-for-the-final-four" },
+        { "kind": "web", "text": "Olympics.com — Thursday order of play", "url": "https://www.olympics.com/en/news/us-open-2026-order-of-play-10-september-womens-semi-finals-schedule" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Business",
+      "headline": "A stunning fall — LIV Golf files for bankruptcy",
+      "body": "One of the biggest shake-ups in golf just landed off the course: the Saudi-backed LIV Golf filed for Chapter 11 bankruptcy protection this week after its main backer, Saudi Arabia's Public Investment Fund, moved to stop funding the league after the 2026 season. LIV says it's trying to survive as a smaller operation, with roughly $49.6 million in emergency financing to keep the lights on while it reorganizes. Quite the turn for the upstart tour that lured away big names and rattled the golf world just a few years ago.",
+      "say": "You follow the whole LIV Golf saga? The Saudi-backed tour that poached all those big-name golfers just filed for bankruptcy — the money dried up. Wild how fast that flipped. You think golf ever fully patches itself back together?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "AP via 13News Now — LIV Golf files for bankruptcy protection", "url": "https://www.13newsnow.com/article/news/nation-world/liv-golf-files-bankruptcy-protection/507-c174ead5-acf7-42a9-9f5f-55816d0098ce" },
+        { "kind": "web", "text": "Washington Post — bankrupt without the Saudis", "url": "https://www.washingtonpost.com/sports/golf/2026/09/08/liv-golf-bankruptcy-bc-partners-rahm-dechambeau/10e5aa64-abcf-11f1-b498-8697f35a6743_story.html" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Playoff Race",
+      "headline": "First to 90 — the Brewers walk it off to make history",
+      "body": "Baseball has its first 90-win team, and Milwaukee got there in dramatic fashion. Trailing the Cubs late, Jackson Chourio smashed a two-run, game-tying homer in the ninth, and then 21-year-old rookie Luis Lara slapped a walk-off single in the 10th for a 4-3 win. At 90-56 with a comfy lead in the NL Central, these small-market Brewers quietly own the best record in the sport as the playoff races heat up.",
+      "say": "The Brewers just became the first team in baseball to 90 wins — and they did it on a walk-off, with a rookie getting the game-winner. That little Milwaukee team has the best record in the whole sport somehow. You got a team you're watching down the stretch?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "MLB.com — Brewers rally for 10th-inning walk-off", "url": "https://www.mlb.com/news/brewers-rally-beat-cubs-walk-off-win-10th-inning" },
+        { "kind": "web", "text": "Yahoo Sports — Chourio & Lara launch the 4-3 walk-off", "url": "https://sports.yahoo.com/articles/jackson-chourio-luis-lara-launch-034947136.html" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "CS2's next big LAN is live — a $1M scrap in China",
+      "body": "Counter-Strike barely paused for breath after Porto: FISSURE Playground #3 is up and running on LAN in Suzhou, China, with 16 of the world's best teams — FaZe, G2, FURIA, Astralis and the fearsome MongolZ among them — battling for a cool $1 million. The group stage is wrapping up now, and the playoffs run through the weekend, with the trophy handed out Sunday. Plenty of stakes and plenty of highlight-reel clutches to catch.",
+      "say": "There's another big Counter-Strike tournament going on right now — this one's over in China, a million bucks on the line, all the top teams. The knockout rounds are this weekend. You been keeping up with any CS lately?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Liquipedia — FISSURE Playground #3 bracket & live results", "url": "https://liquipedia.net/counterstrike/FISSURE/Playground/3" },
+        { "kind": "web", "text": "esports.gg — teams, matchups & results", "url": "https://esports.gg/news/counter-strike-2/fissure-playground-3-teams-matchups-results/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Jersey's own is back — Brian Fallon drops 'Not Bad For New Jersey'",
+      "body": "Good news for the heartland-rock crowd: The Gaslight Anthem's Brian Fallon releases 'Not Bad For New Jersey' this Friday, his first solo album of all-new material in more than five years. Produced by Butch Walker, it's a warm, big-hearted blend of power-pop and Springsteen-y heartland rock, with a guest list to match — The Killers' Brandon Flowers, Def Leppard's Phil Collen and country favorite Lori McKenna all turn up. Perfect crank-it-in-the-car stuff.",
+      "say": "The guy from The Gaslight Anthem, Brian Fallon, has a new solo album out Friday — his first in like five years. Real Springsteen-y, roll-the-windows-down rock. You have a way you find new music, or mostly stick with what you know?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Brian Fallon — 'Pearls' (Official Audio)", "url": "https://www.youtube.com/watch?v=QPaUsKroRAY" },
+        { "kind": "web", "text": "NME — album announcement & guests", "url": "https://www.nme.com/news/music/the-gaslight-anthems-brian-fallon-announces-new-album-not-bad-for-new-jersey-featuring-brandon-flowers-def-leppards-phil-collen-and-marc-ribot-3950455" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Liam Neeson's got a very particular set of skills — 'The Fix' opens Friday",
+      "body": "The weekend's big action newcomer is 'The Fix,' out Friday, with Liam Neeson and Zachary Levi leading a crew of disillusioned ex-CIA operators who slip into Tehran to pull off a high-stakes heist and a daring rescue. It's exactly the kind of tense, everything-goes-sideways thriller Neeson has turned into his whole late-career lane — a solid pick if you like your popcorn with a little sweat.",
+      "say": "New Liam Neeson movie out Friday — he's leading a team of ex-CIA guys on a heist-slash-rescue in Tehran. Classic Neeson, stuff-goes-wrong action. You still get out to the theater, or you a wait-for-streaming person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "THE FIX — official trailer", "url": "https://www.youtube.com/watch?v=NYC0v8xqQdM" },
+        { "kind": "web", "text": "Wikipedia — The Fix (2026 film)", "url": "https://en.wikipedia.org/wiki/The_Fix_(2026_film)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💃",
+      "tag": "Culture · TV",
+      "headline": "Grab the mirror ball — 'Dancing with the Stars' returns next week",
+      "body": "The glitter's coming back: 'Dancing with the Stars' kicks off Season 35 with a two-night premiere Tuesday and Wednesday (Sept. 15-16) on ABC and Disney+. It's a fun, familiar cast this time — actresses Jenna Dewan and Julia Stiles, chef Giada De Laurentiis, singer Taylor Hanson, 'Glee' star Harry Shum Jr. and reality favorite Tyler Cameron among them — with Alfonso Ribeiro and Julianne Hough hosting. Peak easy, everybody-can-chat-about-it TV.",
+      "say": "Dancing with the Stars is back next week — and the cast is kind of fun this year, Jenna Dewan, Giada the chef, one of the Hanson brothers. It's the ultimate no-brainer watch. You ever get roped into that show?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "GMA — Season 35 cast & premiere details", "url": "https://www.goodmorningamerica.com/culture/story/dancing-with-the-stars-season-35-what-to-know-136124082" },
+        { "kind": "web", "text": "Wikipedia — DWTS Season 35", "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "One stage, a wild mix — the iHeartRadio Music Festival lands in Vegas",
+      "body": "If you like a lineup that makes zero sense in the best way, this is it: the iHeartRadio Music Festival takes over T-Mobile Arena in Las Vegas Sept. 18-19, and the bill is all over the map — BTS, Cardi B, Muse, Weezer, Snoop Dogg, Kenny Chesney, Lainey Wilson and Benson Boone are all on it, with Ryan Seacrest hosting. Best part for the rest of us: it streams on Hulu and Disney+, so you don't have to fly to the desert.",
+      "say": "The iHeartRadio Festival is next weekend and the lineup is bonkers — like BTS, Snoop Dogg, Kenny Chesney and Muse all on the same bill. And it streams on Hulu so you can just watch from the couch. Who would you actually want to see out of a mix like that?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "iHeartMedia — 2026 festival lineup", "url": "https://www.iheartmedia.com/press/iheartmedia-announces-lineup-2026-iheartradio-music-festival-presented-capital-one" },
+        { "kind": "web", "text": "iHeart — lineup revealed", "url": "https://www.iheart.com/content/2026-06-01-2026-iheartradio-music-festival-lineup-revealed/" }
+      ]
+    }
+  ]
+}
