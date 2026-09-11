@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-11",
+  "label": "Friday, September 11, 2026",
+  "items": [
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "It's finals weekend in New York — and Sabalenka is chasing a three-peat",
+      "body": "The women's final is set: No. 1 Aryna Sabalenka (who dismantled Jessica Pegula 7-5, 6-2) meets new world No. 1 Elena Rybakina, who battled back from a set down to knock out Coco Gauff. Sabalenka's going for a third straight US Open — something no woman's done in New York since Serena. The men's semis are tonight.",
+      "say": "Sabalenka's one win from three US Opens in a row — you catching the final this weekend?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Sabalenka storms into the final", "url": "https://www.youtube.com/watch?v=1WAjW7l89YQ" },
+        { "kind": "web", "text": "US Open", "url": "https://www.usopen.org" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "The Manchester derby is back — and it's the 199th one",
+      "body": "United host City at Old Trafford on Sunday with the two clubs in very different moods: City have won all three to open the season, while United are stuck down in 11th with just four points. Bruno Fernandes vs. Erling Haaland, both already on three goals. Perfect Sunday-morning viewing over here.",
+      "say": "Manchester derby Sunday morning — you got United or City?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Derby preview", "url": "https://www.youtube.com/watch?v=UIfC00P6ohw" },
+        { "kind": "web", "text": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/49900345" }
+      ]
+    },
+    {
+      "cat": "boxing",
+      "emoji": "🥊",
+      "tag": "Boxing · Las Vegas",
+      "headline": "Ryan Garcia puts his title on the line vs. Conor Benn",
+      "body": "Saturday night at T-Mobile Arena, Ryan Garcia makes the first defense of his WBC welterweight belt against Britain's Conor Benn — and the pair nearly came to blows at the final face-off. It's on Paramount+, so no pricey pay-per-view for once.",
+      "say": "Garcia-Benn is Saturday night — that staredown almost turned into the fight early.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The heated face-off", "url": "https://www.youtube.com/watch?v=7RY83PzRoTc" },
+        { "kind": "web", "text": "ESPN", "url": "https://www.espn.com/boxing/story/_/id/49368276" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "Basketball · World Cup",
+      "headline": "Team USA is a machine — 108-56 to reach the World Cup semis",
+      "body": "The US women hung 108 on Hungary in the quarterfinals, dishing out a tournament-record 31 assists, with Napheesa Collier, Caitlin Clark and Rhyne Howard all rolling. Next up: a semifinal against host-region rival Spain on Saturday, with a medal on the line.",
+      "say": "Team USA just won a World Cup quarterfinal by 52 — Spain's next in the semis.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "USA 108-56 highlights", "url": "https://www.youtube.com/watch?v=qdJoqH7SppQ" },
+        { "kind": "web", "text": "USA Basketball", "url": "https://www.usab.com/videos/2026/09/highlights-usa-vs-hungary-2026-fiba-womens-world-cup-september-10-2026" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Week 3",
+      "headline": "No. 1 Ohio State heads to Texas for Round 3",
+      "body": "The biggest game of the college weekend: top-ranked Ohio State travels to Austin on Saturday night to face Texas for the third straight year. The Buckeyes won the first two — a Cotton Bowl playoff game and last year's opener — so the Longhorns are itching for payback. College GameDay's in town.",
+      "say": "Ohio State-Texas, part three, Saturday night in Austin — this one's huge.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "The rematch, broken down", "url": "https://www.youtube.com/watch?v=50ZK257dUd4" },
+        { "kind": "web", "text": "ESPN", "url": "https://www.espn.com/college-football/game/_/gameId/401856682" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Sylvan Esso are back with 'Ow ∞'",
+      "body": "The North Carolina duo dropped their fifth album today — their first fully self-released record, written over four years with a looser, friends-in-the-room feel. Warm electro-pop that's easy to put on for anyone.",
+      "say": "New Sylvan Esso album landed today — perfect low-key Friday listening.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Concrete Glen' video", "url": "https://www.youtube.com/watch?v=uYUCdzyGycQ" },
+        { "kind": "web", "text": "Consequence", "url": "https://consequence.net/2026/07/sylvan-esso-announce-first-self-released-album-ow/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Bloc Party's first album in four years is here",
+      "body": "The British indie band released 'Anatomy of a Brief Romance' today — their seventh record, produced by the legendary Trevor Horn, with frontman Kele Okereke digging into breakups, lust and starting over. If you loved 'Silent Alarm' back in the day, this is your nostalgia hit.",
+      "say": "New Bloc Party dropped today — first one in four years. Takes me right back.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Lagoon Blue' video", "url": "https://www.youtube.com/watch?v=HQxomS-L2Ss" },
+        { "kind": "web", "text": "Clash", "url": "https://www.clashmusic.com/news/bloc-party-announce-new-album-anatomy-of-a-brief-romance/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Slow Horses' Season 6 lands next week — and the trailer's a gut-punch",
+      "body": "Gary Oldman's gloriously grubby spy boss Jackson Lamb is back Wednesday on Apple TV, with the Slough House crew on the run and — big surprise — Olivia Cooke's Sid Baker, thought dead since Season 1, returning. Consistently one of the best shows on TV.",
+      "say": "Slow Horses is back Wednesday — and they brought back a character we all thought was dead.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Season 6 trailer", "url": "https://www.youtube.com/watch?v=mZbJxpYHLuI" },
+        { "kind": "web", "text": "Apple TV", "url": "https://www.apple.com/tv-pr/news/2026/08/apple-tv-debuts-enthralling-trailer-for-season-six-of-emmy-and-bafta-award-winning-espionage-drama-slow-horses-starring-academy-award-winner-sir-gary-oldman/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Awards season is buzzing at the Toronto Film Festival",
+      "body": "TIFF is in full swing (through Sept 20) and the early star is 'La Bola Negra,' which got a wild 20-minute standing ovation and was snapped up by Netflix as a big awards play. Mahershala Ali, Michelle Yeoh and Diego Luna are all premiering films too — the fall movie conversation officially starts here.",
+      "say": "Toronto's the movie world's early-Oscars barometer — one film there just got a 20-minute ovation.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "TIFF's buzziest premieres", "url": "https://www.goldderby.com/lists/tiff-2026-15-buzziest-world-premieres/" }
+      ]
+    }
+  ]
+}
