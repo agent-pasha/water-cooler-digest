@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-12",
+  "label": "Saturday, September 12, 2026",
+  "items": [
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "An American's in the final — Shelton makes history",
+      "body": "Ben Shelton outlasted good pal Frances Tiafoe in a wild all-American semifinal to reach the US Open final — the first American man to get there since Andy Roddick. He takes on top seed Alexander Zverev on Sunday. And tonight, Sabalenka and Rybakina settle the women's title.",
+      "say": "Did you see Shelton's into the US Open final? First American guy to make it in nearly 20 years.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Shelton beats Tiafoe — highlights", "url": "https://www.youtube.com/watch?v=0pIbqXVaV04" },
+        { "kind": "web", "text": "CNN recap", "url": "https://www.cnn.com/2026/09/11/sport/mens-2026-us-open-semifinal" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top-5 Showdown",
+      "headline": "It's finally here — No. 1 Ohio State at No. 4 Texas",
+      "body": "The biggest game of the young season kicks off tonight under the lights in Austin, as unbeaten Ohio State visits Texas for Round 3. Heisman hopefuls Julian Sayin and Arch Manning headline it, College GameDay's in town, and kickoff is 7:30 ET on ABC.",
+      "say": "You locked in for Ohio State–Texas tonight? Arch Manning vs. the defending champs.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Game preview & how to watch", "url": "https://sports.yahoo.com/articles/texas-ohio-state-live-updates-110207815.html" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Pennant Race",
+      "headline": "Schwarber keeps mashing — and Judge is back",
+      "body": "Kyle Schwarber is up past 43 home runs to lead the majors and rewrite the Phillies record books as the playoff races tighten. And the Yankees got a huge lift: Aaron Judge returned to the lineup after a 99-day rib injury, right when it matters most.",
+      "say": "Schwarber might actually chase down 60 — and Judge is finally back for the Yankees.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Schwarber's 43rd bomb", "url": "https://www.youtube.com/watch?v=hMPGJD0ivkg" },
+        { "kind": "web", "text": "Schwarber's record chase", "url": "https://mlbdailydingers.com/2026/09/kyle-schwarber-home-run-records/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "The Premier League's back — and Saturday's stacked",
+      "body": "Club football returns after the international break with a full Saturday slate: Liverpool, Chelsea and Spurs all in action, plus champions Arsenal heading to Sunderland under the lights. Save some energy — the Manchester derby is Sunday.",
+      "say": "Premier League's back this weekend — you catching Arsenal at Sunderland, or saving it for the derby?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Matchweek 4 schedule & how to watch", "url": "https://www.nbcnewyork.com/news/sports/soccer/premier-league-matchweek-4-schedule-how-to-watch-2026/6546124/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "Final four set in China — $1M on the line",
+      "body": "The million-dollar FISSURE Playground 3 is down to its last weekend in Suzhou, with Legacy, BETBOOM, MIBR and G2 left standing in the CS2 bracket. G2 and MIBR had to battle through the quarters just to reach the semis.",
+      "say": "CS2 has a million-dollar final four going in China — G2 and MIBR are still alive.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Semifinals bracket", "url": "https://www.fragster.com/fissure-playground-3-semifinals-suzhou/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Monsters in the dark — Na Hong-jin's 'Hope' hits theaters",
+      "body": "The director behind 'The Wailing' is back after a decade away with 'Hope,' a Cannes-buzzed Korean creature thriller about a seaside town fighting something that crash-landed nearby. It was already a massive hit back home.",
+      "say": "There's a new Korean monster movie out — 'Hope,' from the guy who made 'The Wailing.' Supposed to be intense.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=huWitHgxxDk" },
+        { "kind": "web", "text": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/na-hong-jin-korean-monster-movie-hope-trailer-1236643087/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Kings of Leon are back — and it's a loaded music week",
+      "body": "Kings of Leon announced their 10th album, 'O My Beloved' (out Nov. 6), with the tender new single 'My Whole World.' They're in good company: Slipknot, John Legend and Ezra Collective all dropped new music this week too.",
+      "say": "New Kings of Leon single's out — plus Slipknot and John Legend both dropped. Busy week for music.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'My Whole World'", "url": "https://www.youtube.com/watch?v=Bb7YN5wQztk" },
+        { "kind": "web", "text": "Stereogum", "url": "https://stereogum.com/2510984/kings-of-leon-announce-new-album-o-my-beloved-hear-my-whole-world/music" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Monster' goes to 1892 — Lizzie Borden is next",
+      "body": "Ryan Murphy's Netflix true-crime anthology returns for Season 4, this time on Lizzie Borden — the woman acquitted of the infamous 1892 axe murders. Ella Beatty stars, and all eight episodes drop next week.",
+      "say": "The next 'Monster' season is Lizzie Borden — you know, 'forty whacks.' Lands next week.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official teaser", "url": "https://www.youtube.com/watch?v=EkQDfMLhRLM" },
+        { "kind": "web", "text": "Netflix Tudum", "url": "https://www.netflix.com/tudum/articles/monster-season-4-lizzie-borden-release-date-cast-news" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · TV",
+      "headline": "Emmys on Monday — and a hospital drama's the favorite",
+      "body": "The 78th Primetime Emmys air Monday night with Mariska Hargitay hosting. Max's breakout ER drama 'The Pitt' leads the whole field with 25 nominations, with the final season of 'Hacks' right on its heels.",
+      "say": "Emmys are Monday — 'The Pitt' is the big favorite. Have you gotten into it yet?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "'The Pitt' trailer", "url": "https://www.youtube.com/watch?v=Xq8x47ky2Tw" },
+        { "kind": "web", "text": "How to watch the Emmys", "url": "https://www.today.com/popculture/awards/how-to-watch-emmys-2026-rcna597136" }
+      ]
+    }
+  ]
+}
