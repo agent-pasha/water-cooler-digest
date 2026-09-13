@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-13",
+  "label": "Sunday, September 13, 2026",
+  "items": [
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "Rybakina spoils the three-peat — she's the US Open champ",
+      "body": "No history for Sabalenka. Elena Rybakina beat two-time defending champ Aryna Sabalenka 6-4, 5-7, 6-2 in the New York final to grab her third Grand Slam title and snap Sabalenka's 20-match US Open winning streak. Rybakina takes over as world No. 1 on Monday.",
+      "say": "Rybakina won the US Open — beat Sabalenka in three sets and stopped her from winning three in a row. She's the new No. 1 now.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Final highlights", "url": "https://www.youtube.com/watch?v=YCAQnmJBJIk" },
+        { "kind": "web", "text": "US Open recap", "url": "https://www.usopen.org/en_US/news/articles/2026-09-12/rybakina_defeats_two-time_defending_champion_sabalenka_to_win_2026_us_open.html" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Instant Classic",
+      "headline": "Arch Manning authors the comeback — Texas stuns No. 1 Ohio State",
+      "body": "Down 20 in the fourth quarter, Texas roared all the way back to beat top-ranked Ohio State 24-23 in Austin — the Longhorns' biggest comeback in nearly two decades. Arch Manning kept drive after drive alive, and Hollywood Smothers punched in the go-ahead touchdown with 25 seconds left.",
+      "say": "Did you see Texas–Ohio State? Texas was down 20 in the fourth and came all the way back to beat the No. 1 team by one. Arch Manning was unreal late.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Full highlights (CFB on FOX)", "url": "https://www.youtube.com/watch?v=IcGN5jyC2yM" },
+        { "kind": "web", "text": "NBC Sports recap", "url": "https://www.nbcsports.com/college-football/news/arch-manning-makes-fourth-down-magic-in-texas-massive-comeback-win-over-ohio-state" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "A clean sweep in China — Legacy win the million-dollar Major",
+      "body": "The Brazilians ran the table. Legacy swept G2 3-0 in the grand final of FISSURE Playground #3 in Suzhou to take the $1M CS2 event — their third straight big title in China. Star Bruno 'latto' Rebelatto led the way with a monster 69 kills across the three maps.",
+      "say": "That million-dollar Counter-Strike event in China is done — the Brazilian team Legacy swept G2 in the final. Their guy 'latto' had 69 kills in three maps.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "HLTV — Legacy sweep G2", "url": "https://www.hltv.org/news/45509/legacy-sweep-g2-to-lift-fissure-playground-3-trophy" },
+        { "kind": "web", "text": "How the final played out", "url": "https://www.hotspawn.com/counter-strike/news/legacy-demolish-g2-to-win-fissure-playground-3" }
+      ]
+    },
+    {
+      "cat": "boxing",
+      "emoji": "🥊",
+      "tag": "Boxing · Las Vegas",
+      "headline": "Blink and you missed it — Garcia blitzes Benn in two",
+      "body": "Ryan Garcia needed less than five minutes. He dropped Conor Benn with an overhand right and swarmed him for a second-round stoppage in Vegas to keep his WBC welterweight belt — then grabbed the mic and called out Teófimo López.",
+      "say": "Ryan Garcia knocked out Conor Benn in the second round last night — that whole fight lasted like five minutes. Now he wants Teófimo López next.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Fight highlights", "url": "https://www.skysports.com/boxing/video/13273/13585270/fight-highlights-ryan-garcia-kos-conor-benn-after-two-dramatic-rounds" },
+        { "kind": "web", "text": "Yahoo Sports recap", "url": "https://sports.yahoo.com/boxing/live/ryan-garcia-vs-conor-benn-live-results-round-by-round-updates-ring-walks-for-tonights-wbc-title-fight-060000497.html" }
+      ]
+    },
+    {
+      "cat": "cycling",
+      "emoji": "🚴",
+      "tag": "Cycling · Vuelta a España",
+      "headline": "Finally his — Enric Mas wins his first Grand Tour",
+      "body": "After a career of near-misses (he'd finished runner-up at the Vuelta three times), Spain's Enric Mas is finally a Grand Tour champion. The race blew wide open when overwhelming favorite Tadej Pogačar abandoned, and Mas seized the moment to win his home tour in front of an adoring crowd.",
+      "say": "The big Spanish bike race wrapped up and the local guy, Enric Mas, finally won it — he'd finished second like three times before. The favorite crashed out and Mas grabbed his shot.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Mas secures his first Grand Tour", "url": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-classifications-update-stage-20-enric-mas-secures-first-grand-tour-victory-as-sepp-kuss-surges-six-places-into-top-five" },
+        { "kind": "web", "text": "Stage results & standings", "url": "https://www.olympics.com/en/news/vuelta-espana-2026-schedule-stage-results-general-classification-standings" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Arsenal go clear — while Liverpool and Chelsea trip up",
+      "body": "The Premier League's back, and Saturday reshuffled the table: Arsenal stayed perfect with a 2-0 win at Sunderland to go three points clear at the top, while Liverpool were held 0-0 by Fulham at Anfield and Chelsea let a two-goal cushion slip in a 2-2 draw with newly promoted Hull. (The Manchester derby closes the weekend Sunday.)",
+      "say": "Premier League's back — Arsenal are top and still perfect, but Liverpool and Chelsea both dropped points on Saturday. Derby's the Sunday nightcap.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "AP — Arsenal go clear", "url": "https://www.ksat.com/sports/2026/09/12/arsenal-goes-clear-on-top-of-the-premier-league-liverpool-and-chelsea-stumble/" },
+        { "kind": "web", "text": "Full Saturday results", "url": "https://sundayguardianlive.com/sports/premier-league-results-september-12-2026-arsenal-stay-perfect-as-liverpool-chelsea-and-tottenham-drop-points-full-results-283625/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "The witches dethrone Spider-Man — 'Practical Magic 2' rules the box office",
+      "body": "Spider-Man's run is over. 'Practical Magic 2,' the long-awaited sequel with Sandra Bullock and Nicole Kidman back as the Owens sisters, opened at No. 1 with around $30 million — ending 'Spider-Man: Brand New Day's' six straight weekends on top.",
+      "say": "The new 'Practical Magic' opened number one this weekend — finally knocked Spider-Man off the top after like six weeks. Sandra Bullock and Nicole Kidman are back as the witch sisters.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=Ho10_4IX1jE" },
+        { "kind": "web", "text": "Weekend box office chart", "url": "https://www.the-numbers.com/weekend-box-office-chart" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎺",
+      "tag": "Culture · Music",
+      "headline": "Feel-good record of the week — Ezra Collective's 'Here Because of Hope'",
+      "body": "If you want something warm and uplifting, this is it: the Mercury Prize-winning London jazz crew Ezra Collective dropped their fourth album, 'Here Because of Hope,' with guests like Leona Lewis, Pa Salieu and Lila Iké. Reviewers are calling it Britain's most vital band at the peak of their powers.",
+      "say": "There's a new Ezra Collective album out — that London jazz band that won the Mercury Prize. It's the kind of happy, horns-and-rhythm record that just puts you in a good mood.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Only Love' feat. Pa Salieu (video)", "url": "https://www.youtube.com/watch?v=3ziixar3gqI" },
+        { "kind": "web", "text": "Clash review", "url": "https://www.clashmusic.com/reviews/ezra-collective-here-because-of-hope/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Reacher's right-hand takes the lead — 'Neagley' lands Tuesday",
+      "body": "Fan-favorite Frances Neagley gets her own show: the 'Reacher' spinoff 'Neagley' drops all eight episodes Wednesday, Sept. 16 on Prime Video, with Maria Sten as the sharp ex-military investigator now working cases in Chicago. Alan Ritchson pops in as Reacher, but this story's all her own.",
+      "say": "They gave Neagley — Reacher's no-nonsense sidekick — her own spinoff, and it drops this week. If you liked 'Reacher,' it looks like more of the same fun.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=BOzNaa_o9_g" },
+        { "kind": "web", "text": "Prime Video — premiere details", "url": "https://www.aboutamazon.com/news/entertainment/watch-neagley-reacher-prime-video" }
+      ]
+    }
+  ]
+}
