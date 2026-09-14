@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-14",
+  "label": "Monday, September 14, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Ten men, one goal — City win a wild Manchester derby",
+      "body": "The 199th Manchester derby had everything. Phil Foden got sent off early for kicking out at Bruno Fernandes, leaving City a man down for over an hour at Old Trafford — but they hung on and won it anyway, Erling Haaland heading home a back-post cross that survived a nervy VAR offside check for a 1-0 win. United, stuck near the bottom, couldn't make the extra man count.",
+      "say": "The Manchester derby yesterday was chaos — City had a guy sent off in the first half, played the rest a man down, and still won 1-0 on a Haaland goal that barely survived the video review. United fans are furious.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Two-minute highlights (Man City)", "url": "https://www.mancity.com/citytv/mens/manchester-united-premier-league-2-minute-highlights-september-2026-63924902" },
+        { "kind": "web", "text": "ESPN — game analysis", "url": "https://www.espn.com/soccer/report/_/gameId/401879278" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · US Open",
+      "headline": "So close for the home crowd — Zverev denies Shelton in the final",
+      "body": "The American drought rolls on. Top seed Alexander Zverev beat Ben Shelton 6-3, 7-6(2), 5-7, 6-2 in the US Open final to grab his second Grand Slam title, leaving U.S. men still without a major since Andy Roddick in 2003. Shelton, the first American man in the final in over 20 years, gave New York a run but couldn't get over the line.",
+      "say": "Shelton so nearly did it at the US Open — first American guy in the final in 20-plus years — but Zverev beat him in four sets. That American men's major drought is now going on 23 years.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Final highlights (US Open)", "url": "https://www.youtube.com/watch?v=hY1epQDmhGQ" },
+        { "kind": "web", "text": "CBS Sports recap", "url": "https://www.cbssports.com/tennis/news/us-open-2026-results-alexander-zverev-ben-shelton-mens-singles-final/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "Basketball · World Cup",
+      "headline": "Golden again — Team USA rallies past France for a 5th straight World Cup",
+      "body": "Down 14 in the second half, the U.S. women flipped the switch. They outscored France 30-12 in the third quarter and cruised to a 97-79 win in Berlin for their fifth consecutive FIBA World Cup title. Breanna Stewart (22 points, 10 boards) was named tournament MVP for the second time, with Jackie Young turning in a stat line no one had ever posted in a World Cup final.",
+      "say": "Team USA women just won their fifth World Cup in a row — but they had to rally from 14 down against France to do it. Breanna Stewart was the MVP. That program basically never loses.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — how USA rallied for gold", "url": "https://www.espn.com/wnba/story/_/id/49930774/2026-fiba-womens-world-cup-gold-medal-game-team-usa-france" },
+        { "kind": "web", "text": "Stewart named MVP", "url": "https://www.olympics.com/en/news/fiba-women-basketball-world-cup-2026-mvp-breanna-stewart-usa-gold-standard-historic-championship" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 1",
+      "headline": "A points explosion — Bears drop 59, Packers get stunned",
+      "body": "Football's really back. The Bears and Panthers combined for 96 points in a 59-37 shootout, the highest-scoring Week 1 game ever, with Caleb Williams accounting for four touchdowns and Chicago's backs running for six scores. Elsewhere the Vikings shocked the Packers 39-22 after backup Carson Wentz came off the bench, and the Cardinals upset the Chargers.",
+      "say": "The NFL's back and Week 1 was bonkers — the Bears won a 59-37 track meet, the highest-scoring opener ever. Ninety-six points in one game. You riding with a team this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Bears 59-37 highlights", "url": "https://www.youtube.com/watch?v=y5sBIDYHYCY" },
+        { "kind": "web", "text": "NBC — Week 1 winners & losers", "url": "https://www.nbcnewyork.com/news/sports/nfl/nfl-week-1-winners-and-losers-bears-offense-explodes-bills-texans-delivers/6547163/" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Upset Saturday",
+      "headline": "Chaos beyond Texas — Oklahoma State stuns No. 6 Oregon",
+      "body": "Texas over Ohio State wasn't even the only shocker. Oklahoma State — which hadn't beaten an FBS team in nearly two years — walked into a top-6 Oregon and won 39-31, ending a 21-game skid behind quarterback Drew Mestemaker's 317 passing and 109 rushing yards. Michigan knocked off Oklahoma too, and unranked South Florida stunned No. 13 Florida. The polls got a total reshuffle.",
+      "say": "Saturday was pure chaos in college football — besides Texas beating Ohio State, Oklahoma State went into Oregon and won as huge underdogs after not beating anybody good in two years. The whole top 25 got scrambled.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Mestemaker leads the upset (ESPN)", "url": "https://www.youtube.com/watch?v=R0j2m3y6w2s" },
+        { "kind": "web", "text": "ESPN — Oklahoma State stuns Oregon", "url": "https://www.espn.com/college-football/story/_/id/49918995/oklahoma-state-stuns-no-6-oregon-39-31-thriller" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Reacher goes full throttle — 'Runner' hits theaters",
+      "body": "If you like your action loud and a little goofy, this one's for you: 'Runner' opened Friday with Alan Ritchson (yes, Reacher himself) as an ex-soldier racing a life-saving medical delivery across town while a cartel hunts him — with Owen Wilson as his very unlikely partner. It's Angel Studios' first R-rated movie, and it cracked the box-office top five out of the gate.",
+      "say": "There's a new action movie out called 'Runner' — it's the Reacher guy, Alan Ritchson, paired up with Owen Wilson of all people, doing a beat-the-clock cartel chase. Sounds like a fun dumb Friday-night watch.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Final trailer", "url": "https://www.youtube.com/watch?v=m8JUmBgHejI" },
+        { "kind": "web", "text": "About the film", "url": "https://en.wikipedia.org/wiki/Runner_(2026_American_film)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Six years later — Jhené Aiko is back with 'Westside Whimsy'",
+      "body": "R&B fans have been waiting. Jhené Aiko surprise-dropped 'Westside Whimsy' — her first album since 2020's 'Chilombo' — a breezy 20-track love letter to '90s California, cruising and the coast. The headliner everyone's clicking on: 'So Good,' a smooth link-up with Kendrick Lamar that's already near the top of YouTube's trending chart.",
+      "say": "New Jhené Aiko album finally landed — her first in six years — and there's a song on it with Kendrick Lamar that everyone's talking about. Real easy, laid-back California vibe. What's been on your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'So Good' feat. Kendrick Lamar", "url": "https://www.youtube.com/watch?v=QArBw68H-_Q" },
+        { "kind": "web", "text": "Complex — tracklist & features", "url": "https://www.complex.com/music/a/dimassanfiorenzo/jhene-aiko-westside-whimsy-tracklist-features-producers" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Regular folks, real backstabbing — 'The Traitors: New Blood' starts Thursday",
+      "body": "The sneakiest game on TV comes to network: 'The Traitors: New Blood' premieres Thursday on NBC with a two-hour opener, and this time it's an all-civilian cast — no reality stars — playing Alan Cumming's castle game of secret murderers, banishments and a prize pot up to $250,000. Same Scottish Highlands, same gloriously dramatic host, brand-new set of everyday backstabbers.",
+      "say": "The Traitors is back Thursday, but this version's all regular people instead of reality stars — just normal folks lying to each other in a Scottish castle. It's the most fun 'who do you trust' show on TV. You watch that one?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (NBC)", "url": "https://www.youtube.com/watch?v=1LbBHB3Sg80" },
+        { "kind": "web", "text": "NBC — premiere details", "url": "https://www.nbc.com/nbc-insider/nbc-the-traitors-new-blood-premiere-date-cast-details" }
+      ]
+    }
+  ]
+}
