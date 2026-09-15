@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-15",
+  "label": "Tuesday, September 15, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night Football",
+      "headline": "Mahomes is back — and the Chiefs roll on Monday night",
+      "body": "Patrick Mahomes returned from offseason knee surgery looking just fine, even scampering in for a rushing touchdown as Kansas City handled Denver 31-10 to close out Week 1.",
+      "say": "Did you catch Mahomes on Monday night? Comes back from knee surgery and he's already running it in for touchdowns.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "CBS Sports recap", "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20260914_DEN@KC/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Playoff Race",
+      "headline": "Clinch season is here — Yankees and Dodgers punch their tickets",
+      "body": "The Yankees and Dodgers both locked up playoff spots this week, joining the Rays (who walked it off against Houston). Now the division races — Brewers closing out the NL Central, a tight Astros–Rangers scrap out West — heat up with two weeks to go.",
+      "say": "Baseball's playoff picture is finally taking shape — Yankees and Dodgers are in. Your team still got a shot?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "MLB.com playoff picture", "url": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Week 4",
+      "headline": "Saturday's got juice — Oregon at USC headlines Week 4",
+      "body": "After weeks of chaos and top-five upsets, Week 4 brings another loaded slate: No. 21 Oregon heads to No. 12 USC in a Big Ten heavyweight tilt, while Iowa visits Michigan. Clear the calendar.",
+      "say": "You doing anything Saturday? Oregon–USC should be a good one — college football's been absolute chaos this year.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Week 4 schedule", "url": "https://www.espn.com/college-football/schedule/_/week/4" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Azerbaijan GP",
+      "headline": "F1 hits Baku — and it's a rare Saturday race",
+      "body": "The Azerbaijan Grand Prix runs on the streets of Baku this year on Saturday, Sept. 26 — bumped a day early to avoid the country's day of remembrance. Those tight concrete walls always seem to deliver drama.",
+      "say": "Odd one for F1 fans — the Baku race is on a Saturday this year. That street circuit is basically a demolition derby waiting to happen.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "2025 Baku race highlights", "url": "https://www.youtube.com/watch?v=JntKOmbMI08" },
+        { "kind": "web", "text": "Formula1.com", "url": "https://www.formula1.com/en/racing/2026/azerbaijan" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · Emmys",
+      "headline": "A night to remember — 'Widow's Bay' cleans up, Michael J. Fox steals the show",
+      "body": "Comedy 'Widow's Bay' set a record with 14 wins, Matthew Rhys made history with two lead-acting Emmys in one night, and 'The Pitt' took Best Drama. But the moment everyone's replaying: Michael J. Fox's standing ovation for the Bob Hope Humanitarian Award.",
+      "say": "Did you see Michael J. Fox at the Emmys? Whole room on its feet — total goosebumps moment.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Michael J. Fox's emotional speech", "url": "https://www.youtube.com/watch?v=9PfrcsTy-d8" },
+        { "kind": "web", "text": "Full winners list", "url": "https://deadline.com/lists/2026-emmy-winners-list/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "South Park is back — Season 29 kicks off Wednesday",
+      "body": "Trey Parker and Matt Stone return Wednesday night on Comedy Central (streaming the next day on Paramount+), with their satire reportedly aimed at AI and internet culture. And they're fresh off another Emmy win.",
+      "say": "South Park's back Wednesday — 29 seasons in and still swinging. You still keep up with it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Premiere details", "url": "https://deadline.com/2026/05/south-park-season-29-premiere-date-comedy-central-1236915644/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👻",
+      "tag": "Culture · TV",
+      "headline": "Prom night, reimagined — Mike Flanagan's 'Carrie' drops a chilling trailer",
+      "body": "Horror favorite Mike Flanagan ('The Haunting of Hill House') is behind a new eight-episode take on Stephen King's 'Carrie,' hitting Prime Video Oct. 7. The just-released trailer is properly unsettling.",
+      "say": "You a horror person? Mike Flanagan's doing a whole Carrie series — the trailer looks genuinely creepy.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=jkUw2nh6fT0" },
+        { "kind": "web", "text": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/tv/tv-news/mike-flanagan-carrie-trailer-prime-video-1236694868/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "The Fugees reunite — Lauryn Hill and Wyclef headline Global Citizen",
+      "body": "The Global Citizen Festival returns to Central Park on Sept. 26, and the big draw is Ms. Lauryn Hill & Wyclef Jean marking 30 years of the Fugees' classic 'The Score,' alongside Lenny Kravitz, John Legend and more.",
+      "say": "The Fugees are reuniting for Global Citizen — 30 years of 'The Score.' 'Killing Me Softly' still hits, right?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Fugees — Killing Me Softly", "url": "https://www.youtube.com/watch?v=oKOtzIo-uYw" },
+        { "kind": "web", "text": "Global Citizen lineup", "url": "https://www.globalcitizen.org/en/content/global-citizen-festival-returns-to-central-park-26/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎹",
+      "tag": "Culture · Music",
+      "headline": "Stevie Wonder's taking 'Songs in the Key of Life' on tour",
+      "body": "A true legend move: Stevie Wonder announced a short run of shows celebrating the 50th anniversary of his masterpiece 'Songs in the Key of Life,' with dates rolling out this November and December.",
+      "say": "Stevie Wonder's touring 'Songs in the Key of Life' for its 50th. That album's got 'Sir Duke,' 'Isn't She Lovely' — just flawless.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Stevie Wonder — Sir Duke", "url": "https://www.youtube.com/watch?v=EnNgASBdCeo" }
+      ]
+    }
+  ]
+}
