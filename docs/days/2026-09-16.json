@@ -1,0 +1,136 @@
+{
+  "date": "2026-09-16",
+  "label": "Wednesday, September 16, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night Football",
+      "headline": "New house, big test — Lions at Bills opens Highmark Stadium",
+      "body": "Week 2 kicks off Thursday night with a heavyweight: the Detroit Lions visit the Buffalo Bills (both 1-0) in the very first game at Buffalo's brand-new Highmark Stadium. Josh Allen's crew survived a Week 1 shootout in Houston; the Lions blew a 21-0 lead and needed overtime to beat the Saints. The over/under is up near 54, so bring snacks.",
+      "say": "Lions–Bills is Thursday night, and it's the first-ever game in Buffalo's new stadium. Two of the best offenses in the league — should be a track meet. You watching?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — game center", "url": "https://www.nfl.com/games/lions-at-bills-2026-reg-2" },
+        { "kind": "web", "text": "Week 2 preview", "url": "https://www.whec.com/sports-news/week-2-preview-buffalo-bills-host-detroit-lions-in-highmark-stadium-opener/" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · UFC 331",
+      "headline": "Unfinished business — Van and Pantoja run it back Saturday in LA",
+      "body": "UFC 331 lands at LA's Crypto.com Arena on Saturday (on Paramount+), and the main event is a grudge rematch: young flyweight champ Joshua Van defends against former king Alexandre Pantoja. Their first meeting ended almost before it started when Pantoja hurt his arm 26 seconds in — so both guys have a point to prove.",
+      "say": "There's a UFC title fight Saturday out in LA — the champ's this 24-year-old, Joshua Van, in a rematch against the guy he took the belt from. The first one ended in like 26 seconds. You follow the fights at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Van talks the rematch", "url": "https://www.youtube.com/watch?v=gwr95ArAF5E" },
+        { "kind": "web", "text": "UFC — fight-by-fight preview", "url": "https://www.ufc.com/news/fight-fight-preview-cryptocom-ufc-331-van-vs-pantoja-2" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Chasing History",
+      "headline": "Triple Crown watch — Yordan Alvarez is doing it all for Houston",
+      "body": "Keep an eye on the Astros' Yordan Alvarez down the stretch: he's leading the American League in batting average and sitting near the top in homers and RBIs, putting him in real reach of baseball's rarest feat — the Triple Crown. No one's pulled it off since Miguel Cabrera back in 2012.",
+      "say": "The Astros' Yordan Alvarez has a shot at the Triple Crown — leading the league in average, homers and RBIs all at once. Nobody's done that since 2012. Baseball's hardest thing to pull off.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Alvarez grabs the MLB HR lead", "url": "https://www.youtube.com/watch?v=HwByILHTOzs" },
+        { "kind": "web", "text": "ESPN — the Triple Crown chase", "url": "https://www.espn.com/mlb/story/_/id/49932818/mlb-2026-yordan-alvarez-astros-triple-crown-mvp-batting-average-home-runs-rbis" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · MLS",
+      "headline": "Still the maestro — Messi keeps rewriting the record books",
+      "body": "At 39, Lionel Messi is having a monster MLS season — leading the league in goals and stacking up assists as Inter Miami push toward the playoffs. He recently became the first player ever to reach 1,350 career goal contributions, a number so big it's basically its own galaxy. The Supporters' Shield may be slipping to Nashville, but the individual magic hasn't dimmed a bit.",
+      "say": "Messi's still going at 39 — leading MLS in goals and just set some wild all-time record for goals-plus-assists in a career. The guy refuses to slow down. You ever catch an Inter Miami game?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "A vintage Messi finish (MLS)", "url": "https://www.youtube.com/watch?v=fLkl1FJ-Ol8" },
+        { "kind": "web", "text": "MLS — Messi extends his world record", "url": "https://www.mlssoccer.com/news/lionel-messi-extends-world-record-inter-miami-win-supporters-shield" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · VALORANT",
+      "headline": "The big one's next — VALORANT Champions heads to Shanghai",
+      "body": "Esports' next marquee event is nearly here: VALORANT Champions 2026 runs Sept. 24–Oct. 18 in Shanghai, with 16 of the world's best teams fighting for a $2.25 million pot. Riot leaned into the hype with an anthem featuring Bring Me the Horizon's Oli Sykes and Spiritbox's Courtney LaPlante — a fun rock-meets-gaming crossover.",
+      "say": "The biggest VALORANT tournament of the year kicks off in Shanghai next week — two-plus million on the line. And the official anthem's got the Bring Me the Horizon singer on it, which is a wild combo. You play any of that?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Champions 2026 anthem", "url": "https://www.youtube.com/watch?v=x8jAY2CoOBg" },
+        { "kind": "web", "text": "Everything you need to know", "url": "https://valorantesports.com/en-US/news/champions-shanghai-everything-you-need-to-know" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐑",
+      "tag": "Culture · Film",
+      "headline": "Baa-rbarian — 'Shaun the Sheep' does a monster movie",
+      "body": "Aardman's stop-motion favorite is back on the big screen Friday: 'Shaun the Sheep: The Beast of Mossy Bottom' is a gleefully spooky spoof of creature features, set at Halloween when the Farmer wrecks the flock's pumpkin patch and Shaun's mad-scientist fix goes very sideways. Handmade, dialogue-free, and fun for every age — a perfect family outing.",
+      "say": "There's a new Shaun the Sheep movie out Friday — it's a little Halloween monster-movie spoof, all that claymation stuff from the Wallace & Gromit folks. Great one to take the kids to. You a fan of that stop-motion style?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=HOC-juFKWx0" },
+        { "kind": "web", "text": "Aardman", "url": "https://www.aardman.com/latest-news/2026/june/shaun-the-sheep-the-beast-of-mossy-bottom-trailer-2-out-now/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "⚡",
+      "tag": "Culture · TV",
+      "headline": "School's back in — 'Gen V' Season 2 drops Wednesday",
+      "body": "If you're into 'The Boys,' its college-set spinoff 'Gen V' returns Wednesday on Prime Video with a three-episode premiere. The superpowered students of Godolkin U are back — this time under a mysterious new Dean promising to make them stronger than ever — and it's all building toward the final season of 'The Boys.' Same gory, satirical energy.",
+      "say": "Gen V — that college spinoff of The Boys — drops its new season Wednesday. Three episodes right out of the gate. If you liked The Boys, it's the same twisted, funny vibe. You keeping up with that universe?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=6WxofgjVpXg" },
+        { "kind": "web", "text": "The Wrap — release schedule", "url": "https://www.thewrap.com/gen-v-season-2-release-date-time-episodes-schedule/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "A double dose — Carly Rae Jepsen's 24-track 'Day and Night'",
+      "body": "Friday is a monster music day, and Carly Rae Jepsen's leading it with 'Day and Night,' a 24-song double album split into a sunny 'Day' disc and a moodier 'Night' disc. If you loved 'Call Me Maybe' or the cult-classic 'Emotion,' this is peak feel-good synth-pop to put on and just cruise to. Lead single 'On Wires' sets the tone.",
+      "say": "Carly Rae Jepsen — the 'Call Me Maybe' one — dropped a giant 24-track double album, one half upbeat and one half moodier. Perfect windows-down driving music. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'On Wires' (official video)", "url": "https://www.youtube.com/watch?v=_Xqexqiqkdk" },
+        { "kind": "web", "text": "About the album", "url": "https://en.wikipedia.org/wiki/Day_and_Night_(Carly_Rae_Jepsen_album)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Seven years later — Beck returns with 'Ride Lonesome'",
+      "body": "Beck is back with his first new album since 2019 — 'Ride Lonesome,' out Friday. It's a warmer, more acoustic and stripped-down record, reuniting the players from his beloved 'Sea Change' and 'Morning Phase' eras. The single 'In the Night' — with a striking video starring French actor Denis Lavant — is a gorgeous, mellow taste of it.",
+      "say": "Beck's got his first album in seven years coming Friday — more of that soft, acoustic 'Sea Change' sound than the funky stuff. Feels like the perfect fall record. You have a Beck era you loved?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'In The Night'", "url": "https://www.youtube.com/watch?v=XNYj8R1Aq3s" },
+        { "kind": "web", "text": "Consequence", "url": "https://consequence.net/2026/07/beck-announces-new-album-ride-lonesome/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Smooth season — Leon Bridges rolls out 'Happiness Anytime'",
+      "body": "For something warmer and soulful, Leon Bridges has new music landing ahead of his album 'Happiness Anytime' (due Sept. 25), made with the London groove duo Jungle. The title track is exactly the kind of easy, feel-good soul that works anywhere — dinner, a drive, a slow Sunday morning.",
+      "say": "Leon Bridges has new stuff out — that throwback-soul singer. Real smooth, easy-listening, put-it-on-anywhere kind of music. Good change of pace if you want something mellow.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Happiness Anytime'", "url": "https://www.youtube.com/watch?v=6Txpd9K2m5k" },
+        { "kind": "web", "text": "Flaunt", "url": "https://www.flaunt.com/post/leon-bridges-happiness-anytime-talk-it-over" }
+      ]
+    }
+  ]
+}
