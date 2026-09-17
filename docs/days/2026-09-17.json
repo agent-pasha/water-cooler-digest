@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-17",
+  "label": "Thursday, September 17, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 2",
+      "headline": "Week 2's got a loaded Sunday — rivalries and a heavyweight in KC",
+      "body": "After Thursday's opener, Sunday is the main course. The NFC East gets spicy with Washington at Dallas, Jacksonville visits Denver in a tasty AFC scrap, and the nightcap is a big one: Jonathan Taylor's Colts head to Arrowhead to test Patrick Mahomes and the Chiefs on Sunday Night Football. The Giants close it all out Monday in LA.",
+      "say": "Big NFL Sunday coming up — Commanders-Cowboys, and then Colts-Chiefs under the lights at night. You have a team you're riding with this year, or just here for the good games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Week 2 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-2" },
+        { "kind": "web", "text": "SI — every Week 2 game ranked", "url": "https://www.si.com/nfl/nfl-week-2-schedule-2026-ranking-all-16-games" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · MVP Watch",
+      "headline": "A Cub for the ages — Pete Crow-Armstrong is having a monster year",
+      "body": "Quietly, Chicago's Pete Crow-Armstrong might be the most complete player in baseball. He just passed Hall of Famer Billy Williams for the most homers by a left-handed hitter in a single Cubs season (he's up to 44), he's wrapping up a second straight 30-homer, 30-steal year, and he leads the majors in WAR. Phillies slugger Kyle Schwarber (45 bombs) still owns the home-run lead, but the NL MVP race is a two-horse sprint to the finish.",
+      "say": "You keeping up with baseball at all? This Cubs kid Pete Crow-Armstrong is having a ridiculous year — power, speed, unreal defense — and he's neck-and-neck with Schwarber for MVP. One of the best all-around seasons in a while.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "PCA's 40th homer of the year", "url": "https://www.youtube.com/watch?v=Xz4y3LdQHs0" },
+        { "kind": "web", "text": "Yahoo — PCA ties a Cubs legend", "url": "https://sports.yahoo.com/articles/cubs-news-pete-crow-armstrong-090243220.html" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Title-race Sunday — Arsenal host Man City, plus the Merseyside derby",
+      "body": "Matchweek 5 is stacked. The headliner is Sunday: table-topping Arsenal welcome Manchester City in an early season statement game between two of the title favorites. Before that, Saturday serves up the Merseyside derby (Liverpool vs Everton) and a proper grudge match in Manchester United vs Chelsea. Grab a coffee — it's a great weekend of morning football over here.",
+      "say": "Premier League's got a huge weekend — Arsenal-Man City on Sunday, and the Liverpool-Everton derby Saturday morning. You pull for a club over there, or just tune in for the big ones?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "How to watch — Premier League on NBC", "url": "https://www.nbcsports.com/soccer/news/premier-league-schedule-for-2026-27-season-released" },
+        { "kind": "web", "text": "Premier League — fixtures", "url": "https://www.premierleague.com/en/matches" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Playoff Race",
+      "headline": "Sprint to the seeds — the WNBA is back with everything on the line",
+      "body": "The WNBA just returned from a three-week World Cup break with only four games left and the playoff bracket still a jumble. The Minnesota Lynx have locked up a top-two seed, the surprising Golden State Valkyries and defending-heavy Las Vegas Aces are jockeying right behind them, and a logjam of Atlanta, Indiana (Caitlin Clark's Fever), New York and more are fighting over home-court and matchups. Playoffs tip off Sept. 27.",
+      "say": "The WNBA playoff race is down to the wire — four games left and the whole bracket's still up for grabs. That Golden State expansion team came out of nowhere to be a top seed. You catch any women's hoops this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — what's on the line in the final week", "url": "https://www.espn.com/wnba/story/_/id/49944388/wnba-playoffs-2026-picture-postseason-race-berth-seeds" },
+        { "kind": "web", "text": "WNBA — playoff schedule", "url": "https://www.espn.com/wnba/story/_/id/49882118/wnba-playoffs-2026-schedule-games-first-round-semifinals-finals-scores-results-news-highlights" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · League of Legends",
+      "headline": "Worlds is coming to America — and it ends in Brooklyn",
+      "body": "The biggest event in esports is landing on US soil this fall: the League of Legends World Championship runs Oct. 15–Nov. 14 across three American cities — Los Angeles, Allen (Texas), and a grand finale at Barclays Center in Brooklyn on Nov. 14. Nineteen of the world's best teams, a packed NBA-sized arena, and a title on the line. It's basically the Super Bowl of gaming, and for once it's in our backyard.",
+      "say": "The huge League of Legends world championship is actually being held in the US this year — it wraps up at Barclays Center in Brooklyn in November. Wild that they fill an NBA arena for a video game. You ever watch any of the esports stuff?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Worlds 2026 at Barclays Center", "url": "https://www.barclayscenter.com/events/detail/league-of-legends-2026" },
+        { "kind": "web", "text": "LoL Esports — season news", "url": "https://lolesports.com/en-US/news/msi-and-worlds-updates" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧟",
+      "tag": "Culture · Film",
+      "headline": "Survive the night — a brand-new 'Resident Evil' hits theaters Friday",
+      "body": "The video-game franchise gets a fresh, scary reboot: 'Resident Evil' opens Friday from Zach Cregger, the horror director behind 'Weapons' and 'Barbarian.' Austin Abrams plays a medical courier whose overnight delivery to Raccoon City General turns into a full-blown nightmare. It's an all-new story (no game characters), it's rated R, and Cregger's name has horror fans very excited.",
+      "say": "There's a new Resident Evil movie out Friday — from the guy who did 'Weapons,' so it's supposed to be legitimately scary. Good one if you're into horror this time of year. You a scary-movie person, or nope?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Official site — watch the trailer", "url": "https://residentevil.movie/trailer/" },
+        { "kind": "web", "text": "Deadline — trailer breakdown", "url": "https://deadline.com/2026/07/resident-evil-trailer-zach-cregger-austin-abrams-1236876910/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Music",
+      "headline": "The masked cowboy gets real — Orville Peck's 'Mule' is out Friday",
+      "body": "It's a monster New Music Friday, and Orville Peck's 'Mule' is the emotional centerpiece. The masked country crooner made his most personal record yet — a start-to-finish story of hitting bottom, going to rehab, and clawing back to sobriety. It's got serious star power too, with Emmylou Harris, Noah Cyrus and Allison Russell all guesting. Cinematic, heart-on-sleeve country.",
+      "say": "New Orville Peck album out Friday — he's that country singer who always wears the fringed mask. This one's really personal, all about getting sober. Gorgeous, moody stuff. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Too Little, Too Late' (official video)", "url": "https://www.youtube.com/watch?v=sPn7iWVtCg4" },
+        { "kind": "web", "text": "Rolling Stone — the story behind 'Mule'", "url": "https://www.rollingstone.com/music/music-features/orville-peck-overdose-rehab-new-album-mule-1235597852/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "'90s alt-rock revival — Beabadoobee drops 'Pylon'",
+      "body": "If you like fuzzy, nostalgic guitar music, Beabadoobee's fourth album 'Pylon' lands Friday too. Written on the road, it leans hard into grunge, Midwest emo and '90s radio rock, with a killer guest list: Paramore's Hayley Williams, Deftones' Chino Moreno and Turnstile's Brendan Yates all show up. Lead single 'Sun Has Set' is the perfect windows-down, crank-it-loud taste of it.",
+      "say": "There's a new Beabadoobee album out Friday — super '90s, fuzzy-guitar, throwback rock. Feels like a mixtape from high school in the best way. You have a genre you always come back to?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Sun Has Set' (official video)", "url": "https://www.youtube.com/watch?v=OkApy8LE8s8" },
+        { "kind": "web", "text": "Rolling Stone — album announcement", "url": "https://www.rollingstone.com/music/music-news/beabadoobee-new-album-announcement-pylon-1235582530/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Owning the title — Tinashe rolls out 'Popstar'",
+      "body": "For something you can dance to, Tinashe (of viral 'Nasty' fame) is building toward her album 'Popstar,' a genre-blurring mash of pop, R&B, electronic and club. She's been rolling out slick singles and videos all summer — 'Crash Out,' 'Too Easy,' 'Melatonin' — and leaning fully into her role as one of pop's most reliably fun, do-it-herself hitmakers. Easy, breezy, put-it-on-anywhere stuff.",
+      "say": "Tinashe's got a new album called 'Popstar' on the way — she's the 'Nasty' one from a while back. Real slick, danceable pop-R&B. Good pick if you want something upbeat. You more into new stuff or your old favorites?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Crash Out' (official video)", "url": "https://www.youtube.com/watch?v=w24EE2ns2UM" },
+        { "kind": "web", "text": "The Fader — 'Popstar' details", "url": "https://www.thefader.com/2026/07/16/tinashe-album-announcement-popstar-release-date-album-art-details" }
+      ]
+    }
+  ]
+}
