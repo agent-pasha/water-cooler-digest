@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-19",
+  "label": "Saturday, September 19, 2026",
+  "items": [
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top 10",
+      "headline": "A top-10 heavyweight fight in The Grove — LSU at Ole Miss",
+      "body": "The best game on the college board is in Oxford: No. 7 LSU at No. 8 Ole Miss, the first time these two have met with both ranked in the top 10 since 1962. There's a twist, too — Lane Kiffin is back in The Grove, now as LSU's head coach, facing the program he used to run. College GameDay is live from campus with Morgan Freeman as the celebrity guest picker. Kickoff 7:30 ET on ABC.",
+      "say": "There's a huge college football game tonight — LSU at Ole Miss, both top-10, and the Ole Miss coach jumped to LSU so it's a bit of a revenge trip. Morgan Freeman's even guest-picking on GameDay. You following anybody this season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Last year's LSU–Ole Miss thriller (ESPN)", "url": "https://www.youtube.com/watch?v=j2Ysz8Lsb8U" },
+        { "kind": "web", "text": "ESPN Press Room — GameDay returns to The Grove", "url": "https://espnpressroom.com/press-release/college-gameday-returns-to-the-grove-for-historic-top-10-lsu-ole-miss-showdown/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Perfect Arsenal roll into Brighton",
+      "body": "Arsenal are the early story of the Premier League — seven wins from seven across all competitions and just a single goal conceded — but Brighton bring the league's hottest attack to a tricky Saturday test on the south coast. Man City vs. Sunderland and Spurs vs. Aston Villa round out a loaded weekend up top.",
+      "say": "Arsenal haven't dropped a point yet this season — seven wins from seven. Feels like this might finally be their year. You think anyone catches them?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Arsenal's latest win (NBC Sports highlights)", "url": "https://www.youtube.com/watch?v=vH9PRdWxf3Q" },
+        { "kind": "web", "text": "Goal — Brighton vs. Arsenal preview", "url": "https://www.goal.com/en/news/brighton-hove-albion-arsenal-premier-league-preview/blt3fb4e18c471aad56" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 2",
+      "headline": "Mahomes and the Chiefs get Sunday night",
+      "body": "Kansas City opened the season by demolishing Denver 31-10 in Patrick Mahomes' return, with running back Kenneth Walker III rumbling for close to 200 yards. Now the Chiefs host the Colts on Sunday Night Football — a chance to show the AFC that the dynasty is very much back in business.",
+      "say": "Mahomes looked like his old self in Week 1 — the Chiefs smoked Denver. They're on Sunday Night Football this week. You think they're back to being the team to beat?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Chiefs 31-10 Broncos — Week 1 highlights", "url": "https://www.youtube.com/watch?v=chBu8JFx_8U" },
+        { "kind": "web", "text": "NFL.com — Colts at Chiefs preview", "url": "https://www.nfl.com/videos/colts-vs-chiefs-preview-week-2" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Clinched",
+      "headline": "Braves punch their ticket — and Olson hits No. 40",
+      "body": "Atlanta is back in the postseason for the eighth time in nine years after a 6-2 win over Houston, with Michael Harris II, Ronald Acuña Jr. and Matt Olson all launching two-run homers. Olson's ninth-inning shot was his 40th of the season — his second 40-homer year with the Braves — as Atlanta trimmed its magic number for the NL East to three.",
+      "say": "The Braves clinched a playoff spot last night — three two-run homers, and Matt Olson hit his 40th. They looked dead earlier in the year, so it's a nice bounce-back. You got a team in the hunt?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Braves 6-2 Astros — full highlights (MLB)", "url": "https://www.youtube.com/watch?v=7tHs1h1YdRo" },
+        { "kind": "web", "text": "ESPN — Braves clinch 8th berth in 9 years", "url": "https://www.espn.com/mlb/story/_/id/49976955/braves-clinch-8th-playoff-berth-9-years-win-astros" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏖️",
+      "tag": "Culture · Festival",
+      "headline": "Sea.Hear.Now takes over the Jersey Shore",
+      "body": "Surf-and-sound weekend in Asbury Park: the beachfront Sea.Hear.Now festival runs Saturday and Sunday with Mumford & Sons headlining night one and The Strokes closing it out — plus Pixies, Goo Goo Dolls, The Offspring, Chaka Khan, The War on Drugs and Fontaines D.C. across the sand. 25 bands, three stages, toes in the water.",
+      "say": "There's a music festival right on the beach in Asbury Park this weekend — Mumford & Sons and The Strokes headlining, Pixies, Goo Goo Dolls, the whole thing on the sand. You ever do a beach festival?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Mumford & Sons — 'Rushmere'", "url": "https://www.youtube.com/watch?v=GMCtDI5AQtQ" },
+        { "kind": "web", "text": "Rolling Stone — Sea.Hear.Now 2026 lineup", "url": "https://www.rollingstone.com/music/music-news/mumford-and-sons-the-strokes-sea-hear-now-festival-2026-1235536309/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤖",
+      "tag": "Culture · Film",
+      "headline": "'Til all are one — Transformers turns 40 on the big screen",
+      "body": "The 1986 animated cult classic 'The Transformers: The Movie' is back in theaters through Sept. 22, remastered in 4K — yes, the one with Orson Welles' final role, the death of Optimus Prime, and Stan Bush's gloriously cheesy anthem 'The Touch.' Every screening tacks on a brand-new Optimus Prime animated short made just for the event.",
+      "say": "The original 1986 Transformers movie is back in theaters this week for its 40th anniversary. That's the one where they killed off Optimus Prime and traumatized a generation of kids. Were you a Transformers kid?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Transformers: The Movie 40th — official trailer", "url": "https://www.youtube.com/watch?v=OtgnqWLYqHo" },
+        { "kind": "web", "text": "Fathom Entertainment — 40th anniversary release", "url": "https://www.fathomentertainment.com/releases/the-transformers-the-movie-40th-anniversary/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Echo & The Bunnymen return after 12 years",
+      "body": "The Liverpool post-punk legends are back with 'Apples for Isaac,' their first album of new material in over a decade — and critics are calling it their best in 20 years. Frontman Ian McCulloch's croon has weathered into a raspy baritone, and the record even features the late Blondie drummer Clem Burke on the kit.",
+      "say": "Echo & The Bunnymen just put out their first new album in 12 years, and the reviews are actually great. Kind of love when the old '80s bands still have it. Any older act you'd drop everything to see?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Brussels Is Haunted' (official video)", "url": "https://www.youtube.com/watch?v=gCDFLUBYxVg" },
+        { "kind": "web", "text": "NME — 'Apples for Isaac' announced", "url": "https://www.nme.com/news/music/echo-the-bunnymen-announce-apples-for-isaac-their-first-new-album-in-12-years-with-nostalgic-single-brussels-is-haunted-3957301" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Slow Horses saddles up for Season 6",
+      "body": "Gary Oldman's gloriously grubby Jackson Lamb is back on Apple TV+, and this time the tables turn: a mysterious assassin has a list of everyone who's ever worked at Slough House and is methodically working down it. Olivia Cooke's Sid Baker — last seen way back in Season 1 — returns, too. New episodes weekly.",
+      "say": "New season of Slow Horses just dropped — the spy show with Gary Oldman as the most disgusting, brilliant boss on TV. If you haven't started it, it's the perfect binge. You watching anything good right now?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Slow Horses S6 — official trailer (Apple TV)", "url": "https://www.youtube.com/watch?v=FhnCXRQw3hg" },
+        { "kind": "web", "text": "Apple TV Press — Season 6 trailer", "url": "https://www.apple.com/tv-pr/news/2026/08/apple-tv-debuts-enthralling-trailer-for-season-six-of-emmy-and-bafta-award-winning-espionage-drama-slow-horses-starring-academy-award-winner-sir-gary-oldman/" }
+      ]
+    }
+  ]
+}
