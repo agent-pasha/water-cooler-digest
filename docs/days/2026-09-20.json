@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-20",
+  "label": "Sunday, September 20, 2026",
+  "items": [
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top 10",
+      "headline": "Kiffin's homecoming backfires — Ole Miss stuns LSU",
+      "body": "The Grove got its top-10 thriller. No. 8 Ole Miss beat No. 7 LSU 32-24 on Saturday, spoiling Lane Kiffin's return to Oxford as LSU's new head coach. Rebels QB Trinidad Chambliss threw for 363 yards and two scores and ran in the go-ahead touchdown in the fourth. It was an upset-happy Saturday all over, too — unranked Kentucky knocked off No. 9 Texas A&M at Kyle Field.",
+      "say": "Did you catch Ole Miss–LSU? The old Ole Miss coach jumped to LSU, then came back and lost 32-24 to his old team — the crowd ate it up. College football's been so much fun this year. You following anybody?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ole Miss 32-24 LSU — highlights (SEC)", "url": "https://www.youtube.com/watch?v=_m3WsvqbtI4" },
+        { "kind": "web", "text": "ESPN — Ole Miss stuns LSU", "url": "https://www.espn.com/college-football/game/_/gameId/401856688/lsu-ole-miss" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "So much for perfect — Brighton batter Arsenal 3-0",
+      "body": "The Premier League's runaway leaders finally cracked. Brighton blew away previously-perfect Arsenal 3-0 at the Amex on Saturday — Pascal Gross and Charalampos Kostoulas with first-half strikes and 21-year-old Chema Andres heading in a third — ending the Gunners' nine-match league winning run and their unbeaten start to the title defense.",
+      "say": "Arsenal hadn't dropped a single point all season, and then Brighton just smoked them 3-0 on Saturday. Maybe this title race isn't over after all. You watch any Premier League?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Brighton 3-0 Arsenal — highlights (NBC Sports)", "url": "https://www.youtube.com/watch?v=_dfxDY74ChQ" },
+        { "kind": "web", "text": "ESPN — Brighton 3-0 Arsenal", "url": "https://www.espn.com/soccer/match/_/gameId/401879274" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 2",
+      "headline": "Old-school grudge match — Commanders at Cowboys",
+      "body": "One of the NFL's chippiest rivalries is back: the Washington Commanders visit the Dallas Cowboys at AT&T Stadium on Sunday, both teams itching to get their season pointed the right way early. NFC East games in Dallas always come with a little extra needle — and it's the marquee matchup on a 14-game Sunday.",
+      "say": "Cowboys–Commanders is on Sunday — one of those old NFC East rivalries that always gets a little nasty. You a Cowboys guy, or do you just enjoy watching them sweat?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "CBS Sports — game preview", "url": "https://www.cbssports.com/nfl/gametracker/preview/NFL_20260920_WAS@DAL/" },
+        { "kind": "web", "text": "NFL.com — Week 2 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-2" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · CS2",
+      "headline": "Vitality roll on — French stars win StarSeries Fall",
+      "body": "More Counter-Strike silverware for the sport's top dog: Vitality eased past Aurora in the grand final to win StarLadder StarSeries Fall 2026, stacking yet another trophy onto a dominant run. Star man ZywOo and company keep making the case as the best team on the planet heading into the fall stretch.",
+      "say": "The French Counter-Strike team Vitality just won another big tournament — they've been pretty much unbeatable this year. You ever watch any of the esports stuff?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "HLTV — StarSeries Fall 2026", "url": "https://www.hltv.org/events/8057/starladder-starseries-fall-2026" },
+        { "kind": "web", "text": "esports.gg — results & recap", "url": "https://esports.gg/news/counter-strike-2/starseries-fall-2026-overview-results/" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Presidents Cup",
+      "headline": "Golf's team showdown lands outside Chicago",
+      "body": "The Presidents Cup tees off Thursday at Medinah, just outside Chicago — the U.S. (led by Scottie Scheffler and captain Brandt Snedeker) chasing an 11th straight win over the International side. The Internationals have won this event exactly once, way back in 1998, so it's a bit of David vs. Goliath in matching team outfits.",
+      "say": "There's a big team golf event this week — the Presidents Cup, right outside Chicago. Basically USA versus the rest of the world, and the U.S. almost never loses. You play at all, or just watch the majors?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "PresidentsCup.com — official site", "url": "https://www.presidentscup.com/" },
+        { "kind": "web", "text": "Yahoo — how to watch at Medinah", "url": "https://sports.yahoo.com/articles/presidents-cup-2026-watch-u-163417367.html" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧟",
+      "tag": "Culture · Film",
+      "headline": "Raccoon City rules the box office — 'Resident Evil' opens huge",
+      "body": "The video-game reboot everyone was buzzing about delivered: Zach Cregger's 'Resident Evil' scared up a franchise-record $60 million opening weekend — well above projections — riding a 96% Rotten Tomatoes score and Cregger's post-'Weapons' goodwill. Easily the No. 1 movie in the country.",
+      "say": "That new Resident Evil movie opened massive — around $60 million, biggest ever for the franchise, and the reviews are actually great. Perfect spooky-season pick. You a horror-movie person, or nope?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Official site — watch the trailer", "url": "https://residentevil.movie/trailer/" },
+        { "kind": "web", "text": "Deadline — $60M record opening", "url": "https://deadline.com/2026/09/box-office-resident-evil-1237107316/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "History at No. 1 — Ella Langley ties an all-time record",
+      "body": "Country's newest superstar is rewriting the record books. Ella Langley's 'Choosin' Texas' logged its 22nd week atop the Billboard Hot 100 — tying the longest run in the chart's entire history, matching Mariah Carey's 'All I Want for Christmas Is You.' Not bad for a small-town Alabama singer's breakout hit.",
+      "say": "You know that country song 'Choosin' Texas'? It just tied the all-time record for weeks at No. 1 — as in, matching Mariah Carey's Christmas song. It's been everywhere for like half a year. You heard it?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Choosin' Texas' (official video)", "url": "https://www.youtube.com/watch?v=nUsrYVxrDwI" },
+        { "kind": "web", "text": "Billboard — 22nd week at No. 1", "url": "https://www.billboard.com/lists/ella-langley-choosin-texas-hot-100-number-one-22nd-week/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "SNL's back next week — with an NBA star hosting",
+      "body": "'Saturday Night Live' kicks off Season 52 on Sept. 26, and the host is a fun one: New York Knicks point guard Jalen Brunson, with K-pop group KATSEYE as musical guest. An NBA All-Star doing live sketch comedy — that's worth tuning in for on its own.",
+      "say": "SNL's new season starts next week, and get this — Knicks star Jalen Brunson is hosting. An NBA player doing live sketch comedy could go either way. You still keep up with SNL?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NBC — Season 52, everything to know", "url": "https://www.nbc.com/nbc-insider/saturday-night-live-season-52-everything-to-know" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Luke Bryan's back — 'Signs' is out",
+      "body": "Country-radio mainstay (and 'American Idol' judge) Luke Bryan dropped his ninth album 'Signs' on Friday — his first full record in a few years, led by the tongue-in-cheek 'Country and She Knows It.' It's easygoing, sing-along stuff, tailor-made for a tailgate or a long drive.",
+      "say": "New Luke Bryan album out — yeah, the American Idol judge. Real easy, fun country for a cookout or a road trip. You into any country, or not your thing?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Country and She Knows It' (official)", "url": "https://www.youtube.com/watch?v=zHlzvcv3oyk" },
+        { "kind": "web", "text": "Billboard — inside 'Signs'", "url": "https://www.billboard.com/music/country/american-idol-judge-luke-bryan-talks-new-album-signs-1236326727/" }
+      ]
+    }
+  ]
+}
