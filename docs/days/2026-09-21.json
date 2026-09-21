@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-21",
+  "label": "Monday, September 21, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 2",
+      "headline": "Cowboys roll — but Jayden Daniels goes down",
+      "body": "Dallas handled Washington 37-20 at AT&T Stadium on Sunday, but the game turned on a scary moment: Commanders star Jayden Daniels dislocated his left elbow on the final play of the first half after a teammate stepped on his foot and he threw out an arm to brace himself. Marcus Mariota finished up, and Washington slipped to 0-2. Early X-rays showed no fractures, but Daniels is getting more tests.",
+      "say": "Did you catch Cowboys–Commanders? Dallas won big, but Jayden Daniels dislocated his elbow on a total fluke — a lineman stepped on his foot and he stuck his arm out. Rough way to go down. You following the NFC East this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Commanders vs. Cowboys highlights", "url": "https://www.nfl.com/videos/game-highlights-commanders-vs-cowboys-week-2" },
+        { "kind": "web", "text": "NBC News — Daniels' elbow injury", "url": "https://www.nbcnews.com/sports/nfl/commanders-quaterback-jayden-daniels-injured-cowboys-nfl-rcna598885" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏆",
+      "tag": "NFL · Sunday Night Football",
+      "headline": "Mahomes stays perfect in OT — Chiefs edge the Colts 33-30",
+      "body": "A Sunday-night classic at Arrowhead. Patrick Mahomes threw three touchdowns and Harrison Butker booted the game-winner in overtime as Kansas City beat Indianapolis 33-30 to move to 2-0. Mahomes is now a ridiculous 8-0 in regular-season overtime, and Travis Kelce quietly became the NFL's all-time leader in yards after the catch. Jonathan Taylor did all he could for the Colts with two rushing scores.",
+      "say": "The Chiefs won another overtime nail-biter last night — Mahomes is somehow 8-0 in regular-season OT games. And Kelce just became the all-time leader in yards after the catch. Those two never seem to lose the close ones. You a Chiefs fan or Chiefs-hater at this point?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Butker's game-winning OT field goal", "url": "https://www.nfl.com/videos/game-winning-field-goal-butker-s-40-yard-kick-lifts-chiefs-to-victory-against-colts" },
+        { "kind": "web", "text": "ESPN — Chiefs 33-30 Colts recap", "url": "https://www.espn.com/nfl/recap/_/gameId/401872945" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Eight-goal madness — Man City beat Sunderland 5-3 to go top",
+      "body": "The Etihad served up a wild one. Manchester City outscored Sunderland 5-3 in an eight-goal thriller on Saturday — and even that scoreline undersells the chaos, with Sunderland grabbing a Brobbey hat-trick in defeat. With Arsenal having just lost at Brighton, City's win bumped them three points clear at the top of the table. Pep Guardiola's side look right back in business.",
+      "say": "Man City won a bonkers 5-3 game over Sunderland this weekend — eight goals, and the losing team still managed a hat-trick. They've jumped to the top of the league now that Arsenal slipped up. You catch any Premier League on the weekends?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Man City 5-3 Sunderland — highlights (NBC Sports)", "url": "https://www.youtube.com/watch?v=JXdEMD3NOOY" },
+        { "kind": "web", "text": "Yahoo — City win 8-goal thriller to go top", "url": "https://sports.yahoo.com/articles/manchester-city-x-sunderland-highlights-150500448.html" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · UFC 331",
+      "headline": "Twelve seconds — one of the biggest upsets in UFC history",
+      "body": "Jaws hit the floor in LA on Saturday. Sean Sharaf, a 10-to-1 underdog, knocked out Olympic wrestling gold medalist Gable Steveson with a single left hook just 12 seconds into their heavyweight bout at UFC 331 — an all-time stunner. In the main event, flyweight champ Joshua Van outpointed Alexandre Pantoja over five rounds to defend his belt in their rematch.",
+      "say": "Did you see the UFC last night? A massive underdog knocked out an Olympic gold-medal wrestler in twelve seconds — one punch, lights out. One of the wildest upsets ever. You watch the fights at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "UFC — Sharaf's 12-second KO (official video)", "url": "https://www.ufc.com/video/160276" },
+        { "kind": "web", "text": "ESPN — Steveson KO'd in 12 seconds", "url": "https://www.espn.com/mma/story/_/id/49985637/olympic-champ-steveson-kod-sharaf-just-12-seconds-ufc-331" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · VMAs",
+      "headline": "The VMAs are back Sunday — Snoop hosts, Madonna returns",
+      "body": "MTV's Video Music Awards land this Sunday (Sept. 27) on CBS, MTV and Paramount+, and it's a big one: Snoop Dogg hosts for the first time, Madonna leads all nominees with 13 nods and is set to perform for the first time in years, Taylor Swift and Sabrina Carpenter are close behind, and Nirvana will get the Video Vanguard Award. Should be a fun night of chaos.",
+      "say": "The VMAs are on Sunday and Snoop Dogg's hosting — plus Madonna's performing for the first time in ages. Always a fun mess of a show. You still keep up with the big award nights, or just catch the clips after?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Billboard — 2026 VMA nominations", "url": "https://www.billboard.com/lists/2026-mtv-vma-nominations-list-madonna-video-music-awards/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Robert Pattinson goes dark — A24's 'Primetime' opens Friday",
+      "body": "One for the grown-up-movie crowd: A24's 'Primetime' hits theaters Friday (Sept. 25) with Robert Pattinson in a tense crime-thriller loosely inspired by the old 'To Catch a Predator' sting shows. It's got a stacked supporting cast — Merritt Wever, Skyler Gisondo, even Phoebe Bridgers — and A24's usual creepy-cool fingerprints all over it.",
+      "say": "There's a new Robert Pattinson thriller out Friday — an A24 one, kind of based on those 'To Catch a Predator' shows. Looks properly unsettling. You into the moody, artsy movies, or more of a popcorn-blockbuster person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Primetime' — official trailer (A24)", "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8" },
+        { "kind": "web", "text": "About the film", "url": "https://en.wikipedia.org/wiki/Primetime_(2026_film)" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🍫",
+      "tag": "Culture · TV",
+      "headline": "A real golden ticket — Netflix builds a Wonka factory",
+      "body": "Pure fun for the family: 'Wonka's The Golden Ticket' drops on Netflix Wednesday (Sept. 23), a reality-competition show that puts twelve winners inside a full-scale replica of Willy Wonka's chocolate factory, chasing a life-changing prize. Lickable wallpaper, a Wonkavision set piece — they even recreate Gene Wilder's voice. Peak comfort TV.",
+      "say": "Netflix built an actual working Willy Wonka factory for a new competition show — lickable wallpaper and everything. Feels like the perfect thing to watch with the kids. You ever get into those big reality-competition shows?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Wonka's The Golden Ticket' — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=kGVuOT6h11c" },
+        { "kind": "web", "text": "Variety — inside the Netflix Wonka show", "url": "https://variety.com/2026/tv/news/netflix-willy-wonka-reality-show-trailer-1236843994/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔪",
+      "tag": "Culture · TV",
+      "headline": "The all-star horror crossover — 'American Horror Story: 13'",
+      "body": "Spooky season TV is here: 'American Horror Story: 13' premieres Thursday (Sept. 24) on FX and Hulu, and it's the big one fans have wanted for years — an Avengers-style crossover pulling threads from across the whole series. Jessica Lange, Sarah Paulson and Evan Peters are all back, reprising multiple roles, with three episodes right out of the gate.",
+      "say": "American Horror Story is back Thursday, and this season's supposed to be a huge crossover of all the old seasons — Jessica Lange and Sarah Paulson included. Perfect creepy-fall watch. You a horror-TV person, or does it give you nightmares?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'American Horror Story: 13' — official trailer (FX)", "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI" },
+        { "kind": "web", "text": "Deadline — Season 13 trailer", "url": "https://deadline.com/2026/09/american-horror-story-season-13-trailer-1237032637/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Teddy Swims is back — new single 'Perfect Man'",
+      "body": "The husky-voiced soul favorite behind 'Lose Control' just announced his second album, 'UGLY,' and dropped its first single, 'Perfect Man.' Written over the past year-plus after the birth of his son, it's a warm, horns-and-strings tune about ditching impossible standards and forgiving yourself. Classic easy, big-feelings Teddy Swims.",
+      "say": "New Teddy Swims song just landed — the 'Lose Control' guy with the huge voice. This one's all about cutting yourself some slack, and it's got a whole horn-and-strings thing going. Real easy listen. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Perfect Man' (official audio)", "url": "https://www.youtube.com/watch?v=plcTMgR3jDc" },
+        { "kind": "web", "text": "JamBase — new album 'UGLY' & single", "url": "https://www.jambase.com/article/teddy-swims-new-album-ugly-perfect-man-single" }
+      ]
+    }
+  ]
+}
