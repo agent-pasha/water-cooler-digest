@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-22",
+  "label": "Tuesday, September 22, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night Football",
+      "headline": "Davante Adams goes off — Rams roll the Giants 28-6",
+      "body": "Matthew Stafford threw four touchdown passes and Davante Adams caught two of them on his way to 195 yards on the night. The Giants had a scary moment too, with rookie QB Jaxson Dart banged up.",
+      "say": "Did you catch Davante Adams last night? 195 yards — dude turned back the clock on Monday night.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Giants @ Rams highlights", "url": "https://www.youtube.com/watch?v=qg9GZqmTRto" },
+        { "kind": "web", "text": "CBS Sports box score", "url": "https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20260921_NYG@LAR/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Haaland finally completes the set",
+      "body": "In a wild 5-3 win over Sunderland, Erling Haaland tapped in late to score against Sunderland for the first time — meaning he's now found the net against all 25 Premier League clubs he's ever faced.",
+      "say": "Haaland has now scored against literally every Premier League team he's played. The guy's a cheat code.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Haaland's landmark goal", "url": "https://www.youtube.com/watch?v=0VqlDHhGQqA" },
+        { "kind": "web", "text": "ESPN recap", "url": "https://www.espn.com/soccer/story/_/id/49989640/erling-haaland-sets-unique-goal-milestone-man-city-beat-sunderland" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Playoff Race",
+      "headline": "Down to the wire — baseball's final week is here",
+      "body": "Six teams are locked in, but the wild-card scramble is chaos: the Cubs, Phillies and Padres are basically tied in the NL, and the AL's last spots could come down to Sunday. First pitch of October is Sept. 29.",
+      "say": "The MLB playoff race is an absolute mess right now — like five teams fighting for two spots. Love this time of year.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Final-week picture", "url": "https://www.youtube.com/watch?v=WSBmNoRHG50" },
+        { "kind": "web", "text": "ESPN playoff tracker", "url": "https://www.espn.com/mlb/story/_/id/49752366/mlb-2026-playoff-tracker-clinch-scenarios-postseason-bracket-schedule" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · VALORANT",
+      "headline": "VALORANT's world championship tips off Thursday",
+      "body": "Champions 2026 lands in Shanghai starting Sept. 24 — 16 teams, a $2.25M prize pool, and the usual over-the-top anthem (this year featuring Bring Me The Horizon's Oli Sykes) to kick it all off.",
+      "say": "The VALORANT world championship starts this week in Shanghai — and the hype anthem honestly slaps.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Champions 2026 anthem", "url": "https://www.youtube.com/watch?v=x8jAY2CoOBg" },
+        { "kind": "web", "text": "Champions Shanghai guide", "url": "https://valorantesports.com/en-US/valorantesports/news/champions-shanghai-everything-you-need-to-know" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐺",
+      "tag": "Culture · Film",
+      "headline": "Brad Pitt and a very good dog vs. the wilderness",
+      "body": "'Heart of the Beast' opens Friday — a David Ayer survival thriller with Brad Pitt as an ex-Special Forces soldier stranded in the Alaskan wild with his retired combat dog after a plane crash.",
+      "say": "New Brad Pitt survival movie this weekend — him and his combat dog stranded in Alaska. I'm in.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=JFQcDFhNh4o" },
+        { "kind": "web", "text": "Boxoffice Pro preview", "url": "https://www.boxofficepro.com/the-biggest-movies-coming-to-theaters-september-2026/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏝️",
+      "tag": "Culture · TV",
+      "headline": "Survivor hits 51 — and it's the 'Open Era'",
+      "body": "Survivor returns Wednesday with a two-hour premiere and a fun twist: every advantage, idol and trick from 50 seasons is now fair game, plus some brand-new wrinkles. Jeff Probst is loving it.",
+      "say": "Survivor's back Wednesday and this season every twist from the whole show's history is in play. Chaos.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Season 51 trailer", "url": "https://www.youtube.com/watch?v=Fm7qRkmGoXA" },
+        { "kind": "web", "text": "What to know", "url": "https://en.wikipedia.org/wiki/Survivor_51" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · TV",
+      "headline": "McConaughey and Harrelson… actual brothers?",
+      "body": "Apple TV's comedy 'Brothers' drops its first two episodes Wednesday. Matthew McConaughey and Woody Harrelson play versions of themselves who discover they might literally be siblings — a running real-life rumor the pals lean all the way into.",
+      "say": "There's a new McConaughey–Woody Harrelson show where they might actually be brothers. Feels like it writes itself.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=qHP0jwBTEro" },
+        { "kind": "web", "text": "Apple TV announcement", "url": "https://www.apple.com/tv-pr/news/2026/08/apple-tv-debuts-trailer-for-new-matthew-mcconaughey-and-woody-harrelson-led-comedy-series-brothers-premiering-globally-september-23/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · TV",
+      "headline": "Queen Latifah takes a big red chair",
+      "body": "'The Voice' kicked off Season 30 this week with a shake-up: Queen Latifah and country star Riley Green join Kelly Clarkson and Adam Levine in the coaches' chairs. Carson Daly's now on his 30th straight season hosting.",
+      "say": "Queen Latifah's a coach on The Voice now — that's a fun get. New season just started.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Season 30 trailer", "url": "https://www.youtube.com/watch?v=aNewcCI0f3I" },
+        { "kind": "web", "text": "New coaches lineup", "url": "https://www.nbc.com/nbc-insider/the-voice-season-30-coaches-lineup" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The Smiths' Johnny Marr is back with new music",
+      "body": "Guitar legend Johnny Marr announced a new album, 'The Age of Everything' (out Oct. 2), and shared the shimmering opener 'Spin.' If you grew up on that jangly Smiths sound, this is right in the pocket.",
+      "say": "Johnny Marr from The Smiths has a new album coming — the first single's got that classic guitar shimmer.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Spin' (official video)", "url": "https://www.youtube.com/watch?v=VqGsu-5jluw" },
+        { "kind": "web", "text": "Album details", "url": "https://rockcellarmagazine.com/johnny-marr-new-music-the-age-of-everything-album-2026/" }
+      ]
+    }
+  ]
+}
