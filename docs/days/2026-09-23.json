@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-23",
+  "label": "Wednesday, September 23, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Clinched",
+      "headline": "Rays crash the party at Yankee Stadium — AL East champs",
+      "body": "Tampa Bay clinched its first AL East title since 2021 with a 6-1 win in the nightcap of a doubleheader — in the Yankees' own building. Drew Rasmussen carried a no-hit bid into the seventh, and it's the earliest division clinch in franchise history, locking up the No. 1 seed in the American League.",
+      "say": "The Rays just clinched the AL East by beating the Yankees at Yankee Stadium — kind of the ultimate mic-drop. They've got the best seed in the AL now. You got a team in the playoff hunt?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The clinching 9th inning (MLB)", "url": "https://www.youtube.com/watch?v=DTpQZLp9mpA" },
+        { "kind": "web", "text": "MLB.com — Rays clinch AL East", "url": "https://www.mlb.com/news/rays-clinch-2026-al-east-title" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night Football",
+      "headline": "Week 3 kicks off — Falcons at Lambeau",
+      "body": "The short week brings a fun one: Atlanta heads to Green Bay for Thursday Night Football on Prime Video, two NFC teams trying to plant their flag early. Lambeau under the lights in late September is about as good as a Thursday gets.",
+      "say": "Falcons–Packers at Lambeau on Thursday night kicks off Week 3. Always love a night game at Green Bay. You riding with anybody this NFL season?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Week 3 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-3" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Week 5",
+      "headline": "No. 1 Texas hosts a top-15 test vs. Tennessee",
+      "body": "Arch Manning and the top-ranked Longhorns — fresh off knocking off Ohio State earlier this month — get another big one Saturday when No. 14 Tennessee comes to Austin. It headlines a loaded slate that also has No. 23 Texas A&M at No. 10 LSU. College football Saturdays are cooking.",
+      "say": "Texas is No. 1 now with Arch Manning at QB, and they've got Tennessee this weekend. College football's been so much fun this year. You following anybody?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Texas' latest win — highlights (SEC)", "url": "https://www.youtube.com/watch?v=qO8B5rZe-JQ" },
+        { "kind": "web", "text": "Week 5 TV schedule", "url": "https://fbschedules.com/college-football-schedule-tv-selections-september-26-2026/" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Laver Cup",
+      "headline": "Europe vs. the World — the Laver Cup lands in London",
+      "body": "Tennis's flashiest team event runs Friday through Sunday at The O2, with Carlos Alcaraz and Alexander Zverev leading Team Europe against a Team World featuring Taylor Fritz and Alex de Minaur. Yannick Noah and Andre Agassi are the rival captains — expect big shots and even bigger sideline energy.",
+      "say": "The Laver Cup's this weekend — it's that Europe-vs-the-world team tennis thing with Alcaraz and Fritz. The players actually get into it on the bench, which is fun. You watch any tennis?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Olympics.com — schedule & how to watch", "url": "https://www.olympics.com/en/news/laver-cup-2026-schedule-tennis-stars-how-to-watch-live" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Taylor Swift surprises everyone with 'Patient Zero'",
+      "body": "After a countdown and a bio full of zeroes sent Swifties into full detective mode, Taylor Swift announced a brand-new single, 'Patient Zero,' out this Friday — her first new song since getting married over the summer. Eagle-eyed fans say she even hid the title in her 'Opalite' video months ago.",
+      "say": "Taylor Swift's dropping a surprise new single Friday — 'Patient Zero.' Apparently she teased it months ago and nobody caught it. The internet lost it. You a Swiftie, or Swift-adjacent?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "'Opalite' — the video that teased it", "url": "https://www.youtube.com/watch?v=1FVF-9KQiPo" },
+        { "kind": "web", "text": "Billboard — 'Patient Zero' announced", "url": "https://www.billboard.com/music/music-news/taylor-swift-new-song-patient-zero-release-date-1236344662/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎓",
+      "tag": "Culture · TV",
+      "headline": "Back to Hillman — Netflix revives 'A Different World'",
+      "body": "The beloved '80s-'90s campus comedy returns Thursday as a Netflix sequel series, dropping all 10 episodes at once. Jasmine Guy and Kadeem Hardison are back as Whitley and Dwayne, whose freshman daughter (newcomer Maleah Joi Moon) is now trying to make her own name at Hillman. It premieres 39 years to the day after the original.",
+      "say": "Netflix is bringing back 'A Different World' this week — the old college sitcom, with the original stars playing the parents now. Perfect comfort-watch. You ever catch the original?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=W8jMEXwErvk" },
+        { "kind": "web", "text": "Variety — the revival", "url": "https://variety.com/2026/tv/news/netflix-a-different-world-sequel-series-trailer-images-1236836718/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Festival",
+      "headline": "A Fugees reunion in Central Park",
+      "body": "The Global Citizen Festival takes over Central Park's Great Lawn on Saturday with a stacked bill — Lenny Kravitz, John Legend, Lainey Wilson, Shaboozey and an Alicia Keys & Friends set — but the headline for music heads is Lauryn Hill and Wyclef Jean reuniting to mark 30 years of the Fugees' classic 'The Score.' Hugh Jackman hosts.",
+      "say": "Lauryn Hill and Wyclef are reuniting the Fugees at that big Central Park festival this weekend — 30 years of 'The Score.' 'Ready or Not' still goes so hard. You have an album you can play front to back?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Fugees — 'Ready or Not'", "url": "https://www.youtube.com/watch?v=aIXyKmElvv8" },
+        { "kind": "web", "text": "The 2026 lineup", "url": "https://www.jambase.com/festival/global-citizen-festival-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Mahershala Ali carries a heavy one — 'Your Mother Your Mother Your Mother'",
+      "body": "One for the grown-up-movie crowd: the two-time Oscar winner plays a devout single father in Houston pulled back into a dangerous job to provide for his kids, with John Cho co-starring. It opens in select cities Friday and goes wide in October after a strong festival run.",
+      "say": "There's a new Mahershala Ali movie out this weekend — he plays a single dad who gets pulled into one last job. He's just so good in everything. You into the heavier dramas, or more of a popcorn person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Amazon MGM)", "url": "https://www.youtube.com/watch?v=uEcoV-ngH38" },
+        { "kind": "web", "text": "Deadline — trailer & details", "url": "https://deadline.com/2026/08/your-mother-your-mother-your-mother-trailer-mahershala-ali-1237014936/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Nothing But Thieves are back — 'Stray Dogs' drops Friday",
+      "body": "The British rock band known for their soaring, Muse-y anthems return Friday with their fifth album 'Stray Dogs,' recorded back at the same studio where they made their debut. Lead single 'Evolution' — filmed live with a couple hundred fans in the room — is a big, arms-in-the-air taste of it.",
+      "say": "New Nothing But Thieves album's out Friday — big, soaring British rock, huge choruses. Great crank-it-in-the-car stuff. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Evolution' (official video)", "url": "https://www.youtube.com/watch?v=hmjfuuuRRYU" },
+        { "kind": "web", "text": "NME — 'Stray Dogs' announced", "url": "https://www.nme.com/news/music/nothing-but-thieves-new-album-stray-dog-tour-of-uk-europe-north-america-buy-tickets-3947453" }
+      ]
+    }
+  ]
+}
