@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-24",
+  "label": "Thursday, September 24, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Offseason",
+      "headline": "Kawhi's staying north — Leonard signs a $115M Raptors extension",
+      "body": "Kawhi Leonard has recommitted to Toronto, agreeing to a two-year extension worth up to $115 million with the team he led to the 2019 NBA title. The 35-year-old says he expects to finish his career as a Raptor — a full-circle moment for the guy whose four-bounce buzzer-beater over the 76ers is still one of the wildest shots the playoffs have ever seen.",
+      "say": "Kawhi Leonard just signed a big extension to stay with the Raptors — the team he won the title with back in 2019, and he says he wants to retire there. You remember that insane four-bounce buzzer-beater he hit?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Kawhi's Game 7 buzzer-beater (NBA)", "url": "https://www.youtube.com/watch?v=sazwLeaXdEQ" },
+        { "kind": "web", "text": "NBA.com — Leonard signs extension", "url": "https://www.nba.com/news/kawhi-leonard-signs-multi-year-extension-raptors" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Azerbaijan GP",
+      "headline": "F1 races on a Saturday this week — Baku shakes up the schedule",
+      "body": "A quirky one for the calendar: the Azerbaijan Grand Prix in Baku runs its main race on Saturday (Sept. 26) instead of the usual Sunday, with the whole weekend bumped up a day to avoid clashing with Azerbaijan's Remembrance Day. Expect the usual Baku chaos on those long, wall-lined streets — it almost always ends in drama.",
+      "say": "F1's doing something weird this weekend — the Baku race is actually on Saturday instead of Sunday. That street track always produces total madness. You follow F1 at all, or just here for the crashes?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Formula1.com — Azerbaijan GP", "url": "https://www.formula1.com/en/racing/2026/azerbaijan" },
+        { "kind": "web", "text": "ESPN — why the race is on Saturday", "url": "https://www.espn.com/f1/story/_/id/50003145/explained-2026-azerbaijan-grand-prix-saturday-sunday-schedule-baku" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Carabao Cup",
+      "headline": "A 16-year-old steals the show as Liverpool dump Spurs out",
+      "body": "England's League Cup third round delivered: 16-year-old Max Dowman scored twice in Arsenal's 4-2 win at Ipswich, announcing himself as the Gunners' next big thing, while Liverpool knocked Tottenham out 3-1 (helped by a trademark Dominik Szoboszlai screamer). All the big clubs are officially in the cup now.",
+      "say": "There's a 16-year-old at Arsenal named Max Dowman who just scored twice in a cup game — the kid looks like the real deal. Liverpool also knocked Spurs out. You keep up with the English stuff at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Arsenal.com — Ipswich 2-4 Arsenal highlights", "url": "https://www.arsenal.com/news/highlights-ipswich-town-2-4-arsenal-aXTNY8L7DwCA" },
+        { "kind": "web", "text": "ESPN — third round as it happened", "url": "https://www.espn.com/soccer/story/_/id/49950574/carabao-cup-liverpool-tottenham-ipswich-arsenal-third-round-commentary-updates-score-result" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · VALORANT",
+      "headline": "VALORANT's world championship is live — Paper Rex open with a comeback",
+      "body": "Champions 2026 is underway in Shanghai, and day one already had drama: fan-favorite Paper Rex fought back to beat Team Liquid 2-1 in the opener, and G2 handled TYLOO. Sixteen teams, a $2.25M prize pool, and a month of matches to crown a new world champ.",
+      "say": "The VALORANT world championship kicked off in Shanghai and Paper Rex won a wild opener. It's basically the World Cup of that game. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Watch live on Twitch", "url": "https://www.twitch.tv/valorant" },
+        { "kind": "web", "text": "Champions Shanghai — schedule & results", "url": "https://esports.gg/guides/valorant/champions-shanghai-2026-hub/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "'Endgame' is back on the big screen — with new footage",
+      "body": "Marvel is re-releasing 'Avengers: Endgame' this weekend as an 'Encore' cut, and it's not just nostalgia: there's brand-new footage tacked on that teases the connection to next year's 'Avengers: Doomsday' (with Robert Downey Jr. returning as the villain Doctor Doom). IMAX and premium screens even get an extra Doomsday sneak peek.",
+      "say": "They're putting Avengers: Endgame back in theaters this weekend with some new footage that sets up the next big Avengers movie. Kind of a fun excuse to see it huge again. You a Marvel person, or all superheroed-out?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Endgame Encore trailer (IMAX)", "url": "https://www.youtube.com/watch?v=_4d8xaprJXE" },
+        { "kind": "web", "text": "Marvel.com — Endgame returns to theaters", "url": "https://www.marvel.com/articles/movies/marvel-studios-avengers-endgame-returns-to-theaters-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏖️",
+      "tag": "Culture · Music",
+      "headline": "Kenny Chesney drops 'Silver Sands Marina' — beach country, his own label",
+      "body": "No Shoes Nation, rejoice: Kenny Chesney's 21st album 'Silver Sands Marina' arrives Friday, his first full record on his own independent Hey Now label. It's built around 'Carry On,' the breezy, Key West–filmed single that turned into a legit song of the summer, with guests like Megan Moroney and Colbie Caillat along for the ride.",
+      "say": "New Kenny Chesney album out Friday — easy, beachy country, and 'Carry On' was kind of the song of the summer. Perfect cookout music. You into any country, or not your thing?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Carry On' (official video)", "url": "https://www.youtube.com/watch?v=3im-HOZNMIM" },
+        { "kind": "web", "text": "KennyChesney.com — the new album", "url": "https://www.kennychesney.com/blogs/news/kenny-chesney-s-silver-sands-marina-arrives-september-25" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Tom Morello's first-ever solo rock album lands Friday",
+      "body": "Rage Against the Machine's riff wizard Tom Morello finally puts out a proper solo rock album, 'Everyone Gets Everything They Want,' on Friday. Lead single 'Date Night' is a heavy one — his teenage son Roman actually wrote the riff — so it's got that unmistakable Morello guitar squeal all over it.",
+      "say": "Tom Morello — the Rage Against the Machine guitarist — is dropping his first real solo album Friday, and his teenage kid wrote the riff on the single. Proper loud guitar stuff. You have a genre you always come back to?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Date Night' (official video)", "url": "https://www.youtube.com/watch?v=QANNQIspgFs" },
+        { "kind": "web", "text": "Consequence — Morello's solo debut", "url": "https://consequence.net/2026/07/tom-morello-solo-rock-album-single-date-night/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Linkin Park relive the comeback — 'Unshatter' live album out Friday",
+      "body": "Linkin Park release 'Unshatter,' a career-spanning live album recorded at their emotional 2024 São Paulo show — the concert that reintroduced the band with new singer Emily Armstrong — this Friday, with a companion documentary hitting theaters Sept. 30. They just dropped a live 'What I've Done' as a taste, and yeah, it still goes.",
+      "say": "Linkin Park have a live album coming Friday from their big comeback show, plus a documentary next week. Hearing those old songs again hits right in the nostalgia. What were you blasting back in high school?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'What I've Done' — live in São Paulo", "url": "https://www.youtube.com/watch?v=LFA724f3MWA" },
+        { "kind": "web", "text": "Louder — 'Unshatter' announced", "url": "https://www.loudersound.com/news/linkin-park-announce-unchatter-documentary-live-album-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Strange New Worlds' wraps its season with a time-bending finale",
+      "body": "One for the sci-fi crowd: 'Star Trek: Strange New Worlds' drops its Season 4 finale, 'Tomorrow's Enterprise,' on Paramount+ this Thursday. A time ripple forces a young and older Uhura to team up and fix the timeline — the kind of brainy, big-hearted episode this reboot does better than just about anyone.",
+      "say": "The newer Star Trek show — Strange New Worlds — has its season finale this week, and it's a time-travel one. It's honestly a fun, easy watch even if you're not a Trekkie. You into any sci-fi?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Season 4 trailer (Paramount+)", "url": "https://www.youtube.com/watch?v=85nfSzEho68" },
+        { "kind": "web", "text": "Inverse — the finale, explained", "url": "https://www.inverse.com/entertainment/star-trek-strange-new-worlds-season-4-finale-release-date-time" }
+      ]
+    }
+  ]
+}
