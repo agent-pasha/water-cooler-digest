@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-26",
+  "label": "Saturday, September 26, 2026",
+  "items": [
+    {
+      "cat": "f1",
+      "emoji": "🏁",
+      "tag": "F1 · Azerbaijan GP",
+      "headline": "Photo finish in Baku — Russell holds off Verstappen by a whisker",
+      "body": "George Russell won a chaotic Azerbaijan Grand Prix by just 0.196 seconds over Max Verstappen — the closest F1 finish in more than 20 years — after a 15-lap slugfest on Baku's wall-lined streets. Six drivers crashed or retired, including title-chasing Lando Norris, and Verstappen's rookie teammate Isack Hadjar snuck onto the podium in third.",
+      "say": "Did you catch the F1 race in Baku? George Russell won by like two-tenths of a second — the closest finish in 20 years, with cars crashing out all over the place. You follow F1 at all, or just here for the chaos?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Race Highlights — 2026 Azerbaijan GP (FORMULA 1)", "url": "https://www.youtube.com/watch?v=I9oahfzac0I" },
+        { "kind": "web", "text": "Formula1.com — Russell holds off Verstappen in Baku", "url": "https://www.formula1.com/en/latest/article/russell-narrowly-holds-off-verstappen-to-take-victory-over-the-line-in-chaotic-azerbaijan-gp.5J4lgNh82JDL2GM302irF0" }
+      ]
+    },
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Presidents Cup",
+      "headline": "Golf's underdogs flip the script — Internationals lead USA 7-3",
+      "body": "Two days after Team USA grabbed an early lead at Medinah, the International side turned the Presidents Cup on its head — sweeping Friday's foursomes 5-0 to storm ahead 7-3 just outside Chicago. It's their biggest cushion after two days since 1998, the lone time they've ever won this event. Tom Kim, Adam Scott, Sungjae Im and company have the Americans on the ropes heading into the weekend.",
+      "say": "That USA-versus-the-world golf event outside Chicago has totally flipped — the international team swept a whole session and now they're up 7-3. They've only ever won it once, so this is a real upset brewing. You catch any of it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "PGA Tour — 'Golden wave' floods Medinah as Internationals sweep", "url": "https://www.pgatour.com/article/news/latest/2026/09/25/internationals-sweep-us-team-friday-foursomes-presidents-cup-medinah-adam-scott-christiaan-bezuidenhout-tom-kim-si-woo-kim" },
+        { "kind": "web", "text": "Golf Digest — 6 takeaways from a stunning Day 2", "url": "https://www.golfdigest.com/story/presidentscup2026-internationals-come-back-in-foursomes-team-usa" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Playoff Race",
+      "headline": "A losing team is about to win a division — a first",
+      "body": "Baseball's final weekend has a genuinely weird one: the AL West is going to crown the first sub-.500 division champ ever. The Astros and Rangers both sit at 79-81, tied and under water, with Houston holding the tiebreaker and a magic number of two. Over in the NL, the Phillies and red-hot Diamondbacks are scrapping for the last wild-card spot right down to Sunday.",
+      "say": "Funny baseball quirk — the AL West winner this year is going to have a losing record, first time that's ever happened. The Astros and Rangers are both under .500 and still fighting for it. You got a team still alive?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — what to watch on the final weekend", "url": "https://www.espn.com/mlb/story/_/id/50015050/mlb-2026-regular-season-final-weekend-guide-watch-playoffs-october" },
+        { "kind": "web", "text": "ESPN — playoff tracker & clinch scenarios", "url": "https://www.espn.com/mlb/story/_/id/49752366/mlb-2026-playoff-tracker-clinch-scenarios-postseason-bracket-schedule" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Laver Cup",
+      "headline": "Alcaraz is back — and Team Europe grabs the lead in London",
+      "body": "Playing just his second event since a four-month injury layoff, Carlos Alcaraz teamed with Jakub Mensik to beat Taylor Fritz and Alexander Bublik 6-4, 6-4 in the doubles nightcap, capping an opening day that put Team Europe up 3-1 over Team World at the O2. It's the flashy Europe-vs-the-world team event where the players actually get fired up on the bench.",
+      "say": "Alcaraz is back from injury and already winning at that Europe-vs-the-world team tennis thing in London — Europe jumped out to a 3-1 lead. The players get way into it on the sideline, it's a fun watch. You keep up with tennis at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Alcaraz/Mensik v Bublik/Fritz — highlights (Laver Cup)", "url": "https://www.youtube.com/watch?v=sQB2Q3Lq-70" },
+        { "kind": "web", "text": "Sky Sports — Europe lead 3-1 after opening day", "url": "https://www.skysports.com/tennis/news/13591922/laver-cup-carlos-alcaraz-jakub-mensik-win-doubles-to-put-team-europe-3-1-up-vs-team-world-after-opening-day-in-london" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Big Ten",
+      "headline": "Prime-time heavyweight — No. 20 Oregon at No. 12 USC tonight",
+      "body": "The best game on Saturday night is out west: No. 20 Oregon visits No. 12 USC at the LA Coliseum (7:30 ET on NBC), a Big Ten showdown between two teams with real playoff ambitions and two high-powered offenses. It's the kind of Coliseum-under-the-lights matchup that tends to turn into a shootout.",
+      "say": "There's a big college football game tonight — Oregon at USC out in LA, both ranked, prime time on NBC. Should be a fun shootout. You following anybody this season?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "FOX Sports — how to watch Oregon vs. USC", "url": "https://www.foxsports.com/stories/college-football/how-to-watch-oregon-vs-usc-tv-channel-live-stream-time-2026-week-4" },
+        { "kind": "web", "text": "ESPN — Oregon at USC game page", "url": "https://www.espn.com/college-football/game/_/gameId/401858469/oregon-usc" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕺",
+      "tag": "Culture · Music",
+      "headline": "Leon Bridges chases pure joy on 'Happiness Anytime'",
+      "body": "The Fort Worth soul man's fifth album 'Happiness Anytime' is out, and it's a warm, groove-forward left turn — made with British trio Jungle and pulling from Afrobeat, disco and Brazilian rhythms. Less throwback-soul, more sunny dance floor. Lead cut 'Watch You Dance' sets the whole mood.",
+      "say": "New Leon Bridges album's out — he's the smooth-soul guy, but this one's more of a feel-good, dance-y record. Perfect easy listening for a Saturday. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Watch You Dance' (Leon Bridges, official)", "url": "https://www.youtube.com/watch?v=z7FU_wW0fEE" },
+        { "kind": "web", "text": "NPR — inside 'Happiness Anytime'", "url": "https://www.npr.org/2026/09/25/nx-s1-5977769/leon-bridges-new-album-happiness-anytime-is-about-cultivating-joy" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "U2's comeback carries Dolly Parton's final song",
+      "body": "U2 are back with 'Silencio,' the punky first single from 'Carnaval De Luz' (out Nov. 13) — their first album of new material in nine years, landing on the band's 50th anniversary. But the track everyone's talking about is the closer, 'Torn,' a tender duet Bono cut with Dolly Parton in June, two months before she passed at 80. Bono says she rose from her sickbed to sing it, and you can hear it. A lovely last gift.",
+      "say": "You hear U2 have Dolly Parton's final recording on their new album? A duet she made with Bono just before she passed — apparently she got up out of bed to sing it. Kind of a beautiful way to go out. You a Dolly fan?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'Silencio' (U2, official video)", "url": "https://www.youtube.com/watch?v=1mCN-RDh0-0" },
+        { "kind": "web", "text": "Billboard — Bono on Dolly's final recording", "url": "https://www.billboard.com/music/rock/bono-dolly-parton-final-recording-with-u2-1236347260/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🍩",
+      "tag": "Culture · TV",
+      "headline": "Springfield's back — 'The Simpsons' opens season 38 Sunday",
+      "body": "Fox's Animation Domination returns for fall this Sunday, and 'The Simpsons' leads it off with its 38th season. The premiere, 'The Children's Book Job,' has Homer bungling airport-pickup duty for a visiting British children's author — voiced by Emma Thompson. Somehow the longest-running scripted show on TV still isn't out of gas.",
+      "say": "The Simpsons kicks off its 38th season Sunday — thirty-eighth! Emma Thompson's guest-voicing the premiere. Kind of wild it's still going strong. You still catch it, or is it more of a childhood thing for you?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Animation World Network — exclusive premiere clip", "url": "https://www.awn.com/news/exclusive-clip-simpsons-childrens-book-job-season-premiere" },
+        { "kind": "web", "text": "TV Insider — season 38 cast & details", "url": "https://www.tvinsider.com/1288260/the-simpsons-season-38-cast-episode-details-premiere-date-trailer-more/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Brandi Carlile reworks her album into something hushed and raw",
+      "body": "Grammy favorite Brandi Carlile dropped a deluxe, stripped-back edition of 'Returning to Myself' — intimate reimaginings of all ten songs, four of them co-produced with Aaron Dessner at his Long Pond studio, plus a whispery cover of Billy Joel's 'And So It Goes.' The Jon Hopkins collaboration 'Human' is the emotional centerpiece.",
+      "say": "Brandi Carlile just put out a stripped-down version of her album — really intimate, quiet takes on all the songs. She's got one of those voices that just wrecks you. You have an artist you always come back to?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Human' (Brandi Carlile, official video)", "url": "https://www.youtube.com/watch?v=pmeK6vq0A5s" },
+        { "kind": "web", "text": "Consequence — Carlile announces the deluxe", "url": "https://consequence.net/2026/08/brandi-carlile-announces-returning-to-myself-sad-gay-version/" }
+      ]
+    }
+  ]
+}
