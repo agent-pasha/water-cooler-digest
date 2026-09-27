@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-27",
+  "label": "Sunday, September 27, 2026",
+  "items": [
+    {
+      "cat": "golf",
+      "emoji": "⛳",
+      "tag": "Golf · Presidents Cup",
+      "headline": "Golf's underdogs smell history — Internationals take a 10.5-7.5 lead into Sunday",
+      "body": "The upset that's been building outside Chicago all week is now one afternoon away. The International side stretched its Presidents Cup lead over Team USA to 10.5-7.5 heading into Sunday's 12 singles matches at Medinah — the first time they've ever led on U.S. soil going into the final day. They need just five more points to win the thing for the first time since 1998, while the Americans have to storm back for eight. Scottie Scheffler and company are officially sweating.",
+      "say": "That USA-versus-the-world golf event outside Chicago is turning into a real upset — the international team's up 10.5 to 7.5 with just the singles left, and they've only won this thing once ever. Today could be history. You catching any of it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "PGA Tour — Internationals take historic lead into Sunday", "url": "https://www.pgatour.com/article/news/latest/2026/09/26/presidents-cup-match-recap-saturday-foursomes-fourballs-us-international-medinah-country-club-scottie-scheffler-si-woo-kim" },
+        { "kind": "web", "text": "Sky Sports — 10.5-7.5 lead, chasing Medinah win", "url": "https://www.skysports.com/golf/news/13592061/presidents-cup-international-team-take-historic-10-5-7-5-lead-over-team-usa-into-sunday-singles-and-chase-medinah-win" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Laver Cup",
+      "headline": "Europe reclaim the Laver Cup — Zverev seals it in London",
+      "body": "Team Europe are Laver Cup champions again. Alexander Zverev dug out a gritty 7-6(3), 6-3 win over Team World's Learner Tien at the O2 to push Europe to an unbeatable 13-5 — handing captain Yannick Noah the trophy for the first time and avenging last year's loss to Andre Agassi's side. Carlos Alcaraz's return from injury and a big weekend of doubles set the table; Zverev slammed the door.",
+      "say": "Europe won that flashy team tennis event in London — Zverev clinched it, and it's the captain Yannick Noah's first title. Alcaraz was back from injury too. The players get so into it on the bench, it's a fun watch. You keep up with tennis at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Zverev's Laver Cup heroics — highlights (Laver Cup)", "url": "https://www.youtube.com/watch?v=vewcPfBgHrg" },
+        { "kind": "web", "text": "Yahoo — Team Europe crowned champions", "url": "https://sports.yahoo.com/articles/team-europe-crowned-laver-cup-152514976.html" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top 25",
+      "headline": "No. 1 Texas survives a Neyland scare — 20-17 over Tennessee",
+      "body": "Arch Manning and the top-ranked Longhorns walked into one of college football's loudest buildings and walked out with a 20-17 win at Tennessee. It wasn't pretty — Manning got sacked six times and didn't throw a touchdown — but Texas gutted out the road result against a top-15 team to stay perfect. (Bonus: a Texas pass rusher got flagged for a very cheeky celebration after a sack.)",
+      "say": "Texas is No. 1 with Arch Manning at QB, and they just survived a nasty road game at Tennessee, 20-17. Grind-it-out kind of win in a super hostile crowd. College football's been fun this year — you following anybody?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Texas 20-17 Tennessee — full highlights (ESPN CFB)", "url": "https://www.youtube.com/watch?v=ImD64r8tofM" },
+        { "kind": "web", "text": "Austin American-Statesman — Manning grinds out the win", "url": "https://www.statesman.com/sports/longhorns/football/article/arch-manning-stats-texas-football-tennessee-22441267.php" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Rio Game",
+      "headline": "Football hits the Maracanã — Ravens vs. Cowboys in Rio today",
+      "body": "The NFL plays its first-ever game in Rio de Janeiro this afternoon, with the Ravens and Cowboys squaring off inside the legendary Maracanã (4:25 ET on CBS). It's a soccer cathedral turned gridiron for a day — and the halftime show is a party, with Ricky Martin and Brazilian DJ Pedro Sampaio. Two 1-1 teams, one very cool backdrop.",
+      "say": "The NFL's playing in Rio for the first time today — Ravens and Cowboys, inside the famous Maracanã stadium, with Ricky Martin doing the halftime show. Football in a giant soccer temple is a fun mashup. You a Cowboys guy, or just here for the vibes?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Ravens-Cowboys, NFL's Rio debut", "url": "https://www.nfl.com/news/ravens-cowboys-preview-week-3-2026-brazil-game" },
+        { "kind": "web", "text": "Sky Sports — what to expect from NFL Brazil", "url": "https://www.skysports.com/nfl/news/13590280/nfl-brazil-2026-funk-favelas-and-football-what-to-expect-as-baltimore-ravens-face-dallas-cowboys-in-leagues-rio-de-janeiro-debut" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "The verdict finally lands — Man City found guilty on 114 of 115 charges",
+      "body": "The saga soccer fans have argued about for years got a ruling: an independent commission found Manchester City guilty on 114 of the 115 Premier League charges tied to financial rules from 2009-2018. No punishment has been decided yet, and City say they'll appeal — so this is far from over — but it's the story dominating every group chat and radio phone-in this weekend.",
+      "say": "Did you see Man City got found guilty on basically all those financial charges? Fans have been arguing about this case for years. They're appealing and there's no punishment yet, but everyone in soccer's talking about it. You follow the Premier League at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — Man City guilty on majority of charges", "url": "https://www.espn.com/soccer/story/_/id/44382463/man-city-115-charges-premier-league-verdict" },
+        { "kind": "web", "text": "beIN Sports — City receive verdict on 115 charges", "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/manchester-city-receives-verdict-on-115-premier-league-charges-2026-09-25" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The 'Wherever You Will Go' guys are back — after 22 years",
+      "body": "Here's a nostalgia hit: The Calling — yes, the early-2000s 'Wherever You Will Go' band — just released 'Before the World Turns to Dust,' their first album in 22 years. It's a real comeback story: frontman Alex Band was diagnosed with Parkinson's back in 2010 and slowly fought his way back to the mic. Lead single 'Dust' has that same big, earnest rock sound you remember.",
+      "say": "Remember 'Wherever You Will Go'? That band, The Calling, just put out their first album in 22 years — and the singer battled back from a Parkinson's diagnosis to do it. Kind of a great comeback story. What were you blasting back in the day?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Dust' (The Calling, official video)", "url": "https://www.youtube.com/watch?v=D702Pcrvj5w" },
+        { "kind": "web", "text": "Sonic Perspectives — first new album in 22 years", "url": "https://www.sonicperspectives.com/news/the-calling-returns-with-first-new-album-in-22-years-before-the-world-turns-to-dust/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🪩",
+      "tag": "Culture · Music",
+      "headline": "Tinashe pokes fun at fame on new album 'Popstar'",
+      "body": "Tinashe — the 'Nasty' and 'Too Easy' hitmaker — dropped her eighth album 'Popstar' this week, a slyly self-aware, dance-floor-ready send-up of the whole pop-star circus. Lead single 'Too Easy' sets the tone: glossy, confident club-pop with a wink. Great get-ready or windows-down music.",
+      "say": "New Tinashe album's out — it's called 'Popstar' and it's kind of a tongue-in-cheek take on fame, with really catchy dance-pop. Good weekend playlist stuff. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Too Easy' (Tinashe, official video)", "url": "https://www.youtube.com/watch?v=_9smBd1h7Uw" },
+        { "kind": "web", "text": "The Fader — inside 'Popstar'", "url": "https://www.thefader.com/2026/07/16/tinashe-album-announcement-popstar-release-date-album-art-details" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Florence Pugh goes full antihero in Netflix's 'East of Eden'",
+      "body": "One for the prestige-TV crowd: Netflix's lavish limited series adaptation of Steinbeck's 'East of Eden' lands Thursday (Oct. 1), with Florence Pugh as the coldly magnetic Cathy Ames at the center of a two-generation family saga. Written by Zoe Kazan, with Christopher Abbott and Mike Faist, the trailer is dark, sweeping and very Pugh. Perfect fall binge.",
+      "say": "There's a big Netflix series coming Thursday — 'East of Eden' with Florence Pugh, based on the Steinbeck novel. She plays this magnetic villain and it looks gorgeous and dark. Good fall binge. You into the prestige-y stuff, or more comfort TV?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'East of Eden' — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=M9NWvGZViCg" },
+        { "kind": "web", "text": "Netflix Tudum — everything to know", "url": "https://www.netflix.com/tudum/articles/east-of-eden-series" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Festival",
+      "headline": "The Fugees actually reunited — Lauryn Hill and Wyclef in Central Park",
+      "body": "It really happened: Lauryn Hill and Wyclef Jean took the Great Lawn together at Saturday's Global Citizen Festival, reuniting to mark 30 years of the Fugees' classic 'The Score' — their first public performance as a pair in years. Hugh Jackman hosted a stacked bill (Lenny Kravitz, John Legend, Lainey Wilson, Shaboozey), but that Fugees set was the moment everyone came for.",
+      "say": "Lauryn Hill and Wyclef actually reunited the Fugees at that big Central Park festival Saturday — 30 years of 'The Score,' first time together in ages. 'Ready or Not' still hits so hard. You have an album you can play front to back?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Rolling Stone — the 2026 Global Citizen Festival", "url": "https://www.rollingstone.com/music/music-news/2026-global-citizen-festival-lineup-1235607497/" },
+        { "kind": "web", "text": "Global Citizen — the festival returns to Central Park", "url": "https://www.globalcitizen.org/en/content/global-citizen-festival-returns-to-central-park-26/" }
+      ]
+    }
+  ]
+}
