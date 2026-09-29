@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-29",
+  "label": "Tuesday, September 29, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night Football",
+      "headline": "A third-string QB shocks the Eagles — Case Keenum's Bears win 27-7",
+      "body": "Nobody had this one on their card. With Chicago down to its third quarterback, journeyman Case Keenum made his first start in nearly three years and threw two touchdowns as the Bears bottled up Jalen Hurts and steamrolled Philadelphia 27-7 on Monday night. A feel-good story for the old guy — and a rough night for a lot of fantasy owners.",
+      "say": "Did you catch Monday night? The Bears' third-string quarterback — a 37-year-old who hadn't started in three years — went in and beat the Eagles 27-7. Total 'nobody saw that coming' game. You riding with anybody this NFL season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Bears vs. Eagles — Monday night highlights (Chicago Bears)", "url": "https://www.youtube.com/watch?v=PPVln81aVMQ" },
+        { "kind": "web", "text": "NBC Sports — Keenum, Bears beat Eagles 27-7", "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-case-keenum-bears-beat-eagles-27-7" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 3",
+      "headline": "The champs go down — Commanders stun the Seahawks 33-31",
+      "body": "The season's biggest upset landed in D.C. on Sunday. Marcus Mariota threw three touchdowns — the last to Terry McLaurin — and a late Drew Stevens field goal helped Washington knock off the defending Super Bowl champion Seahawks 33-31. Mariota iced it himself with a third-down scramble to run out the clock.",
+      "say": "The Commanders just beat the reigning Super Bowl champs — 33-31, biggest upset of the year so far, with their backup quarterback throwing three touchdowns. The NFL's been so unpredictable this year. You following anybody?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Commanders.com — Seahawks vs. Commanders highlights", "url": "https://www.commanders.com/video/seahawks-vs-commanders-highlights-week-3" },
+        { "kind": "web", "text": "CBS Sports — Commanders spring the season's biggest upset", "url": "https://www.cbssports.com/nfl/news/nfl-week-3-winners-losers-commanders-upset-seahawks-drake-maye-struggles/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · MLS",
+      "headline": "Messi bends in a stunner — but Miami lose it in the 99th minute",
+      "body": "Peak Messi, cruel ending. Lionel Messi curled in a jaw-dropping direct free kick from a near-impossible angle to level things at Columbus on Sunday — his sixth free-kick goal of the season — only for the Crew to snatch a 2-1 win with a 99th-minute stunner. It stretched Inter Miami's winless run to five as the playoff push wobbles.",
+      "say": "Messi scored this absolutely ridiculous free kick over the weekend — bent it into the top corner from a crazy angle — but his team still lost on a goal in literally the 99th minute. The guy's 39 and still doing that. You watch Messi's team at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Columbus Crew vs. Inter Miami — Messi free kick & late winner (MLS)", "url": "https://www.youtube.com/watch?v=ehKRLYHxNgI" },
+        { "kind": "web", "text": "ESPN — Columbus stuns Miami late after Messi golazo", "url": "https://www.espn.com/soccer/story/_/id/50048622/lionel-messi-free-kick-goal-inter-miami-columbus-crew" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Playoffs",
+      "headline": "The 8-seed crashes the party — Liberty stun the top-seeded Lynx",
+      "body": "So much for the runaway favorites. The No. 8 New York Liberty walked into Minnesota and beat the No. 1 Lynx 91-75 in Game 1, with Breanna Stewart pouring in 34 points and 12 rebounds in a Finals-rematch upset. New York can close the best-of-three out with a win in Game 2 on Tuesday night.",
+      "say": "In the WNBA playoffs, the last-seeded team just went on the road and blew out the No. 1 seed — the team everyone picked to win it all. Breanna Stewart dropped 34. Playoff basketball's the best. You keep up with the W at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Liberty vs. Lynx — Game 1 full highlights (WNBA)", "url": "https://www.youtube.com/watch?v=O7mvY7Q1xR4" },
+        { "kind": "web", "text": "CBS Sports — Liberty upset No. 1 Lynx in Game 1", "url": "https://www.cbssports.com/wnba/news/wnba-playoffs-winners-losers-game-1-sept-27/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Playoffs",
+      "headline": "October baseball is here — and it's Red Sox vs. Yankees",
+      "body": "Playoff baseball kicks off today, and the schedule handed us the dream matchup: the Red Sox and Yankees meeting in an AL Wild Card series, first pitch tonight in the Bronx. Baseball's oldest, nastiest rivalry, now with a season on the line in a best-of-three. Doesn't get much better than that for a Tuesday.",
+      "say": "The baseball playoffs start today and the very first round is Red Sox vs. Yankees — the biggest rivalry in the sport, win-or-go-home. Even if you're casual, that one's fun to have on. You got a team still alive?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "MLB.com — 2026 Wild Card schedule & how to watch", "url": "https://www.mlb.com/news/2026-wild-card-series-game-times" },
+        { "kind": "web", "text": "NBC Sports — Wild Card Day 1 live updates", "url": "https://www.nbcsports.com/mlb/live/2026-mlb-wild-card-scores-live-updates-phillies-vs-braves-red-sox-vs-yankees-headline-wc-day-1" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "A re-release just won the box office — 'Endgame' back on top",
+      "body": "Here's a fun one for movie buffs: 'Avengers: Endgame Encore' — the re-release with new footage teasing next year's 'Doomsday' — actually topped the weekend box office with about $26 million. It's the first re-release to win a weekend since 'The Lion King' 3D back in 2011. Old movie, new records.",
+      "say": "A re-release of Avengers: Endgame just won the box office this weekend — first time a re-release has topped the charts since 2011. Kind of wild people showed up for a movie they've all seen. You a Marvel person, or all superheroed-out?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Avengers: Endgame Encore' — official trailer (IMAX)", "url": "https://www.youtube.com/watch?v=_4d8xaprJXE" },
+        { "kind": "web", "text": "Box office — 2026 number-one films", "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🩺",
+      "tag": "Culture · TV",
+      "headline": "Back to Sacred Heart — 'Scrubs' returns for Season 2 Wednesday",
+      "body": "The comfort-watch of the year is back: ABC's 'Scrubs' revival returns for its second season Wednesday, with Zach Braff, Donald Faison and Sarah Chalke all reprising their roles. The first revival season was a surprise hit — ABC's most-streamed comedy premiere in over a year — so J.D. and Turk's bromance clearly still lands.",
+      "say": "The Scrubs reboot is back for a second season Wednesday — same original cast, J.D. and Turk and all that. It's such an easy, feel-good watch. You ever a Scrubs person, or was that before your time?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Scrubs' revival — official trailer", "url": "https://www.youtube.com/watch?v=MNqpU2aQvB0" },
+        { "kind": "web", "text": "TVLine — what to watch this week", "url": "https://www.tvline.com/2268288/what-to-watch-week-of-september-27-2026-tv-shows-movies/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎮",
+      "tag": "Culture · Gaming",
+      "headline": "'Minecraft Dungeons II' drops today — dungeon-crawling for everyone",
+      "body": "For the gamers (and the parents of gamers): 'Minecraft Dungeons II' launches today across pretty much every console and PC. It's the family-friendly, grab-a-buddy dungeon crawler set in the Minecraft world — easy to pick up, fun on the couch, and a nice low-stress change from the scary stuff this spooky season.",
+      "say": "The new Minecraft Dungeons game came out today — it's the pick-up-and-play, co-op dungeon crawler, good for playing with kids. You play any games, or is that more the kids' department?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "'Minecraft Dungeons II' — announce trailer (Xbox)", "url": "https://www.youtube.com/watch?v=Qr11AnVbaOM" },
+        { "kind": "web", "text": "Video game releases — 2026", "url": "https://en.wikipedia.org/wiki/2026_in_video_games" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Miley goes full dance floor on 'Bass Persuades'",
+      "body": "Miley Cyrus just dropped her 10th album, 'Bass Persuades' — a glossy, '80s-tinged dance-pop record that's a real left turn into club territory. The strutting title track (with its steamy, choreographed video) sets the whole vibe. Great get-ready or windows-down music.",
+      "say": "New Miley Cyrus album's out — it's a full-on dance-pop record, really different from her rock stuff. That title track is a proper get-ready song. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'Bass Persuades' — official video (MILEY)", "url": "https://www.youtube.com/watch?v=aWpw-Ynl0Yc" },
+        { "kind": "web", "text": "Variety — inside Miley's 'Bass Persuades'", "url": "https://variety.com/2026/music/news/miley-cyrus-steamy-dance-floor-bass-persuades-music-video-1236851134/" }
+      ]
+    }
+  ]
+}
