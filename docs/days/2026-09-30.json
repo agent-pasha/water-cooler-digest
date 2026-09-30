@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-30",
+  "label": "Wednesday, September 30, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Wild Card",
+      "headline": "Yankees flatten the Red Sox 9-0 — and now it's do-or-die for Boston",
+      "body": "The dream matchup opened with a beatdown. Cam Schlittler spun 6.1 shutout innings and Ben Rice launched two homers as the Yankees blanked Boston 9-0 in Game 1 of the AL Wild Card. It wasn't the only laugher on Day 1 — the Padres shut out the Cubs 8-0 and the White Sox stunned the Astros. Now Boston faces a win-or-go-home Game 2 tonight.",
+      "say": "The Yankees-Red Sox playoff series kicked off and the Yankees absolutely dumpstered them, 9-0. Now it's do-or-die for Boston tonight. These win-or-go-home rounds are the best. You got a team still alive?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Red Sox vs. Yankees — Wild Card Game 1 highlights (MLB)", "url": "https://www.youtube.com/watch?v=PuaOVH3HI-s" },
+        { "kind": "web", "text": "ESPN — Wild Card Day 1 takeaways from every game", "url": "https://www.espn.com/mlb/story/_/id/50045947/mlb-playoffs-2026-wild-card-game-1-live-updates-analysis-takeaways" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Opening Night",
+      "headline": "Party crashed — Panthers spoil Carolina's banner night with an OT dagger",
+      "body": "Hockey's back, and opening night was cruel to the champs. The Hurricanes raised their first-ever Stanley Cup banner… and then Gustav Forsling one-timed home the winner with 4.3 seconds left in overtime to give Florida a 1-0 win in Carolina. Elsewhere, hyped 18-year-old No. 1 pick Gavin McKenna had a quiet debut (a minus-2) in Toronto's 3-2 loss to Montreal.",
+      "say": "Hockey's back — and on opening night the champs raised their banner and then lost 1-0 on a goal with four seconds left in overtime. Absolutely brutal. You follow the NHL at all, or more of a playoff-time person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Panthers vs. Hurricanes — opening night highlights (NHL)", "url": "https://www.youtube.com/watch?v=f32-UUymtSQ" },
+        { "kind": "web", "text": "NHL.com — Forsling's OT winner spoils the banner raising", "url": "https://www.nhl.com/news/florida-panthers-carolina-hurricanes-game-recap-september-29-2026" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Playoffs",
+      "headline": "History in Brooklyn — the 8-seed Liberty sweep the top-seeded Lynx out",
+      "body": "They finished the shocker. New York wrapped up a two-game sweep of Minnesota with an 87-71 win, becoming the first No. 8 seed to ever knock out a No. 1 seed in WNBA history. The Liberty's big three — Jonquel Jones (21 & 13), Breanna Stewart (21) and Sabrina Ionescu (18) — combined for 60. On to the semifinals.",
+      "say": "Remember that WNBA upset? The last-seeded Liberty finished the job and swept the No. 1 team right out — first time an 8-seed's ever done that. Playoff chaos is so good. You keep up with the W at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Lynx vs. Liberty — Game 2 full highlights (WNBA)", "url": "https://www.youtube.com/watch?v=bOpl7OvzeG4" },
+        { "kind": "web", "text": "WNBA.com — Liberty complete the sweep, reach semifinals", "url": "https://www.wnba.com/news/2026-playoffs-lynx-liberty-game-2-recap" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night Football",
+      "headline": "AFC North grudge match — Steelers at Browns on Thursday night",
+      "body": "Week 4 kicks off with an old-school rivalry: Pittsburgh visits Cleveland on Thursday night (Prime Video). These two always scrap regardless of the records, and it's the kind of chippy, low-scoring division game that sets the tone for the whole weekend.",
+      "say": "Steelers-Browns kicks off Thursday night football this week — one of those nasty old division rivalries that's always a scrap. You riding with anybody this NFL season?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Week 4 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-4" },
+        { "kind": "web", "text": "ESPN — Week 4 games & times", "url": "https://www.espn.com/nfl/schedule/_/week/4/year/2026/seasontype/2" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "CS is back on LAN — ESL Pro League returns to Katowice this weekend",
+      "body": "For the Counter-Strike heads: ESL Pro League Season 24 fires up Saturday (Oct. 3) with 16 of the world's best teams and a $1M prize pool, building toward the playoffs in the legendary Spodek Arena in Katowice, Poland. Big stage, big stakes, and one of the best crowds in esports.",
+      "say": "Big Counter-Strike tournament kicks off this weekend over in Poland — the Pro League, all the top teams, million-dollar prize. That Katowice crowd is unreal. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (ESL)", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "Insider Gaming — ESL Pro League S24 guide", "url": "https://insider-gaming.com/esl-pro-league-season-24-katowice-tournament-guide/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Tom Cruise, unrecognizable — Iñárritu's 'Digger' opens Friday",
+      "body": "The wildest swing of the fall movie season lands Friday: 'Digger,' with Tom Cruise transformed into a potbellied, comb-over oil baron in Alejandro G. Iñárritu's disaster-comedy satire. Cruise's tycoon sets off an ecological catastrophe and then scrambles to be hailed as the hero, backed by a stacked cast (Riz Ahmed, Sandra Hüller, Jesse Plemons, John Goodman). Early reviews call it a big, bonkers change of pace for him.",
+      "say": "There's a new Tom Cruise movie Friday where he's completely unrecognizable — potbelly, comb-over, playing an oil tycoon in this crazy disaster satire. Wild to see him do something so different from the stunts. You a Cruise guy, or more of a wait-for-streaming person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Digger' — official trailer (Warner Bros.)", "url": "https://www.youtube.com/watch?v=qORTe1wW3Wg" },
+        { "kind": "web", "text": "Deadline — the 'Digger' review", "url": "https://deadline.com/2026/09/digger-review-tom-cruise-movie-1237115519/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "⚖️",
+      "tag": "Culture · TV",
+      "headline": "A billion-dollar divorce turns brutal — HBO's 'War' premieres Thursday",
+      "body": "One for the prestige-TV crowd: 'War' debuts Thursday on HBO Max, a glossy legal thriller with Dominic West as a tech titan and Sienna Miller as his movie-star wife, whose split becomes an all-out courtroom battle between London's most ruthless law firms. It's from 'Lupin' creator George Kay and landing strong reviews.",
+      "say": "There's a new HBO show Thursday called 'War' — Dominic West and Sienna Miller as a mega-rich couple in the nastiest divorce imaginable, basically a legal thriller. Looks like a proper binge. You into the prestige-y stuff, or more comfort TV?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'War' — official trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=ZybkHGaoPvQ" },
+        { "kind": "web", "text": "Variety — inside HBO's 'War'", "url": "https://variety.com/2026/tv/global/war-trailer-sienna-miller-dominic-west-hbo-sky-legal-drama-1236865525/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔮",
+      "tag": "Culture · TV",
+      "headline": "Spooky season starts here — 'Coven Academy' kicks off 31 Nights of Halloween",
+      "body": "Right on cue for October: 'Coven Academy' premieres Thursday on Freeform (streaming next day on Disney+ and Hulu), launching the network's 31 Nights of Halloween. It's a teen-witch drama set at a haunted New Orleans magic school — love triangles, ancient feuds, and a trailer scored to Olivia Rodrigo's 'Brutal.' '90s kids will clock Devon Sawa and Tiffani Thiessen in the cast, too.",
+      "say": "Freeform's kicking off its Halloween lineup Thursday with a new teen-witch show set in New Orleans — feels like spooky season's officially here. You do the whole Halloween thing — decorations, scary movies — or skip it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Coven Academy' — official trailer", "url": "https://www.youtube.com/watch?v=ffFj36uNSbg" },
+        { "kind": "web", "text": "Disney+ Press — premiere date & first look", "url": "https://press.disneyplus.com/news/disney-plus-coven-academy-teaser-trailer-premiere-date-key-art-announcement" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Festival",
+      "headline": "Austin gets loud — ACL Festival Weekend 1 takes over Zilker Park",
+      "body": "One of the year's big music weekends lands Friday: Austin City Limits Festival opens Weekend 1 (Oct. 2-4) at Zilker Park, with headliners Charli xcx, Twenty One Pilots, Lorde, Skrillex, The xx and dad-rock staples Kings of Leon across a nine-stage lineup. Peak festival-season vibes.",
+      "say": "The big Austin City Limits festival kicks off this weekend — Kings of Leon, Twenty One Pilots, Lorde, all of them. Perfect excuse for a playlist refresh. You ever done a music festival, or is that a young-person's game now?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Kings of Leon — 'Use Somebody' (official video)", "url": "https://www.youtube.com/watch?v=gnhXHvRoUd0" },
+        { "kind": "web", "text": "ACL Festival — 2026 lineup & info", "url": "https://www.aclfestival.com/" }
+      ]
+    }
+  ]
+}
