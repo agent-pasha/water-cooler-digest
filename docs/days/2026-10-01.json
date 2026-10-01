@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-01",
+  "label": "Thursday, October 1, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Wild Card",
+      "headline": "Yankees finish the sweep — Red Sox bounced out of October",
+      "body": "The dream rivalry round turned into a two-game beatdown. New York thumped Boston 9-2 in Game 2 behind a Max Fried gem and homers from Cody Bellinger and Luis García Jr., completing the Wild Card sweep and outscoring the Red Sox 18-2 over the series — the most lopsided since the format began. The Yankees move on to meet the top-seeded Rays in the Division Series. The Padres (over the Cubs) and White Sox (over the Astros) swept their way through too.",
+      "say": "The Yankees just swept the Red Sox out of the playoffs — outscored them 18 to 2 over two games, wasn't even a contest. Division round's next. You got a team still alive, or just here for the chaos?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Red Sox vs. Yankees — Wild Card Game 2 highlights (MLB)", "url": "https://www.youtube.com/watch?v=5_SghrAnxHI" },
+        { "kind": "web", "text": "CBS Sports — Yankees sweep Red Sox, advance to ALDS", "url": "https://www.cbssports.com/mlb/news/yankees-red-sox-game-2-score-updates-wild-card-series/live/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Media Day",
+      "headline": "The NBA looks totally different — LeBron's a Sixer, Giannis is a Heat",
+      "body": "Basketball's back, and the league got a summer makeover. At media day this week, LeBron James spoke in a Philadelphia 76ers jersey for the first time — at 40, he's the first player ever to enter a 24th NBA season — lining up next to Joel Embiid, Tyrese Maxey and new arrival Jaylen Brown. Down in Miami, Giannis Antetokounmpo debuted for the Heat (who also grabbed Klay Thompson). Camps are open; the season tips off Oct. 20.",
+      "say": "The NBA's basically been reshuffled — LeBron's on the Sixers now and Giannis got traded to the Heat. Still wild seeing those guys in new jerseys. Season starts in a few weeks. You follow the NBA at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Best of 2026 NBA Media Day — LeBron, Giannis & more (NBA)", "url": "https://www.youtube.com/watch?v=BkrdizJHKLA" },
+        { "kind": "web", "text": "ESPN — sights & sounds from NBA Media Day 2026", "url": "https://www.espn.com/nba/story/_/id/50023689/nba-2026-media-day-sights-sounds-highlights" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Opening Week",
+      "headline": "Five points wasn't enough — Oilers blow a 3-goal lead, lose in OT",
+      "body": "Wild one up in Edmonton. Evan Bouchard went off for a hat trick and five points, but the Oilers coughed up a late three-goal lead — former Oiler Vasily Podkolzin forced overtime with the net empty — before Vancouver's Paul Cotter buried his second of the night two minutes into OT for a 6-5 Canucks win. Connor McDavid chipped in two assists. Rough opening night for new Oilers coach Mike Babcock.",
+      "say": "Hockey had a crazy one — a guy put up five points and his team STILL lost. The Oilers blew a three-goal lead and lost in overtime, 6-5. You follow the NHL at all, or more of a playoff-time person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Canucks vs. Oilers — NHL highlights (Sep 29)", "url": "https://www.youtube.com/watch?v=xVIgri7Da1w" },
+        { "kind": "web", "text": "ESPN — Canucks 6-5 Oilers (OT) box score", "url": "https://www.espn.com/nhl/boxscore/_/gameId/401891804" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "MMA · UFC 332",
+      "headline": "A new champ gets crowned Saturday — UFC 332 in Salt Lake City",
+      "body": "Fight night for the combat-sports crowd: UFC 332 goes down Saturday at the Delta Center in Salt Lake City, headlined by a vacant women's flyweight title bout between red-hot Brazilian striker Natália Silva and China's Wang Cong. The main card's on CBS and Paramount+, so it's easy to find — a rare UFC title fight on regular network TV, no pay-per-view.",
+      "say": "There's a UFC card Saturday with a title on the line — and it's actually on regular CBS, so no pay-per-view. You watch any fights, or not really your thing?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "UFC 332: Silva vs. Cong — fight promo (UFC)", "url": "https://www.youtube.com/watch?v=8LSvmG4eRB8" },
+        { "kind": "web", "text": "Yahoo Sports — UFC 332 Countdown & preview", "url": "https://sports.yahoo.com/articles/video-ufc-332-countdown-natalia-125020851.html" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🪩",
+      "tag": "Culture · Music",
+      "headline": "Miranda Lambert goes full country-disco on 'Crisco'",
+      "body": "Out tomorrow for New Music Friday: Miranda Lambert's 10th album 'Crisco,' a playful spin into late-'70s country-disco. Lead single 'A Song to Sing' is a groovy roller-rink duet with Chris Stapleton — the two even borrowed jewelry from the Dolly Parton and Kenny Rogers estates for the throwback video. Ella Langley guests, too.",
+      "say": "New Miranda Lambert album drops this week and it's a country-disco thing — there's a duet with Chris Stapleton filmed at a roller rink. Fun swing for her. What's been in your rotation lately?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "'A Song to Sing' — Miranda Lambert & Chris Stapleton", "url": "https://www.youtube.com/watch?v=PYVAyo7nVj4" },
+        { "kind": "web", "text": "The Music Universe — inside the '70s-inspired duet", "url": "https://themusicuniverse.com/miranda-lambert-chris-stapleton-share-70s-inspired-a-song-to-sing-video/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Victoria Monét's long-awaited follow-up 'Frequency of Love' lands",
+      "body": "The Grammy-winning R&B star drops her sophomore album 'Frequency of Love' tomorrow — a sprawling 22-track set following her breakout 'Jaguar II.' Lead single 'Reach Out,' produced by Kaytranada and D'Mile with a slick Dave Meyers video, sets the sultry, dance-floor tone for the whole thing.",
+      "say": "Victoria Monét finally has a new album out this week — she's the R&B artist who cleaned up at the Grammys a couple years back. 'Reach Out' is a great get-ready song. You keep up with new music, or stick to the classics?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Victoria Monét — 'Reach Out' (official video)", "url": "https://www.youtube.com/watch?v=h99lQg2zSl0" },
+        { "kind": "web", "text": "Variety — Monét announces 'Frequency of Love'", "url": "https://variety.com/2026/music/news/victoria-monet-new-album-frequency-of-love-reach-out-1236818236/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The Smiths' guitar legend returns — Johnny Marr's 'The Age of Everything'",
+      "body": "For the indie/dad-rock crowd: Johnny Marr — the jangly-guitar genius behind The Smiths — releases his fifth solo album 'The Age of Everything' tomorrow. Written in London, honed on the road and recorded in his native Manchester, it's led by the moody opener 'Spin.' Marr says the title captures a \"sense of overwhelm\" from technology, with a flicker of hope underneath.",
+      "say": "Johnny Marr — the guitarist from The Smiths — has a new solo album out this week. That guy's jangly sound is all over the '80s. You have a band you always come back to?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Johnny Marr — 'Spin' (official video)", "url": "https://www.youtube.com/watch?v=VqGsu-5jluw" },
+        { "kind": "web", "text": "Radio X — new album & 'Spin' details", "url": "https://www.radiox.co.uk/artists/johnny-marr/new-album-the-age-of-everything-shares-new-single-spin-video/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🍣",
+      "tag": "Culture · TV",
+      "headline": "Anthony Bourdain's wild food comic becomes a bloody anime",
+      "body": "One of the week's most unexpected premieres: 'Get Jiro!,' the ultra-violent animated series based on the late Anthony Bourdain's graphic novel, debuts Saturday at midnight on Adult Swim's Toonami (streaming next day on HBO Max). It's set in a near-future LA where chefs rule society and food is power, with Brian Tee voicing a stoic sushi master. Equal parts gory and delicious.",
+      "say": "There's a new animated show based on a comic Anthony Bourdain wrote — a crazy, violent one set in a future where chefs basically run the world. Very him. You ever get into his food shows?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Get Jiro' — official red-band trailer (Adult Swim)", "url": "https://www.youtube.com/watch?v=i8WDv3J7das" },
+        { "kind": "web", "text": "The Hollywood Reporter — premiere date & first look", "url": "https://www.hollywoodreporter.com/tv/tv-news/anthony-bourdain-get-jiro-premiere-date-trailer-adult-swim-1236682706/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "✈️",
+      "tag": "Culture · Gaming",
+      "headline": "Dogfights are back — 'Ace Combat 8' takes off this week",
+      "body": "For the gamers: 'Ace Combat 8: Wings of Theve' launches tomorrow on PS5, Xbox and PC — the long-running flight-combat series' first mainline entry in years. Expect over-the-top aerial dogfights, a dramatic story mode and that signature arcade-y, high-speed chaos. A fun, low-stress change of pace from all the spooky-season horror games.",
+      "say": "New Ace Combat game's out this week — the big fighter-jet dogfighting series. Looks like a blast if you like flying stuff. You play any games, or is that more the kids' department?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "'Ace Combat 8: Wings of Theve' — launch trailer", "url": "https://www.youtube.com/watch?v=Ae7nbroR2ro" },
+        { "kind": "web", "text": "GameSpot — the biggest new games of October 2026", "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/" }
+      ]
+    }
+  ]
+}
