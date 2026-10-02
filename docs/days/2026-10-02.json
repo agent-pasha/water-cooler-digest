@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-02",
+  "label": "Friday, October 2, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night Football",
+      "headline": "56 yards at the buzzer — Browns stun the Steelers in a wild one",
+      "body": "Thursday night went down to the wire in Cleveland. The Browns blew an 11-point fourth-quarter lead as Aaron Rodgers tied it up with 1:42 left (three TD passes on the night), but Deshaun Watson marched Cleveland back into range and rookie-ish kicker Andre Szmyt drilled a 56-yarder with 10 seconds on the clock. Grant Delpit then picked off Rodgers at the gun to seal a 27-24 win that vaulted the Browns into first in the AFC North.",
+      "say": "Did you catch Thursday night? The Browns blew an 11-point lead, gave it right back to Aaron Rodgers, then won it on a 56-yard field goal with 10 seconds left. Absolute heart-attack game. You riding with anybody this NFL season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Browns.com — Steelers vs. Browns Week 4 highlights", "url": "https://www.clevelandbrowns.com/video/steelers-vs-browns-highlights-week-4" },
+        { "kind": "web", "text": "ESPN — Browns survive Rodgers comeback on late FG", "url": "https://www.espn.com/nfl/story/_/id/50078973/nfl-week-4-steelers-browns-top-plays-tnf" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Division Series",
+      "headline": "The bracket's set — October's heavyweight round starts Saturday",
+      "body": "The Wild Card dust has settled and the Division Series is locked in, first pitches Saturday. In the AL it's the Yankees (fresh off sweeping the Red Sox) at the top-seeded Rays, plus the White Sox visiting the Guardians. The NL serves up a juicy Braves-Dodgers clash and the Padres at the No. 1 Brewers. Best-of-five, win-or-fade-away — the real pressure cooker begins.",
+      "say": "Baseball's next round starts Saturday — Yankees-Rays, Braves-Dodgers, some great matchups. Best-of-five, so every game's a gut-check now. You got a team still alive, or just here for the October chaos?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "MLB.com — 2026 playoff bracket & schedule", "url": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026" },
+        { "kind": "web", "text": "Yahoo Sports — ALDS & NLDS matchups and start times", "url": "https://sports.yahoo.com/mlb/article/mlb-playoffs-2026-alds-nlds-matchups-schedule-and-start-times-030600744.html" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top 25",
+      "headline": "Saturday's big one — undefeated No. 4 Miami heads to Clemson",
+      "body": "The marquee college game this weekend is in Death Valley: 4-0, fourth-ranked Miami travels to Clemson on Saturday night (7:30 ET, ABC). The Hurricanes own the nation's No. 1 offense — roughly 52 points a game behind QB Darian Mensah and star receiver Malachi Toney — while Clemson's clawed back from an ugly opener to find its footing. Loud crowd, playoff stakes, classic ACC grudge energy.",
+      "say": "Big college football game Saturday night — undefeated Miami at Clemson in that crazy-loud stadium. Miami's offense has been unreal this year. College ball's been so fun lately. You following anybody this season?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Yahoo Sports — Miami at Clemson preview", "url": "https://sports.yahoo.com/articles/miami-clemson-preview-prediction-172219886.html" },
+        { "kind": "web", "text": "Wikipedia — 2026 Miami Hurricanes season", "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Preseason",
+      "headline": "First look at the new-look NBA — preseason tips off this weekend",
+      "body": "After a summer that reshuffled the whole league, we finally get to see it on the floor. NBA preseason opens Saturday (Raptors-Heat up in Quebec City), and the one everyone's circling comes Monday: LeBron James makes his debut in a 76ers uniform at home against the Knicks. It's the warm-up act before the real thing tips Oct. 20.",
+      "say": "NBA preseason starts this weekend, and LeBron plays his first game as a Sixer on Monday — still so strange seeing him in that jersey. Giannis is a Heat now too. You follow the NBA at all, or wait for the playoffs?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NBC Sports Philly — Sixers' preseason schedule & LeBron's debut", "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-preseason-schedule-2026-27-nba/747127/" },
+        { "kind": "web", "text": "Bleacher Report — 2026-27 opening week schedule", "url": "https://bleacherreport.com/articles/25470153-2026-27-nba-opening-week-schedule-lebron-76ers-vs-brunson-knicks-and-every-game-released" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Last Premier League weekend before the break — Arsenal host Newcastle",
+      "body": "One more round of Premier League action before the October international break clears the calendar. The pick of the weekend is Arsenal hosting Newcastle at the Emirates on Saturday — two sides with European ambitions and no love lost. After this, the big names scatter for World Cup qualifiers, so it's a chance to bank points before the lull.",
+      "say": "Premier League's got one more weekend before everyone breaks for international games — Arsenal-Newcastle's the pick on Saturday. Good one to have on in the background. You follow the Premier League at all, or have a club?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Premier League — Arsenal v Newcastle match centre", "url": "https://www.premierleague.com/en/match/2561959" },
+        { "kind": "web", "text": "Sky Sports — Premier League fixtures & how to watch", "url": "https://www.skysports.com/football/news/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The Beatles' 'Rubber Soul' gets the deluxe treatment — out today",
+      "body": "A treat for the record-collector crowd: a sprawling super-deluxe edition of The Beatles' 1965 classic 'Rubber Soul' lands today, with a fresh stereo and Dolby Atmos remix by Giles Martin and Sam Okell, a disc of unreleased demos and session outtakes, and the 'Day Tripper' / 'We Can Work It Out' single. Even 'Norwegian Wood' gets a revealing early-take reissue. Sixty-plus years on, it still sounds brand new.",
+      "say": "They just put out a big deluxe reissue of the Beatles' 'Rubber Soul' — remixed, with a bunch of unreleased takes. Wild how fresh that record still sounds. You have an album you can play start to finish?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "TheBeatles.com — new 'Norwegian Wood' recording & reissue", "url": "https://www.thebeatles.com/beatles-release-new-recording-norwegian-wood-bird-has-flown-second-version-take-2" },
+        { "kind": "web", "text": "Variety — inside the 'Rubber Soul' super deluxe", "url": "https://variety.com/2026/music/news/beatles-rubber-soul-deluxe-boxed-set-remix-outtakes-1236823135/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏹",
+      "tag": "Culture · Music",
+      "headline": "Noah Kahan goes to Panem — new 'Hunger Games' song drops",
+      "body": "Noah Kahan released 'Draw You Out' today, the first single from the soundtrack to 'The Hunger Games: Sunrise on the Reaping.' He co-wrote and produced it with Aaron Dessner (the folky producer behind a lot of Taylor Swift's 'Folklore'), and it's a hushed, aching ballad written for the young-Haymitch prequel. The full soundtrack arrives Nov. 13, with the movie close behind on Nov. 20.",
+      "say": "Noah Kahan put out a song for the new Hunger Games movie today — real pretty, melancholy folk thing. Those prequels have been a big deal. You read the books back in the day, or just see the films?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Noah Kahan — 'Draw You Out' (lyric video)", "url": "https://www.youtube.com/watch?v=OSdQnT_FhAs" },
+        { "kind": "web", "text": "uDiscover Music — Kahan's 'Draw You Out' is out now", "url": "https://www.udiscovermusic.com/news/noah-kahan-draw-you-out-hunger-games-out-now/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎮",
+      "tag": "Culture · Gaming",
+      "headline": "Chainsaw guns are back — 'Gears of War: E-Day' lands Tuesday",
+      "body": "For the gamers (and anyone who lived on an Xbox in the late 2000s): 'Gears of War: E-Day' launches Tuesday, Oct. 6, on Xbox and PC — and day one on Game Pass. It's a prequel showing the brutal first day the monstrous Locust horde erupted, starring a young Marcus Fenix. Early-access players already got their hands on it this week, and word is it's a loud, bloody throwback to classic Gears.",
+      "say": "The new Gears of War comes out Tuesday — it's the big chainsaw-gun shooter, this one's a prequel. Takes me right back to the old Xbox days. You play any games, or is that more the kids' department now?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "'Gears of War: E-Day' — official gameplay trailer", "url": "https://www.youtube.com/watch?v=8LWpeBX6ZwY" },
+        { "kind": "web", "text": "Xbox — Gears of War: E-Day", "url": "https://www.xbox.com/en-US/games/gears-of-war-eday" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦖",
+      "tag": "Culture · Streaming",
+      "headline": "The dinosaurs hit the couch — 'Jurassic World Rebirth' on Netflix this weekend",
+      "body": "Missed it in theaters over the summer? 'Jurassic World Rebirth' swims onto Netflix this weekend (Oct. 4). Scarlett Johansson leads a covert team — with Mahershala Ali and 'Wicked' star Jonathan Bailey — sneaking onto a forbidden island to pull DNA from the biggest dinosaurs left on Earth. Big, popcorn-y, exactly the kind of thing to throw on with the family on a Saturday night.",
+      "say": "The new Jurassic World movie hits Netflix this weekend — the Scarlett Johansson one. Perfect lazy-Saturday, everyone-on-the-couch movie. You still get into those, or are the dinosaurs played out for you?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Jurassic World Rebirth' — official teaser trailer", "url": "https://www.youtube.com/watch?v=w_l5yKtItxA" },
+        { "kind": "web", "text": "Tom's Guide — new on Netflix, October 2026", "url": "https://www.tomsguide.com/entertainment/netflix/new-on-netflix-october-2026-5-best-movies-and-shows-to-stream-plus-full-release-list" }
+      ]
+    }
+  ]
+}
