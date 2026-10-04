@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-04",
+  "label": "Sunday, October 4, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · USA vs. Mexico",
+      "headline": "A 17-year-old makes history — USA thump Mexico 3-0",
+      "body": "The USMNT rolled rival Mexico 3-0 in a friendly in Glendale on Saturday night, and the signature moment belonged to a kid: 17-year-old Cavan Sullivan pounced on a loose Mexico pass and finished to become the youngest goalscorer in U.S. men's national team history (17 years, 5 days). Julian Hall opened the scoring and Malik Tillman capped it late. A fun, feel-good night for a very young American side.",
+      "say": "Did you see the US beat Mexico 3-0? A 17-year-old kid just became the youngest player ever to score for the US men's team. Fun time to be a national-team fan. You follow USA soccer at all, or just the World Cup?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "USA 3-0 Mexico — highlights (U.S. Soccer)", "url": "https://www.youtube.com/watch?v=6GMaTDwSwqk" },
+        { "kind": "web", "text": "ESPN — USA 3-0 Mexico report", "url": "https://www.espn.com/soccer/report/_/gameId/401905202" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Division Series",
+      "headline": "Rasmussen flirts with a no-no — Rays blank the Yankees 1-0",
+      "body": "The Yankees came in red-hot after sweeping the Red Sox, then ran straight into Drew Rasmussen. Tampa Bay's righty carried a no-hitter into the eighth inning (Austin Wells finally doubled with two outs — and got thrown out at third), struck out 10 and finished a complete-game shutout. Jonathan Aranda's solo homer off Gerrit Cole in the third was the game's only run. Rays take Game 1 of the ALDS, 1-0.",
+      "say": "A pitcher almost threw a no-hitter against the Yankees in the playoffs last night — one hit into the 8th, and his team won it 1-0. October baseball is so tense. You got a team still alive, or just here for the drama?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Yankees vs. Rays — ALDS Game 1 highlights (MLB)", "url": "https://www.youtube.com/watch?v=Sp98vsSa3-s" },
+        { "kind": "web", "text": "ESPN — Rays 1-0 Yankees final", "url": "https://www.espn.com/mlb/game/_/gameId/401907985/yankees-rays" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top 25",
+      "headline": "Florida's magic runs out — No. 25 Missouri routs the No. 8 Gators 45-17",
+      "body": "A week after cracking the top 10, Florida got flattened. Jamal Roberts ran for 211 yards and three touchdowns as Missouri bullied the eighth-ranked Gators 45-17 in Columbia. Classic college-football whiplash: the team everyone was buzzing about looked completely lost seven days later. Somebody big seems to go down every single Saturday this season.",
+      "say": "Florida was the hot team in college football — then got absolutely run off the field by Missouri, 45-17. Somebody ranked loses every week this year, it's chaos. You following any college ball on Saturdays?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Florida vs. Missouri — game highlights (SEC)", "url": "https://www.youtube.com/watch?v=au7THR1i3fE" },
+        { "kind": "web", "text": "CBS Sports — Week 5 winners & losers: Florida collapses", "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "The CS2 world is in Poland — ESL Pro League builds to the Spodek",
+      "body": "For the Counter-Strike crowd: ESL Pro League Season 24 is live right now, with 16 of the world's best teams scrapping through the group stage for a $1M prize pool — Vitality, Falcons, Team Spirit and MOUZ all in the mix. It builds toward the playoffs next weekend (Oct 9-11) in Katowice's legendary Spodek arena, one of the loudest buildings in all of esports.",
+      "say": "The big Counter-Strike league is on right now over in Poland — all the top teams, a million-dollar prize, and the finals are next weekend in this huge arena. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (ESL)", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "HLTV — ESL Pro League Season 24", "url": "https://www.hltv.org/events/8244/esl-pro-league-season-24" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Semifinals",
+      "headline": "The WNBA's final four tips off — and an expansion team is still dancing",
+      "body": "The WNBA semifinals start this afternoon, and it's a fun mix. The defending-champ Las Vegas Aces visit the Golden State Valkyries, who reached the final four as a No. 2 seed in just their second season of existence. Meanwhile the Cinderella No. 8 New York Liberty — who already stunned the top-seeded Lynx — head to Atlanta. Two series, a Finals spot on the line, games on ABC and NBC today.",
+      "say": "The WNBA's down to its final four, and a two-year-old expansion team out in the Bay Area made it as a 2-seed — plus that 8-seed that pulled the big upset is still alive. Playoff basketball's the best. You catch any of the W this year?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — 2026 WNBA semifinals preview", "url": "https://www.nbcsports.com/wnba/news/2026-wnba-semifinals-preview-stats-matchups-and-deciding-factors-for-each-series" },
+        { "kind": "web", "text": "Yahoo Sports — semifinals matchups & schedule", "url": "https://sports.yahoo.com/articles/wnba-semifinals-set-matchups-schedule-232820187.html" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "A gift from Mac — 'The Divine Feminine' turns 10 with unheard songs",
+      "body": "Ten years on, Mac Miller's lush, romantic 'The Divine Feminine' gets a deluxe anniversary reissue — and the lovely part is a handful of previously unreleased tracks from those 2016 sessions, including 'Butterflies,' with Thundercat on bass. A warm, a little bittersweet listen for fans of the late Pittsburgh rapper, who passed away in 2018.",
+      "say": "They just reissued Mac Miller's 'Divine Feminine' for its 10th anniversary with a couple of never-released songs from back then. Kind of a bittersweet gift for fans. You have an album you can play start to finish?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Mac Miller — 'Butterflies' (official)", "url": "https://www.youtube.com/watch?v=IFr44r1L5g0" },
+        { "kind": "web", "text": "Consequence — the 10th-anniversary edition & 'Butterflies'", "url": "https://consequence.net/2026/08/mac-millers-estate-announces-the-divine-feminine-10th-anniversary-edition-unveils-butterflies-stream/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "The trailer that freaked out the internet — 'Other Mommy' opens Friday",
+      "body": "Right on cue for spooky season: 'Other Mommy,' a creepy Universal horror starring Jessica Chastain in a dual role as a little girl's mother and the sinister thing imitating her, hits theaters Friday (Oct 9). From 'Host' director Rob Savage, its trailer — with the skin-crawling line 'Can I go inside your heart?' — racked up tens of millions of views and gave a whole lot of people nightmares.",
+      "say": "There's a new horror movie with Jessica Chastain out Friday — the trailer with the creepy fake 'mommy' basically broke the internet. Perfect October scare. You into the spooky stuff this time of year, or does it just stress you out?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Other Mommy' — trailer (Universal Pictures)", "url": "https://www.youtube.com/watch?v=levzZvq30rA" },
+        { "kind": "web", "text": "TechRadar — Chastain's terrifying 'Other Mommy' trailer", "url": "https://www.techradar.com/streaming/entertainment/universal-has-dropped-a-terrifying-trailer-for-new-movie-other-mommy-and-i-cant-wait-for-jessica-chastains-return-to-horror" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "One more dose of 'Believe' — Ted Lasso's Season 4 finale drops Wednesday",
+      "body": "Ted Lasso is back and wrapping up its latest run: after returning this summer with Ted coaching a scrappy second-division women's team at Richmond, Season 4 airs its finale this Wednesday (Oct 7) on Apple TV. The whole gang's here — Roy, Keeley, Rebecca — for one more hit of the feel-good, biscuits-with-the-boss energy that turned the show into a phenomenon.",
+      "say": "Ted Lasso's season finale is this Wednesday — still the most feel-good show around. Kind of nice having Ted back on. You ever get into it, or is it not your thing?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ted Lasso — Season 4 teaser (Apple TV)", "url": "https://www.youtube.com/watch?v=PxZg4SfIURg" },
+        { "kind": "web", "text": "Apple TV Press — Ted Lasso Season 4", "url": "https://www.apple.com/tv-pr/news/2026/04/apple-tvs-emmy-award-winning-global-smash-hit-series-ted-lasso-returns-for-season-four-on-wednesday-august-5/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👑",
+      "tag": "Culture · TV",
+      "headline": "Stallone's mob boss is back — 'Tulsa King' Season 4 trailer drops",
+      "body": "The king returns: Paramount+ just dropped the trailer for 'Tulsa King' Season 4, with Sylvester Stallone back as transplanted New York mobster Dwight Manfredi, now fighting to hold his Oklahoma empire together against crooked politicians and dangerous new enemies (Frank Grillo, Kevin Pollak and Neal McDonough are along for the ride). It premieres Oct 16 — a meaty, fun crime binge for the fall.",
+      "say": "There's a new Tulsa King trailer out — Stallone as the fish-out-of-water mob boss in Oklahoma. Such a fun watch, and it's back in a couple weeks. You seen that one, or more of a comedy guy?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "'Tulsa King' Season 4 — official trailer (Paramount+)", "url": "https://www.youtube.com/watch?v=Qq8yAg8urfY" },
+        { "kind": "web", "text": "Variety — 'Tulsa King' sets Season 4 date, drops trailer", "url": "https://au.variety.com/2026/tv/news/tulsa-king-season-4-release-date-first-teaser-39891/" }
+      ]
+    }
+  ]
+}
