@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-05",
+  "label": "Monday, October 5, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Upset in Buffalo",
+      "headline": "Drake Maye outduels Josh Allen — Patriots stun the Bills 29-26",
+      "body": "Nobody gave New England a chance in Buffalo, and then Drake Maye played like an MVP. He threw three touchdowns and ran for 53 more yards, capping a nervy fourth quarter with a 23-yard dart to second-year receiver Efton Chism, who reeled it in one-handed falling to the ground. A Josh Allen interception late let the Patriots run out the clock on a 29-26 road shocker.",
+      "say": "Did you catch the Patriots-Bills game? New England's young quarterback went into Buffalo and out-dueled Josh Allen, won it 29-26 on a crazy one-handed catch in the fourth. The NFL's been so wild this year. You riding with anybody this season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Patriots vs. Bills — game highlights (New England Patriots)", "url": "https://www.youtube.com/watch?v=0G8aLm2bOV0" },
+        { "kind": "web", "text": "Boston Globe — Patriots 29, Bills 26 recap", "url": "https://www.bostonglobe.com/2026/10/04/sports/patriots-bills-live-score-news/" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Division Series",
+      "headline": "Braves punch back — Atlanta evens the NLDS with the Dodgers",
+      "body": "Down a game, the Braves leaned on a patchwork bullpen and a little October weirdness. Michael Harris II had three hits and scored the go-ahead run on a fifth-inning wild pitch, and five Atlanta relievers held the line in a 3-2 win at Dodger Stadium. Max Muncy's two-out, two-strike homer in the ninth made it a one-run game, but the Dodgers couldn't finish it. Series tied 1-1 heading back to Atlanta.",
+      "say": "The Braves just went into L.A. and evened their playoff series with the Dodgers — 3-2, decided by a wild pitch and a bunch of relievers. October baseball is the best. You got a team still alive, or just here for the drama?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Braves vs. Dodgers — NLDS Game 2 highlights (MLB)", "url": "https://www.youtube.com/watch?v=jBDL7ltkOz0" },
+        { "kind": "web", "text": "AJC — Braves' 3-2 Game 2 win over the Dodgers", "url": "https://www.ajc.com/sports/2026/10/atlanta-braves-los-angeles-dodgers-nl-division-series/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Semifinals",
+      "headline": "The baby franchise bites back — Valkyries stun the champ Aces",
+      "body": "The feel-good story of the WNBA playoffs keeps rolling. The Golden State Valkyries — a team that didn't exist two years ago — walked into Game 1 of the semifinals and beat the defending-champion Las Vegas Aces 71-60. Gabby Williams was everywhere with 25 points and 11 rebounds, and the expansion upstarts held A'ja Wilson and company in check all night. Game 2 is Wednesday in San Francisco.",
+      "say": "A two-year-old expansion team out in the Bay just beat the defending WNBA champs in the playoffs — the Valkyries, this scrappy new franchise everyone's rooting for. Underdog stuff is so fun. You catch any of the W this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Aces vs. Valkyries — Game 1 full highlights (WNBA)", "url": "https://www.youtube.com/watch?v=m6k38y9zaUk" },
+        { "kind": "web", "text": "Yahoo Sports — Williams leads Valkyries past Aces", "url": "https://ca.sports.yahoo.com/news/wnba-playoffs-live-updates-aces-valkyries-score-aja-wilson-semifinals-190000334.html" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "MMA · UFC 332",
+      "headline": "A new champ on a record-smashing night — Natália Silva takes the belt",
+      "body": "UFC 332 in Salt Lake City was absolute carnage — the card set modern-era records for knockdowns and first-round knockouts, with highlight-reel finishes stacking up all evening. In the main event, Brazil's lightning-fast Natália Silva weathered a tight, five-round war (she dropped Wang Cong with a second-round head kick) to win a unanimous decision and claim the vacant women's flyweight title.",
+      "say": "That UFC card over the weekend was insane — knockouts all night, broke a bunch of records, and they crowned a new champ in the main event. You watch any fights, or not really your thing?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — Natália Silva wins title on record-breaking night", "url": "https://www.espn.com/mma/story/_/id/50068663/ufc-332-live-results-analysis-natalia-silva-vs-wang-cong" },
+        { "kind": "web", "text": "CBS Sports — UFC 332 full results", "url": "https://www.cbssports.com/ufc/news/ufc-332-fight-results-natalia-silva-wang-cong-card-live-updates/" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · China Open",
+      "headline": "Wild finish in Beijing — Medvedev defaulted, Djokovic into the final 33-0",
+      "body": "Bizarre scenes at the China Open: with Novak Djokovic leading 7-5, 5-3 in their semifinal, a frustrated Daniil Medvedev smacked a ball into the stands and hit a spectator, and the supervisor defaulted him on the spot. That sends Djokovic to his seventh Beijing final — where he's still never lost, a perfect 33-0 in the city. Eerily, it echoes Djokovic's own 2020 US Open disqualification for hitting a line judge.",
+      "say": "Crazy thing in tennis today — Medvedev got thrown out of a match against Djokovic for smacking a ball into the crowd and hitting a fan. And Djokovic has literally never lost in Beijing, like 33 and 0. You follow tennis at all, or just the big Slams?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — Medvedev DQ'd after hitting fan with ball", "url": "https://www.espn.com/tennis/story/_/id/50109415/medvedev-china-open-smashing-ball-fan-face" },
+        { "kind": "web", "text": "CNN — Medvedev disqualified as Djokovic reaches final", "url": "https://cnn.com/2026/10/05/sport/daniil-medvedev-disqualified-china-open-djokovic" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Sorkin's back on the beat — 'The Social Reckoning' opens Friday",
+      "body": "Sixteen years after 'The Social Network,' Aaron Sorkin returns to Facebook — this time as writer AND director. 'The Social Reckoning' (in theaters Friday, Oct 9) dramatizes whistleblower Frances Haugen's 2021 document leak, with Mikey Madison as Haugen, Jeremy Allen White as the reporter chasing the story, and Jeremy Strong stepping in as Mark Zuckerberg. Classic rapid-fire Sorkin dialogue, ripped-from-the-headlines stakes.",
+      "say": "There's a sort-of sequel to 'The Social Network' out Friday — same writer, all about the Facebook whistleblower, with Jeremy Strong playing Zuckerberg this time. Looks like a smart, talky one. You see the first movie back in the day?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'The Social Reckoning' — official trailer", "url": "https://www.youtube.com/watch?v=p0Vsb1chNnE" },
+        { "kind": "web", "text": "Variety — inside the 'Social Reckoning' trailer", "url": "https://variety.com/2026/film/news/social-reckoning-trailer-jeremy-strong-mark-zuckerberg-1236626411/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌊",
+      "tag": "Culture · TV",
+      "headline": "Something's in the water — Josh Hartnett's 'Below' hits Netflix Thursday",
+      "body": "Perfect spooky-season binge: 'Below,' a six-part Netflix thriller, drops all at once Thursday (Oct 8). Josh Hartnett plays a stubborn Newfoundland fisherman haunted by his father's mysterious death — until a very real, very large sea creature starts terrorizing his tiny coastal town. Charlie Heaton and Mackenzie Davis co-star in a moody, creature-feature mystery you can knock out in a weekend.",
+      "say": "New Netflix show Thursday — Josh Hartnett as a fisherman up against some kind of sea monster, all six episodes at once. Great creepy-weekend watch. You into the spooky stuff this time of year, or does it just stress you out?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Below' — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=U57CNxSgoss" },
+        { "kind": "web", "text": "Netflix Tudum — 'Below' release & first look", "url": "https://www.netflix.com/tudum/articles/below-release-date-photos-news" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Fall TV is officially back — and there's a new 'NCIS' in town",
+      "body": "The comfort-TV calendar flips to fall this week as the broadcast schedule roars back to life. The headliner: 'NCIS: New York' premieres Tuesday (Oct 6) on CBS, with LL Cool J's Sam Hanna heading home to the Big Apple alongside a roguish new partner played by Scott Caan. It anchors a loaded premiere week — new seasons of the whole 'NCIS' family, plus the usual fall lineup returning.",
+      "say": "Fall TV's back this week — there's a brand-new NCIS spinoff set in New York with LL Cool J starting Tuesday. Kind of nice having the regular shows back on. You keep up with any of the network stuff, or stream everything these days?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "'NCIS: New York' — series premiere trailer (CBS)", "url": "https://www.youtube.com/watch?v=VoAmd9Wpb-I" },
+        { "kind": "web", "text": "TV Insider — 'NCIS: New York' cast & premiere details", "url": "https://www.tvinsider.com/1258505/ncis-new-york-cast-premiere-date-trailer-details/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Troye Sivan's 'She's the Best' arrives Friday — Nicole Kidman and all",
+      "body": "New Music Friday has a glossy pop centerpiece: Troye Sivan's fourth album 'She's the Best' lands Oct 9. The singles have been a whole event — the title-track video is a dazzling, 1980s-NYC tribute co-starring Nicole Kidman (a reunion from 'Boy Erased'), and follow-up 'Party' is a wild, medieval-castle romp narrated by Ian McKellen. Big, playful, dance-floor-ready pop.",
+      "say": "Troye Sivan's got a new album out Friday — the lead video has Nicole Kidman in it, of all people. Really fun, glossy pop. You keep up with new music, or stick to the classics?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Troye Sivan — 'She's the Best' (official video)", "url": "https://www.youtube.com/watch?v=mFA1P8ZzoLw" },
+        { "kind": "web", "text": "Billboard — Nicole Kidman stars in 'She's the Best'", "url": "https://www.billboard.com/music/pop/nicole-kidman-stars-video-troye-sivan-shes-the-best-single-watch-1236316519/" }
+      ]
+    }
+  ]
+}
