@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-10",
+  "label": "Saturday, October 10, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Winner-Take-All",
+      "headline": "The last ticket to the final four is up for grabs tonight — White Sox at Guardians, Game 5",
+      "body": "October doesn't get more do-or-die than this. The upstart White Sox and the Guardians split four games, so it all comes down to a winner-take-all Game 5 in Cleveland tonight (8 p.m. ET). Whoever survives punches the last ticket into the American League Championship Series, where the little-budget Rays — who already swept the Yankees — are waiting. Over in the National League, the star-packed Dodgers and the scrappy, league-best Brewers open their pennant series Sunday night.",
+      "say": "There's a winner-take-all Game 5 tonight — White Sox and Guardians, loser goes home, winner's into the final four. Nothing in sports beats a deciding game. You got a team still alive, or just here for the October chaos?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "MLB.com — 2026 postseason bracket & schedule", "url": "https://www.mlb.com/postseason" },
+        { "kind": "web", "text": "ESPN — MLB scoreboard (Oct. 10)", "url": "https://www.espn.com/mlb/scoreboard/_/date/20261010" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · USMNT",
+      "headline": "Four wins from four — a 19-year-old sinks Canada to cap a perfect US window",
+      "body": "The USMNT is quietly on a roll. Days after thumping Mexico, the young Americans edged rival Canada 1-0 in St. Paul to go a perfect four-for-four in their autumn camp under Mauricio Pochettino. The lone goal came from 19-year-old forward Justin Ellis, who buried a 29th-minute chance teed up by Alex Freeman, and keeper Brian Schwake nailed down a second straight clean sheet. Lots of fresh young faces, lots of momentum heading into the Nations League.",
+      "say": "The US men won again — beat Canada 1-0, went four-for-four this fall, and the goal came from a 19-year-old kid. Fun stretch for the national team right now. You follow USA soccer at all, or just the big tournaments?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "USMNT 1-0 Canada — official highlights (U.S. Soccer)", "url": "https://www.youtube.com/watch?v=Pc61MpXHDeA" },
+        { "kind": "web", "text": "US Soccer Players — USMNT 1-0 Canada report", "url": "https://ussoccerplayers.com/2026/10/usmnt-1-canada-0-international-friendly.html" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "Final four in the Spodek — and a giant got knocked out early",
+      "body": "The Counter-Strike playoffs in Katowice are down to the last four, and there's already been a bombshell: tournament favorite Falcons got bounced 2-0 by Team Spirit in the quarterfinals, while underdog Aurora kept their Cinderella run going. Today's semifinals pit Aurora against powerhouse Vitality and MOUZ against Spirit inside the roaring Spodek arena, setting up Sunday's best-of-five grand final for the $1M prize.",
+      "say": "That big Counter-Strike tournament in Poland is down to the final four today — and one of the favorites already got knocked out. Million-dollar final's tomorrow. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (ESL)", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "HLTV — ESL Pro League Season 24", "url": "https://www.hltv.org/events/8244/esl-pro-league-season-24" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · New Season",
+      "headline": "Lafrenière goes off — a hat trick and a four-point night light up the young season",
+      "body": "The new NHL season is only a few games old and already has a signature night. In a spicy New York derby, Rangers winger Alexis Lafrenière poured in a hat trick and added an assist for a four-point explosion as the Blueshirts handled the Islanders 5-2. The former No. 1 overall pick has been waiting for a night like this, and the Garden absolutely erupted. A fun reminder that hockey's back.",
+      "say": "Hockey's back, and a Rangers guy just dropped a hat trick plus an assist in a win over the Islanders — four points in one night. The building went nuts. You follow any hockey, or wait for the playoffs?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Islanders vs. Rangers — highlights (NHL)", "url": "https://www.youtube.com/watch?v=kmMCqbWxq4s" },
+        { "kind": "web", "text": "ESPN — NHL scoreboard (Oct. 6)", "url": "https://www.espn.com/nhl/scoreboard/_/date/20261006" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Season Tipoff",
+      "headline": "Ten days to tipoff — and LeBron's about to debut in a 76ers jersey",
+      "body": "Basketball's almost back: the 2026-27 NBA season tips off Tuesday, Oct. 20 with a triple-header on NBC/Peacock. The headliner is a jaw-dropper — LeBron James makes his Philadelphia 76ers debut on the road against the reigning-champion New York Knicks (7 p.m. ET). The Celtics visit the Pistons to open the night, and the Thunder close it out in San Antonio. New uniforms, new storylines, and a title to defend in New York.",
+      "say": "The NBA's back in a week and a half — and get this, LeBron's debuting for the 76ers, and his first game is against the champion Knicks. Still weird picturing him in that jersey. You catch any NBA, or wait till the playoffs?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN — 2026-27 NBA schedule & opening night", "url": "https://www.espn.com/nba/story/_/id/49471934/nba-full-schedule-2026-2027-games-watch-faq-rivalries-matchups" },
+        { "kind": "web", "text": "Awful Announcing — opening night & Christmas Day slate", "url": "https://awfulannouncing.com/nba/2026-27-opening-night-christmas-day-schedule-lebron-sixers.html" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · Shanghai Masters",
+      "headline": "Shock in Shanghai — Hurkacz sends Djokovic packing early",
+      "body": "The draw just blew wide open. At the Shanghai Masters, big-serving Hubert Hurkacz stunned 24-time Grand Slam champ Novak Djokovic in straight sets in the second round, one of the biggest upsets of the fall swing. With Djokovic out and world No. 1 Jannik Sinner already skipping the event injured, the title race now runs through Carlos Alcaraz, Alexander Zverev and Ben Shelton. A reminder that nobody's untouchable, even the all-time greats.",
+      "say": "Big upset in tennis — Djokovic, the guy with a million Grand Slams, just got knocked out early in Shanghai by a big-serving Polish player. Wide open now. You follow tennis at all, or just the big Slams?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Djokovic vs. Hurkacz — Shanghai R2 highlights (ATP Tour)", "url": "https://www.youtube.com/watch?v=4c6J0LHp-7E" },
+        { "kind": "web", "text": "ATP Tour — Shanghai Masters results", "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌊",
+      "tag": "Culture · TV",
+      "headline": "The Avatar is back — 'Seven Havens' kicks off a whole new era",
+      "body": "Nostalgia alert for anyone who loved 'The Last Airbender': 'Avatar: Seven Havens' just started streaming on Paramount+, set generations after Aang and Korra in a world shattered by a cataclysm. It follows Pavi, a young Earthbender who discovers she's the next Avatar, and her twin sister as they try to survive a world that suddenly wants the Avatar gone. Gorgeous animation, big lore, and a brand-new hero to root for.",
+      "say": "There's a brand-new Avatar series out — 'Seven Havens,' same world as The Last Airbender but way in the future. The animation looks beautiful. You ever watch any of the Avatar stuff, or was that more a kid thing in your house?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Avatar: Seven Havens' — official trailer", "url": "https://www.youtube.com/watch?v=ZxGQbPhIXHk" },
+        { "kind": "web", "text": "The Comics Beat — the 'Seven Havens' trailer", "url": "https://www.comicsbeat.com/avatar-seven-havens-trailer/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Noah Kahan's 'Draw You Out' takes off — and 'Hunger Games' fever is building",
+      "body": "Folk-pop favorite Noah Kahan has a new one everybody's playing: 'Draw You Out,' his haunting contribution to the soundtrack for 'The Hunger Games: Sunrise on the Reaping,' shot straight up the trending charts this week. It's the first big taste of the hugely anticipated prequel — the Haymitch origin story hitting theaters Nov. 20 — and exactly the kind of goosebumps-y, singalong track Kahan does best. Great windows-down, turn-it-up stuff.",
+      "say": "Noah Kahan's got a new song blowing up — it's for the new Hunger Games prequel coming in November. Really pretty, kind of anthemic. You keep up with new music, or stick with what you know?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Noah Kahan — 'Draw You Out' (official lyric video)", "url": "https://www.youtube.com/watch?v=OSdQnT_FhAs" },
+        { "kind": "web", "text": "TechRadar — 'The Hunger Games: Sunrise on the Reaping' hub", "url": "https://www.techradar.com/streaming/entertainment/hunger-games-sunrise-on-the-reaping" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🪓",
+      "tag": "Culture · Gaming",
+      "headline": "'Gears of War: E-Day' is here — the chainsaw-gun classic goes back to the beginning",
+      "body": "For anyone who ever spent a weekend blasting through 'Gears of War': the big prequel 'E-Day' just launched on Xbox and PC, and it's one of the year's biggest game releases. It rewinds to Emergence Day — the moment the monstrous Locust first burst out of the ground — with a younger Marcus Fenix fighting for survival. Brutal, cinematic, and dripping with that gnarly chainsaw-rifle energy the series is famous for.",
+      "say": "That big Gears of War game finally came out — it's the origin story, back when the whole invasion kicks off. Chainsaw gun and all. You play any games these days, or is that more the kids' department now?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "'Gears of War: E-Day' — official gameplay trailer (IGN)", "url": "https://www.youtube.com/watch?v=ngquU3t9vnk" },
+        { "kind": "web", "text": "Xbox Wire — 'Gears of War: E-Day' launch", "url": "https://news.xbox.com/en-us/?p=226817" }
+      ]
+    }
+  ]
+}
