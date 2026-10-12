@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-12",
+  "label": "Monday, October 12, 2026",
+  "items": [
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Red River Upset",
+      "headline": "Boomer! Oklahoma stuns No. 1 Texas in the Red River Rivalry",
+      "body": "The Sooners stormed back in the second half and beat top-ranked Texas 27-24 at the Cotton Bowl, winning it on a late field goal. Nothing says chaos like the No. 1 team going down in a rivalry game.",
+      "say": "Did you see Oklahoma knock off the No. 1 team? The Red River game is always bonkers.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "OU–Texas highlights (SEC)", "url": "https://www.youtube.com/watch?v=RkoyCXsZB10" },
+        { "kind": "web", "text": "NCAA.com recap", "url": "https://www.ncaa.com/news/football/article/2026-10-10/four-top-25-upsets-headline-wild-saturday-week-6-college-football" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · NLCS Game 1",
+      "headline": "Brewers draw first blood — Milwaukee edges the Dodgers 2-1 in NLCS Game 1",
+      "body": "Brice Turang went deep and the Milwaukee bullpen slammed the door on the star-studded Dodgers lineup, giving the Brewers a 1-0 lead in the National League Championship Series.",
+      "say": "The Brewers just out-pitched the Dodgers in Game 1 — think Milwaukee can actually pull this off?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "NLCS Game 1 highlights (MLB)", "url": "https://www.youtube.com/watch?v=4j6Lb7_5C0E" },
+        { "kind": "web", "text": "ESPN box score", "url": "https://www.espn.com/mlb/game/_/gameId/401908030/dodgers-brewers" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · London Thriller",
+      "headline": "Heartbreak in London — Jaguars stun the Eagles on a field goal as time expires",
+      "body": "Philly led with eight seconds to go, then Cam Little drilled a 57-yarder on the final play to win it 19-17 at Tottenham. It's a third straight loss for the Eagles — and pure water-cooler gold.",
+      "say": "That Jaguars kicker ended the Eagles on the last play in London — brutal way to lose.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "NBC Sports recap", "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-win-wild-one-in-london-19-17-on-cam-little-field-goal-as-time-expires" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "Vitality sweep MOUZ to win ESL Pro League — ZywOo is MVP again",
+      "body": "In front of a packed Spodek Arena in Katowice, Team Vitality rolled MOUZ 3-0 in the grand final, with superstar ZywOo named tournament MVP. The French squad just keeps stacking trophies.",
+      "say": "Vitality steamrolled the CS2 Pro League final — ZywOo might be the best player on the planet right now.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Grand final highlights (ESL)", "url": "https://www.youtube.com/watch?v=9MVib5ZyFps" },
+        { "kind": "web", "text": "esports.gg recap", "url": "https://esports.gg/news/counter-strike-2/vitality-stomp-mouz-in-lightning-quick-esl-pro-league-final" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · ALCS Opens Tonight",
+      "headline": "ALCS starts tonight — upstart Guardians visit the Rays with a pennant on the line",
+      "body": "Cleveland, fresh off a wild comeback to reach the ALCS, opens the series tonight in Tampa Bay. First team to four wins books a World Series ticket.",
+      "say": "The ALCS kicks off tonight — I'm pulling for the Guardians after that comeback. You watching?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ALCS schedule & start times", "url": "https://sports.yahoo.com/mlb/article/mlb-playoffs-2026-nlcs-alcs-matchups-schedule-and-start-times-025932372.html" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "One man, one whale, one hour of air — 'Whalefall' hits theaters Friday",
+      "body": "A diver searching for his late father's remains gets swallowed whole by a 60-ton sperm whale and has 60 minutes of oxygen to get out. Austin Abrams stars alongside Josh Brolin in the survival thriller opening October 16.",
+      "say": "There's a movie about a guy swallowed by a whale with one hour of air to escape — I kind of have to see it.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (20th Century)", "url": "https://www.youtube.com/watch?v=rN9F6-tbySY" },
+        { "kind": "web", "text": "Fangoria", "url": "https://www.fangoria.com/whalefall-official-trailer-2/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Victorious' is back — Netflix's spinoff 'Hollywood Arts' premieres Thursday",
+      "body": "The beloved Nickelodeon musical-comedy gets a reboot: Daniella Monet returns as fan-favorite Trina Vega, now an (unqualified) substitute teacher at the old school, with a whole new class of stars. It lands October 15.",
+      "say": "They made a 'Victorious' spinoff — Trina's back as a substitute teacher. Pure nostalgia.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official teaser (Netflix)", "url": "https://www.youtube.com/watch?v=3CpJfFl18e4" },
+        { "kind": "web", "text": "Netflix Tudum", "url": "https://www.netflix.com/tudum/articles/hollywood-arts-season-1-trailer" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Mr. Worldwide cashes in — Pitbull drops his 14th album 'Pitcoin'",
+      "body": "Dale! Pitbull's new record is out, loaded with party anthems and a guest list that somehow spans KISS, Lil Jon, Enrique Iglesias and Bon Jovi. Exactly as over-the-top as the title suggests.",
+      "say": "Pitbull named his new album 'Pitcoin' and got KISS and Bon Jovi on it — the man is unstoppable.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'In the Bahamas' (Pitbull)", "url": "https://www.youtube.com/watch?v=9_GzFz4XzEY" },
+        { "kind": "web", "text": "NPR New Music Friday", "url": "https://www.npr.org/2026/10/09/nx-s1-5983689/new-music-friday-best-albums-oct-9-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎹",
+      "tag": "Culture · Music",
+      "headline": "Pet Shop Boys turn Alan Turing's life into an album — 'A Man From The Future'",
+      "body": "The synth-pop legends reworked their 2014 tribute to WWII codebreaker Alan Turing into a full eight-track record, out now. A genuinely fascinating, brainy listen for the history buffs.",
+      "say": "Pet Shop Boys made a whole album about Alan Turing — the codebreaker from 'The Imitation Game.' Wild idea.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'A Man From The Future'", "url": "https://www.youtube.com/watch?v=63z5fCm4mAc" },
+        { "kind": "web", "text": "The Line of Best Fit", "url": "https://www.thelineofbestfit.com/news/pet-shop-boys-alan-turing-tribute-to-premiere-on-bbc-this-october" }
+      ]
+    }
+  ]
+}
