@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-14",
+  "label": "Wednesday, October 14, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "City silence Anfield — Man City batter Liverpool 3-0 to stay perfect",
+      "body": "The biggest game of the Premier League weekend was a statement. Manchester City rolled into Anfield and ran out 3-0 winners, with Erling Haaland breaking the deadlock and Jérémy Doku and teenager Rayan Cherki piling on late after Liverpool's Ryan Gravenberch was sent off. City are the only club with a perfect start to the season and sit top of the table, while the reigning-era Reds are suddenly scrambling after their first league loss.",
+      "say": "Did you see Man City go into Anfield and win 3-0? Haaland scored, they're the only team with a perfect record so far. Liverpool are in a bit of a crisis all of a sudden. You follow the Premier League at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Liverpool 0-3 Man City — extended highlights (Man City)", "url": "https://www.youtube.com/watch?v=RSodWh8pnOc" },
+        { "kind": "web", "text": "Sky Sports — Man City's statement win at Anfield", "url": "https://www.skysports.com/football/news/13592796/liverpool-0-3-man-city-premier-league-leaders-make-defiant-statement-with-anfield-victory-in-first-match-since-guilty-verdict" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · NLCS",
+      "headline": "Little Milwaukee has the champs on the ropes — Brewers take a 2-0 NLCS lead",
+      "body": "The scrappy, small-market Brewers are two wins from the World Series. After chasing Dodgers ace Yoshinobu Yamamoto in a 36-pitch third inning, Milwaukee pulled away for a 7-4 Game 2 win behind William Contreras — a tying homer and the go-ahead knock — to grab a 2-0 series lead on the two-time defending champs. Their bullpen has been ridiculous all October. The series shifts to Los Angeles for Game 3 tonight, where the Dodgers have to win or face a cliff.",
+      "say": "The Brewers have the Dodgers down 2-0 in the NLCS — little-market Milwaukee knocking off the big-money defending champs. They even knocked their ace out early. Game 3's tonight in LA. You pulling for anybody in October?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Dodgers vs. Brewers — NLCS Game 2 highlights (MLB)", "url": "https://www.youtube.com/watch?v=RuiDL7ihiEI" },
+        { "kind": "web", "text": "ESPN — Brewers 7-4 Dodgers recap", "url": "https://www.espn.com/mlb/recap/_/gameId/401908031" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · ALCS",
+      "headline": "Rays punch back — Tampa Bay evens the ALCS with a 3-1 Game 2 win",
+      "body": "After the Guardians stole Game 1, the small-payroll Rays answered. Tampa Bay struck first with a three-run inning and the pitching staff made it hold up in a 3-1 win to square the American League Championship Series at a game apiece. It's the same every-dollar-counts underdog bunch that swept the Yankees out of October. Now it's a best-of-five, and the series heads to Cleveland for Game 3 on Thursday.",
+      "say": "The Rays bounced right back and tied up the ALCS — that's the little-budget team that already swept the Yankees. Guardians and Rays, two scrappy clubs, one World Series spot. You catching any of the playoffs?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Guardians vs. Rays — ALCS Game 2 highlights (MLB)", "url": "https://www.youtube.com/watch?v=XQSGs9VWueA" },
+        { "kind": "web", "text": "MLB.com — 2026 postseason bracket & schedule", "url": "https://www.mlb.com/postseason" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Milestone Night",
+      "headline": "800 and counting — McDavid throws a four-point party in game No. 800",
+      "body": "Connor McDavid picked a perfect night to hit a milestone. Playing his 800th career NHL game, the Oilers captain put up a goal and three assists — factoring on Edmonton's first three goals — as they cruised past the Kings 4-1 in Los Angeles. The scary part for the rest of the league: he's still only in his early 30s and somehow getting better. A reminder that the best player on the planet is must-watch every single night.",
+      "say": "Connor McDavid played his 800th NHL game and casually dropped four points in it — the guy's an alien. Hockey's back and he's already must-watch. You follow any hockey, or wait for the playoffs?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "McDavid celebrates game No. 800 with a 4-point night (NHL)", "url": "https://www.youtube.com/watch?v=ONc9rHbPEls" },
+        { "kind": "web", "text": "ESPN — McDavid's 4-point night lifts Oilers", "url": "https://www.espn.com/nhl/story/_/id/48435487/connor-mcdavid-nets-hat-trick-5-point-night-lift-oilers" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · League of Legends",
+      "headline": "The biggest event in esports is here — League of Legends Worlds kicks off in LA",
+      "body": "If the Super Bowl of video games had a name, it's this. The League of Legends World Championship starts tomorrow with the Play-In stage in Los Angeles, the opening act of a month-long gauntlet that crisscrosses the country and ends with the grand final at Brooklyn's Barclays Center on Nov. 14. Korean superpower T1 arrive as three-time defending champs with a global army of fans. Tens of millions will tune in — it routinely out-draws major traditional sports finals.",
+      "say": "The biggest thing in esports all year — the League of Legends World Championship — kicks off in LA tomorrow, and the final's at Barclays Center next month. These things pull bigger audiences than a lot of actual sports finals. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (Riot Games)", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "esports.gg — Worlds 2026 hub, schedule & results", "url": "https://esports.gg/guides/league-of-legends/worlds-2026-hub/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦁",
+      "tag": "Culture · Film",
+      "headline": "Through the wardrobe with Greta Gerwig — the first 'Narnia' trailer just dropped",
+      "body": "One of the most anticipated trailers of the year is finally here: Greta Gerwig ('Barbie,' 'Little Women') unveiled the first look at her 'Narnia: The Magician's Nephew,' the origin story of the beloved C.S. Lewis world. The cast is stacked — Meryl Streep, Daniel Craig, Carey Mulligan and Emma Mackey — and the visuals are pure, lavish fantasy-spectacle. It's a two-step release, hitting IMAX and theaters in February 2027 before landing on Netflix that spring.",
+      "say": "The first trailer for Greta Gerwig's new Narnia movie dropped — she's the one who did Barbie — and it's got Meryl Streep and Daniel Craig in it. Looks gorgeous. You read any of those books as a kid, or just know the lion?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Narnia: The Magician's Nephew' — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=gDJ-ini7fF0" },
+        { "kind": "web", "text": "What's on Netflix — Gerwig's Narnia first look", "url": "https://www.whats-on-netflix.com/news/new-poster-and-artwork-revealed-for-narnia-the-magicians-nephew-ahead-of-trailer-drop/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Stallone's back in the saddle — 'Tulsa King' Season 4 drops Friday",
+      "body": "Dwight 'The General' Manfredi returns: Season 4 of the Taylor Sheridan-produced hit 'Tulsa King' premieres on Paramount+ this Friday (Oct. 16). Sylvester Stallone is back as the New York mob boss trying to go legit in Oklahoma, this time squaring off against fresh enemies and dealing with a personal loss. It's become comfort-food TV for a lot of folks — a gruff, funny Stallone running a crew of misfits. Perfect fall-weekend binge fuel.",
+      "say": "New season of Tulsa King is out Friday — the Stallone show where he's a mob guy stuck in Oklahoma. It's kind of a perfect dumb-fun watch. You keeping up with it, or need a new show for the fall?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Tulsa King' Season 4 — official trailer (Paramount+)", "url": "https://www.youtube.com/watch?v=Qq8yAg8urfY" },
+        { "kind": "web", "text": "Variety — 'Tulsa King' sets Season 4 release date", "url": "https://variety.com/2026/tv/news/tulsa-king-season-4-release-date-first-teaser-39891/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Josh Homme and co. are back — Queens of the Stone Age tee up 'Perfecth'",
+      "body": "Rock fans, mark the calendar: Queens of the Stone Age drop their ninth album, 'Perfecth,' on Oct. 30 — their first in three years. The latest taste, the gloriously titled 'Where the Goth Girls At?,' comes with a wild, star-studded video (comedian Steve Agee shows up) set in a deserted power plant, all swagger and desert-rock fuzz. Exactly the kind of big, grooving riff-rock that's great for the drive.",
+      "say": "Queens of the Stone Age have a new album coming end of the month — the new single's called 'Where the Goth Girls At?', which is a great title. Proper riff-y rock. You still keep up with new rock, or stick to the classics?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Queens of the Stone Age — 'Where the Goth Girls At?' (official video)", "url": "https://www.youtube.com/watch?v=eAOIpDUDGX4" },
+        { "kind": "web", "text": "Blabbermouth — QOTSA share new single from 'Perfecth'", "url": "https://blabbermouth.net/news/queens-of-the-stone-age-share-where-the-goth-girls-at-single-from-upcoming-perfecth-album" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎮",
+      "tag": "Culture · Gaming",
+      "headline": "The countdown is on — 'GTA 6' lands next month and the whole industry is ducking",
+      "body": "It's the most anticipated entertainment release of the year, maybe the decade: 'Grand Theft Auto VI' finally arrives Nov. 19 on PS5 and Xbox, nearly 13 years after the last one. The hype is so big that other studios have reshuffled their fall releases just to get out of its way. Set in a neon, sun-soaked Miami stand-in with the series' first female lead, it's expected to be the biggest launch in gaming history. Even non-gamers are curious about this one.",
+      "say": "GTA 6 finally comes out next month — it's been like 13 years. The hype is so insane that other game companies are literally moving their releases to avoid it. You ever play the GTA games, or is that the kids' department now?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Grand Theft Auto VI' — Trailer 2 (Rockstar Games)", "url": "https://www.youtube.com/watch?v=VQRLujxTm3c" },
+        { "kind": "web", "text": "VGC — upcoming game release dates", "url": "https://videogameschronicle.com/guide/upcoming-game-release-dates-schedule/" }
+      ]
+    }
+  ]
+}
