@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-15",
+  "label": "Thursday, October 15, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night Football",
+      "headline": "Thursday night lights — Seahawks visit the Broncos to open Week 6",
+      "body": "Football's back on a Thursday: Seattle heads to Denver tonight (8:15 p.m. ET on Prime Video) to kick off Week 6. It's a classic NFC-meets-AFC-West primetime scrap with both sides eyeing a playoff push — and a perfect excuse to fire up the wings on a weeknight.",
+      "say": "There's Thursday night football on tonight — Seahawks at the Broncos. Good excuse to order wings midweek. You riding with anybody this NFL season, or just here for the primetime games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Week 6 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-6" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · ALCS",
+      "headline": "Pennant on the line — the ALCS shifts to Cleveland all square",
+      "body": "The American League Championship Series is a dead heat. The scrappy, small-budget Rays and the never-say-die Guardians split the first two games, so now it's effectively a best-of-five with the action moving to Cleveland for Game 3 tonight. Two underdog clubs, one World Series ticket — exactly the kind of October baseball that keeps you up past bedtime.",
+      "say": "The ALCS is all tied up and Game 3's in Cleveland tonight — Rays and Guardians, two little-budget teams slugging it out for a World Series spot. You catching any of the playoffs?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "MLB.com — 2026 postseason bracket & schedule", "url": "https://www.mlb.com/postseason" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "A million bucks up for grabs in Malta — CS2's Thunderpick World Championship is live",
+      "body": "Counter-Strike doesn't take a week off. Eight of the world's top squads — defending champs FURIA, plus powerhouses like Falcons and giant-killers Aurora — are battling it out in Malta this week for the $1,000,000 Thunderpick World Championship. The group stage wraps up before the playoffs this weekend and Sunday's grand final. Loud, fast, and a blast even if you've never touched the game.",
+      "say": "There's a million-dollar Counter-Strike tournament going on in Malta right now — all the big teams, final's Sunday. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (Thunderpick)", "url": "https://www.twitch.tv/thunderpick" },
+        { "kind": "web", "text": "esports.gg — Thunderpick World Championship results", "url": "https://esports.gg/news/counter-strike-2/cs2-thunderpick-world-championship-2026-results/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "The Premier League serves up another big weekend — Arsenal head to Forest",
+      "body": "Club football rolls on with a juicy Matchday 7 slate. The marquee is Nottingham Forest hosting Arsenal on Saturday, with Everton-Chelsea and Manchester City-Ipswich also on the card. Plenty of early-season table-watching as the title picture starts to take shape.",
+      "say": "Premier League's got a big weekend coming up — Arsenal away at Forest is the one I've got my eye on. You follow the Premier League at all, or just the big games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Premier League — fixtures", "url": "https://www.premierleague.com/fixtures" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Finals",
+      "headline": "Cinderella's big stage — the WNBA Finals tip off Friday",
+      "body": "The best story in basketball gets its spotlight. The Golden State Valkyries — an expansion team that didn't exist two years ago — open the WNBA Finals on Friday against Angel Reese's Atlanta Dream. Two fresh faces in the title series, zero big-market baggage, and a trophy nobody saw coming back in the spring. Great underdog TV.",
+      "say": "The WNBA Finals start Friday and it's a wild matchup — a two-year-old expansion team against Angel Reese's squad. Love a good underdog story. You catch any of the W this year?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "WNBA.com — schedule", "url": "https://www.wnba.com/schedule" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👊",
+      "tag": "Culture · Film",
+      "headline": "Hadouken! The live-action 'Street Fighter' finally lands Friday",
+      "body": "The video-game classic hits the big screen: 'Street Fighter' opens in theaters Friday (Oct. 16), with a gloriously over-the-top cast — Andrew Koji as Ryu, Noah Centineo as Ken, Jason Momoa as Blanka and WWE's Roman Reigns as Akuma. It's a globe-trotting tournament brawler aimed right at the popcorn-and-nostalgia crowd.",
+      "say": "They finally made a new Street Fighter movie — Jason Momoa's in it as the big green guy. Looks like dumb fun. You ever play those games growing up?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Street Fighter' — official trailer (Paramount Pictures)", "url": "https://www.youtube.com/watch?v=Xt4X4FvXk2A" },
+        { "kind": "web", "text": "Nerdtropolis — the 'Street Fighter' trailer", "url": "https://nerdtropolis.com/street-fighter-movie-playable-trailer-world-warrior-tour/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "LISA takes over — 'SaWaDiKa' is smashing records ahead of 'Press Play'",
+      "body": "BLACKPINK's LISA is having a monster solo moment. Her single 'SaWaDiKa' — a Bangkok-set, Muay-Thai-and-tuk-tuks love letter to her Thai roots — blew past 100 million YouTube views in days and became the fastest K-pop video of the year to get there. It's the big teaser for her new EP 'Press Play,' out Oct. 23. Impossible-not-to-move-to pop.",
+      "say": "LISA from BLACKPINK has this song 'SaWaDiKa' that's breaking YouTube records — it's all filmed in Bangkok, super fun. You keep up with any of the new pop, or is that the kids' department now?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "LISA — 'SaWaDiKa' (official music video)", "url": "https://www.youtube.com/watch?v=FyS5dAywkEo" },
+        { "kind": "web", "text": "Soompi — 'SaWaDiKa' is 2026's fastest MV to 100M", "url": "https://www.soompi.com/article/1868342wpp/blackpinks-lisas-sawadika-becomes-fastest-mv-of-2026-to-hit-100-million-views" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "The gentleman thief returns — 'Lupin' Part 4 lands next week",
+      "body": "One of Netflix's biggest global hits is back: 'Lupin' Part 4 drops all eight episodes Oct. 23. Omar Sy returns as master-of-disguise Assane Diop — this time framed by a copycat pulling museum heists in his name, forcing him to break out and clear it. Stylish, twisty, breezy French crime fun that's well worth the subtitles.",
+      "say": "The new season of Lupin's out next week — the French show about the slick con-man thief. Perfect weekend binge. You ever watch it, or need a new one for the fall?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Lupin: Part 4' — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=Vr4zLkYblMA" },
+        { "kind": "web", "text": "TV Insider — 'Lupin' Part 4 premiere date & trailer", "url": "https://www.tvinsider.com/gallery/lupin-part-4-premiere-date-trailer-netflix/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "Troye Sivan is back with 'She's the Best' — and Nicole Kidman stars in the video",
+      "body": "Pop favorite Troye Sivan just dropped his fourth album, 'She's the Best,' his first in a few years. The glittery, '80s-New-York title-track video is a whole event — none other than Nicole Kidman turns up in it. Big hooks, big mood, great windows-down driving music.",
+      "say": "Troye Sivan has a new album out and the video's got Nicole Kidman in it, of all people. Really catchy stuff. You keep up with new music, or stick with what you know?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Troye Sivan — 'She's the Best' (official music video)", "url": "https://www.youtube.com/watch?v=mFA1P8ZzoLw" },
+        { "kind": "web", "text": "Stereogum — Troye Sivan announces 'She's the Best'", "url": "https://stereogum.com/2508280/troye-sivan-announces-new-album-shes-the-best-reunites-with-nicole-kidman-for-video/music" }
+      ]
+    }
+  ]
+}
