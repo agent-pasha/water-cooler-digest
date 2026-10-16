@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-16",
+  "label": "Friday, October 16, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Pennant Won",
+      "headline": "Little Milwaukee is going to the World Series — Brewers sweep the Dodgers",
+      "body": "Storybook stuff. The small-market Brewers finished off a stunning four-game sweep of the two-time defending champion Dodgers, rallying in Game 4 to win 6-4 — even after Shohei Ohtani cranked a three-run homer for L.A. It sends Milwaukee to its first World Series in 44 years and ends the Dodgers' three-peat dream. The underdog with the best bullpen in baseball just knocked off the giants.",
+      "say": "The Brewers just swept the Dodgers to reach the World Series — first time in 44 years for little Milwaukee, and they beat the two-time champs to do it. Gotta love the underdog. You been following any of the October baseball?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Brewers vs. Dodgers — NLCS Game 4 highlights (ESPN MLB)", "url": "https://www.youtube.com/watch?v=C-ohIy1I-60" },
+        { "kind": "web", "text": "ESPN — Brewers sweep Dodgers, reach first World Series in 44 years", "url": "https://www.espn.com/mlb/story/_/id/50193819/brewers-sweep-dodgers-nlcs-advance-world-series" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · ALCS",
+      "headline": "Bat flip heard 'round Cleveland — Guardians nudge ahead, Game 4 is tonight",
+      "body": "The other pennant race is a street fight. Petey Halpin launched a go-ahead homer and sent his bat flying with a stare at the dugout, and closer Cade Smith slammed the door with a four-out save as the Guardians edged the Rays 3-2 to take a 2-1 series lead. Two scrappy, small-budget clubs trading haymakers for the last World Series ticket — and Game 4 is tonight in Cleveland (6 p.m. ET).",
+      "say": "The Guardians-Rays series is a blast — a kid named Halpin hit a go-ahead homer and did this whole bat-flip stare-down, and now Game 4's tonight. Two little-budget teams slugging it out for the last World Series spot. You catching any of it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Rays vs. Guardians — ALCS Game 3 highlights (MLB)", "url": "https://www.youtube.com/watch?v=FI5hnCF0CBY" },
+        { "kind": "web", "text": "ESPN — Petey Halpin's HR puts Guardians past Rays", "url": "https://www.espn.com/mlb/story/_/id/50191465/petey-halpin-hr-puts-guardians-rays-alcs-game-3" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night Football",
+      "headline": "Denver survives a wild one — Broncos edge the Seahawks 17-14 in overtime",
+      "body": "Thursday night went down to the wire. Seattle clawed back from 14-3 down to force overtime, but Denver's defense came up huge — five sacks and three takeaways — and after Ja'Quan McMillian picked off Sam Darnold in OT, Wil Lutz drilled a 53-yard field goal to win it. The Broncos move to 4-2; the Seahawks drop to 3-3 after letting that one slip.",
+      "say": "Did you catch Thursday night? Broncos and Seahawks went to overtime, Denver's defense was everywhere, and it ended on a 53-yard field goal. Good midweek football. You riding with anybody this NFL season?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "ESPN — run game, defense power Broncos in OT win", "url": "https://www.espn.com/nfl/story/_/id/50192352/broncos-seahawks-week-6-tnf-run-game-defense-ot" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Club football's back — Man United at Leeds headlines a loaded weekend",
+      "body": "After the international break, the Premier League returns with a juicy slate. Leeds host Manchester United on Sunday, Nottingham Forest welcome Arsenal, and on Saturday a wobbling Liverpool visit Brentford looking to bounce back after that home loss to Man City. Two weeks away always makes the first weekend back feel like Christmas morning.",
+      "say": "Premier League's finally back this weekend after the break — Man United at Leeds is the one I've circled, and Liverpool are trying to get right after losing at home. You follow the Premier League at all, or just the big games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Premier League — fixtures", "url": "https://www.premierleague.com/fixtures" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · League of Legends",
+      "headline": "Upset city at Worlds — Karmine Corp pull off a 3-2 stunner over Cloud9",
+      "body": "The League of Legends World Championship is already serving chaos in its Play-In stage out in LA. Fan-favorite Karmine Corp dug out of a 2-1 hole to beat North America's Cloud9 3-2 in a nail-biter, while MVK Esports shocked Brazilian powerhouse FURIA 3-0. Survive this gauntlet and you punch a ticket to the Swiss Stage (Oct. 23–31 in Texas) and the real madness.",
+      "say": "The big League of Legends world championship is on, and the early rounds have been wild — one team came all the way back from 2-1 down to win a five-gamer. These events pull huge crowds. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (Riot Games)", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "GosuGamers — Worlds 2026 Play-In day 1 upsets", "url": "https://www.gosugamers.net/lol/news/79360-worlds-2026-play-ins-day-1-karmine-corp-survive-cloud9-kia-furia-take-down-mvk-esports" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "Fight night in Canada — Buckley vs. Malott tops the card Saturday",
+      "body": "The UFC rolls into Edmonton on Saturday with a fun main event: knockout artist Joaquin Buckley takes on hometown favorite Mike Malott in a five-round welterweight scrap. The co-main is a top flyweight clash between Erin Blanchfield and Jasmine Jasudavicius. It streams on Paramount+ in the States — easy weekend watch for the fight crowd.",
+      "say": "There's a UFC card Saturday night up in Canada — Buckley against a local guy, Malott, in the main event. Always good for a highlight-reel knockout or two. You into the fights at all, or not really your thing?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "UFC.com — Fight Night: Buckley vs Malott", "url": "https://www.ufc.com/event/ufc-fight-night-october-17-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Fontaines D.C. drop 'Dopamine Chamber' — one of the year's most-hyped rock albums",
+      "body": "The Dublin band everyone's been buzzing about is back: Fontaines D.C. released their fifth album, 'Dopamine Chamber,' today. It's been teased all fall with the moody single 'Tongue' and a cinematic Rosalía collab ('Where Is Gone?'), and critics are already calling it their biggest, boldest record yet. Big, brooding, windows-down guitar music.",
+      "say": "That Irish band Fontaines D.C. just dropped a new album everyone's losing it over — they've even got a Rosalía song on it. Proper moody guitar rock. You keep up with new music, or stick with what you know?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Fontaines D.C. — 'Tongue' (official video)", "url": "https://www.youtube.com/watch?v=5OsIwKHppho" },
+        { "kind": "web", "text": "NPR — the best albums out Oct. 16", "url": "https://www.npr.org/2026/10/16/nx-s1-5983692/new-music-friday-best-albums-oct-16-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "The Avalanches return with 'No Bad Memories' — a 31-track sample-pop odyssey",
+      "body": "The Aussie crate-digging wizards behind 'Since I Left You' are back: The Avalanches dropped their fourth album, 'No Bad Memories,' today — a sprawling 31-track collage stuffed with guest voices and sunshine-y grooves. The video for 'I Give Everything I Have 2 U' is a trippy little treat. Perfect for a lazy weekend or a long drive.",
+      "say": "The Avalanches put out a huge new album today — like 31 tracks of sampled, sunny, feel-good stuff. Great background music for a slow morning. You into that kind of thing, or more of a one-song-at-a-time person?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "The Avalanches — 'I Give Everything I Have 2 U' ft. Loaded Honey", "url": "https://www.youtube.com/watch?v=EpNSk8qu_Vo" },
+        { "kind": "web", "text": "NPR — New Music Friday, Oct. 16", "url": "https://www.npr.org/2026/10/16/nx-s1-5983692/new-music-friday-best-albums-oct-16-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🖼️",
+      "tag": "Culture · Film",
+      "headline": "Stealing the Mona Lisa, family-style — 'Masterplan' lands on Prime Video",
+      "body": "Need a slick weekend watch? 'Masterplan' hit Prime Video today — a breezy caper with Stanley Tucci as a master thief who ropes two strangers into a plot to lift the Mona Lisa from the Louvre, only for things to get a lot more personal. Glossy European locations, double-crosses, and Tucci doing his charming-rogue thing. Comfort-food heist fun.",
+      "say": "There's a fun new heist movie on Prime — Stanley Tucci plotting to steal the Mona Lisa. Looks like a perfect Friday-night couch watch. You need a new one for the weekend, or already sorted?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Masterplan' — teaser trailer (Prime Video)", "url": "https://www.youtube.com/watch?v=fyQkR_BrX0E" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💍",
+      "tag": "Culture · TV",
+      "headline": "'Love Is Blind' is back — Season 11 heads to Boston",
+      "body": "The guilty-pleasure juggernaut returned this week: 'Love Is Blind' Season 11 set up the pods in Boston, with Nick and Vanessa Lachey back hosting a new crop of singles trying to get engaged before they ever see each other. The first batch of episodes is streaming now on Netflix — ideal background-drama for folding laundry and yelling at the TV.",
+      "say": "New season of Love Is Blind just dropped — they're doing Boston this time. It's such a ridiculous, fun watch. You ever get sucked into that show, or is it strictly a 'someone else in the house' situation?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Love Is Blind' S11: Boston — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=-wg0ReRw_cM" }
+      ]
+    }
+  ]
+}
