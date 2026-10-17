@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-17",
+  "label": "Saturday, October 17, 2026",
+  "items": [
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top-5 Showdown",
+      "headline": "Big noon blockbuster — No. 4 Ohio State at unbeaten No. 5 Indiana",
+      "body": "Saturday morning serves up a heavyweight. No. 4 Ohio State heads to Bloomington to take on No. 5 Indiana, a program that's quietly ripped off a perfect 6-0 start and crashed the top five. It's a top-five collision with Big Ten and playoff stakes, kicking off at noon ET on FOX. And it's not even the only big one — No. 6 Alabama visits Tennessee for the 'Third Saturday in October' grudge match, plus Miami-Florida State and Ole Miss-Missouri. Get the coffee going.",
+      "say": "There's a huge college football Saturday — No. 4 Ohio State at little Indiana, who somehow is undefeated and ranked No. 5. Alabama-Tennessee's on too. You watch any college ball on Saturdays, or just the pros?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "ESPN — college football schedule & scores", "url": "https://www.espn.com/college-football/schedule" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · ALCS",
+      "headline": "Rain pushed it a day — now the Guardians can punch a World Series ticket tonight",
+      "body": "October got a weather delay. Friday's ALCS Game 4 in Cleveland got rained out, so it's on tonight instead — and the stakes are huge. The scrappy Guardians lead the small-budget Rays 2-1, and a win tonight sends Cleveland to the World Series, where little Milwaukee is already waiting after sweeping the Dodgers. Lose, and it's a winner-leans Game 5 on Sunday. Two underdogs, one last ticket to the Fall Classic.",
+      "say": "Baseball got rained out last night, so Game 4's tonight — and the Guardians can clinch a World Series spot with a win. The Brewers are already in, waiting. Two little-market teams in the Fall Classic would be so fun. You catching any of the playoffs?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "MLB.com — 2026 postseason bracket & schedule", "url": "https://www.mlb.com/postseason" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Finals",
+      "headline": "Cinderella's big day — the WNBA Finals tip off at Chase Center",
+      "body": "The best story in basketball gets the ball tonight… well, this afternoon. Game 1 of the WNBA Finals tips at Chase Center (12:30 p.m. PT), with the Golden State Valkyries — an expansion team that didn't exist two years ago — hosting Angel Reese's Atlanta Dream. Two fresh faces, zero big-market baggage, and a title nobody saw coming back in the spring. Great underdog TV to have on while you do chores.",
+      "say": "The WNBA Finals start today — a two-year-old expansion team out in the Bay against Angel Reese's squad. Both chasing a first-ever title. Love a good underdog story. You catch any of the W this year?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "WNBA.com — schedule", "url": "https://www.wnba.com/schedule" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Sunday Night Football",
+      "headline": "Lambeau under the lights — Cowboys at Packers headlines Sunday",
+      "body": "The NFL's primetime game tomorrow is a classic: Dallas visits Green Bay for Sunday Night Football, a renewal of one of the league's oldest rivalries. Bonus history — the last time these two met it ended in a wild, almost-never-happens 40-40 tie, so there's a score to settle. (Star pass rusher Micah Parsons is still working back from a knee injury, so don't expect the big reunion just yet.) Perfect excuse to stretch the weekend into Sunday night.",
+      "say": "Cowboys and Packers under the lights on Sunday night — and their last meeting ended in a crazy 40-40 tie, which basically never happens. Good primetime football. You riding with anybody this NFL season?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Week 6 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-6" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "A million bucks on the line in Malta — the Thunderpick finals hit the business end",
+      "body": "The $1,000,000 Thunderpick World Championship has reached the knockout rounds in Malta. The group stage is done and it's down to a single-elimination playoff bracket, with defending champs FURIA trying to repeat against a loaded field. Semifinals are today and the best-of-five grand final crowns a champ tomorrow (Sunday). Loud, fast, and a blast even if you've never touched the game.",
+      "say": "There's a million-dollar Counter-Strike tournament in its final weekend over in Malta — down to the semis today, big final tomorrow. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (Thunderpick)", "url": "https://www.twitch.tv/thunderpick" },
+        { "kind": "web", "text": "esports.gg — Thunderpick World Championship results", "url": "https://esports.gg/news/counter-strike-2/cs2-thunderpick-world-championship-2026-results/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🕷️",
+      "tag": "Culture · Film",
+      "headline": "Do NOT watch this before bed — spider-horror 'Crawlers' scuttles into theaters",
+      "body": "Spooky season just got creepy-crawly. 'Crawlers' opened in theaters this weekend — a horror-thriller where a venomous spider infestation locks down an apartment building under a police quarantine, and manager Serena (Matilda Lutz) has to keep everyone alive as the things multiply by the second. It's 81 tight minutes of pure nope. Catnip for the horror crowd, nightmare fuel for everyone who hates spiders.",
+      "say": "There's a new spider-horror movie out called 'Crawlers' — a whole building overrun by venomous spiders. I can't decide if I want to see it or never sleep again. You into the scary stuff this time of year, or does it just stress you out?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Crawlers' — official trailer (Roadside Attractions)", "url": "https://www.youtube.com/watch?v=4DowjB87tRE" },
+        { "kind": "web", "text": "JoBlo — the 'Crawlers' trailer", "url": "https://www.joblo.com/crawlers-trailer/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "A DC villain gets the horror treatment — 'Clayface' oozes in next Friday",
+      "body": "Here's a comic-book movie that looks nothing like the others. 'Clayface,' the first R-rated horror film from the new DC Universe, hits theaters Friday (Oct. 23) — a gooey body-horror take on the Batman villain, with Tom Rhys Harries as a struggling actor who transforms into a shape-shifting monster, and Naomi Ackie co-starring. 'The Fly' meets Gotham, basically. The trailer's been freaking people out all fall.",
+      "say": "DC made an actual R-rated horror movie about one of the Batman villains, Clayface — comes out next Friday. Looks genuinely gross in a fun way. You still go to the comic-book movies, or burned out on them?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Clayface' — official trailer (DC)", "url": "https://www.youtube.com/watch?v=OGO4Mqvo3jI" },
+        { "kind": "web", "text": "TechRadar — everything we know about 'Clayface'", "url": "https://www.techradar.com/streaming/entertainment/clayface-hub" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Back to the brink — 'The Diplomat' Season 4 just dropped on Netflix",
+      "body": "One of Netflix's smartest binges is back: all eight episodes of 'The Diplomat' Season 4 landed this week. Keri Russell returns as ambassador Kate Wyler, now cleaning up the fallout after a jaw-dropping Season 3 that pushed the U.S. toward the brink — with Allison Janney, Rufus Sewell and Bradley Whitford deep in the political knife-fight. Fast, twisty, tailor-made for a weekend blitz.",
+      "say": "New season of 'The Diplomat' just dropped on Netflix — the Keri Russell political-thriller one. Perfect weekend binge if you like the smart, twisty stuff. You watch it, or need a new one for the fall?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'The Diplomat' Season 4 — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=for_t1ySDvk" },
+        { "kind": "web", "text": "Variety — 'The Diplomat' Season 4 trailer", "url": "https://au.variety.com/2026/tv/global/the-diplomat-season-4-trailer-keri-russell-40390/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Feel-good fuel — Andy Grammer drops his 'Big Stupid Heart' album",
+      "body": "If you need something upbeat for the drive, the guy behind 'Honey, I'm Good' delivered: Andy Grammer released his new album 'Big Stupid Heart' this week. It's exactly his lane — big, earnest, sing-it-in-the-car pop that's impossible to be in a bad mood to. Easy, warm weekend listening that won't scare the kids in the back seat.",
+      "say": "Andy Grammer — the 'Honey, I'm Good' guy — put out a new album called 'Big Stupid Heart.' Good, upbeat, roll-the-windows-down stuff. You keep up with new music, or stick with what you know?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Andy Grammer — 'Big Stupid Heart' (official lyric video)", "url": "https://www.youtube.com/watch?v=4xYYAk45fKU" },
+        { "kind": "web", "text": "BroadwayWorld — Andy Grammer's 'Big Stupid Heart'", "url": "https://www.broadwayworld.com/bwwmusic/article/ANDY-GRAMMER-to-Release-New-Album-BIG-STUPID-HEART-20260806" }
+      ]
+    }
+  ]
+}
