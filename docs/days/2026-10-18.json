@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-18",
+  "label": "Sunday, October 18, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · ALCS",
+      "headline": "The Rays punch back — Tampa Bay evens the ALCS and turns it into a dogfight",
+      "body": "So much for a quiet clinch. A night after the rain delay, the small-budget Rays roughed up the Guardians 7-3 in Game 4 to square the series at two games apiece. Junior Caminero, Yandy Díaz and Jonathan Aranda did the damage — Díaz capped it with a two-run homer in the ninth — and now it's a best-of-three with the Brewers waiting in the World Series. Cleveland can't clinch just yet, and Game 5's up next.",
+      "say": "The Rays bounced back and tied the ALCS 2-2 — now it's basically a best-of-three for the last World Series ticket, with Milwaukee already sitting there waiting. Two little-market teams slugging it out. You catching any of the October baseball?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Rays vs. Guardians — ALCS Game 4 highlights (MLB)", "url": "https://www.youtube.com/watch?v=NXWY4QeCc4Q" },
+        { "kind": "web", "text": "ESPN — Rays even ALCS behind Caminero, Díaz, Aranda", "url": "https://www.espn.com/mlb/story/_/id/50207772/rays-capitalize-guardians-errors-game-4-even-alcs" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Top-5 Saturday",
+      "headline": "Ohio State ends the fairytale — Buckeyes snap Indiana's 22-game win streak",
+      "body": "What a Saturday for college ball. No. 4 Ohio State went into Bloomington and grinded out a 19-15 win over No. 5 Indiana, ending the Hoosiers' remarkable 22-game regular-season win streak in a defensive rock fight (the Buckeyes did lose QB Julian Sayin to an arm injury). And it wasn't even the wildest result — over in Knoxville, No. 14 Tennessee bopped No. 6 Alabama 26-10, DeSean Bishop running for 159 yards, handing the Tide back-to-back losses for the first time since 2007.",
+      "say": "Huge college football Saturday — Ohio State went and ended Indiana's 22-game win streak, and Tennessee absolutely bopped Alabama, who've now lost two in a row. You watch any college ball on Saturdays, or just the pros?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ohio State at Indiana — highlights (Big Ten)", "url": "https://www.youtube.com/watch?v=xIrY5op9LGM" },
+        { "kind": "web", "text": "Washington Post — Tennessee hands Alabama second straight loss", "url": "https://www.washingtonpost.com/sports/colleges/2026/10/17/alabama-tennessee-football-score/37ef3af4-ca82-11f1-aefb-abe4112d087e_story.html" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Finals",
+      "headline": "Cinderella draws first blood — Valkyries grind out a 68-64 Game 1 win",
+      "body": "The best underdog story in basketball is up 1-0. In a defensive slugfest at a roaring Chase Center, the two-year-old Golden State Valkyries edged Angel Reese's Atlanta Dream 68-64 in Game 1 of the Finals. Gabby Williams was the hero with 26 points and a pile of clutch late free throws, and Golden State's defense (10 blocks!) smothered Atlanta down the stretch with a closing 7-0 run. Game 2 is Monday night.",
+      "say": "The WNBA Finals tipped off and the little two-year-old Golden State team won a gritty Game 1 — their star Gabby Williams dropped 26. Fun underdog story against Angel Reese's squad. You catch any of the W this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Dream vs. Valkyries — Finals Game 1 full highlights (WNBA)", "url": "https://www.youtube.com/watch?v=CTJGJH9hPVU" },
+        { "kind": "web", "text": "ESPN — Gabby Williams, defense fuel Valkyries' Game 1 win", "url": "https://www.espn.com/wnba/story/_/id/50204588/gabby-williams-scores-26-including-key-late-fts-valkyries-win-g1-vs-dream" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Liverpool steady the ship — Isak's winner sinks nine-man Brentford",
+      "body": "After a couple of wobbly weeks, Liverpool needed this one. They fell behind at Brentford, then roared back to win 2-1 — Víctor Muñoz leveling it after the hour and new signing Alexander Isak tucking away the winner. It got spicy, too: Brentford finished with nine men after two red cards. The Reds climb up to fifth, and it's a juicy Sunday on top — Man United at Leeds and Arsenal at Nottingham Forest both still to come.",
+      "say": "Liverpool had been struggling, but they came from behind to beat Brentford 2-1 — and Brentford finished with nine men. Isak got the winner. Man United and Arsenal both play today too. You follow the Premier League at all, or just the big games?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Brentford 1-2 Liverpool — highlights (Liverpool FC)", "url": "https://www.youtube.com/watch?v=nM0DYaUUDBg" },
+        { "kind": "web", "text": "Sky Sports — Isak winner as nine-man Brentford fall", "url": "https://www.skysports.com/football/brentford-vs-liverpool/7859270264869098232" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Sunday Slate",
+      "headline": "Football takes over London — and the Cowboys visit Lambeau tonight",
+      "body": "A classic NFL Sunday. It kicked off across the pond this morning with the Texans and Jaguars battling at Wembley in the league's London game, and the big one closes the night: Dallas at Green Bay for Sunday Night Football, a renewal of one of the NFL's oldest rivalries (their last meeting was a bonkers 40-40 tie). Plenty of couch time in between — ideal excuse to not move all day.",
+      "say": "It's a full NFL Sunday — they played over in London this morning, and Cowboys-Packers is the primetime game tonight at Lambeau. You riding with anybody this season, or just here for the primetime games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Week 6 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-6" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "A million bucks on the line today — FURIA vs. BetBoom in the Thunderpick final",
+      "body": "The $1,000,000 Thunderpick World Championship crowns its champ today in Malta. The semis delivered: BetBoom pulled off a stunner over powerhouse Falcons, while defending champs FURIA handled Aurora to set up a best-of-five grand final. FURIA are chasing back-to-back titles; BetBoom are the giant-killers trying to spoil it. Loud, fast, and a blast even if you've never touched the game.",
+      "say": "There's a million-dollar Counter-Strike final today over in Malta — the defending champs against a team that just knocked out one of the favorites. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live on Twitch (Thunderpick)", "url": "https://www.twitch.tv/thunderpick" },
+        { "kind": "web", "text": "HLTV — BetBoom stun Falcons to reach the grand final", "url": "https://www.hltv.org/news/45746/betboom-stun-falcons-to-make-twc-grand-final" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Zach Bryan drops a surprise EP — with a Lana Del Rey duet everyone's talking about",
+      "body": "Country's biggest everyman put out a new eight-song EP, 'Young Manhood & Other Donatable Organs,' and the internet immediately zeroed in on track three: 'Lies,' a dreamy piano-and-strings duet with Lana Del Rey. It's splitting the room in the best way — some fans are obsessed, some wanted more — which is exactly the kind of thing that makes for a good debate. Turnpike Troubadours show up on it too.",
+      "say": "Zach Bryan dropped a surprise EP and there's a duet with Lana Del Rey on it that everyone's arguing about. Kind of a weird, great pairing. You keep up with new music, or stick with what you know?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Zach Bryan — 'Lies' feat. Lana Del Rey (official audio)", "url": "https://www.youtube.com/watch?v=nhR-Ka-aKUs" },
+        { "kind": "web", "text": "Whiskey Riff — Zach Bryan's new EP breakdown", "url": "https://www.whiskeyriff.com/2026/10/16/zach-bryan-enlists-turnpike-troubadours-lana-del-ray-on-stellar-new-ep-young-manhood-other-donatable-organs/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌋",
+      "tag": "Culture · Film",
+      "headline": "Chris Evans vs. a volcano — the wild satire 'Sacrifice' lands on Netflix",
+      "body": "Need a bonkers weekend watch? 'Sacrifice' just dropped on Netflix — a star-stuffed satirical thriller where a washed-up action star (Chris Evans) gets taken hostage at a glitzy charity gala by a cult leader (Anya Taylor-Joy) who's convinced the world ends in three days unless three people get tossed into a volcano. Vincent Cassel, Salma Hayek, John Malkovich and Charli XCX round out the chaos. Pure 'what did I just watch' fun.",
+      "say": "There's a totally unhinged new Netflix movie called 'Sacrifice' — Chris Evans kidnapped by a cult that wants to throw people into a volcano. The cast is ridiculous. You need a new one for the weekend, or already sorted?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Sacrifice' — official trailer (Elevation Pictures)", "url": "https://www.youtube.com/watch?v=E_yVr35StzQ" },
+        { "kind": "web", "text": "What's on Netflix — 'Sacrifice' with Evans & Taylor-Joy", "url": "https://www.whats-on-netflix.com/news/sacrifice-netflix-movie-chris-evans-anya-taylor-joy/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎙️",
+      "tag": "Culture · TV",
+      "headline": "A love letter to a legend — Judd Apatow's Norm Macdonald doc hits Netflix",
+      "body": "If you ever loved Norm Macdonald, clear an evening: 'Norm: The Tale of Norm Macdonald' is streaming on Netflix. Directed by Judd Apatow, it's built entirely from archival clips, home videos and footage friends and fans sent in — the SNL years, the gloriously unhinged talk-show appearances, the gambling, the leukemia he kept quiet. It opens on his final Letterman visit and plays like scrolling his greatest hits. Warm, funny, and a little heartbreaking.",
+      "say": "There's a new documentary on Norm Macdonald on Netflix — the deadpan comedian. Judd Apatow made it out of all his old clips. The guy was so funny. You remember him from SNL, or the talk shows?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Norm: The Tale of Norm Macdonald' — trailer (Netflix)", "url": "https://www.youtube.com/watch?v=dIBNCBAzBos" },
+        { "kind": "web", "text": "The A.V. Club — inside the Norm Macdonald doc", "url": "https://avclub.com/norm-the-tale-of-norm-macdonald-trailer-netflix" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💘",
+      "tag": "Culture · TV",
+      "headline": "Will-they-won't-they is back — 'Nobody Wants This' returns Thursday",
+      "body": "Mark the calendar: Season 3 of Netflix's breakout rom-com 'Nobody Wants This' drops Thursday (Oct. 22). Kristen Bell and Adam Brody are back as the agnostic podcaster and the hot rabbi who somehow make it work, and the new trailer promises more of the sharp, swoony, cringe-in-a-good-way comedy that made it a word-of-mouth smash. Perfect get-ready-to-binge heads up for the couch crowd.",
+      "say": "New season of 'Nobody Wants This' is out Thursday — the Kristen Bell one about the podcaster and the rabbi. It's such a charming, easy watch. You into it, or need a new show for the fall?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "'Nobody Wants This' Season 3 — official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=XETbiJM2LZ0" },
+        { "kind": "web", "text": "Netflix Tudum — what to watch this week", "url": "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-october-16-2026" }
+      ]
+    }
+  ]
+}
