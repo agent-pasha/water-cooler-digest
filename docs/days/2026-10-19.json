@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-19",
+  "label": "Monday, October 19, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · ALCS",
+      "headline": "Rays are one win from the World Series — Tampa grabs a 3-2 ALCS lead",
+      "body": "Drew Rasmussen spun seven strong innings and Liam Hicks knocked in a run as the Rays beat Cleveland 3-1 in Game 5. Tampa Bay heads home needing just one more win to reach its first World Series since 2020 — Game 6 is tonight at the Trop.",
+      "say": "Did you catch the Rays? One win from the World Series and Game 6 is tonight — Tampa's been the story of October.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Game 5 recap", "url": "https://www.youtube.com/watch?v=iQ9Vg0mIUGM" },
+        { "kind": "web", "text": "ESPN box score", "url": "https://www.espn.com/mlb/game/_/gameId/401930515/rays-guardians" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Ugly but golden — Madueke's late deflected winner keeps Arsenal in the title race",
+      "body": "Noni Madueke's 80th-minute strike took a wicked deflection to sink Nottingham Forest 1-0 at the City Ground — and it was Arsenal's only shot on target all afternoon. The grind-it-out win keeps the Gunners three points behind league leaders Manchester City.",
+      "say": "Arsenal won 1-0 at Forest with basically one shot on goal — sometimes you just need the three points, right?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Madueke's winner", "url": "https://www.youtube.com/watch?v=mZyGyK-oFkM" },
+        { "kind": "web", "text": "Sky Sports report", "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/7945971423504407232" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Sunday Night Football",
+      "headline": "Cold night at Lambeau — Packers handle the Cowboys 23-13",
+      "body": "Jordan Love threw two touchdowns and rookie Matthew Golden racked up 104 receiving yards as Green Bay bottled up Dak Prescott (two interceptions) under the Sunday-night lights. Dallas has now dropped two in a row for the first time this season.",
+      "say": "Packers took care of the Cowboys at Lambeau on Sunday night — Jordan Love's really starting to roll.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "NFL game highlights", "url": "https://www.nfl.com/videos/game-highlights-packers-vs-cowboys-week-6" },
+        { "kind": "web", "text": "What we learned", "url": "https://www.nfl.com/news/2026-nfl-season-week-6-what-we-learned-from-sunday-s-games" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "Back-to-back kings — FURIA survive a five-map thriller to defend their CS2 world title",
+      "body": "Brazil's FURIA rallied to beat BetBoom 3-2 in the Thunderpick World Championship grand final in Malta, closing out the decider 13-6 to repeat as champions and bank the $1,000,000 top prize. KSCERATO was named tournament MVP.",
+      "say": "FURIA went the full five maps and defended their CS2 world title over in Malta — the Brazilian fans must have gone nuts.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Full results", "url": "https://esports.gg/news/counter-strike-2/cs2-thunderpick-world-championship-2026-results/" },
+        { "kind": "web", "text": "Grand final recap", "url": "https://www.hotspawn.com/counter-strike/news/furia-win-thunderpick-world-championship-2026" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "Knockout of the year? Mike Malott flattens Joaquin Buckley with a brutal knee",
+      "body": "In front of his home Canadian crowd in Edmonton, Mike Malott ended Joaquin Buckley with a thunderous knee in the second round of the Fight Night main event — an instant front-runner for Knockout of the Year.",
+      "say": "Did you see that Malott knockout in Edmonton? A knee out of nowhere in round two — the whole arena erupted.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The finish", "url": "https://www.youtube.com/watch?v=eY2YO20wW0w" },
+        { "kind": "web", "text": "Fight Night results", "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-results-live-updates-joaquin-buckley-mike-malott/live/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Hadouken at the box office — 'Street Fighter' opens at No. 1 with about $31M",
+      "body": "The long-awaited live-action Street Fighter — Andrew Koji as Ryu, Noah Centineo as Ken, and a cast loaded with WWE stars like Jason Momoa and Roman Reigns — punched its way to the top of the weekend box office with roughly $31 million.",
+      "say": "The new Street Fighter won the box office this weekend — did you grow up mashing buttons on that game?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=6Hqu_Sv6xmQ" },
+        { "kind": "web", "text": "Box office", "url": "https://www.boxofficemojo.com/date/2026-10-18/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Two pop titans, one game show — Olivia Rodrigo and Chappell Roan drop the 'expectations' remix",
+      "body": "Olivia Rodrigo reworked her hit 'expectations' with Chappell Roan — Roan's first-ever guest feature — and the pair's chaotic, retro game-show music video has fans completely obsessed.",
+      "say": "Olivia Rodrigo and Chappell Roan teamed up on a remix with the most chaotic little game-show video — have you seen it?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Official video", "url": "https://www.youtube.com/watch?v=gsZauX8gwxo" },
+        { "kind": "web", "text": "The story", "url": "https://consequence.net/2026/10/olivia-rodrigo-expectations-remix-with-chappell-roan/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Before Jason, there was Pamela — A24's 'Crystal Lake' lands on Peacock",
+      "body": "Peacock dropped all eight episodes of Crystal Lake, the A24 Friday the 13th prequel set in 1971, with Linda Cardellini as a grieving Pamela Voorhees. Pretty much perfect spooky-season binge material.",
+      "say": "There's a new Friday the 13th prequel on Peacock with Linda Cardellini as Jason's mom — great Halloween-season watch.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Preview clip", "url": "https://www.youtube.com/watch?v=9R3ZO-gXHx8" },
+        { "kind": "web", "text": "Peacock", "url": "https://www.peacocktv.com/blog/watch-the-camp-y-trailer-for-peacocks-crystal-lake-series-photos" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤖",
+      "tag": "Culture · TV",
+      "headline": "Vision gets his trilogy capper — Marvel's 'VisionQuest' arrives on Disney+",
+      "body": "Paul Bettany is back as Vision (with James Spader's Ultron lurking) in VisionQuest, the Disney+ series completing the trilogy that began with WandaVision and ran through Agatha All Along.",
+      "say": "Marvel finally gave Vision his own show on Disney+ — if you liked WandaVision, this picks the thread right back up.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=sXKnmgmbkoE" },
+        { "kind": "web", "text": "First look", "url": "https://abc7ny.com/post/visionquest-trailer-brings-1st-look-marvel-show-d23/19684131/" }
+      ]
+    }
+  ]
+}
