@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-20",
+  "label": "Tuesday, October 20, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · Pennant Won",
+      "headline": "Tampa's going to the Fall Classic — Rays close out the Guardians to win the pennant",
+      "body": "The little-budget Rays are World Series bound. Freddy Peralta gutted through 5 1/3 innings to earn ALCS MVP honors, and Junior Caminero and Yandy Díaz each launched a two-run homer as Tampa Bay beat Cleveland 7-3 in Game 6 to take the series 4-2. It sets up an all-underdog World Series against the small-market Brewers — two of the game's smallest payrolls meeting for it all, starting Friday.",
+      "say": "The Rays finished off the Guardians and they're headed to the World Series — against little Milwaukee, of all teams. Two tiny-market clubs in the Fall Classic. You been following any of the October baseball?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "ALCS Game 6 highlights (MLB)", "url": "https://www.youtube.com/watch?v=7-cD-1Wa5t0" },
+        { "kind": "web", "text": "MLB.com — Rays win the 2026 ALCS", "url": "https://www.mlb.com/news/rays-win-alcs-2026" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Finals",
+      "headline": "Angel Reese takes over — the Dream even the Finals with a monster Game 2",
+      "body": "What a response from Atlanta. Angel Reese went for 30 points and 16 rebounds — just the third player ever with a 30-16 line in a Finals game — and Rhyne Howard set a Finals record with six steals as the Dream routed the Golden State Valkyries 79-65 on the road to tie the series 1-1. It's the first Finals win in franchise history, and the series now shifts to Atlanta for Game 3 on Wednesday.",
+      "say": "Angel Reese dropped 30 and 16 to even up the WNBA Finals — the Dream's first-ever Finals win. That whole series has been a blast. You catch any of the W this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Dream vs. Valkyries — Game 2 highlights (WNBA)", "url": "https://www.youtube.com/watch?v=GSAxhaKdlVY" },
+        { "kind": "web", "text": "CBS Sports — Reese's historic night evens the series", "url": "https://www.cbssports.com/wnba/news/wnba-finals-game-2-score-valkyries-dream-live-updates/live/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Opening Night",
+      "headline": "The NBA's back tonight — and LeBron's a Sixer now",
+      "body": "Opening night is a Tuesday tripleheader. Celtics-Pistons gets it going, then the marquee one: LeBron James makes his Philadelphia 76ers debut at Madison Square Garden against the defending-champion Knicks, who'll collect their rings first. The Thunder-Spurs nightcap is a rematch of last spring's Western Conference finals.",
+      "say": "NBA season tips off tonight — and get this, LeBron's playing his first game as a 76er, at the champion Knicks. Can't believe he's still going. You going to follow any hoops this year?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NBC Sports — LeBron's 76ers debut: how to watch", "url": "https://www.nbcsports.com/nba/news/when-is-lebron-james-philadelphia-76ers-debut-date-tv-stream-info-for-sixers-vs-knicks-opening-night" },
+        { "kind": "web", "text": "NBA.com — schedule", "url": "https://www.nba.com/schedule" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night Football",
+      "headline": "Still perfect — 49ers hold off the Commanders on Monday night, move to 6-0",
+      "body": "San Francisco jumped out fast — Brock Purdy hit George Kittle for an early score and Christian McCaffrey punched in a couple more — to build a 20-3 halftime lead, then leaned on the defense to hold off a Washington push in a 23-17 win. The 49ers are rolling at 6-0.",
+      "say": "The 49ers stayed perfect — held off Washington on Monday night to go 6-0, and McCaffrey's back to his old self. You riding with anybody this NFL season, or just here for the primetime games?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Commanders vs. 49ers — Week 6 highlights (NFL)", "url": "https://www.youtube.com/watch?v=EM4Bq_uqLQ0" },
+        { "kind": "web", "text": "NFL.com — Week 6 schedule & scores", "url": "https://www.nfl.com/schedules/2026/by-week/week-6" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Champions League is back — and PSG vs. Barça headlines tonight",
+      "body": "Europe's big midweek is loaded. The pick of the night is PSG hosting Barcelona in a heavyweight clash, with Liverpool welcoming Villarreal to Anfield the same evening. Wednesday keeps it rolling with Bayern Munich vs. Arsenal and Real Madrid vs. RB Leipzig. Eighteen games across two nights — Christmas-morning stuff for the football crowd.",
+      "say": "Champions League is back tonight — PSG against Barcelona is the one everyone's circled, and Bayern-Arsenal is on tomorrow. You keep up with the European stuff, or just the big finals?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "CBS Sports — Champions League Matchday 3 schedule", "url": "https://www.cbssports.com/soccer/news/uefa-champions-league-schedule-matchday-3/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · League of Legends",
+      "headline": "The real bracket begins — LoL Worlds hits the Swiss Stage in Texas",
+      "body": "After a chaos-filled Play-In, the League of Legends World Championship moves into its main event: the Swiss Stage opens Friday in Allen, Texas. It's win-and-advance tension from here, with three-time defending champs T1 trying to survive the gauntlet on the road to the Nov. 14 grand final at Brooklyn's Barclays Center.",
+      "say": "The big League of Legends Worlds moves into its main bracket Friday down in Texas — win or go home from here. These events outdraw a lot of actual sports finals. You ever watch any esports, or is it a total mystery to you?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Watch live on Twitch (Riot Games)", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "esports.gg — Worlds 2026 hub, schedule & results", "url": "https://esports.gg/guides/league-of-legends/worlds-2026-hub/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌊",
+      "tag": "Culture · Film",
+      "headline": "The Rock and the ocean, for real this time — live-action 'Moana' swims onto Disney+",
+      "body": "Disney's live-action 'Moana' remake lands on Disney+ this week after its summer run in theaters, with newcomer Catherine Laga'aia as Moana and Dwayne Johnson back as the demigod Maui. An easy, sing-along crowd-pleaser for family movie night.",
+      "say": "The live-action Moana hits Disney+ this week — Dwayne Johnson's Maui and all. Perfect for a family movie night. You have little ones who'd be into that, or a secret Moana fan yourself?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'Moana' — official trailer (Disney)", "url": "https://www.youtube.com/watch?v=n7f6hlKsxxo" },
+        { "kind": "web", "text": "What's on Disney+ — Moana streaming date", "url": "https://www.whatsondisneyplus.com/when-is-moana-coming-to-disney/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🍽️",
+      "tag": "Culture · Film",
+      "headline": "Dinner from hell — Olivia Wilde's 'The Invite' arrives on HBO Max",
+      "body": "The buzzy A24 dark comedy 'The Invite' hits HBO Max this week after its theatrical run. Olivia Wilde directs and stars opposite Seth Rogen as a couple whose dinner with their new upstairs neighbors (Edward Norton and Penélope Cruz) goes gloriously, awkwardly sideways. Sharp, squirmy fun with a little awards buzz trailing it.",
+      "say": "There's a great-looking dark comedy hitting HBO Max — 'The Invite,' Olivia Wilde and Seth Rogen, a dinner party that goes completely off the rails. You need a new one for the couch this week?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'The Invite' — official trailer (A24)", "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ" },
+        { "kind": "web", "text": "Tom's Guide — top new movies to stream this week", "url": "https://www.tomsguide.com/entertainment/movies/5-top-new-movies-to-stream-this-week-on-hbo-max-disney-peacock-and-more-oct-20-26" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "The riff lord returns — Tony Iommi drops his first solo album in 20 years",
+      "body": "Black Sabbath's Tony Iommi — the man who basically invented the heavy-metal riff — releases his solo album 'From The Dark' on Friday, his first since 2005, with Norway's Jørn Lande on vocals. Lead single 'World Alone' is pure doomy, down-tuned Iommi, complete with a dystopian video. One for the dads who grew up on Sabbath.",
+      "say": "Tony Iommi from Black Sabbath has a new solo album coming Friday — his first in 20 years. The guy basically invented the metal riff. You into the old Sabbath stuff, or not really your thing?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Tony Iommi — 'World Alone' (official video)", "url": "https://www.youtube.com/watch?v=IddUJxhDgZk" },
+        { "kind": "web", "text": "Blabbermouth — Iommi announces 'From The Dark'", "url": "https://blabbermouth.net/news/black-sabbath-legend-tony-iommi-announces-new-solo-album-from-the-dark" }
+      ]
+    }
+  ]
+}
