@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-22",
+  "label": "Thursday, October 22, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Night 2",
+      "headline": "Ant goes nuclear — Edwards drops 45 in a Wolves season-opening rout of the Heat",
+      "body": "One night into his season and Anthony Edwards already had the signature performance. Edwards poured in 45 points (16-of-29, 9 threes) with 10 rebounds as Minnesota smoked Miami 131-106 in its opener — a line that put him alongside Michael Jordan and Wilt Chamberlain as the only players to drop 40-plus in multiple season openers. Even Giannis' 35 for the Heat got buried in the noise.",
+      "say": "Anthony Edwards opened the NBA season with 45 points — only him, Jordan and Wilt have done the 40-in-multiple-openers thing. The guy is just a walking highlight. You going to follow any hoops this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Edwards' 45-point double-double vs. the Heat (Timberwolves)", "url": "https://www.youtube.com/watch?v=RRsOFRuTg3w" },
+        { "kind": "web", "text": "Newsweek — Edwards joins elite company with historic feat", "url": "https://www.newsweek.com/sports/nba/anthony-edwards-joins-elite-group-with-historic-feat-in-timberwolves-blowout-12602948" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Declan Rice rescues it — Arsenal grab a 2-2 draw at Bayern to stay unbeaten in Europe",
+      "body": "Another Champions League cracker in Munich. Eberechi Eze — on early for the injured Bukayo Saka — put Arsenal ahead, before Alphonso Davies leveled and Harry Kane buried a penalty to swing it Bayern's way. Then Declan Rice stabbed in an 82nd-minute equalizer from a tight angle to snatch a 2-2 draw and keep the Gunners unbeaten in the league phase. Two heavyweights, four goals, late drama.",
+      "say": "Arsenal went to Bayern Munich and Declan Rice popped up with a late goal to grab a 2-2 draw — kept them unbeaten in the Champions League. These midweek European nights have been so good lately. You keep up with the European stuff, or just the big finals?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Sky Sports — Bayern 2-2 Arsenal: Rice secures draw after Kane penalty", "url": "https://www.skysports.com/football/news/13600995/bayern-munich-2-2-arsenal-declan-rice-secures-draw-for-gunners-in-champions-league-after-harry-kane-penalty" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Finals",
+      "headline": "Angel Reese bullies the boards — Dream blow out the Valkyries to take a 2-1 Finals lead",
+      "body": "Atlanta's first-ever home Finals game turned into a party. Angel Reese went for 21 points and 12 rebounds, Rhyne Howard added 16, and the Dream smothered Golden State from the jump — holding the Valkyries scoreless for the first five minutes — on the way to a 97-71 demolition in front of a sold-out State Farm Arena. Atlanta now leads the series 2-1, with Game 4 back in the ATL on Saturday.",
+      "say": "Angel Reese and the Dream just blew out that Golden State expansion team by 26 to go up 2-1 in the WNBA Finals — their first home Finals game ever and the place was packed. Really fun series. You catch any of the W this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Valkyries vs. Dream — Finals Game 3 (WNBA on ESPN)", "url": "https://www.youtube.com/watch?v=P0scBOiiylw" },
+        { "kind": "web", "text": "WNBA.com — Game 3 recap", "url": "https://www.wnba.com/news/2026-finals-dream-valkyries-game-3-recap" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Return Night",
+      "headline": "Hostile homecoming — Ottawa boos Brady Tkachuk, then routs his Panthers 5-1",
+      "body": "Talk about an awkward reunion. Former Senators captain Brady Tkachuk made his first trip back to Ottawa as a Florida Panther and got booed every time he touched the puck — then watched his old team run him off the ice, winning 5-1. Tkachuk did score Florida's lone goal in his old barn, but the night belonged to the Sens and a very loud, very petty crowd.",
+      "say": "Brady Tkachuk went back to Ottawa for the first time since leaving, and the crowd booed him all night — then his old team beat his Panthers 5-1. Nothing like a fanbase holding a grudge. You follow any hockey, or is it off your radar?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Panthers vs. Senators — highlights (NHL)", "url": "https://www.youtube.com/watch?v=gyU5mDEYup8" },
+        { "kind": "web", "text": "TSN — Tkachuk hears boos as Senators roll", "url": "https://www.tsn.ca/nhl/article/former-captain-tkachuk-hears-boos-in-return-as-senators-roll-to-win-over-panthers" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · World Series",
+      "headline": "Smallest-market Fall Classic ever? Rays and Brewers open the World Series tomorrow",
+      "body": "The feel-good October gets its finale. The World Series starts Friday in Milwaukee with two of baseball's tiniest payrolls — the Rays and the Brewers — playing for it all. The Brewers earned home field with the best record in baseball and have named flamethrowing rookie Jacob Misiorowski for Game 1; Tampa Bay is expected to counter with Drew Rasmussen, arguably October's best arm. Underdogs all the way down.",
+      "say": "The World Series starts tomorrow and it's two little-market teams — the Rays and the Brewers — nobody picked in the spring. Kind of a perfect underdog Fall Classic. You been following any of the October baseball?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "MLB.com — Rays-Brewers Game 1: lineups & pitching matchup", "url": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night Football",
+      "headline": "Even match under the lights — 4-2 Patriots visit the 4-2 Bears tonight",
+      "body": "Week 7 kicks off at Soldier Field with a genuinely even one: both the Patriots and the Bears come in at 4-2, so somebody's getting their first taste of a sub-.500 Thursday. Al Michaels and Kirk Herbstreit have the call on Prime Video (8:15 ET / 5:15 PT). Good excuse to fire up the wings on a weeknight.",
+      "say": "There's Thursday night football tonight — Patriots at the Bears, both sitting at 4-2, so it should be a close one. Nice midweek excuse to order wings. You riding with anybody this NFL season, or just here for the primetime games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "NFL.com — Week 7 schedule", "url": "https://www.nfl.com/schedules/2026/by-week/week-7" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎹",
+      "tag": "Culture · Music",
+      "headline": "John Legend + Pharrell — the all-Pharrell-produced album 'Muse' arrives Friday",
+      "body": "A pairing 20 years in the making: John Legend drops 'Muse' on Friday, his new album produced start-to-finish by Pharrell Williams — their first full project together. The singles 'Daylight' and 'Fireflies' are lush, cinematic, piano-and-strings stuff (Clipse even turns up on the record). Grown-up, Sunday-morning soul with a little sparkle.",
+      "say": "John Legend's got a new album out Friday that Pharrell produced the whole way through — their first time doing a full record together. The singles sound gorgeous. You into that smooth soul stuff, or stick with what you know?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "John Legend, Pharrell Williams — 'Fireflies' (official video)", "url": "https://www.youtube.com/watch?v=fEw6VZq9xg8" },
+        { "kind": "web", "text": "Billboard — Legend & Pharrell share 'Fireflies' ahead of 'Muse'", "url": "https://www.billboard.com/music/rb-hip-hop/john-legend-pharrell-fireflies-video-muse-1236347865/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🖤",
+      "tag": "Culture · Music",
+      "headline": "Twenty years of 'Back to Black' — Amy Winehouse's masterpiece gets a deluxe reissue Friday",
+      "body": "Hard to believe, but 'Back to Black' turns 20 this month — and Friday brings the big anniversary reissue. The deluxe set piles on four unreleased demos, rare B-sides, and Amy's full 2007 Paradiso concert in Amsterdam (never before out in full), plus new artwork and liner notes from Mark Ronson. A perfect excuse to put on 'Rehab,' 'Valerie' and that title track all over again.",
+      "say": "Amy Winehouse's 'Back to Black' is turning 20 and they're putting out this big deluxe reissue with unreleased stuff on it. Wild that it's been two decades. You remember when that album was everywhere?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Amy Winehouse — 'Back To Black' (official video)", "url": "https://www.youtube.com/watch?v=TJAfLE39ZZ8" },
+        { "kind": "web", "text": "uDiscover — 'Back To Black' 20th-anniversary editions", "url": "https://www.udiscovermusic.com/news/amy-winehouse-back-to-black-20th-anniversary-editions/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🩸",
+      "tag": "Culture · Film",
+      "headline": "Nathan Fielder moves in with Elizabeth Holmes — the surreal doc 'You Can See Everything' is in theaters",
+      "body": "One of the strangest, most talked-about films of the fall: Nathan Fielder and Lance Oppenheim's 'You Can See Everything,' in which Fielder embeds with disgraced Theranos founder Elizabeth Holmes and her family in the 34 days before she reports to prison. The A24 doc is pure Fielder — awkward, probing, impossible to look away from — right down to him asking Holmes to her face whether she really did nothing wrong.",
+      "say": "There's this bizarre new documentary where Nathan Fielder — the deadpan 'Nathan For You' guy — basically moves in with Elizabeth Holmes from Theranos right before she goes to prison. Sounds unhinged in the best way. You keep up with that true-crime stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'You Can See Everything' — official trailer", "url": "https://www.youtube.com/watch?v=dXVSGI9gaT8" },
+        { "kind": "web", "text": "Variety — inside the Nathan Fielder / Elizabeth Holmes doc", "url": "https://variety.com/2026/film/news/you-can-see-everything-trailer-nathan-fielder-elizabeth-holmes-1236856369/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "A 'Friday' throwback — Anderson .Paak & Cordae team up on 'Heavy Is The Crown,' out Friday",
+      "body": "Two of hip-hop's most charismatic voices join forces: Anderson .Paak and Cordae drop their joint album 'Heavy Is The Crown' on Friday. Lead single 'A Good Day' flips Bill Withers' 'Lovely Day,' nods to Ice Cube, and comes with a Dave Meyers video that plays like a loving homage to the movie 'Friday.' Easy, sunny, feel-good stuff.",
+      "say": "Anderson .Paak and Cordae made a whole album together that's out Friday, and the first video is this fun little tribute to the movie 'Friday.' Super feel-good. You keep up with new music, or more of a classics person?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Anderson .Paak, Cordae — 'A Good Day' (official video)", "url": "https://www.youtube.com/watch?v=8zxzlAyMg2U" },
+        { "kind": "web", "text": "SoulBounce — .Paak & Cordae announce 'Heavy Is The Crown'", "url": "https://soulbounce.com/2026/10/anderson-paak-cordae-a-good-day-audio-video-heavy-is-the-crown-album-news/" }
+      ]
+    }
+  ]
+}
