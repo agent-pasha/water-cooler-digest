@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-23",
+  "label": "Friday, October 23, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · World Series",
+      "headline": "First pitch tonight — the smallest-market World Series ever opens in Milwaukee",
+      "body": "The Rays and Brewers get the Fall Classic going tonight (8 ET on FOX) in Milwaukee. Milwaukee hands the ball to flamethrowing rookie Jacob Misiorowski — who's already touched 104.8 mph this October — against Tampa Bay's red-hot Drew Rasmussen, unbeaten since the All-Star break.",
+      "say": "Did you see who's starting Game 1 for the Brewers? A rookie who throws 104 mph. This World Series could get wild.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Misiorowski's 104.8 mph heat", "url": "https://www.youtube.com/watch?v=0vB2LFXVMnc" },
+        { "kind": "web", "text": "Game 1 matchup (MLB.com)", "url": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "DC goes full body-horror — 'Clayface' oozes into theaters today",
+      "body": "James Gunn's DC rolls the dice on a straight-up horror movie: a washed-up actor takes an experimental treatment and starts literally falling apart. Mike Flanagan co-wrote it, and the early reviews are surprisingly warm — around 75% on Rotten Tomatoes.",
+      "say": "A DC movie that's actual body horror just opened — supposedly gross in the best way. Are you a horror person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer", "url": "https://www.youtube.com/watch?v=xgQc5T2djk8" },
+        { "kind": "web", "text": "First reviews (Rotten Tomatoes)", "url": "https://editorial.rottentomatoes.com/article/clayface-first-reviews/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "BLACKPINK's LISA drops her 'PRESS PLAY' EP",
+      "body": "Lisa's new solo EP PRESS PLAY lands today. Its lead single 'SaWaDiKa' — a vibrant love letter to her hometown of Bangkok — already blew past 200 million views, so expect the rest of the project to be everywhere this weekend.",
+      "say": "LISA's new EP is out — that 'SaWaDiKa' video already hit 200 million views. Are you into K-pop at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'SaWaDiKa' music video", "url": "https://www.youtube.com/watch?v=FyS5dAywkEo" },
+        { "kind": "web", "text": "Rolling Stone", "url": "https://ca.rollingstone.com/music/lisa-sawadika-single-press-play-ep/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎩",
+      "tag": "Culture · TV",
+      "headline": "'Lupin' is back — all of Part 4 just hit Netflix",
+      "body": "Omar Sy returns as gentleman thief Assane Diop, and all eight episodes of Part 4 dropped today. It picks up four years later with Assane behind bars — prime weekend-binge material if you loved the first run.",
+      "say": "New Lupin dropped on Netflix today — the whole season at once. Perfect weekend binge, right?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Part 4 official trailer", "url": "https://www.youtube.com/watch?v=Vr4zLkYblMA" },
+        { "kind": "web", "text": "What to know", "url": "https://tbreak.com/lupin-part-4-trailer-netflix-october-23/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "London derby headlines a loaded Saturday — Chelsea host Tottenham",
+      "body": "Premier League weekend is stacked: Chelsea–Spurs at Stamford Bridge, plus Arsenal–Everton and Aston Villa–Man City all on Saturday. The last time these two London rivals met, Chelsea edged it 2-1.",
+      "say": "Chelsea-Spurs this weekend — that one's always chaos. Who've you got in the London derby?",
+      "watch": "▶ Last time these two met",
+      "links": [
+        { "kind": "yt",  "text": "Chelsea 2-1 Tottenham highlights", "url": "https://www.youtube.com/watch?v=RfF9wqEZkhM" },
+        { "kind": "web", "text": "Weekend fixtures", "url": "https://www.premierleague.com/fixtures" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "Worlds gets real — the Swiss Stage kicks off with Korea-vs-China clashes",
+      "body": "The League of Legends World Championship hits its Swiss Stage in Texas today, and Round 1 is loaded with heavyweight LCK-LPL bouts — Gen.G vs Invictus Gaming and Hanwha Life vs Top Esports headline. Win three and you're into the knockouts; lose three and you're out.",
+      "say": "LoL Worlds just hit the real bracket — Korea vs China on day one. Do you follow any esports?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Watch live (Riot Games)", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "Worlds 2026 hub", "url": "https://esports.gg/guides/league-of-legends/worlds-2026-hub/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Guitar wizards Polyphia return with 'Be Not Afraid'",
+      "body": "Instrumental-rock phenoms Polyphia dropped their fifth album, Be Not Afraid, today. The single 'Power in the Blood' — shot in a gold-leaf Baroque church in Rio — shows off the jaw-dropping fretwork that's made them a cult favorite, no singing required.",
+      "say": "If you've never heard Polyphia, their new album's out — unreal guitar playing and not a single lyric. Worth a listen.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Power in the Blood' video", "url": "https://www.youtube.com/watch?v=fDltPLFdkYI" },
+        { "kind": "web", "text": "Blabbermouth", "url": "https://blabbermouth.net/news/polyphia-announces-new-album-be-not-afraid-shares-power-in-the-blood-single" }
+      ]
+    },
+    {
+      "cat": "us",
+      "emoji": "🏈",
+      "tag": "College Football · Big Ten",
+      "headline": "Big Noon bounce-back — Indiana heads to Michigan on Saturday",
+      "body": "Fresh off having their long win streak snapped, Indiana hits the road for a Big Ten showdown at Michigan in the noon window on FOX. The Big House is a brutal place to rebound, so this one should have some bite.",
+      "say": "Indiana at Michigan Saturday at noon — big Big Ten one. You catching any college football this weekend?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Saturday TV schedule", "url": "https://fbschedules.com/college-football-schedule-tv-selections-for-october-24-2026/" }
+      ]
+    }
+  ]
+}
