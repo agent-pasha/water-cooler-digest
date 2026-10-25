@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-25",
+  "label": "Sunday, October 25, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · World Series",
+      "headline": "Brewers claw back from 4-0 down — and now lead the Series 2-0",
+      "body": "Milwaukee spotted Tampa Bay a four-run first inning, then roared back to win 5-4 behind Sal Frelick's game-tying homer and a clutch bullpen. The Brewers head to Florida up 2-0, two wins from the franchise's first-ever title.",
+      "say": "How about the Brewers erasing a 4-0 hole in Game 2? Tampa's in real trouble now, down 0-2.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Game 2 full highlights (MLB)", "url": "https://www.youtube.com/watch?v=UmfmgsZBw2w" },
+        { "kind": "web", "text": "ESPN box score", "url": "https://www.espn.com/mlb/game/_/gameId/401908043/rays-brewers" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Finals",
+      "headline": "Valkyries refuse to die — Golden State evens the Finals 2-2",
+      "body": "A night after Atlanta had a chance to close it out, the expansion Golden State Valkyries gutted out a 67-62 road win, with Gabby Williams scoring 17 and the defense holding Angel Reese to eight points. It's down to a Game 5 (at least) back in the Bay.",
+      "say": "The Valkyries just forced a Game 5 in the Finals — not bad for a team that didn't exist last season.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Game 4 highlights (Valkyries)", "url": "https://www.youtube.com/watch?v=YrA-TiI0AcM" },
+        { "kind": "web", "text": "WNBA.com recap", "url": "https://www.wnba.com/news/live-updates-2026-wnba-finals-game-4" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Villa stun City — Nicolás Jackson's double downs the champions",
+      "body": "Aston Villa came from behind at Villa Park to beat Manchester City 2-1, with Nicolás Jackson scoring twice after Erling Haaland had put City in front. A statement result that shakes up the top of the table.",
+      "say": "Did you catch Villa beating Man City? Jackson scored twice — City suddenly look very beatable.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Villa 2-1 City highlights", "url": "https://www.youtube.com/watch?v=K9xban2AJO8" },
+        { "kind": "web", "text": "Match page (theScore)", "url": "https://www.thescore.com/epl/event/98342" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "DK pull off the 'Elder flip' to stun T1 at Worlds",
+      "body": "Day 2 of the Worlds Swiss stage in Texas gave us the moment of the tournament so far: Dplus KIA stole the Elder Dragon and instantly wiped four-time champs T1 to finish the game and move to 2-0. T1 have work to do to advance.",
+      "say": "You've gotta see the 'Elder flip' DK hit on T1 at Worlds — the whole arena lost it.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "T1 vs. DK full game", "url": "https://www.youtube.com/watch?v=OKXgd82j3iM" },
+        { "kind": "web", "text": "Dot Esports recap", "url": "https://dotesports.com/league-of-legends/news/dk-beats-t1-as-lpl-picks-up-its-first-wins-on-day-2-of-worlds-2026-swiss-stage" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Paris",
+      "headline": "Allez! The NFL plays its first-ever game in Paris today",
+      "body": "The Steelers and Saints are kicking off the league's first regular-season game at the Stade de France. Early on, Aaron Rodgers passed Peyton Manning for third on the NFL's all-time passing-touchdown list.",
+      "say": "The NFL's in Paris for the first time ever today — Steelers and Saints at the Stade de France.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Paris game hype (Saints)", "url": "https://www.youtube.com/watch?v=2JO0bvxJyc0" },
+        { "kind": "web", "text": "Game center", "url": "https://www.neworleanssaints.com/game-day/2026/reg-week7/steelers-at-saints/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "'Clayface' oozes to No. 1 — and lands a rare A- for a horror movie",
+      "body": "DC's body-horror swing won the weekend with an estimated $24M opening and a surprising A- CinemaScore, a grade scary movies almost never get. A24's 'You Can See Everything' held second around $20M.",
+      "say": "'Clayface' actually topped the box office — and horror fans say it's genuinely great, not just gross.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=xgQc5T2djk8" },
+        { "kind": "web", "text": "Deadline box office", "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Everyone's hiding behind the couch for Netflix's 'Below'",
+      "body": "The creature-feature thriller starring Josh Hartnett and Charlie Heaton — a sea monster terrorizing a remote Newfoundland town — is parked at No. 1 on Netflix for a second straight week. A pretty perfect spooky-season binge.",
+      "say": "Have you started 'Below' on Netflix? It's the creepy sea-monster show everyone's bingeing before Halloween.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=i6RibsmuXLo" },
+        { "kind": "web", "text": "Netflix Top 10", "url": "https://www.netflix.com/tudum/top10/united-states/tv" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Drake and Don Toliver are everywhere with 'Solar Eclipse'",
+      "body": "The OVO team-up has become one of the biggest songs of the moment, riding into the Hot 100's top 10. It's a hazy, late-night slow-burn that's all over the radio and playlists right now.",
+      "say": "Have you heard 'Solar Eclipse'? Drake and Don Toliver — it's been stuck in my head all week.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Official video", "url": "https://www.youtube.com/watch?v=vBk30V8AukM" },
+        { "kind": "web", "text": "Billboard Hot 100", "url": "https://www.billboard.com/charts/hot-100/" }
+      ]
+    }
+  ]
+}
