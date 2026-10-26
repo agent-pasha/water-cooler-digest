@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-26",
+  "label": "Monday, October 26, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · La Liga",
+      "headline": "Mbappé bags a brace as Real Madrid win the Clásico 2-1",
+      "body": "The season's first Clásico went to Real Madrid, who edged Barcelona 2-1. Kylian Mbappé scored both goals — one of them reportedly his 100th in a Madrid shirt — and the loss ended Barça's perfect start to La Liga.",
+      "say": "Did you catch the Clásico? Mbappé scored both goals — including his 100th for Madrid — to beat Barcelona 2-1.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Key takeaways (Al Jazeera)", "url": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · US Grand Prix",
+      "headline": "Antonelli wins in Austin — and he's one race from the title",
+      "body": "The 20-year-old Mercedes driver dominated the U.S. Grand Prix from pole for his ninth win of the season, finishing well clear of Charles Leclerc and Max Verstappen. He can clinch his first world championship next weekend in Mexico City.",
+      "say": "This Antonelli kid just won in Austin and he's about to win the whole F1 title at 20 — kind of wild how fast he's taken over.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Race report (Formula1.com)", "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Sunday Night",
+      "headline": "Seattle's defense shuts down the Chiefs on Sunday night",
+      "body": "In the primetime game everyone circled, the Seahawks smothered Patrick Mahomes and Kansas City, holding the Chiefs to a single field goal in a 20-3 win. Not the Sunday-night script most people expected.",
+      "say": "You see Sunday night? Seattle's defense held the Chiefs to three points — three! — and won 20-3.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "What we learned (NFL.com)", "url": "https://www.nfl.com/news/2026-nfl-season-week-7-what-we-learned-from-sunday-s-games" }
+      ]
+    },
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · World Series",
+      "headline": "World Series shifts to Tampa — Brewers up 2-0, Game 3 tonight",
+      "body": "Milwaukee won both nail-biters at home and carries a 2-0 World Series lead into Tampa Bay for Game 3 tonight (8 ET). The Rays essentially have to start winning now, or this one ends in a hurry.",
+      "say": "Brewers are up 2-0 in the World Series with Game 3 tonight in Tampa. The Rays kind of have to win tonight, right?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Live scoreboard (MLB.com)", "url": "https://www.mlb.com/scores" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "Dplus KIA and Gen.G punch the first tickets to the Worlds knockouts",
+      "body": "At the League of Legends World Championship in Texas, DK and Gen.G both ran the table in the Swiss Stage (3-0) to become the first teams into the quarterfinals. From here it's single-elimination, where every series is win-or-go-home.",
+      "say": "The big League of Legends Worlds is down to the knockout rounds — two Korean teams are already through. You follow any esports?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Watch live (Riot Games)", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "Swiss Day 3 recap (Dot Esports)", "url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-3-results" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "'The Black Parade' turns 20 — My Chemical Romance drop a deluxe reissue",
+      "body": "MCR just reissued their 2006 emo opus for its 20th anniversary, with six bonus tracks including a never-before-released B-side. Cue an entire generation feeling very old and very nostalgic all at once.",
+      "say": "'The Black Parade' is 20 years old — MCR just put out an anniversary edition. Instant time machine to 2006, right?",
+      "watch": "▶ The clip everyone knows",
+      "links": [
+        { "kind": "yt", "text": "'Welcome to the Black Parade' (official video)", "url": "https://www.youtube.com/watch?v=RRKJiM9Njr8" },
+        { "kind": "web", "text": "Reissue details (NME)", "url": "https://www.nme.com/news/music/my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks-3968126" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "👻",
+      "tag": "Culture · TV",
+      "headline": "Mike Flanagan's 'Carrie' is the spooky-season binge of the week",
+      "body": "The horror maestro behind 'The Haunting of Hill House' reimagines Stephen King's 'Carrie' as an eight-episode series, dropped all at once on Prime Video — a modern, social-media-age spin on the prom-night classic. Perfect Halloween-week watch.",
+      "say": "Have you started the new 'Carrie' on Prime Video? Mike Flanagan did it — great Halloween-week binge.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=FdTNlaEqgHs" },
+        { "kind": "web", "text": "Trailer & details (Bloody Disgusting)", "url": "https://bloody-disgusting.com/tv/3966976/carrie-watch-the-official-trailer-for-mike-flanagans-new-stephen-king-series/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Respek — Sacha Baron Cohen brings back Ali G",
+      "body": "More than 20 years later, Ali G is back: 'Ali G: Who Iz I?' hit theaters this weekend — a new mockumentary and Baron Cohen's directorial debut, with the tracksuited Staines legend causing chaos all over again.",
+      "say": "Did you hear Sacha Baron Cohen brought Ali G back? New movie just came out — booyakasha.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=ak-TKDjefz0" },
+        { "kind": "web", "text": "Trailer breakdown (Variety)", "url": "https://au.variety.com/2026/film/global/ali-g-who-iz-i-trailer-sacha-baron-cohen-39702/" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Upset",
+      "headline": "The 49ers' perfect season is over — Falcons pull the upset",
+      "body": "San Francisco rolled into Week 7 undefeated and left with its first loss, falling to the Falcons 29-20. The NFC's last unbeaten team is suddenly mortal like everyone else.",
+      "say": "The Niners finally lost one — Atlanta got them 29-20. Somebody had to end the perfect season, I guess.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Week 7 scoreboard (ESPN)", "url": "https://www.espn.com/nfl/scoreboard/_/date/20261025" }
+      ]
+    }
+  ]
+}
