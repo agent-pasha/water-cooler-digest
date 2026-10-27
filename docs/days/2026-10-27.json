@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-27",
+  "label": "Tuesday, October 27, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · World Series",
+      "headline": "Brewers rout the Rays again — Milwaukee's a win from a sweep",
+      "body": "Milwaukee battered Tampa Bay 10-1 in Game 3 to grab a 3-0 stranglehold on the World Series, a wild eight-run fifth inning doing most of the damage. Win Game 4 tonight and the Brewers finish off a sweep — and would become the first team to run the table through both a League Championship Series and the World Series since the 1976 Reds.",
+      "say": "The Brewers are up 3-0 and going for the sweep tonight — a title would be Milwaukee's first ever. You catching any of the World Series?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Chandler Simpson's unreal Game 3 catch (MLB)", "url": "https://www.youtube.com/watch?v=9q7SNNi_D2c" },
+        { "kind": "web", "text": "Game 3 recap (NPR)", "url": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "WNBA · Finals",
+      "headline": "The Valkyries are one win from a fairytale title",
+      "body": "The two-year-old Golden State Valkyries put on a defensive clinic — Kiah Stokes everywhere — to smother Atlanta 64-55 in Game 5 and take a 3-2 Finals lead. The expansion team can clinch its first championship in Game 6 on Thursday in Atlanta.",
+      "say": "That Golden State expansion team, the Valkyries, is one win from the WNBA title — and it's only their second season. What a run. You catch any of the W this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Game 5 recap (WNBA.com)", "url": "https://www.wnba.com/news/2026-finals-valkyries-dream-game-5-recap" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night",
+      "headline": "Cowboys roll the Eagles on Monday night, 38-21",
+      "body": "Dak Prescott threw three touchdowns (two to CeeDee Lamb) and Javonte Williams ran for 155 yards as Dallas cruised past Philadelphia on MNF. Without the injured Jalen Hurts, the Eagles have now dropped five straight.",
+      "say": "Cowboys handled the Eagles 38-21 on Monday night — Philly's lost five in a row now. You riding with anybody this NFL season?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Game recap (ESPN)", "url": "https://www.espn.com/nfl/recap?gameId=401873009" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "Counter-Strike's elite are in Bucharest for a $1.25M showdown",
+      "body": "PGL Masters Bucharest is in full swing — a Tier-1 CS2 event with the world's best (Vitality, NAVI, MOUZ, Spirit and more) grinding through the stage for a $1.25M prize pool, running all week in Romania.",
+      "say": "There's a big Counter-Strike tournament on right now — all the top teams in Bucharest for over a million bucks. You play any CS, or watch the pro stuff?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Watch live (PGL)", "url": "https://www.twitch.tv/pgl" },
+        { "kind": "web", "text": "Bracket & results (Liquipedia)", "url": "https://liquipedia.net/counterstrike/PGL/2026/Bucharest" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Monday",
+      "headline": "Kings light up the Rangers 6-3 at the Garden",
+      "body": "Los Angeles rolled into Madison Square Garden and piled on six goals to beat the Rangers 6-3 in a tidy road win. The Kings are off to a strong start to the season while New York keeps searching for traction.",
+      "say": "The Kings dropped six on the Rangers at the Garden last night. The hockey season's quietly been a lot of fun so far. You follow any NHL?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Kings vs. Rangers highlights (NHL)", "url": "https://www.youtube.com/watch?v=703SY6hadII" },
+        { "kind": "web", "text": "Monday's scores (ESPN)", "url": "https://www.espn.com/nhl/scoreboard/_/date/20261026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Netflix's Matthew Perry doc lands on the anniversary of his death",
+      "body": "'The One About Matthew Perry,' a three-part documentary on the late 'Friends' star, hits Netflix today — three years to the day after his passing. His sister and closest friends share memories, with a lot of never-before-seen home footage.",
+      "say": "The new Matthew Perry documentary is out on Netflix today. Hard to believe it's already been three years. You a 'Friends' person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=_iM1AOFxoDI" },
+        { "kind": "web", "text": "Trailer & details (TheWrap)", "url": "https://www.thewrap.com/media-platforms/streaming/the-one-about-matthew-perry-dead-friends-docuseries-netflix-trailer/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Queens of the Stone Age are back — 'Perfecth' drops Friday",
+      "body": "Josh Homme and co. return with their ninth album, 'Perfecth,' out Friday on Matador — their first new record in three years. Lead singles 'Insignificant Other' and 'Easy Street' have all the dusty, swaggering groove longtime fans love.",
+      "say": "New Queens of the Stone Age album drops Friday — their first in three years. You into them, or more of a classic-rock person?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Insignificant Other' (official)", "url": "https://www.youtube.com/watch?v=1jGT1UvmBi0" },
+        { "kind": "web", "text": "Album details (NME)", "url": "https://www.nme.com/news/music/queens-of-the-stone-age-announce-details-of-new-album-perfecth-with-groovy-single-insignificant-other-3964627" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Taylor Swift goes home — into the Nashville Songwriters Hall of Fame",
+      "body": "Taylor Swift returned to Nashville — country curls and all — to be inducted into the Songwriters Hall of Fame, a nod to the songwriting roots that started it all. A full-circle night for the hometown kid turned global superstar.",
+      "say": "Taylor Swift just got inducted into the Nashville Songwriters Hall of Fame — went full country roots for it. Wherever you land on her, the songwriting's undeniable, right?",
+      "watch": "▶ The clip everyone knows",
+      "links": [
+        { "kind": "yt",  "text": "'Love Story (Taylor's Version)'", "url": "https://www.youtube.com/watch?v=aXzVF3XeS8M" },
+        { "kind": "web", "text": "Inside the induction (WWD)", "url": "https://wwd.com/pop-culture/celebrity-news/taylor-swift-country-hair-nashville-songwriter-hall-of-fame-1239387219/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔪",
+      "tag": "Culture · TV",
+      "headline": "'Dexter: Resurrection' returns for Season 2 — right on Halloween",
+      "body": "TV's favorite fictional serial killer is back: 'Dexter: Resurrection' drops its second season Friday on Paramount+, with Michael C. Hall's Dexter caught between two killers in New York. A perfect spooky-season binge.",
+      "say": "New season of 'Dexter: Resurrection' hits Friday — on Halloween, naturally. You ever get into Dexter, or is that too dark for you?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Season 2 trailer & premiere (BroadwayWorld)", "url": "https://www.broadwayworld.com/article/DEXTER-RESURRECTION-Season-2-Trailer-Debuts-on-Paramount-20261001" }
+      ]
+    }
+  ]
+}
