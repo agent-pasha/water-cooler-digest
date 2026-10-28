@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-28",
+  "label": "Wednesday, October 28, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · World Series",
+      "headline": "Rays refuse to go quietly — a 12th-inning walk-off saves their season",
+      "body": "A night after looking cooked, Tampa Bay pulled off a heart-stopper: down to their last outs, the Rays tied it late and then won Game 4 in the 12th inning, 4-3, on a walk-off single. Milwaukee's Cooper Pratt had even homered to put the Brewers ahead in the top of the inning — but it wasn't enough. The Brewers still lead the series 3-1, with Game 5 tonight in Tampa and a first-ever title still within one win.",
+      "say": "Did you catch the World Series last night? The Rays were basically dead and won it in the 12th — Milwaukee's still up 3-1 and can close it out tonight. Wild October.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Brewers vs. Rays — Game 4 full highlights (MLB)", "url": "https://www.youtube.com/watch?v=_7zaliemWbg" },
+        { "kind": "web", "text": "Stats & facts from Game 4 (MLB.com)", "url": "https://www.mlb.com/news/stats-facts-from-rays-win-2026-world-series-game-4" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Tuesday Night",
+      "headline": "Overtime madness in Brooklyn — Celtics survive the Nets by a point",
+      "body": "One of those 'don't turn it off early' nights: Jayson Tatum poured in 40 as Boston needed overtime to squeeze past Brooklyn 125-124. Michael Porter Jr. went for 27 and 12 for the Nets and nearly stole it at the buzzer. Early-season hoops has been quietly delivering bangers.",
+      "say": "Celtics and Nets went to OT last night and Boston won by a single point — Tatum had 40. The NBA's barely started and the games are already nuts. You going to follow any hoops this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Insane OT finish — Celtics vs. Nets (NBA)", "url": "https://www.youtube.com/watch?v=ZhIpnAXrktc" },
+        { "kind": "web", "text": "Tuesday's scores & leaders", "url": "https://www.landofbasketball.com/nba_daily_summary/20261027.htm" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Carabao Cup",
+      "headline": "Liverpool host Chelsea tonight in the pick of the League Cup",
+      "body": "England's floodlit cup competition hits the fourth round, and the standout is a heavyweight: Liverpool vs. Chelsea at Anfield tonight (4pm ET / 1pm PT). It headlines a week of all-Premier-League ties — Newcastle-Spurs and Arsenal are in the mix too — with a quarterfinal spot on the line in a straight knockout.",
+      "say": "Liverpool and Chelsea play in the League Cup tonight — one game, winner moves on. Those midweek cup nights are always a bit chaotic. You follow the English stuff, or just the big ones?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Liverpool vs. Chelsea stat pack (Liverpool FC)", "url": "https://www.liverpoolfc.com/news/carabao-cup-liverpool-chelsea-stat-pack" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "Counter-Strike's $1.25M Bucharest playoffs are locked and loaded",
+      "body": "PGL Masters Bucharest is down to the business end: the Swiss stage is wrapping up and the single-elimination playoffs begin Thursday, with the grand final Saturday in Romania. The usual giants — Vitality, NAVI, MOUZ, Spirit — are fighting for the eight-team bracket and a $1.25M pot. Win-or-go-home CS2 from here.",
+      "say": "The big Counter-Strike tournament in Bucharest is hitting the knockout rounds — single elimination, over a million on the line. You play any CS, or watch the pro scene?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Watch live (PGL)", "url": "https://www.twitch.tv/pgl" },
+        { "kind": "web", "text": "Bracket & results (Liquipedia)", "url": "https://liquipedia.net/counterstrike/PGL/2026/Bucharest" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Say what you want — Nickelback are back with a new album Friday",
+      "body": "Love 'em or roll your eyes, they're unavoidable: Nickelback drop 'Everything Under The Sun' on Friday, their 11th album and first new music since 2022. Lead single 'Rattle The Cage' even brings in guitar wizard John 5 (Mötley Crüe, Rob Zombie) for the solo. Chad Kroeger's voice, right on cue.",
+      "say": "New Nickelback album out Friday — their first in a few years. Be honest: secret fan, or are they your designated band to make fun of?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Rattle The Cage' (official video)", "url": "https://www.youtube.com/watch?v=qki8O42Ct1w" },
+        { "kind": "web", "text": "Album details (Blabbermouth)", "url": "https://blabbermouth.net/news/nickelback-announces-new-album-everything-under-the-sun-shares-rattle-the-cage-single-featuring-john-5" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🌙",
+      "tag": "Culture · TV",
+      "headline": "A new serial-killer thriller for the dark nights — 'Nocturne' lands Friday",
+      "body": "Perfect timing for the season: Apple TV's 'Nocturne' premieres Friday, a moody crime thriller based on Lars Kepler's bestsellers, starring Liev Schreiber, Zazie Beetz and Stephen Graham chasing a killer. Two episodes to start, then weekly through Christmas — a proper slow-burn binge.",
+      "say": "There's a new creepy crime thriller on Apple TV Friday — Liev Schreiber hunting a serial killer. Feels like the right time of year for it. You into that dark detective stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Apple TV)", "url": "https://www.youtube.com/watch?v=AaEy1f2Dgys" },
+        { "kind": "web", "text": "Trailer & details (Bleeding Cool)", "url": "https://bleedingcool.com/tv/nocturne-trailer-apple-tv-previews-schreiber-beetz-graham-starrer/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏜️",
+      "tag": "Culture · Film",
+      "headline": "The spice must flow one more time — 'Dune: Part Three' trailer is here",
+      "body": "Denis Villeneuve's epic reaches its finale: the official trailer for 'Dune: Part Three' is out, picking up years after Paul's rise with Zendaya's Chani at the heart of it. It hits theaters and IMAX December 18 — plenty of time to rewatch the first two and argue about the books.",
+      "say": "The last Dune movie has a trailer out and it looks massive — comes out in December. Are you a Dune person, or did the sandworms lose you?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Warner Bros.)", "url": "https://www.youtube.com/watch?v=NdvqHc56lE0" },
+        { "kind": "web", "text": "Trailer breakdown (Hot Press)", "url": "https://www.hotpress.com/film-tv/new-trailer-released-for-dune-part-three-23150118" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎃",
+      "tag": "Culture · Halloween",
+      "headline": "Halloween's on Saturday — cue the costumes, candy and 'Thriller'",
+      "body": "The big spooky night lands on a Saturday this year, which means prime trick-or-treating and party conditions. And no October 31 is complete without the greatest Halloween video ever made — Michael Jackson's 14-minute 'Thriller,' zombie dance and all, still unbeatable more than 40 years on.",
+      "say": "Halloween's Saturday — you doing anything, costume or handing out candy? I still can't get through the month without watching 'Thriller' at least once.",
+      "watch": "▶ The clip everyone knows",
+      "links": [
+        { "kind": "yt",  "text": "Michael Jackson — 'Thriller' (official video)", "url": "https://www.youtube.com/watch?v=sOnqjkJTMaA" },
+        { "kind": "web", "text": "What to watch this Halloween (Rotten Tomatoes)", "url": "https://editorial.rottentomatoes.com/article/halloween-programming-guide-2026/" }
+      ]
+    }
+  ]
+}
