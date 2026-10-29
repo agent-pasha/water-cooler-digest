@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-29",
+  "label": "Thursday, October 29, 2026",
+  "items": [
+    {
+      "cat": "mlb",
+      "emoji": "⚾",
+      "tag": "MLB · World Series",
+      "headline": "Milwaukee has a champion — the Brewers win the first World Series in franchise history",
+      "body": "They finally got there. Milwaukee closed out Tampa Bay 4-1 in Game 5 on Wednesday night to win it all for the first time in the club's 57 years. Rookie flamethrower Jacob Misiorowski spun 5 2/3 scoreless innings, Cooper Pratt drove in two, and closer Trevor Megill slammed the door with a six-out save. Catcher William Contreras took home Series MVP for a scrappy little-market team nobody picked in the spring.",
+      "say": "The Brewers actually did it — first World Series in franchise history, closed out the Rays in five. Always nice to see a small-market team get the parade. Did you catch any of it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "World Series Game 5 full highlights (MLB)", "url": "https://www.youtube.com/watch?v=B4GJazslV4Q" },
+        { "kind": "web", "text": "Game 5 recap (MLB.com)", "url": "https://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Wednesday Night",
+      "headline": "Brunson bullies Chicago — Knicks rally to win 133-127",
+      "body": "Jalen Brunson poured in 38 points (with six threes) to drag New York back from behind in Chicago and hold off the Bulls 133-127. It capped a loaded 12-game night that also saw Steph Curry drop 44 and Victor Wembanyama go for 36 and 14. The season's barely a week old and the box scores are already absurd.",
+      "say": "Brunson had 38 and the Knicks came back to beat the Bulls last night — and Curry dropped 44 in another game. The NBA just started and it's already a nightly highlight reel. You following any hoops this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Brunson's 38 vs. the Bulls (NBA)", "url": "https://www.youtube.com/watch?v=0r2UBuirQso" },
+        { "kind": "web", "text": "Wednesday's scores & leaders", "url": "https://www.landofbasketball.com/nba_daily_summary/20261028.htm" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Carabao Cup",
+      "headline": "Anfield drama — Liverpool edge Chelsea on penalties after Fofana blazes over",
+      "body": "The all-Premier-League cup tie finished 1-1 and went to spot-kicks, where Liverpool held their nerve to win a marathon shootout 6-5. Chelsea's Wesley Fofana skied the decisive penalty into the Kop, and the Reds march on to the quarterfinals. Afterward, Chelsea boss Xabi Alonso shrugged the whole thing off as his 'least important' competition.",
+      "say": "Liverpool knocked Chelsea out of the League Cup on penalties last night — 6-5, and the deciding miss sailed about ten rows into the stands. Those shootouts are brutal. You watch much English football?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Extended highlights + shootout (Liverpool FC)", "url": "https://www.youtube.com/watch?v=hn3fpfByQCc" },
+        { "kind": "web", "text": "Alonso reaction & result (Goal)", "url": "https://www.goal.com/en-us/news/xabi-alonso-carabao-cup-least-important-chelsea-penalty-liverpool/bltaf47933ca4f1a85c" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Mexico City GP",
+      "headline": "One result from history — Antonelli can clinch the title in Mexico on Sunday",
+      "body": "The decider weekend is here. 20-year-old Kimi Antonelli heads to Mexico City needing only a top-nine finish on Sunday to wrap up the championship — which would make him, by a mile, the youngest world champion in F1 history at 20 years and 68 days. He's a whopping 123 points clear after dominating in Austin.",
+      "say": "That Antonelli kid can clinch the F1 title in Mexico on Sunday — he'd be the youngest champion ever by a mile, at 20. Wild how fast he took over the sport. You keep up with F1 at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Austin win that set it up — US GP highlights (F1)", "url": "https://www.youtube.com/watch?v=srLm23RUAH0" },
+        { "kind": "web", "text": "Mexican GP weekend schedule & clinch scenarios", "url": "https://www.gpblog.com/en/news/f1-mexican-gp-2026-all-session-times-and-full-weekend-schedule" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night",
+      "headline": "Panthers at Packers under the Lambeau lights tonight",
+      "body": "Week 8 kicks off tonight with Carolina visiting Green Bay at Lambeau Field (8:15 ET on Prime Video) — a tidy midweek excuse to fire up the grill before a stacked Sunday. Eagles-Commanders is the Sunday-night marquee, Bears-Seahawks closes it out Monday, and don't forget the clocks fall back this weekend.",
+      "say": "Thursday night football's on tonight — Panthers at the Packers up at Lambeau. Good excuse for wings on a weeknight. You riding with anybody this NFL season, or just here for the primetime games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Week 8 schedule (NFL.com)", "url": "https://www.nfl.com/schedules/2026/by-week/reg-8" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Liam Neeson grabs the wheel again — 'The Mongoose' hits theaters Friday",
+      "body": "Vintage Neeson: he plays a framed war vet with nothing to lose, tearing across Texas with the cops on his tail, in an action-thriller directed by his longtime stunt double Mark Vanselow. Marisa Tomei, Ving Rhames and Michael Chiklis fill out the cast. Opens Friday.",
+      "say": "New Liam Neeson movie out Friday — he's on the run from the law in a stolen car, very 'particular set of skills' energy. The man will not stop and I respect it. You a Neeson-action guy?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Samuel Goldwyn Films)", "url": "https://www.youtube.com/watch?v=aHrMFtt40_Q" },
+        { "kind": "web", "text": "Trailer breakdown (JoBlo)", "url": "https://www.joblo.com/the-mongoose-trailer-liam-neeson-thriller/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Clock in — Netflix's workplace comedy 'Minimum Wage' is the easy binge",
+      "body": "Randall Park and SNL's Grace Reiter headline a new Netflix sitcom set in the trenches of a chain restaurant, with the first 14 episodes out now. Low-stakes, warm and very bingeable — a nice palate-cleanser after all the spooky-season horror.",
+      "say": "There's a new Netflix comedy called 'Minimum Wage' — Randall Park, set in a restaurant, looks like a cozy watch. Good break from all the Halloween horror. You watch much comedy these days?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=SO4CU9P8--8" },
+        { "kind": "web", "text": "This week's new Netflix shows (ScreenRant)", "url": "https://screenrant.com/best-new-netflix-shows-to-watch-week-october-26-2026/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Dominic Fike is back with a new album — 'How To Quit Smoking'",
+      "body": "The 'Euphoria' actor-turned-pop-star drops a new full-length Friday, 'How To Quit Smoking' — the sunny, loose, genre-hopping bedroom-pop he's built a cult following on. The title track is already out if you want a taste before the weekend.",
+      "say": "Dominic Fike — the Euphoria guy who also makes music — has a new album out Friday. It's that breezy, hard-to-pin-down pop. You know his stuff, or more of a classics person?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'How To Quit Smoking' (official video)", "url": "https://www.youtube.com/watch?v=saZ5e1UwldM" },
+        { "kind": "web", "text": "New album releases (Official Charts)", "url": "https://www.officialcharts.com/chart-news/new-album-releases-2026/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "✨",
+      "tag": "Culture · Music",
+      "headline": "'Glitter' gets a glow-up — Mariah's cult classic returns deluxe on Friday",
+      "body": "Right on the doorstep of Mariah season, Carey is reissuing her once-flopped, now-beloved 2001 'Glitter' soundtrack as a digital deluxe edition. Cue 'Loverboy' and a whole lot of early-2000s nostalgia — and yes, she's basically about to defrost for the holidays.",
+      "say": "Mariah's putting out a deluxe 'Glitter' soundtrack Friday — the album everyone clowned that's now a cult favorite. Feels like the official start of Mariah season. You team Mariah-at-Christmas, or does it drive you nuts?",
+      "watch": "▶ The clip everyone knows",
+      "links": [
+        { "kind": "yt",  "text": "'Loverboy' (official video)", "url": "https://www.youtube.com/watch?v=0E_nJRkWVfg" },
+        { "kind": "web", "text": "New albums calendar (Billboard)", "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/" }
+      ]
+    }
+  ]
+}
