@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-31",
+  "label": "Saturday, October 31, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🦌",
+      "tag": "NBA · Friday Night",
+      "headline": "Giannis stuffs the sheet in a Heat jersey — triple-double in a 145-125 rout",
+      "body": "In case you missed the summer blockbuster, the Greek Freak plays for Miami now — and he looked right at home Friday, piling up 31 points, 18 rebounds and 10 assists as the Heat buried the Pacers 145-125. Davion Mitchell chipped in a 15-and-11 to keep the engine humming.",
+      "say": "Did you catch that Giannis is on the Heat now? He just dropped a triple-double and they scored 145.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Scores & recaps (ESPN)", "url": "https://www.espn.com/nba/scoreboard/_/date/20261030" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🌟",
+      "tag": "NBA · Rookie Watch",
+      "headline": "Cooper Flagg goes for 33 as the Mavs edge Houston 116-111",
+      "body": "The No. 1 pick is already must-watch. Dallas's teenage phenom poured in 33 points, and with Kyrie Irving adding 35 the Mavs held off the Rockets in a back-and-forth Friday thriller. The 2026 rookie class keeps turning heads.",
+      "say": "Cooper Flagg already looks like the real deal — 33 points and the Mavs got the win.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Scores & recaps (ESPN)", "url": "https://www.espn.com/nba/scoreboard/_/date/20261030" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🎯",
+      "tag": "NBA · Friday Night",
+      "headline": "Chef Curry cooks the Lakers — 8 threes in a 112-95 Warriors win",
+      "body": "Steph Curry splashed eight threes to send Golden State past the Lakers, spoiling a 37-point night from Luka Dončić. Even a quiet-by-his-standards shooting slump never lasts long when Curry gets going from deep.",
+      "say": "Curry hit eight threes against the Lakers last night — the guy is still unreal from range.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Scores & recaps (ESPN)", "url": "https://www.espn.com/nba/scoreboard/_/date/20261030" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "It's grand-final day in Bucharest — FURIA vs. Nemiga for $450K",
+      "body": "The $1.25M PGL Masters Bucharest is down to its last two: Brazil's FURIA against the underdog story of the week, Nemiga. It's a best-of-five for the trophy and the lion's share of the prize pool — the kind of CS2 Saturday worth clearing the calendar for.",
+      "say": "The Counter-Strike final is today — FURIA against a total underdog in Nemiga. Could be a classic.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "PGL live on Twitch", "url": "https://www.twitch.tv/pgl" },
+        { "kind": "web", "text": "Bracket & results", "url": "https://liquipedia.net/counterstrike/PGL/2026/Masters" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "A juicy Saturday in England — Chelsea host Manchester United",
+      "body": "The Premier League rolls on with a proper marquee fixture: Chelsea vs. Manchester United at Stamford Bridge, one of the English game's oldest rivalries. Plenty of other games dot the card too, so there's football on all afternoon.",
+      "say": "Chelsea–United is on today — always a spicy one. Catching any of the Premier League this weekend?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Today's scores (ESPN)", "url": "https://www.espn.com/soccer/scoreboard/_/date/20261031" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Queens of the Stone Age are back — 'Perfecth' is finally out",
+      "body": "After all the teasing, the band's ninth album 'Perfecth' landed Friday, and early reviews are warm — critics are calling it their most stripped-down, human record in years. The star-studded 'Where The Goth Girls At?' video is the perfect spooky-season appetizer.",
+      "say": "The new Queens of the Stone Age album dropped — that 'Where The Goth Girls At?' video is wild.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "'Where The Goth Girls At?' (Official Video)", "url": "https://www.youtube.com/watch?v=eAOIpDUDGX4" },
+        { "kind": "web", "text": "Album background (Stereogum)", "url": "https://www.stereogum.com/2509297/queens-of-the-stone-age-announce-new-album-perfecth-hear-insignificant-other/music" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔪",
+      "tag": "Culture · Film",
+      "headline": "What's your favorite scary movie? 'Scream' is back in theaters",
+      "body": "Perfect timing: Paramount has brought Wes Craven's 1996 slasher classic back to the big screen for its 30th anniversary, landing in select theaters for Halloween weekend. Ghostface, Sidney, that opening phone call — it still holds up.",
+      "say": "They put the original 'Scream' back in theaters for its 30th — feels like the ultimate Halloween watch.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "The 30th-anniversary return", "url": "https://hauntedattractionnetwork.com/scream-30th-anniversary-theaters-october-30/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎃",
+      "tag": "Culture · Halloween",
+      "headline": "Happy Halloween — cue up 'Thriller'",
+      "body": "It's the big night. Whether you're handing out candy, chaperoning trick-or-treaters, or just hiding from the doorbell with a bowl of fun-size bars, there's one video that basically is Halloween — Michael Jackson's 14-minute 'Thriller,' still the gold standard 40-plus years on.",
+      "say": "Happy Halloween! Any big plans tonight — or just you, the candy bowl and 'Thriller' on loop?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Michael Jackson — 'Thriller' (Official Video)", "url": "https://www.youtube.com/watch?v=sOnqjkJTMaA" }
+      ]
+    }
+  ]
+}
