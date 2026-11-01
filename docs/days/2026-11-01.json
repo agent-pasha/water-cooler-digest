@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-01",
+  "label": "Sunday, November 1, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🏆",
+      "tag": "WNBA · Finals",
+      "headline": "Valkyries are champions — Golden State wins the first-ever Finals Game 7",
+      "body": "In only their second season, the Golden State Valkyries beat the Atlanta Dream 68-63 in the first winner-take-all Game 7 in WNBA Finals history. Gabby Williams poured in 30 and took Finals MVP, and Veronica Burton iced it from the line with 5.1 seconds left.",
+      "say": "A brand-new expansion team just won it all in a Game 7 — did you catch how tense that finish was?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Game 7 full highlights (ESPN)", "url": "https://www.youtube.com/watch?v=Uu2o8-7vtIo" },
+        { "kind": "web", "text": "WNBA.com recap", "url": "https://www.wnba.com/news/2026-finals-valkyries-dream-game-7-recap" }
+      ]
+    },
+    {
+      "cat": "boxing",
+      "emoji": "🥊",
+      "tag": "Boxing · Riyadh",
+      "headline": "Canelo is back — he decisions unbeaten Mbilli to reclaim the WBC belt",
+      "body": "Thirteen months after losing to Terence Crawford, Saúl 'Canelo' Álvarez returned in Riyadh and won a clear unanimous decision over previously unbeaten Christian Mbilli (115-112, 116-111, 117-110) to grab back the WBC super middleweight title.",
+      "say": "Canelo bounced right back from that Crawford loss and handed an undefeated guy his first L — think he's still got it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Fight highlights (DAZN Boxing)", "url": "https://www.youtube.com/watch?v=5PrpHaKTnSs" },
+        { "kind": "web", "text": "Al Jazeera report", "url": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🦖",
+      "tag": "NBA · Saturday Night",
+      "headline": "Wemby is a problem — 43 points and six blocks as the Spurs roll",
+      "body": "Victor Wembanyama went supernova on Halloween night, dropping 43 points with six blocks and seven boards in a 121-111 Spurs win over Minnesota — San Antonio's fourth straight to open the season.",
+      "say": "Wembanyama just put up 43 and SIX blocks in one game — is anyone going to be able to stop this guy this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Wemby highlights (NBA)", "url": "https://www.youtube.com/watch?v=E6RrU7EvfGI" },
+        { "kind": "web", "text": "ESPN recap", "url": "https://www.espn.com/nba/recap?gameId=401909901" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Chelsea put two past Manchester United at the Bridge",
+      "body": "Chelsea handled Manchester United 2-0 at Stamford Bridge in Saturday's big one, turning up the heat on United early and never letting go. A tidy weekend for the Blues in the title race.",
+      "say": "Chelsea beat United 2-0 this weekend — you still keeping an eye on the Premier League at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Highlights (Chelsea FC)", "url": "https://www.youtube.com/watch?v=OI58_-4ezU8" },
+        { "kind": "web", "text": "Premier League results", "url": "https://www.premierleague.com/results" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "College Football · Big Ten",
+      "headline": "USC stuns No. 2 Ohio State 30-18 under the Coliseum lights",
+      "body": "Lincoln Riley's USC pulled off the upset of the weekend, knocking off second-ranked Ohio State 30-18 behind freshman QB Jayden Maiava. It's the Buckeyes' second loss already — their earliest two-loss start since 2011.",
+      "say": "USC just took down No. 2 Ohio State with a freshman quarterback — college football is wild this year, huh?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Game highlights (Big Ten)", "url": "https://www.youtube.com/watch?v=FRUpewO25t4" },
+        { "kind": "web", "text": "ESPN story", "url": "https://www.espn.com/college-football/story/_/id/50343945/usc-stuns-no-2-ohio-state-biggest-win-riley-tenure" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎯",
+      "tag": "Esports · Counter-Strike",
+      "headline": "FURIA complete an insane comeback to win PGL Bucharest",
+      "body": "Down 2-13 on the opening map, Brazil's FURIA stormed all the way back to beat Nemiga 3-2 and take the $450K PGL Masters Bucharest title. Veteran FalleN lifts his 48th career trophy, and YEKINDAR grabbed his first-ever MVP.",
+      "say": "A CS team was down 2-13 on the first map and still came back to win the whole thing — how do you even recover from that?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Grand final (PGL)", "url": "https://www.youtube.com/watch?v=DTnENvX1JV0" },
+        { "kind": "web", "text": "Dot Esports recap", "url": "https://dotesports.com/counter-strike/news/fallen-furia-pgl-bucharest-2026-win" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "A $7M documentary is quietly winning the box office",
+      "body": "Nathan Fielder and Lance Oppenheim's strange, buzzy Elizabeth Holmes documentary 'You Can See Everything' edged superhero-horror 'Clayface' to top a slow Halloween weekend — a rare feat for a doc.",
+      "say": "A documentary actually beat a superhero movie at the box office this weekend — have you heard about this Elizabeth Holmes one?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (A24)", "url": "https://www.youtube.com/watch?v=HvW_N5p1q44" },
+        { "kind": "web", "text": "Deadline box office", "url": "https://deadline.com/2026/11/box-office-you-can-see-everything-clayface-halloween-1237209579/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'The Gilded Age' is back — Season 4 premieres tonight",
+      "body": "HBO's lavish, deliciously catty period drama returns Sunday night for Season 4, with the Russells' marriage under strain and Agnes van Rhijn plotting her way back to the top of society.",
+      "say": "The Gilded Age is back tonight — are you a fan, or is costume drama not your thing?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Season 4 trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=MOidgOFdz7E" },
+        { "kind": "web", "text": "TVLine preview", "url": "https://www.tvline.com/2285509/the-gilded-age-season-4-full-trailer-hbo/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Jay-Z is headlining the Super Bowl halftime show",
+      "body": "It's official: Jay-Z will headline the Super Bowl LXI halftime show on February 14, 2027, at SoFi Stadium — his first time taking the big stage himself after producing the show for years through Roc Nation.",
+      "say": "Jay-Z is finally doing the Super Bowl halftime show himself — who are you hoping he brings out as a surprise guest?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Halftime announcement (Apple Music)", "url": "https://www.youtube.com/watch?v=bHCRn9NZtPA" },
+        { "kind": "web", "text": "Consequence", "url": "https://consequence.net/2026/10/jay-z-super-bowl-halftime-show-headliner/" }
+      ]
+    }
+  ]
+}
