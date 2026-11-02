@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-02",
+  "label": "Monday, November 2, 2026",
+  "items": [
+    {
+      "cat": "f1",
+      "emoji": "🏁",
+      "tag": "F1 · World Championship",
+      "headline": "Kimi Antonelli is F1 world champion — the youngest ever",
+      "body": "Antonelli sealed his first title in Mexico City by finishing third as Max Verstappen won a chaotic race. At 20 years and 68 days old, he's the youngest champion in Formula 1 history.",
+      "say": "Did you catch it? Kimi Antonelli just became the youngest Formula 1 champ ever — the kid's only 20.",
+      "watch": "▶ Catch the highlights",
+      "links": [
+        { "kind": "web", "text": "Race highlights & report", "url": "https://www.formula1.com/en/racing/2026/mexico" },
+        { "kind": "web", "text": "How he clinched it (ESPN)", "url": "https://www.espn.com/f1/story/_/id/50321045/mexico-city-grand-prix-2026-live-updates-results-analysis-commentary-autodromo-hermanos-rodriguez" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 9",
+      "headline": "Burrow throws for 462 as the Bengals outlast the Titans in OT",
+      "body": "Joe Burrow went full gunslinger — 462 passing yards in a 43-36 overtime shootout in Cincinnati. Over in Buffalo, the Bills hammered Baltimore 36-10.",
+      "say": "462 passing yards and overtime — did you see Burrow drag the Bengals past the Titans?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Week 9 scores & recaps", "url": "https://www.espn.com/nfl/scoreboard/_/year/2026/seasontype/2/week/9" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Sunday night",
+      "headline": "Luka drops 45 as the Lakers hold off the Raptors",
+      "body": "Dončić was unstoppable — 45 points, 15 rebounds, 8 threes and 5 steals in a 131-125 win. It's his fourth straight game with 37-plus.",
+      "say": "Luka's on a heater — 45 and eight threes, four games in a row over 37. Think the Lakers are for real?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Scores & highlights", "url": "https://www.espn.com/nba/scoreboard/_/date/20261101" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Arsenal win at Anfield for the first time in 16 years",
+      "body": "Kai Havertz's early header gave Arsenal a 1-0 win at Liverpool — their first league victory at Anfield since 2012, and a statement at the top of the table.",
+      "say": "Arsenal finally won at Anfield — first time in 16 years. Big one if you follow the Premier League.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Result & report", "url": "https://www.espn.com/soccer/scoreboard/_/league/eng.1/date/20261101" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "Tom Nolan stops Moicano in a wild Vegas main event",
+      "body": "Aussie lightweight Tom Nolan finished Renato Moicano with third-round elbows after a controversial referee stand-up — his sixth straight UFC win.",
+      "say": "The Tom Nolan–Moicano finish had everyone arguing about that ref call. You see it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Full results", "url": "https://sports.yahoo.com/mma/article/ufc-vegas-123-results-tom-nolan-makes-the-most-of-controversial-referee-stand-up-knocks-out-renato-moicano-050855367.html" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "Worlds knockouts start this week — T1 chasing a four-peat",
+      "body": "The League of Legends World Championship Swiss stage wrapped with eight teams into the single-elimination bracket. Three-time defending champ T1 is hunting a fourth straight title on the road to the final in Brooklyn.",
+      "say": "League of Legends Worlds hits the knockout rounds this week — T1's going for four titles in a row.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw", "text": "Riot Games on Twitch", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "Bracket & schedule", "url": "https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "The 'Avengers: Doomsday' countdown is on — out December 18",
+      "body": "Marvel's mega-crossover with Robert Downey Jr. as Doctor Doom is just weeks away. If you haven't rewatched the trailer, it's a doozy.",
+      "say": "Avengers: Doomsday is only about six weeks out — are you cautiously excited or is Marvel back?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=irVNGjRFZGk" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "20 years later, My Chemical Romance finally hit No. 1",
+      "body": "The 20th-anniversary reissue rocketed 'The Black Parade' to the top of the Billboard 200 — MCR's first-ever No. 1 album, two decades after it came out.",
+      "say": "Wild one for music nerds — My Chemical Romance got their first-ever No. 1 album, 20 years after 'The Black Parade.'",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Welcome to the Black Parade", "url": "https://www.youtube.com/watch?v=RRKJiM9Njr8" },
+        { "kind": "web", "text": "Billboard: first No. 1", "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-number-one-billboard-200-black-parade-1236371717/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Keira Knightley's 'Black Doves' is back Thursday",
+      "body": "Netflix's hit spy thriller returns for season 2 on November 5 — Helen's still quietly leaking secrets while her husband eyes 10 Downing Street.",
+      "say": "The 'Black Doves' spy thriller drops season 2 Thursday — did you get through the first one?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer", "url": "https://www.youtube.com/watch?v=MOU2thjq6Z0" }
+      ]
+    }
+  ]
+}
