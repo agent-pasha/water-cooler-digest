@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-03",
+  "label": "Tuesday, November 3, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Champions League is back — a loaded two nights of games",
+      "body": "Matchday 4 of the league phase runs tonight and tomorrow, and the marquee list is stacked: Barcelona host Aston Villa and Man United welcome Roma tonight, with Liverpool at Fenerbahçe, Man City at Leipzig and Arsenal at Slavia Prague on Wednesday. Plenty of football to pick from after work.",
+      "say": "Champions League is on both tonight and tomorrow — some big ones, Barcelona and a Man United game in there. You catching any of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Fixtures & scores (CBS Golazo)", "url": "https://www.cbssports.com/soccer/champions-league/scoreboard/" },
+        { "kind": "web", "text": "UEFA match center", "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night",
+      "headline": "Bears bully the Seahawks 34-17 to cap Week 8",
+      "body": "Chicago's defense harassed Sam Darnold all night and the Bears pulled away for a 34-17 win at Seattle on Monday Night Football. Caleb Williams and rookie Luther Burden hit on the opening drive, and the Seahawks slipped to 4-4 despite Jaxon Smith-Njigba's 118 yards.",
+      "say": "Bears went into Seattle on Monday night and won 34-17 — their D was all over Darnold. You riding with anybody this NFL season?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Final score & recap", "url": "https://www.fox32chicago.com/live-blog/sports/chicago-bears-vs-seattle-seahawks-live-scores-updates-from-monday-night-football-week-8" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Superstar Duel",
+      "headline": "Luka vs. Giannis, round one — Lakers hammer the Heat 138-117",
+      "body": "The first Luka-vs-Giannis meeting of the season (now that the Greek Freak is in Miami) wasn't much of a contest — Dončić's Lakers rolled into South Beach and ran the Heat off the floor 138-117 on a packed 15-game Monday.",
+      "say": "Luka and Giannis finally faced off — Lakers blew the Heat out 138-117. Wild that Giannis is on Miami now, right?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Monday's scores (NBA.com)", "url": "https://www.nba.com/games?date=2026-11-02" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Monday",
+      "headline": "Red Wings knock off the champs — Detroit tops Florida 5-3",
+      "body": "A fun Monday on the ice: Detroit went into Florida and beat the two-time champs 5-3, while Boston edged Vegas in a shootout, Colorado rolled Chicago 5-2, and Calgary squeaked past San Jose 2-1.",
+      "say": "The Red Wings went into Florida and beat the back-to-back champs last night — the hockey season's been quietly a lot of fun. You follow any NHL?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Monday's scores & box scores", "url": "https://www.hockey-reference.com/boxscores/?month=11&day=2&year=2026" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Counter-Strike",
+      "headline": "A new $1.25M CS2 event is live — IEM Beijing is underway",
+      "body": "Fresh off last weekend's Bucharest final, the Counter-Strike circuit heads to China: Intel Extreme Masters Beijing runs through November 8, with 16 of the world's best teams fighting through the group stage for a $1.25M prize pool.",
+      "say": "There's already another big Counter-Strike tournament on — IEM Beijing, over a million on the line. You play any CS, or watch the pro scene?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "ESL Counter-Strike on Twitch", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "Bracket & schedule (ESL)", "url": "https://pro.eslgaming.com/tour/cs/beijing/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Kim K's 'All's Fair' is back for Season 2 tomorrow",
+      "body": "Ryan Murphy's gleefully over-the-top legal drama — critics hated it, viewers couldn't look away — returns Wednesday on Hulu with three episodes. Kim Kardashian, Naomi Watts, Sarah Paulson and Glenn Close are all back, and this time it's all-out revenge.",
+      "say": "That Kim Kardashian lawyer show 'All's Fair' is back tomorrow — it got roasted but people devoured it. Guilty pleasure, or not your thing?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Season 2 teaser (Hulu)", "url": "https://www.youtube.com/watch?v=SvXyYVef0zQ" },
+        { "kind": "web", "text": "Premiere details (TVLine)", "url": "https://www.tvline.com/2280111/alls-fair-season-2-release-date-trailer-kim-kardashian-hulu/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Rockwell & Malkovich as bickering CIA agents — 'Wild Horse Nine' opens Friday",
+      "body": "Martin McDonagh (of 'In Bruges' and 'Banshees of Inisherin') is back with a dark spy comedy set on Easter Island, with Sam Rockwell and John Malkovich as two agents who really don't get along and Steve Buscemi as their boss. Searchlight opens it Friday.",
+      "say": "New Martin McDonagh movie opens Friday — Sam Rockwell and John Malkovich as CIA guys who hate each other. His stuff is always darkly funny. You see 'Banshees'?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Searchlight)", "url": "https://www.youtube.com/watch?v=Haw_sznA5aQ" },
+        { "kind": "web", "text": "Trailer breakdown (TheWrap)", "url": "https://www.thewrap.com/creative-content/movies/wild-horse-nine-trailer-sam-rockwell-john-malkovich-martin-mcdonagh/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧹",
+      "tag": "Culture · Film",
+      "headline": "The countdown to 'Wicked: For Good' is on — out November 21",
+      "body": "The second half of the 'Wicked' story lands in theaters in a few weeks, with Cynthia Erivo's Elphaba in exile and Ariana Grande's Glinda the toast of Oz. If last year's first film is any guide, this one's going to be everywhere.",
+      "say": "The second 'Wicked' movie is only a few weeks out now — are you going opening weekend, or was one enough?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (Universal)", "url": "https://www.youtube.com/watch?v=vt98AlBDI9Y" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤠",
+      "tag": "Culture · Country",
+      "headline": "Country's big night is coming — CMA Awards nominations are set",
+      "body": "The 60th CMA Awards hit Nashville on November 18 with Lainey Wilson hosting for a third straight year. Breakout Ella Langley leads the field with nine nominations, Miranda Lambert has seven, and Taylor Swift is up for a songwriting award and expected to appear.",
+      "say": "The CMA Awards are coming up — Ella Langley's leading the noms and Lainey Wilson's hosting again. You listen to any country?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Ella Langley & Riley Green — 'you look like you love me'", "url": "https://www.youtube.com/watch?v=uRQQ5E4LAdA" },
+        { "kind": "web", "text": "Full nominations list (GMA)", "url": "https://www.goodmorningamerica.com/culture/story/cma-awards-2026-nominees-136307131" }
+      ]
+    }
+  ]
+}
