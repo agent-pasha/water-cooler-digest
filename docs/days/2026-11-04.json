@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-04",
+  "label": "Wednesday, November 4, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "PSG go to Spain and hang six on Villarreal",
+      "body": "Champions League Matchday 4 opened with a statement: Paris Saint-Germain rolled into Villarreal and won 6-0, racing to a big early lead with Fabián Ruiz grabbing a brace. About as comfortable as a European away night gets for the holders.",
+      "say": "PSG went to Spain and won 6-0 in the Champions League last night — just ruthless. You keep up with the Champions League at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Villarreal 0-6 PSG highlights (TNT Sports)", "url": "https://www.youtube.com/watch?v=6kSVyjO2BA8" },
+        { "kind": "web", "text": "Match report (ESPN)", "url": "https://www.espn.com/soccer/report/_/gameId/401915309" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Lamine Yamal & Raphinha sink Aston Villa 3-0",
+      "body": "Barcelona handed Aston Villa their first-ever Champions League defeat, cruising to a 3-0 win at home. Teenager Lamine Yamal opened the scoring early and Raphinha added a second-half brace. The kid's only 18 and already looks untouchable.",
+      "say": "Barcelona beat Aston Villa 3-0 — Lamine Yamal's 18 and already looks like the best player in the world. You seen this kid play?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Barcelona 3-0 Aston Villa highlights", "url": "https://www.youtube.com/watch?v=xZYHn07qIE4" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Cunha's late double rescues United — 3-2 over Roma",
+      "body": "Manchester United were 2-0 down and staring at another bad night, then Matheus Cunha went wild — two goals in about three minutes to flip the game, before picking up a red card in the chaos. United win 3-2 and finally have something to smile about.",
+      "say": "Man United were 2-0 down and Cunha scored twice in three minutes to win it 3-2, then got sent off — absolute madness. You watch any of it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Cunha's 8 minutes of madness vs Roma (beIN)", "url": "https://www.youtube.com/watch?v=mcwsPDVmhNc" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · Worlds",
+      "headline": "Invictus Gaming stun Top Esports to reach first Worlds semi since 2019",
+      "body": "The League of Legends World Championship quarterfinals are rolling in Allen, Texas. Invictus Gaming pulled off a 3-1 upset of Top Esports to book their first semifinal since they won it all in 2019. Next up tonight: Gen.G vs. LYON, with T1 chasing a four-peat later in the week.",
+      "say": "League of Legends Worlds is actually happening in Texas right now — IG just knocked out a big favorite. You ever watch any esports?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "IG vs TES — full series (Bo5)", "url": "https://www.youtube.com/watch?v=DAP2EMvrsqg" },
+        { "kind": "web", "text": "Recap (Esports.net)", "url": "https://www.esports.net/news/gaming/invictus-gaming-beat-top-esports-3-1-to-reach-first-worlds-semifinal-since-2019/" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Tuesday",
+      "headline": "Down 4-0 with 2:40 left — and the Jets won it in OT",
+      "body": "One of those games you'll be talking about for a while: Winnipeg trailed Montreal 4-0 with 2:40 to go, somehow scored four goals to force overtime, then won it 5-4 on Dylan Samberg's winner. Elsewhere, Jason Robertson ripped a natural hat trick in a 6-5 Dallas thriller.",
+      "say": "A hockey team was down 4-0 with under three minutes left last night and came back to win in OT — I still can't believe it. You catch that Jets game?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Jets' unbelievable comeback (NHL)", "url": "https://www.youtube.com/watch?v=srVWGExNiBM" },
+        { "kind": "web", "text": "Game recap (NHL.com)", "url": "https://www.nhl.com/news/winnipeg-jets-montreal-canadiens-game-recap-november-3-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Bill Hader's 'The Cat in the Hat' hits theaters Friday",
+      "body": "Warner Bros.' animated reboot of the Dr. Seuss classic opens this Friday, with Bill Hader voicing the chaos-making Cat and a cast that includes Quinta Brunson, Matt Berry and Giancarlo Esposito. It's the first release from the relaunched Warner Bros. Pictures Animation.",
+      "say": "The new animated 'Cat in the Hat' opens Friday — Bill Hader's the Cat, which is pretty perfect casting. Taking the kids, or hard pass?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Official trailer (Warner Bros.)", "url": "https://www.youtube.com/watch?v=pg6NLqUo6Bs" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎄",
+      "tag": "Culture · Music",
+      "headline": "Alanis Morissette drops her first-ever holiday album Friday",
+      "body": "'Good Weather for Immaculate Conception' is Alanis Morissette's first Christmas record, out Friday with a guest list that's a little wild — Brandi Carlile, Steve Martin and Martin Short all turn up. Early single 'Beautiful Star of Bethlehem' is already out.",
+      "say": "Alanis Morissette made a Christmas album — with Steve Martin and Martin Short on it, somehow. Too early for holiday music, or are you all in?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "'Beautiful Star of Bethlehem' ft. Brandi Carlile & Steve Martin", "url": "https://www.youtube.com/watch?v=yfeU6dpLPok" },
+        { "kind": "web", "text": "Album details (Stereogum)", "url": "https://stereogum.com/2514139/alanis-morissette-announces-new-christmas-album-feat-brandi-carlile-steve-martin-martin-short/music" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Skepta's back — first solo album in seven years out Friday",
+      "body": "Grime pioneer Skepta drops 'The Fork and Knife' on Friday, his first solo album since 2019's 'Ignorance Is Bliss.' The single 'Pandora's Box' has been on repeat for fans waiting out the long gap between records.",
+      "say": "Skepta's first solo album in seven years is out Friday — if you like UK grime it's a big deal. You into any of that scene?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Skepta — 'Pandora's Box' (Official Audio)", "url": "https://www.youtube.com/watch?v=SocUlgec12E" },
+        { "kind": "web", "text": "Album announcement (Resident Advisor)", "url": "https://ra.co/news/86138" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'North of North' is back for Season 2 tomorrow",
+      "body": "The cozy, funny little Arctic hit returns to Netflix on Thursday. Season 2 picks back up with Siaja making bold choices (and bolder mistakes) in the fictional Inuit town of Ice Cove. If you missed Season 1, it's an easy, warm-hearted binge.",
+      "say": "That Arctic comedy 'North of North' is back on Netflix tomorrow — it's such a sweet, easy watch. You found it yet?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Season 2 official trailer (Netflix)", "url": "https://www.youtube.com/watch?v=JOMS_m5Iqos" },
+        { "kind": "web", "text": "Season 2 preview (AV Club)", "url": "https://www.avclub.com/north-of-north-season-2-trailer" }
+      ]
+    }
+  ]
+}
