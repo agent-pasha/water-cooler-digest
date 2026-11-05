@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-05",
+  "label": "Thursday, November 5, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🛸",
+      "tag": "NBA · Spurs",
+      "headline": "Wembanyama just did something nobody's done since 1998",
+      "body": "Victor Wembanyama went supernova in San Antonio's 112-111 squeaker over Dallas — 52 points, 24 rebounds and 8 blocks, becoming the first player since the '97-98 season to post 25-10-5 in a single half. The Spurs have now won six straight.",
+      "say": "Did you catch Wemby's stat line? 52 and 24 with 8 blocks — that's a cheat code.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "NBA: Wemby's 52-24-8 history night", "url": "https://www.youtube.com/watch?v=TGQUu-4g8pk" },
+        { "kind": "web", "text": "ESPN box score", "url": "https://www.espn.com/nba/game/_/gameId/401909933" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Fenerbahçe stun Liverpool and end their perfect run",
+      "body": "Liverpool led twice in Istanbul and still walked away empty-handed, losing 3-2 as Vedat Muriqi's 79th-minute header sealed it. The wild part: Fenerbahçe's interim boss is former Red Dirk Kuyt. It's Liverpool's first league-phase defeat.",
+      "say": "Liverpool lost 3-2 at Fenerbahçe — and the guy who masterminded it is Dirk Kuyt. Football's funny.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "CBS Sports Golazo: Fenerbahçe 3-2 Liverpool", "url": "https://www.youtube.com/watch?v=eWgZLu5VcEo" },
+        { "kind": "web", "text": "ESPN match report", "url": "https://www.espn.com/soccer/match/_/gameId/401915382/liverpool-fenerbahce" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "🤯",
+      "tag": "Soccer · Champions League",
+      "headline": "Como hang NINE on Lens in a record rout",
+      "body": "Cesc Fàbregas' Como put on a show you almost never see in Europe's top competition, thrashing Lens 9-1 with Nico Paz pulling the strings. It's one of the most lopsided scorelines in Champions League history.",
+      "say": "A Champions League team won 9-1 last night. Nine! When's the last time you saw that?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "CBS Sports Golazo: Como 9-1 Lens", "url": "https://www.youtube.com/watch?v=hGkbztWJfXk" },
+        { "kind": "web", "text": "Al Jazeera recap", "url": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "Gen.G sweep North America's LYON to reach a third straight semi",
+      "body": "Gen.G rolled LYON 3-0 in Allen, Texas to book their third consecutive Worlds semifinal — and send the last North American team home. Next up: a blockbuster clash with TheShy's Invictus Gaming on Friday.",
+      "say": "Gen.G just 3-0'd the last NA team at Worlds. They keep reaching the final four but never win it — this their year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "LoL Esports: GEN vs. LYON", "url": "https://www.youtube.com/watch?v=d_Vc2I2qsP0" },
+        { "kind": "web", "text": "Esports.gg recap", "url": "https://esports.gg/news/league-of-legends/geng-worlds-2026-lyon-sweep/" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏁",
+      "tag": "F1 · São Paulo GP",
+      "headline": "Antonelli's first race weekend as champ is in Brazil",
+      "body": "Fresh off becoming F1's youngest-ever world champion, Kimi Antonelli heads to Interlagos for the São Paulo Grand Prix this weekend (race Sunday). Expect a party atmosphere at one of the sport's most electric circuits.",
+      "say": "F1's new teenage champ races in Brazil this weekend — Interlagos always delivers chaos.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "yt",  "text": "Mercedes: Russell previews São Paulo", "url": "https://www.youtube.com/watch?v=VfANpcOHxHw" },
+        { "kind": "web", "text": "RacingNews365 schedule", "url": "https://racingnews365.com/2026-f1-sao-paulo-grand-prix---brazil-time-schedule" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦖",
+      "tag": "Culture · Film",
+      "headline": "'Godzilla Minus Zero' stomps into theaters Friday",
+      "body": "The follow-up to the Oscar-winning 'Godzilla Minus One' gets its wide North American release Friday from GKIDS. If the trailer's any hint, the King of the Monsters has never looked bigger — go for the IMAX.",
+      "say": "The new Godzilla opens Friday — the last one won an Oscar for effects. You seeing it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "GODZILLA MINUS ZERO | Official Trailer", "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg" },
+        { "kind": "web", "text": "GKIDS", "url": "https://gkids.com/2026/09/08/toho-and-gkids-reveal-new-trailer-for-godzilla-minus-zero/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Lil Baby drops his fifth album 'FRESH' on Friday",
+      "body": "The Atlanta star's new 17-track record lands Friday with features from Future, Young Thug and Rylo Rodriguez. The Pharrell-produced lead single 'Dead Fresh' has been setting the table all fall.",
+      "say": "New Lil Baby album Friday — and Pharrell produced the lead single. Been a minute since his last one.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Lil Baby - Dead Fresh (Official Video)", "url": "https://www.youtube.com/watch?v=PXxbEfhtDiM" },
+        { "kind": "web", "text": "uDiscover Music", "url": "https://www.udiscovermusic.com/?p=2769397" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💍",
+      "tag": "Culture · TV",
+      "headline": "'The Rings of Power' returns for Season 3 next week",
+      "body": "Amazon's billion-dollar Middle-earth epic is back November 11 on Prime Video, with the trailer teasing the long-awaited rise of a certain grey wizard. A good excuse to rewatch before it drops.",
+      "say": "Rings of Power Season 3 is almost here — looks like we finally meet Gandalf. You still watching?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Rings of Power - Season 3 Official Trailer", "url": "https://www.youtube.com/watch?v=maP_Kyy3DCA" },
+        { "kind": "web", "text": "TV Insider streaming guide", "url": "https://www.tvinsider.com/1298550/november-2026-streaming-guide-netflix-hulu-paramount-more/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🍳",
+      "tag": "Culture · Streaming",
+      "headline": "Awkwafina learns to cook (badly) in a new Apple TV show",
+      "body": "'Awkwafina: The Unlikely Cook' starts streaming Friday on Apple TV — the comedian fumbling her way around a kitchen she fully admits she can't handle. Easy, funny weekend watch.",
+      "say": "There's a new Awkwafina cooking show where the whole joke is she can't cook. Sounds like my kitchen.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Awkwafina: The Unlikely Cook — Trailer", "url": "https://www.youtube.com/watch?v=uCAZET6TZ60" },
+        { "kind": "web", "text": "TV Insider streaming guide", "url": "https://www.tvinsider.com/1298550/november-2026-streaming-guide-netflix-hulu-paramount-more/" }
+      ]
+    }
+  ]
+}
