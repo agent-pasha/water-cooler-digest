@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-06",
+  "label": "Friday, November 6, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night",
+      "headline": "Jaguars roll into Baltimore and bury the Ravens 33-10",
+      "body": "Thursday Night Football was a mismatch: Trevor Lawrence and the Jaguars throttled a banged-up Ravens team 33-10 at M&T Bank Stadium. With Lamar Jackson sidelined, Baltimore turned to Joe Fagnano for his first NFL start — it did not go well (two picks). Jacksonville is suddenly 6-2; the Ravens have lost four in a row and sit at 4-5.",
+      "say": "Did you catch the Jags blow out Baltimore last night? Lamar was hurt and the backup threw two picks — Jacksonville's quietly rolling at 6-2. You following the NFL this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Recap (NBC Sports)", "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-jaguars-blow-out-ravens-33-10" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Thursday Night",
+      "headline": "Steph outduels Giannis as the Warriors handle the Heat 120-100",
+      "body": "Steph Curry splashed six threes on his way to 29 points and Golden State pulled away from Miami 120-100. Giannis Antetokounmpo did his thing in his new Heat jersey — 20 points and 14 boards — but the Warriors had too much firepower. Out in the desert, Devin Booker dropped 30 as the Suns beat Orlando.",
+      "say": "Curry had six threes and 29 last night — the man's 37 and still cooking. Have you seen how weird it is watching Giannis in a Heat uniform?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Scores & leaders (Land of Basketball)", "url": "https://www.landofbasketball.com/nba_daily_summary/20261105.htm" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏟️",
+      "tag": "College Football · Week 11",
+      "headline": "College football's wildest Saturday — top-10 teams everywhere",
+      "body": "The first College Football Playoff rankings just dropped (Miami and Georgia on top), and Saturday's slate is an all-timer: No. 2 Georgia at No. 10 Ole Miss, No. 9 BYU at No. 3 Utah, Miami at Notre Dame, Texas at Missouri and Alabama at LSU. Grab the remote and don't move all day.",
+      "say": "Saturday's college football card is absurd — like five top-10 games. I'm basically clearing the whole day. You have a team you ride with?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "The 10 best games (Yahoo Sports)", "url": "https://sports.yahoo.com/articles/ranking-10-best-games-college-090001053.html" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "The West's last hope: Karmine Corp face four-peat-chasing T1 today",
+      "body": "The final Worlds quarterfinal is today — France's Karmine Corp, the only Western team left standing, take on three-time defending champ T1 in a best-of-five, with the last semifinal spot on the line. Gen.G and Invictus Gaming are already through to the final four.",
+      "say": "League of Legends Worlds has its biggest game today — the last European team against T1, who've won it three years running. Western fans are dreaming. You ever watch any of this?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Riot Games on Twitch", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "Match preview (Sheep Esports)", "url": "https://www.sheepesports.com/en/articles/worlds-2026-karmine-corp-vs-t1-the-west-s-last-hope-faces-the-three-times-defending-champion/en" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎯",
+      "tag": "Esports · Counter-Strike",
+      "headline": "IEM Beijing hits the playoffs — $1.25M and the big dogs remain",
+      "body": "The Counter-Strike circuit's China stop reaches the business end: the IEM Beijing playoffs are underway, with FURIA (fresh off winning Bucharest last weekend), NAVI, MOUZ and PARIVISION scrapping through the bracket. $360K goes to the winner.",
+      "say": "There's another big Counter-Strike event on — IEM Beijing, into the playoffs now, and FURIA's trying to go back-to-back. You play any CS, or watch the pro scene?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "ESL Counter-Strike on Twitch", "url": "https://www.twitch.tv/esl_csgo" },
+        { "kind": "web", "text": "Bracket & results (Liquipedia)", "url": "https://liquipedia.net/counterstrike/Intel_Extreme_Masters/2026/Beijing" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦖",
+      "tag": "Culture · Film",
+      "headline": "Godzilla vs. the Cat in the Hat — the weekend box-office showdown",
+      "body": "Two monsters open the same weekend. 'Godzilla Minus Zero' is tracking for a franchise-record ~$30M US debut (it already pulled $6M in previews), while Warner Bros.' animated 'The Cat in the Hat' is eyeing a more modest $12-25M. Early read: the King of the Monsters stomps the Cat.",
+      "say": "Funny weekend at the movies — new Godzilla versus the animated Cat in the Hat. Godzilla's supposed to crush it. You team kaiju or team Seuss?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Box-office forecast (Gold Derby)", "url": "https://www.goldderby.com/film/2026/godzilla-minus-zero-weekend-box-office-cat-in-the-hat/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Kings of Leon go quiet — new album 'O My Beloved' is out today",
+      "body": "The band's 10th record lands Friday, and it's a left turn: 'O My Beloved' is their most stripped-back, acoustic, personal album yet, with singles 'My Whole World' and 'KOYSAR' setting the gentle tone. A long way from 'Sex on Fire' — in a good way.",
+      "say": "New Kings of Leon dropped today, and apparently it's their soft, acoustic record — totally different vibe. You ever a fan back in the 'Sex on Fire' days?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Kings of Leon — KOYSAR (Official Video)", "url": "https://www.youtube.com/watch?v=JY87mCYtYd8" },
+        { "kind": "web", "text": "Album background (Stereogum)", "url": "https://stereogum.com/2510984/kings-of-leon-announce-new-album-o-my-beloved-hear-my-whole-world/music" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💿",
+      "tag": "Culture · Music",
+      "headline": "25 years ago today: Britney's 'Britney' gets an anniversary reissue",
+      "body": "Hard to believe, but Britney Spears' self-titled third album turns 25 — it came out November 6, 2001 — and there's a shiny 25th-anniversary edition out today to mark it. Lead single 'I'm a Slave 4 U' still goes, and that live snake moment is burned into pop history.",
+      "say": "'I'm a Slave 4 U' is somehow 25 years old today — they just reissued the whole Britney album. Where does the time go? You remember the snake at the VMAs?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Britney Spears — I'm A Slave 4 U (Official 4K Video)", "url": "https://www.youtube.com/watch?v=Mzybwwf2HoQ" },
+        { "kind": "web", "text": "November releases (Rolling Stone)", "url": "https://www.rollingstone.com/music/music-news/album-releases-november-2026-1235651380/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🥊",
+      "tag": "Culture · TV",
+      "headline": "'The Greatest' — the first authorized Muhammad Ali series is streaming",
+      "body": "Prime Video's eight-episode scripted series on Muhammad Ali (produced by Michael B. Jordan's company, with Ali's widow Lonnie as an executive producer) dropped this week. Newcomer Jaalen Best plays the young Cassius Clay, and early looks frame it as the man behind the icon.",
+      "say": "There's a big new Muhammad Ali series on Prime — the first one his family actually signed off on. Looks like a knockout. You into sports dramas?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Greatest — Official Trailer (Prime Video)", "url": "https://www.youtube.com/watch?v=RnRf-r-RdA4" },
+        { "kind": "web", "text": "Series details (Amazon)", "url": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video" }
+      ]
+    }
+  ]
+}
