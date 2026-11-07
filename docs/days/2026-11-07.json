@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-07",
+  "label": "Saturday, November 7, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Premier League weekend: Man United host Aston Villa in Sunday's big one",
+      "body": "The Premier League is back in full this weekend, and Sunday's headliner is Manchester United vs Aston Villa at Old Trafford. Saturday's no slouch either — Arsenal host Hull and Nottingham Forest take on Manchester City.",
+      "say": "Big Premier League weekend — United and Aston Villa square off Sunday at Old Trafford. You keeping up with the Premier League this year?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Fixtures & kickoff times", "url": "https://www.premierleague.com/fixtures" },
+        { "kind": "web", "text": "Where to watch (101 Great Goals)", "url": "https://www.101greatgoals.com/football/premier-league/football-on-tv-november-fixture-changes-matches-channels-live-online-streams-where-watch-kick-off-times-schedule/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · La Liga",
+      "headline": "Barça head to Atlético Madrid for La Liga's weekend showdown",
+      "body": "Spain's big one this weekend: Barcelona travel to Atlético Madrid at the Metropolitano on Sunday — always a spiky, physical afternoon. Real Madrid are out the same day too, over at Valencia.",
+      "say": "Barcelona play Atlético Madrid in Spain this weekend — those games always get feisty. You follow La Liga at all, or just the big names?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "La Liga scoreboard (ESPN)", "url": "https://www.espn.com/soccer/scoreboard/_/league/esp.1/date/20261108" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "Worlds hits the semifinals — Gen.G vs Invictus Gaming today",
+      "body": "The League of Legends knockouts roll on in Allen, Texas: Gen.G — perennial semifinalists still chasing a first crown — meet Invictus Gaming in a best-of-five today, while three-time champs T1 face Bilibili Gaming on Sunday. The grand final lands at Brooklyn's Barclays Center on November 14.",
+      "say": "League of Legends Worlds is down to the final four — Gen.G play today and the whole thing wraps up in Brooklyn next week. You ever dip into any esports?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "Riot Games on Twitch", "url": "https://www.twitch.tv/riotgames" },
+        { "kind": "web", "text": "Bracket & schedule (Esports.gg)", "url": "https://esports.gg/guides/league-of-legends/worlds-2026-hub/" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "Philly's Sean Brady headlines UFC Fight Night tonight vs Gabriel Bonfim",
+      "body": "A sneaky-good welterweight main event in Vegas tonight: Philadelphia's Sean Brady (19-2) takes on red-hot Brazilian Gabriel Bonfim (20-1) with top-10 stakes, and Tatiana Suarez vs Virna Jandiroba co-headlines. It's on Paramount+.",
+      "say": "There's a solid UFC card tonight — a top-10 welterweight scrap with a Philly guy, Sean Brady, in the main event. You still watch the fights?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Full card (UFC.com)", "url": "https://www.ufc.com/event/ufc-fight-night-november-07-2026" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏁",
+      "tag": "F1 · São Paulo GP",
+      "headline": "F1's at wild Interlagos — qualifying today, the Grand Prix Sunday",
+      "body": "The São Paulo Grand Prix weekend is here at Brazil's rollercoaster Interlagos circuit: qualifying is today, the race Sunday. New champ Kimi Antonelli already has the title locked up, so everyone's racing loose — and this track almost always serves up chaos.",
+      "say": "F1's in Brazil this weekend — Interlagos is the track where crazy stuff always seems to happen. You catch any of the races this season?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Session times & how to watch (F1)", "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-sao-paulo-grand-prix-and-how-can-i-watch-it.6hpbTPt6gucIHBH8QztPjb" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧟",
+      "tag": "Culture · Film",
+      "headline": "Guillermo del Toro's 'Frankenstein' hits Netflix today",
+      "body": "After a short theatrical run, del Toro's lavish, gothic 'Frankenstein' lands on Netflix today — Oscar Isaac as the obsessed doctor and Jacob Elordi as his heartbreaking creature. It's exactly the kind of beautiful, melancholy monster movie he does best.",
+      "say": "Guillermo del Toro's Frankenstein just dropped on Netflix — supposed to be gorgeous and sad in the best way. You into his stuff, like Pan's Labyrinth or The Shape of Water?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Frankenstein — Final Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=9WZllcEgWrM" },
+        { "kind": "web", "text": "Trailer breakdown (Forbes)", "url": "https://www.forbes.com/sites/timlammers/2025/10/31/final-frankenstein-trailer-released-as-netflix-premiere-date-looms/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎼",
+      "tag": "Culture · Music",
+      "headline": "Rosalía drops 'LUX' — an orchestral swing sung in 13 languages",
+      "body": "Rosalía's fourth album 'LUX' is out today, and it's a massive artistic leap: full orchestra, operatic vocals, and lyrics across some 13 languages. Lead single 'Berghain' (with Björk and Yves Tumor) set the gloriously dramatic tone.",
+      "say": "Rosalía put out an album today where she sings in like 13 languages over a full orchestra — super ambitious. You heard any of her stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "ROSALÍA — Berghain (Official Video) feat. Björk & Yves Tumor", "url": "https://www.youtube.com/watch?v=htQBS2Ikz6c" },
+        { "kind": "web", "text": "Album details (iHeart)", "url": "https://mix961.iheart.com/content/2025-11-07-rosala-unveils-new-album-lux-sings-in-13-languages" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🥊",
+      "tag": "Culture · Film",
+      "headline": "Sydney Sweeney goes full boxer in 'Christy' — in theaters today",
+      "body": "Sydney Sweeney transforms into real-life champ Christy Martin in this gritty biopic that drew big reactions at the Toronto festival. It's a brutal, inspiring story both in and out of the ring — a serious swing for Sweeney.",
+      "say": "Sydney Sweeney totally transformed to play a boxer in that new movie Christy — people at the festivals were really impressed. You seen the trailer?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Official trailer (IMDb)", "url": "https://www.imdb.com/video/vi2870462489/" },
+        { "kind": "web", "text": "Trailer story (Hollywood Reporter)", "url": "https://www.hollywoodreporter.com/movies/movie-news/christy-trailer-sydney-sweeney-boxing-1236367834/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Pluribus' — the 'Breaking Bad' creator's new Apple TV mystery premieres today",
+      "body": "Vince Gilligan reunites with Rhea Seehorn for 'Pluribus,' a strange, hooky sci-fi drama about 'the most miserable person on Earth' who somehow has to save the world from happiness. Two episodes drop today on Apple TV, then it's weekly.",
+      "say": "Vince Gilligan — the Breaking Bad guy — has a weird new sci-fi show on Apple TV with Rhea Seehorn. The premise is bonkers. You trust him after Better Call Saul?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Pluribus — Official Trailer (Apple TV)", "url": "https://www.youtube.com/watch?v=a6lzvWby9UE" },
+        { "kind": "web", "text": "Release & details (TechRadar)", "url": "https://www.techradar.com/streaming/apple-tv-plus/what-is-the-release-date-for-pluribus-episodes-1-and-2-on-apple-tv" }
+      ]
+    }
+  ]
+}
