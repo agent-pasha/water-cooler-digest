@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-09",
+  "label": "Monday, November 9, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Eight goals at Old Trafford — Man United claw back a wild 4-4 with Villa",
+      "body": "United were two goals down inside four minutes and still trailed 4-2 in stoppage time, then Patrick Dorgu's last-gasp strike rescued a 4-4. It's the first Premier League game ever where a team twice came back from two goals down.",
+      "say": "Did you catch Man United–Villa? Four-four, and United were basically buried twice — absolute chaos.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Man Utd 4-4 Aston Villa | Highlights", "url": "https://www.youtube.com/watch?v=wOLZ_jiQLdw" },
+        { "kind": "web", "text": "ESPN match report", "url": "https://www.espn.com/soccer/report/_/gameId/401879240" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Liverpool get right back on track — 3-1 at Crystal Palace",
+      "body": "Alexis Mac Allister, Florian Wirtz (his first league goal of the season) and Alexander Isak all scored as Liverpool bounced back at Selhurst Park. Eddie Nketiah's stoppage-time penalty was just a consolation.",
+      "say": "Wirtz finally got off the mark for Liverpool — they looked way more like themselves against Palace.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Crystal Palace 1-3 Liverpool | Highlights", "url": "https://www.youtube.com/watch?v=RdejiWAqcBQ" },
+        { "kind": "web", "text": "ESPN match report", "url": "https://www.espn.com/soccer/report/_/gameId/401879243" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · São Paulo GP",
+      "headline": "Norris cruises in Brazil — but Verstappen's P21-to-P2 stole the show",
+      "body": "Lando Norris won from pole to stretch his title lead, while Max Verstappen sliced from 21st on the grid all the way to second in a wet-dry thriller at Interlagos. Mercedes wrapped up the Constructors' crown.",
+      "say": "Verstappen started dead last in Brazil and still finished second — how does he even do that?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Race Highlights | 2026 São Paulo GP", "url": "https://www.youtube.com/watch?v=lkb5kqDJYXk" },
+        { "kind": "web", "text": "Motorsport.com", "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-brazil-grand-prix/10775538/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Sunday Night",
+      "headline": "No Luka? No problem — Austin Reaves drops 43 as the Lakers hold off Detroit",
+      "body": "With Luka Dončić out, Austin Reaves went off for 43 points and four threes to carry the Lakers past the Pistons 121-116.",
+      "say": "Austin Reaves put up 43 for the Lakers with Luka sitting — the guy's having a year.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Austin Reaves 43 PTS vs Pistons", "url": "https://www.youtube.com/watch?v=wOp73p6sMMA" },
+        { "kind": "web", "text": "Scores & leaders", "url": "https://www.landofbasketball.com/nba_daily_summary/20261108.htm" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "Faker's out — BLG finally slay T1 to reach the Worlds final",
+      "body": "Bilibili Gaming beat four-time champions T1 3-1 in the semifinals, ending Faker's title defense. They'll meet Gen.G in the grand final on Nov 14 at Barclays Center in New York.",
+      "say": "T1 are actually OUT of Worlds — BLG finally got them. It's BLG vs Gen.G for the title next weekend.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Worlds 2026 Semifinals Highlights", "url": "https://www.youtube.com/watch?v=LgiefI3GNbw" },
+        { "kind": "web", "text": "Insider Gaming", "url": "https://insider-gaming.com/blg-t1-faker-worlds-2026/" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🔫",
+      "tag": "Esports · Counter-Strike",
+      "headline": "MOUZ sweep The MongolZ 3-0 to win IEM Beijing",
+      "body": "MOUZ didn't drop a single map in the $1.25M Beijing grand final, finally lifting an IEM trophy after years of close calls for in-game leader xertioN.",
+      "say": "MOUZ just 3-0'd the MongolZ to win IEM Beijing without losing a map — ice cold.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "GRAND FINAL Highlights — IEM Beijing", "url": "https://www.youtube.com/watch?v=y_DwBDOYEFs" },
+        { "kind": "web", "text": "TalkEsport", "url": "https://www.talkesport.com/news/cs2/iem-beijing-2026-semifinals-results/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Godzilla stomps the box office — 'Minus Zero' beats the Cat in the Hat",
+      "body": "The sequel to the Oscar-winning 'Godzilla Minus One' opened at No. 1 this weekend, holding off Bill Hader's 'The Cat in the Hat' for the top spot.",
+      "say": "The new Godzilla won the weekend over the Cat in the Hat movie — kaiju beats cartoon, apparently.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Godzilla Minus Zero | Official Trailer", "url": "https://www.youtube.com/watch?v=Pu0pH5BuCPM" },
+        { "kind": "web", "text": "Box-office chart", "url": "https://www.the-numbers.com/box-office-chart/daily/2026/11/08" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Owen Wilson's golf comedy 'Stick' is back for Season 2",
+      "body": "Apple TV's feel-good golf comedy returned Nov 4, with Owen Wilson's washed-up pro chasing a comeback — and Better Call Saul's Rhea Seehorn joining the cast.",
+      "say": "You watching Stick? Owen Wilson as a has-been golfer — second season just dropped.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Stick — Season 2 Official Trailer", "url": "https://www.youtube.com/watch?v=m6ArXts5JPk" },
+        { "kind": "web", "text": "BroadwayWorld", "url": "https://www.broadwayworld.com/article/STICK-Season-2-Trailer-Debuts-on-Apple-TV-20261008" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "Bryan Adams is back with new music — 'How's It Goin''",
+      "body": "The Canadian rock mainstay dropped a breezy, radio-ready new single this week — pure, instantly recognizable Bryan Adams.",
+      "say": "Bryan Adams put out new music — and it still sounds exactly like Bryan Adams, which is kind of the point.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Bryan Adams - How's It Goin'", "url": "https://www.youtube.com/watch?v=2ZWH__jFuKQ" },
+        { "kind": "web", "text": "New Music Friday", "url": "https://www.officialcharts.com/chart-news/new-music-friday-november-6-2026/" }
+      ]
+    }
+  ]
+}
