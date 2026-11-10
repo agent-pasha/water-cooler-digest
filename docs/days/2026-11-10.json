@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-10",
+  "label": "Tuesday, November 10, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Rookie Watch",
+      "headline": "Cooper Flagg drops 43 as the Mavs survive the Pacers 125-122",
+      "body": "The 19-year-old No. 1 pick went off for 43 points, 10 boards and 6 assists, powering Dallas to a 37-point first-half lead — then held on when Indiana stormed back. It made him just the second teenager ever (after Kevin Durant) to post a 40-10-5 game.",
+      "say": "Did you catch Cooper Flagg last night? Forty-three points at nineteen — the kid is going to be a problem for a long time.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Pacers @ Mavs — full highlights", "url": "https://www.youtube.com/watch?v=RAPmPkOUf20" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "👽",
+      "tag": "NBA · Spurs",
+      "headline": "Nine blocks?! Wembanyama swats the Suns into oblivion",
+      "body": "Victor Wembanyama needed just 25 minutes to put up 40 points on ~79% shooting, 11 rebounds and a ridiculous NINE blocks as San Antonio ran Phoenix off the floor 122-96. The guy is basically cheating.",
+      "say": "Wembanyama had forty points AND nine blocks last night — in 25 minutes. How is that even allowed?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Spurs @ Suns — full highlights", "url": "https://www.youtube.com/watch?v=fZRq0ZJQa2I" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night",
+      "headline": "Bills roll into Minnesota and grind out a 23-6 win",
+      "body": "Josh Allen was sharp and Buffalo's defense smothered Carson Wentz and the Vikings' offense all night in a 23-6 Monday-nighter. The Bills are rolling at 7-1; Minnesota's quiet offense keeps wasting good defense.",
+      "say": "The Bills look scary good right now — they just went to Minnesota on Monday night and barely let the Vikings move the ball.",
+      "watch": "▶ Game recap & highlights",
+      "links": [
+        { "kind": "web", "text": "Bills 23, Vikings 6 — recap", "url": "https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🎮",
+      "tag": "Esports · LoL Worlds",
+      "headline": "The Worlds final is set — Gen.G vs BLG this Saturday in Brooklyn",
+      "body": "Gen.G swept Invictus Gaming 3-0 to lock up their spot, where they'll meet Bilibili Gaming (who knocked out four-peat-chasing T1). The best part: star mid-laner Chovy finally reaches his first Worlds final after losing three straight semis.",
+      "say": "The League of Legends world final is in Brooklyn this Saturday — Gen.G vs BLG. Chovy's finally there after years of heartbreak.",
+      "watch": "▶ Watch the finals trailer",
+      "links": [
+        { "kind": "yt", "text": "Worlds 2026 Finals — official trailer", "url": "https://www.youtube.com/watch?v=1lYOBC2hNi4" },
+        { "kind": "web", "text": "Gen.G reach the final", "url": "https://strafe.com/news/read/geng-become-first-team-to-reach-worlds-2026-final-after-3-0-sweep-of-ig" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Johnny Depp is a creepy Scrooge in 'Ebenezer' — in theaters Friday",
+      "body": "Horror director Ti West (of 'X' fame) reimagines 'A Christmas Carol' as a spooky ghost story, with Johnny Depp as a snarling Scrooge and a cast that includes Daisy Ridley and Ian McKellen. It opens November 13.",
+      "say": "There's a horror version of A Christmas Carol out Friday with Johnny Depp as Scrooge — a scary Christmas Carol is such a weird, fun idea.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ebenezer — official trailer", "url": "https://www.youtube.com/watch?v=FWgfxmO0ppw" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💸",
+      "tag": "Culture · Film",
+      "headline": "'How to Rob a Bank' livestreams its heist into theaters Friday",
+      "body": "Nicholas Hoult, Zoë Kravitz and John C. Reilly star in a twisty caper about social-media-obsessed robbers who livestream their heists while the cops close in. It hits theaters November 13.",
+      "say": "There's a heist movie out Friday where the robbers livestream the whole thing — feels very 2026, honestly.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "How to Rob a Bank — official trailer", "url": "https://www.youtube.com/watch?v=faOZbmNXOFI" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "U2 are back — first new album in nearly a decade drops Friday",
+      "body": "'Carnaval de Luz' lands November 13, the band's first album of brand-new original material since 2017. Lead single 'Silencio' is already out, and a 2027 world tour is teed up to follow.",
+      "say": "U2 have a new album out Friday — their first real new music in almost ten years. Wild that Bono and the gang are still going.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "U2 — 'Silencio'", "url": "https://www.youtube.com/watch?v=1mCN-RDh0-0" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💍",
+      "tag": "Culture · TV",
+      "headline": "'The Rings of Power' is back tomorrow — and Sauron forges the One Ring",
+      "body": "Season 3 of Amazon's big-budget 'Lord of the Rings' show premieres November 11 with a five-year time jump and, finally, the creation of the One Ring. First four episodes drop at once on Prime Video.",
+      "say": "Rings of Power is back tomorrow — this is the season where Sauron actually forges the One Ring. Should be a big one.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Rings of Power S3 — official trailer", "url": "https://www.youtube.com/watch?v=I_n4aqsFiGE" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "'Rivals' is back tomorrow — the deliciously trashy '80s soap returns",
+      "body": "The hit Jilly Cooper adaptation — all shoulder pads, scandal and tennis-court drama with David Tennant and Aidan Turner — returns for Season 2 on November 11 on Hulu and Disney+.",
+      "say": "Rivals is back tomorrow — if you want a ridiculous, soapy British drama to binge, this is the one everyone's talking about.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Rivals S2 — official trailer", "url": "https://www.youtube.com/watch?v=1z5BKja5rQ0" }
+      ]
+    }
+  ]
+}
