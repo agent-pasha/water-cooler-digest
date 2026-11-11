@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-11",
+  "label": "Wednesday, November 11, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Portugal",
+      "headline": "The CR7 era is over — Ronaldo retires from international football",
+      "body": "After 23 years, a record 234 caps and a record 146 goals, Cristiano Ronaldo has called time on his Portugal career. He walks away as the most-capped and highest-scoring men's international player ever — the end of a genuine era.",
+      "say": "Ronaldo actually retired from international football — 23 years in the Portugal shirt. End of an era, right?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Ronaldo's greatest Portugal goals (UEFA)", "url": "https://www.youtube.com/watch?v=is8JWdOeinI" },
+        { "kind": "web", "text": "Retirement news (theScore)", "url": "https://www.thescore.com/topsn/news/3645847/cristiano-ronaldo-announces-international-retirement-from-portugal" }
+      ]
+    },
+    {
+      "cat": "ncaab",
+      "emoji": "🏀",
+      "tag": "College Hoops · Champions Classic",
+      "headline": "Blue bloods, bad night — Michigan State stuns Duke, Kansas routs Kentucky",
+      "body": "College basketball's marquee early showcase delivered in Chicago. No. 5 Michigan State knocked off Duke 79-73 behind Jeremy Fears Jr., while Kansas ran Kentucky off the floor 89-69 with Tre White pouring in 30. Two heavyweight scalps in one night.",
+      "say": "Did you catch the Champions Classic? Michigan State beat Duke and Kansas blew out Kentucky — college hoops is back and it did not ease in.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Michigan State vs Duke — full highlights (ESPN)", "url": "https://www.youtube.com/watch?v=oITv1clRXyQ" },
+        { "kind": "web", "text": "Game recap (ESPN)", "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909564" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · UFC 334",
+      "headline": "UFC 334 takes over the Garden Saturday — and Harrison vs Nunes is huge",
+      "body": "Madison Square Garden hosts a stacked card Saturday: Ciryl Gane defends the heavyweight title against unbeaten Josh Hokit (10-0), and in the co-main, champ Kayla Harrison meets the returning Amanda Nunes in a blockbuster women's bantamweight showdown.",
+      "say": "There's a big UFC card at the Garden Saturday — Kayla Harrison vs Amanda Nunes is the kind of fight everyone's going to be talking about. You still watch the fights?",
+      "watch": "▶ Watch the fight promo",
+      "links": [
+        { "kind": "yt",  "text": "UFC 334 — official fight promo", "url": "https://www.youtube.com/watch?v=zTvrOoVa8kY" },
+        { "kind": "web", "text": "Full card (UFC.com)", "url": "https://www.ufc.com/event/ufc-334" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🔫",
+      "tag": "Esports · Counter-Strike",
+      "headline": "No rest for CS2 — BLAST Rivals is live in Hong Kong",
+      "body": "The Counter-Strike circuit barely took a breath after IEM Beijing: BLAST Rivals Fall has the world's best teams scrapping in Hong Kong this week, with red-hot Team Spirit among the favorites.",
+      "say": "There's already another big Counter-Strike event on — BLAST Rivals in Hong Kong. The pro scene never sleeps. You play any CS, or watch it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "tw",  "text": "BLAST on Twitch", "url": "https://www.twitch.tv/blast" },
+        { "kind": "web", "text": "Bracket & results (esports.gg)", "url": "https://esports.gg/news/counter-strike-2/cs2-blast-rivals-fall-2026-overview-results/" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night",
+      "headline": "Football's back Thursday — Commanders at Giants kicks off Week 10",
+      "body": "After a quiet couple of days, the NFL returns Thursday night with an NFC East matchup: the Commanders visit the Giants at MetLife Stadium on Prime Video. A division game to get Week 10 rolling.",
+      "say": "NFL's back Thursday night with a Giants–Commanders division game. You riding with anybody this season?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Week 10 schedule (CBS Sports)", "url": "https://www.cbssports.com/nfl/schedule/2026/regular/10/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔪",
+      "tag": "Culture · Film",
+      "headline": "Maika Monroe goes full 'Victorian Psycho' — in theaters Friday",
+      "body": "A gothic horror-comedy with a wicked streak: Maika Monroe plays a governess who is very much not what she seems in a blood-soaked 1850s romp that premiered at Cannes. It opens Friday, November 13.",
+      "say": "There's a horror movie out Friday called Victorian Psycho — basically a Victorian lady going full American Psycho. Wild premise, right?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Victorian Psycho — official trailer (Bleecker Street)", "url": "https://www.youtube.com/watch?v=sDiFol_2j2I" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎵",
+      "tag": "Culture · Music",
+      "headline": "ATEEZ keep the hits coming — 'Golden Hour: Part.6' drops Friday",
+      "body": "The K-pop powerhouse returns Friday with a new mini-album led by title track 'UP.' The pre-release single 'Drip' already blew past 8 million YouTube views in two days — the ATINY army is locked in.",
+      "say": "ATEEZ have a new release Friday — their fanbase is massive and the production is wild. You follow any K-pop at all?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "ATEEZ — 'Drip' Official MV", "url": "https://www.youtube.com/watch?v=iqQWCYMlMw0" },
+        { "kind": "web", "text": "Comeback details (Korea JoongAng Daily)", "url": "https://www.koreajoongangdaily.com/entertainment/boy-band-ateez-to-return-with-golden-hour-part6-next-month/12910603" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Snoh Aalegra is back — first album in five years lands Friday",
+      "body": "The silky soul singer returns with 'Legendary Love' on Friday, her first full-length since 2021. The single 'I Love You' even pulls in legends Nile Rodgers and Raphael Saadiq — perfect easy-listening for the weekend.",
+      "say": "Snoh Aalegra has a new album Friday — smooth, soulful stuff, her first in five years. Great rainy-day music. You know her?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Snoh Aalegra — 'I Love You'", "url": "https://www.youtube.com/watch?v=pjSMPn8dEN0" },
+        { "kind": "web", "text": "Album announcement (Line of Best Fit)", "url": "https://www.thelineofbestfit.com/news/snoh-aalegra-announces-new-album-legendary-love" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · Music",
+      "headline": "Grammy season kicks off Monday — 2027 nominations land",
+      "body": "The nominations for the 2027 Grammys drop Monday, November 16, officially starting awards season. The ceremony itself is set for February 7 in Los Angeles. Cue the 'who got snubbed' debates.",
+      "say": "Grammy nominations come out Monday — always fun to argue about who got robbed. Who are you hoping gets a nod this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Key dates (Grammy.com)", "url": "https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced" }
+      ]
+    }
+  ]
+}
