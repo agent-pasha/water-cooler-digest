@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-14",
+  "label": "Saturday, November 14, 2026",
+  "items": [
+    {
+      "cat": "ncaaf",
+      "emoji": "🏈",
+      "tag": "College Football · SEC Saturday",
+      "headline": "SEC Saturday is loaded — Texas at LSU and Missouri at No. 2 Georgia",
+      "body": "College football's best conference goes nuclear today. No. 7 Texas rolls into Baton Rouge for a primetime night game at LSU, No. 18 Missouri visits No. 2 Georgia in the afternoon, and No. 24 Florida heads to No. 6 Kentucky — three ranked road tests with playoff seeding on the line.",
+      "say": "It's a monster college football Saturday — Texas at LSU under the lights, and Georgia-Missouri earlier. You following the playoff race at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Texas vs. Missouri — 2026 SEC highlights (SEC)", "url": "https://www.youtube.com/watch?v=OdiguPx0X7Y" },
+        { "kind": "web", "text": "Full Saturday TV schedule (FBSchedules)", "url": "https://fbschedules.com/college-football-schedule-tv-selections-for-november-14-2026/" }
+      ]
+    },
+    {
+      "cat": "boxing",
+      "emoji": "🥊",
+      "tag": "Boxing · Super Middleweight",
+      "headline": "Unbeaten on the line tonight — Diego Pacheco vs Darius Fulghum in Carson",
+      "body": "Two undefeated super middleweights collide tonight in Carson, California: LA's Diego Pacheco, the fast-rising prospect with knockout power, against former U.S. amateur standout Darius Fulghum. Winner stays unbeaten and vaults into the title conversation. Live on DAZN.",
+      "say": "There's a good boxing card tonight — two undefeated guys, Pacheco and Fulghum, both trying to stay perfect. You ever get into the fights?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "yt",  "text": "Pacheco vs Fulghum — final press conference (Matchroom Boxing)", "url": "https://www.youtube.com/watch?v=xzXPJM-NQ_0" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Las Vegas GP",
+      "headline": "Next up: F1 races down the Strip — the Las Vegas GP is next weekend",
+      "body": "Formula 1's neon night race returns November 19–21, with the cars screaming past the casinos at 200+ mph under the lights. Last year Max Verstappen won it to tighten the title race — expect another spectacle on one of the fastest, flashiest layouts of the year.",
+      "say": "F1 takes over the Las Vegas Strip next weekend — the whole track runs right past the casinos. It's wild to watch. You into racing?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "2025 Las Vegas GP — full highlights (ESPN F1)", "url": "https://www.youtube.com/watch?v=UUcvG9fHDQ0" },
+        { "kind": "web", "text": "Event guide & schedule (Formula 1)", "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "A gritty '80s crime saga — James Gray's 'Paper Tiger' hits theaters",
+      "body": "Adam Driver, Scarlett Johansson and Miles Teller lead James Gray's '80s Queens crime drama about two brothers who get pulled into a Russian-mob scheme. It's Driver and Johansson's first film together since 'Marriage Story,' opening in select theaters this weekend before going wide November 20.",
+      "say": "There's a new James Gray crime movie out — Adam Driver and Scarlett Johansson back together for the first time since 'Marriage Story.' You seen a trailer for it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Paper Tiger — official trailer", "url": "https://www.youtube.com/watch?v=9JvN9WvIF7A" },
+        { "kind": "web", "text": "First look & release details (TheWrap)", "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-trailer-adam-driver-miles-teller-scarlett-johansson/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏔️",
+      "tag": "Culture · TV",
+      "headline": "One last trip into the woods — 'Yellowjackets' sets its final season",
+      "body": "The survival-horror obsession returns for its fourth and final season on November 20 (Paramount+ with Showtime). The new trailer teases rescue finally arriving for the teens in the wilderness — which threatens to drag the adults' darkest secrets back into the light.",
+      "say": "'Yellowjackets' is coming back for its final season next week — that show is deliciously unhinged. Did you ever get sucked into it?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Yellowjackets Season 4 — official trailer (Paramount+)", "url": "https://www.youtube.com/watch?v=zDFHivyECDU" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Old money, new drama — 'The Gilded Age' is back for Season 4",
+      "body": "HBO's sumptuous turn-of-the-century soap is mid-run on its fourth season, with Bertha Russell scheming her way up New York's social ladder and fresh romantic fireworks across the townhouses. Easy, bingeable Sunday-night escapism with jaw-dropping costumes.",
+      "say": "'The Gilded Age' is back on HBO — it's basically a fancy period soap opera, total comfort watch. You keep up with any of those big costume dramas?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "The Gilded Age Season 4 — official trailer (HBO Max)", "url": "https://www.youtube.com/watch?v=MqRa6X31lUk" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Offset goes solo again — new album 'GMFU' is here",
+      "body": "The former Migos star drops his new solo record 'GMFU,' stacked with features from the likes of Quavo, Don Toliver and Gunna. Big, booming trap production and the kind of swagger that lands it straight on the weekend playlist.",
+      "say": "Offset dropped a new solo album — loaded with features, proper turn-it-up stuff. You still keep tabs on the hip-hop that's out?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Offset — SET IT OFF (Official Video)", "url": "https://www.youtube.com/watch?v=a-UfcGwVs9Q" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🪩",
+      "tag": "Culture · Music",
+      "headline": "Pure glitterball joy — Jessie Ware's 'Superbloom' is the dance-pop record of the moment",
+      "body": "British singer Jessie Ware's disco-soaked 'Superbloom' has been one of 2026's most-loved pop albums — all strings, grooves and feel-good euphoria — and she's just expanded it with a fresh batch of tracks. Perfect Saturday-night, get-the-party-going listening.",
+      "say": "If you want something fun this weekend, Jessie Ware's new album is basically a disco ball in song form. You into any of that dance-pop stuff?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Jessie Ware — Ride (Official Video)", "url": "https://www.youtube.com/watch?v=HE8XRHOGhtQ" }
+      ]
+    }
+  ]
+}
