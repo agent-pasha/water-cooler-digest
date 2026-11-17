@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-17",
+  "label": "Tuesday, November 17, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night",
+      "headline": "Winless no more — the Chargers shock the Ravens on Monday night",
+      "body": "The 0-8 Chargers finally broke through, upsetting Baltimore 23-20 on Monday Night Football for their first win of the season. Justin Herbert and rookie Omarion Hampton (105 rushing yards) built an early lead, and a late Zay Flowers fumble slammed the door on the Ravens.",
+      "say": "Did you see the Chargers finally win one? They were 0-8, went into Baltimore and stole it on Monday night. You've gotta feel good for them. You following any football this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Chargers vs. Ravens — Week 10 highlights (NFL)", "url": "https://www.youtube.com/watch?v=iXTg27Lenug" },
+        { "kind": "web", "text": "Chargers snap skid, 23-20 (CBS Sports)", "url": "https://www.cbssports.com/nfl/news/chargers-snap-11-game-skid-with-23-20-victory-over-ravens/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · USMNT",
+      "headline": "Pochettino's goodbye — USMNT close out Haiti tonight before he leaves for Man United",
+      "body": "The U.S. men finish their Nations League quarterfinal against Haiti tonight in Cincinnati, already sitting on a 6-0 first-leg cushion. It's also Mauricio Pochettino's farewell match — he's off to take the Manchester United job the moment the tie wraps.",
+      "say": "Tonight's the USMNT coach's last game — Pochettino's leaving to take over Man United right after. They're up 6-0 on Haiti, so it's basically a send-off. You keeping an eye on the national team before the World Cup?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Haiti 0-6 USMNT — first-leg highlights (B/R Football)", "url": "https://www.youtube.com/watch?v=1rcSoVp4ecc" },
+        { "kind": "web", "text": "Match recap (U.S. Soccer)", "url": "https://ussoccer.com/stories/2026/11/usmnt-vs-haiti-match-recap-highlights-concacaf-nations-league-miami-florida" }
+      ]
+    },
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Las Vegas GP",
+      "headline": "Lights, Vegas, title fight — F1 hits the Strip this weekend with the crown up for grabs",
+      "body": "Formula 1's neon night race is finally here (Nov 19-21), and it matters: with the season winding down, McLaren and Red Bull are locked in a tight championship battle as the cars scream past the casinos at 200+ mph.",
+      "say": "F1 takes over the Las Vegas Strip this weekend — and the title's still up for grabs, McLaren versus Red Bull. The whole track runs right past the casinos, it's wild to watch. You into racing at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Las Vegas GP preview — F1 Nation (FORMULA 1)", "url": "https://www.youtube.com/watch?v=JJEu0HUDaVE" },
+        { "kind": "web", "text": "Event guide & schedule (Formula 1)", "url": "https://www.formula1.com/en/racing/2026/las-vegas" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🔫",
+      "tag": "Esports · Counter-Strike",
+      "headline": "The big one's almost here — CS2's season-ending Major lands in Singapore",
+      "body": "Counter-Strike's final Major of the year is set: the PGL Major Singapore — the first-ever CS2 Major in Southeast Asia — tips off November 25 with 32 teams, including red-hot FURIA, Vitality, Team Spirit and Falcons all chasing the trophy.",
+      "say": "The last big Counter-Strike Major of the year is about to kick off in Singapore — the first one ever over there. Brazil's FURIA have been on fire heading in. You play any CS, or watch it?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "PGL Singapore Major 2026 (PGL)", "url": "https://www.youtube.com/watch?v=u1hnLoP5xGo" },
+        { "kind": "web", "text": "Teams & storylines (esports.gg)", "url": "https://esports.gg/guides/counter-strike-2/cs2-singapore-major-teams-vrs-storylines/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🥊",
+      "tag": "Culture · Film",
+      "headline": "'I Play Rocky' — the wild true story of how Stallone fought to be Rocky",
+      "body": "Opening wide November 20 — 50 years after the original — 'I Play Rocky' tells how a broke Sylvester Stallone refused to sell his script unless he got to star in it. Anthony Ippolito does an uncanny young Sly, with Peter Farrelly directing.",
+      "say": "There's a movie coming about how Stallone basically bet everything to play Rocky himself — out right on the 50th anniversary. The guy playing young Stallone looks spot-on. You a Rocky fan?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "I Play Rocky — Official Trailer (Amazon MGM)", "url": "https://www.youtube.com/watch?v=V_g_Ut0jO-0" },
+        { "kind": "web", "text": "First look & details (TheWrap)", "url": "https://www.thewrap.com/industry-news/business/anthony-ippolito-sylvester-stallone-i-play-rocky-cinemacon-trailer/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "John Travolta plays a mobster in the JFK thriller 'November 1963'",
+      "body": "Roland Joffé's thriller imagines the mob's hand in the Kennedy assassination, with a near-unrecognizable John Travolta as real-life gangster Johnny Roselli. It's rolling into theaters this fall — and his transformation has people talking.",
+      "say": "There's a new thriller with John Travolta as a mobster tied up in the JFK assassination — he looks totally different in it. Those 'what really happened' movies are always a trip. You into that kind of thing?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "November 1963 — Official Trailer (IGN)", "url": "https://www.youtube.com/watch?v=7TX4oFrknCs" },
+        { "kind": "web", "text": "Trailer breakdown (GeekTyrant)", "url": "https://geektyrant.com/news/november-1963-trailer-puts-john-travolta-at-the-center-of-a-jfk-mob-conspiracy" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Conway the Machine goes big — new album 'OTIS' drops Friday",
+      "body": "The Buffalo rap heavyweight returns November 20 with 'OTIS,' a star-stacked record (Wu-Tang legends and more in the mix) led by the gritty single 'Diggwutumsayn!' Classic boom-bap menace, built for the weekend playlist.",
+      "say": "Conway the Machine's got a new album out Friday — proper gritty New York rap, loaded with features. You still keep up with any hip-hop?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Conway the Machine — Diggwutumsayn! (Official Music Video)", "url": "https://www.youtube.com/watch?v=I8MrZ0TNvqg" },
+        { "kind": "web", "text": "Album announcement (Ratings Game Music)", "url": "https://ratingsgamemusic.com/2026/10/29/conway-the-machine-announces-otis-for-november-20-with-wu-tang-legends-and-goo-goo-dolls/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Noah Kahan announces his biggest tour yet — stadiums all over in 2027",
+      "body": "The 'Stick Season' folk-pop star just rolled out 'The Last of the Bugs World Tour,' his largest headline run ever — a stadium trek across North America and Europe in 2027, capped by a milestone Wembley show. North American tickets just hit general sale.",
+      "say": "Noah Kahan just announced his biggest tour ever for next year — the 'Stick Season' guy. His stuff is that catchy, sing-it-at-the-top-of-your-lungs folk-pop. You heard him?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Noah Kahan — Stick Season (Official Video)", "url": "https://www.youtube.com/watch?v=JKrDdsgXuso" },
+        { "kind": "web", "text": "The 2027 tour dates (Ticketmaster)", "url": "https://blog.ticketmaster.com/noah-kahan-2027-tour-dates/" }
+      ]
+    }
+  ]
+}
