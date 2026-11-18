@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-18",
+  "label": "Wednesday, November 18, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Hot Streak",
+      "headline": "Wemby's on another level — the Spurs are the hottest team in the league",
+      "body": "Victor Wembanyama is having a monster start: a career-high 52 points and 24 rebounds in a one-point win over Dallas, then a 40-point, shot-swatting night in Phoenix as San Antonio ripped off a double-digit winning streak. The Spurs suddenly look like real contenders.",
+      "say": "Have you seen what Wembanyama's doing? He went for 52 and 24 the other week, and the Spurs are just rolling. The 7-foot-4 guy might be the best player in the league already. You catching any NBA this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Wemby's 52-point, 24-rebound night (NBA.com)", "url": "https://www.nba.com/news/spurs-victor-wembanyama-52-points-mavericks" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Pochettino's first test is a monster — Man United at Anfield this weekend",
+      "body": "Mauricio Pochettino officially takes charge at Manchester United today, straight off his USMNT send-off — and the fixture list did him no favors. His first match in the dugout is Sunday away at Liverpool, one of the fiercest rivalries in the sport, as the Premier League roars back from the international break.",
+      "say": "Pochettino's first game as Man United manager is away at Liverpool this weekend — talk about being thrown in the deep end. That's about as big as club games get. You follow the Premier League at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Pochettino confirmed, Liverpool up first (Soccer News)", "url": "https://www.soccernews.com/man-utd-confirm-pochettino-as-new-head-coach/408112/" }
+      ]
+    },
+    {
+      "cat": "ncaab",
+      "emoji": "🏀",
+      "tag": "College Hoops · Feast Week",
+      "headline": "Feast Week is almost here — the Maui Invitational loads up over Thanksgiving",
+      "body": "College basketball's best early-season bonanza lands Thanksgiving week. The Maui Invitational (Nov 23-25) stacks Arizona, BYU, Clemson, Ole Miss, Providence, VCU, Washington and Colorado State into one bracket in Hawaii — turkey, mashed potatoes and nonstop hoops all week.",
+      "say": "Feast Week's coming up — all those Thanksgiving college basketball tournaments like Maui, back-to-back games all day. Perfect couch-and-leftovers viewing. You into college hoops at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "2026 Maui Invitational bracket & schedule (NCAA.com)", "url": "https://www.ncaa.com/news/basketball-men/article/2026-07-30/2026-maui-invitational-bracket-schedule-teams" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 11",
+      "headline": "Football's back Thursday — Colts at Texans kicks off a Week 11 grind",
+      "body": "After a quick breather, the NFL returns Thursday night with the Colts visiting the Texans on Prime Video, launching Week 11 as the playoff picture really starts to tighten. It's the last stretch before the Thanksgiving slate takes over next week.",
+      "say": "NFL's back Thursday night, Colts at Texans — and then we're basically into Thanksgiving football. This is my favorite stretch of the season. You riding with anybody this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Full Week 11 schedule (CBS Sports)", "url": "https://www.cbssports.com/nfl/schedule/2026/regular/11/" }
+      ]
+    },
+    {
+      "cat": "tennis",
+      "emoji": "🎾",
+      "tag": "Tennis · ATP Finals",
+      "headline": "Crunch time in Turin — the ATP Finals reach the knockout stage",
+      "body": "The year's top men hit the business end of the season-ending ATP Finals this week, with the semifinals and Sunday's championship on the line in Turin. World No. 1 Carlos Alcaraz has been the man to beat with defending champ Jannik Sinner sidelined by injury.",
+      "say": "The ATP Finals are down to the knockout rounds in Turin — basically the last big tennis of the year, with Alcaraz the favorite. Fun one to have on. You catch any tennis this time of year?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Live scores & schedule (ATP Tour)", "url": "https://www.atptour.com/en/scores/current/nitto-atp-finals/605/live-scores" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏹",
+      "tag": "Culture · Film",
+      "headline": "Panem is back — 'Sunrise on the Reaping' opens huge this weekend",
+      "body": "The new Hunger Games prequel hits theaters Friday, and ticket tracking has it opening north of $80 million — possibly the biggest debut the franchise has ever had. It's young Haymitch Abernathy's story, set during the brutal 50th Games (the Second Quarter Quell).",
+      "say": "The new Hunger Games — young Haymitch's story — opens Friday and it's tracking to be the biggest one yet. Those movies always pull a crowd. You into the Hunger Games, or know someone who's counting down?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Hunger Games: Sunrise on the Reaping — Official Trailer", "url": "https://www.youtube.com/watch?v=CINFIAohu4U" },
+        { "kind": "web", "text": "Opening-weekend tracking (GamesRadar)", "url": "https://www.gamesradar.com/entertainment/action-movies/prequel-movie-sunrise-on-the-reaping-may-end-up-being-one-of-the-highest-grossing-hunger-games-installments-as-early-ticket-sales-track-a-usd100-million-plus-opening/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤖",
+      "tag": "Culture · TV",
+      "headline": "Back to a neon future — 'Blade Runner 2099' lands next week",
+      "body": "Prime Video's long-awaited Blade Runner series drops all eight episodes November 25. Michelle Yeoh plays a replicant Blade Runner and Hunter Schafer a human on the run, in a story set 50 years after 'Blade Runner 2049,' with Ridley Scott producing. Rainy, moody, big-screen sci-fi for your couch.",
+      "say": "There's a Blade Runner TV series coming next week with Michelle Yeoh — looks gorgeous, all that neon-noir sci-fi. You a fan of the Blade Runner movies?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Blade Runner 2099 — Official Trailer (Prime Video)", "url": "https://www.youtube.com/watch?v=vfTiEyJTcjU" },
+        { "kind": "web", "text": "Premiere details (About Amazon)", "url": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "💃",
+      "tag": "Culture · Music",
+      "headline": "La-la-la — Kylie's 'Fever' turns 25, and 'Can't Get You Out of My Head' is back",
+      "body": "A quarter-century on, Kylie Minogue is celebrating her blockbuster album 'Fever' with a deluxe 'XXV Edition' (out Nov 27) loaded with B-sides and fresh remixes. That means one of the catchiest songs ever made — 'Can't Get You Out of My Head' — is getting its flowers all over again.",
+      "say": "Can you believe Kylie's 'Can't Get You Out of My Head' is 25 years old? She's reissuing the whole album. That la-la-la hook is going to be stuck in your head all day now — sorry in advance.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Kylie Minogue — Can't Get You Out Of My Head (Official Video)", "url": "https://www.youtube.com/watch?v=c18441Eh_WE" },
+        { "kind": "web", "text": "The 25th-anniversary reissue (DJ Mag)", "url": "https://djmag.com/news/kylie-minogues-fever-gets-25th-anniversary-reissue-featuring-remixes-roger-sanchez-peggy-gou" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "😂",
+      "tag": "Culture · Film",
+      "headline": "The in-laws are back — 'Focker-In-Law' brings the chaos for Thanksgiving",
+      "body": "Ben Stiller and Robert De Niro reunite for a new 'Meet the Parents' sequel, 'Focker-In-Law,' opening November 25 — this time with Ariana Grande and Owen Wilson stirring the pot. Perfect, cringe-comedy timing for the week everyone's actually sitting down with their own in-laws.",
+      "say": "They made another Meet the Parents — 'Focker-In-Law' with Stiller and De Niro, out for Thanksgiving. Releasing an awkward-family comedy the same week everyone's with their in-laws is pretty perfect. You a fan of those?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Trailer & first look (TheWrap)", "url": "https://www.thewrap.com/creative-content/movies/focker-in-law-trailer-ben-stiller-robert-de-niro-ariana-grande/" }
+      ]
+    }
+  ]
+}
