@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-20",
+  "label": "Friday, November 20, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thursday Night",
+      "headline": "Texans hammer the Colts 26-3 on Thursday night",
+      "body": "C.J. Stroud threw three touchdown passes and Houston's defense smothered Indianapolis in a 26-3 Thursday Night Football rout. David Montgomery bulldozed for 107 rushing yards and Will Anderson Jr. even added a safety, as the Texans grabbed a grip on the AFC South.",
+      "say": "Texans just rolled the Colts 26-3 on Thursday night — Stroud threw three touchdowns and the defense was all over them. You following any football this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Colts vs. Texans — Week 11 highlights (NFL)", "url": "https://www.youtube.com/watch?v=E4M4HIAfJl4" },
+        { "kind": "web", "text": "Game recap (ESPN)", "url": "https://www.espn.com/nfl/recap/_/gameId/401873066" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Thursday",
+      "headline": "Dame goes off — Lillard drops 33 as the Blazers win in Milwaukee",
+      "body": "Damian Lillard poured in 33 points with five made threes and Scoot Henderson chipped in 27 as Portland knocked off the Bucks 124-114 on the road. Classic Dame, pulling up from the logo like it's a layup line.",
+      "say": "Damian Lillard dropped 33 on the Bucks last night — still shooting from the logo like it's nothing. You catching any NBA this season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Lillard's 33-point, 5-three night vs. Bucks (NBA)", "url": "https://www.youtube.com/watch?v=OWLdad1eBw8" },
+        { "kind": "web", "text": "Scores & leaders (Land of Basketball)", "url": "https://www.landofbasketball.com/nba_daily_summary/20261119.htm" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Record Watch",
+      "headline": "Cutter Gauthier just did something no NHL player ever has",
+      "body": "Anaheim's 22-year-old Cutter Gauthier became the first player in NHL history to record four hat tricks in a single calendar month, capping a ridiculous November that also featured a 10-game goal streak. The Ducks have suddenly turned into appointment viewing.",
+      "say": "There's a kid in Anaheim, Cutter Gauthier, who just became the first player ever with four hat tricks in one month — nobody in NHL history had done that. You follow any hockey?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Gauthier hat trick highlights", "url": "https://www.youtube.com/watch?v=jY11CpG2_Jw" },
+        { "kind": "web", "text": "Inside Gauthier's historic month (NHL.com)", "url": "https://www.nhl.com/ducks/news/this-cutter-s-on-fire" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Fight Night",
+      "headline": "Prochazka headlines UFC Qatar on Saturday",
+      "body": "The UFC touches down in Doha on Saturday with a light-heavyweight scrap: fan-favorite wild man Jiri Prochazka takes on unbeaten rising star Navajo Stirling, with former champ Aljamain Sterling in the co-main event. Prochazka fights are many things, but boring is never one of them.",
+      "say": "Fun UFC card out of Qatar on Saturday — Jiri Prochazka's headlining, and that guy throws spinning everything. His knockouts are wild. You ever watch the fights?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Every Jiri Prochazka knockout & submission (UFC)", "url": "https://www.youtube.com/watch?v=a8fcWptWaaM" },
+        { "kind": "web", "text": "Full UFC Qatar card (Cageside Press)", "url": "https://cagesidepress.com/2026/09/29/full-ufc-qatar-card-revealed-for-november-21-event/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Big Saturday in the Prem — Newcastle host Arsenal in a title-race test",
+      "body": "The weekend's standout fixture sends title-chasing Arsenal to a roaring St James' Park to face Newcastle on Saturday evening. Then Sunday delivers Liverpool vs Manchester United at Anfield — Mauricio Pochettino's very first match in the United dugout.",
+      "say": "Arsenal are at Newcastle on Saturday in a big one for the title race, and then Pochettino makes his Man United debut at Anfield on Sunday. Loaded weekend. You follow the Premier League?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "This weekend's fixtures (Premier League)", "url": "https://www.premierleague.com/fixtures" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Brad Pitt's Cliff Booth is back — Fincher's trailer is here",
+      "body": "David Fincher directs a Quentin Tarantino-penned follow-up to 'Once Upon a Time in Hollywood,' with Brad Pitt reprising his Oscar-winning stuntman Cliff Booth. 'The Further Mis-Adventures of Cliff Booth' plays IMAX for a two-week run starting November 25 before hitting Netflix December 23.",
+      "say": "There's a sequel to Once Upon a Time in Hollywood coming — Brad Pitt's back as the stuntman, and David Fincher directed it. The trailer looks so slick. You a Tarantino guy?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Further Mis-Adventures of Cliff Booth — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=RjEZaUBbUvU" },
+        { "kind": "web", "text": "Trailer & release details (TheWrap)", "url": "https://www.thewrap.com/creative-content/movies/the-further-mis-adventures-of-cliff-booth-trailer/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎤",
+      "tag": "Culture · Music",
+      "headline": "Take That are back — new album 'Dreamers' drops today",
+      "body": "The British pop institution releases their 10th studio album, 'Dreamers,' today — three decades on from 'Back for Good' and still filling arenas. A perfect excuse to cue up the big singalongs.",
+      "say": "Take That put out a new album today — the 'Back for Good' guys, if you go back that far. Those songs are ridiculously catchy. You remember them?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Take That — Greatest Day (TakeThatVEVO)", "url": "https://www.youtube.com/watch?v=d9kiR4UxLtM" },
+        { "kind": "web", "text": "'Dreamers' album announcement (Official Charts)", "url": "https://www.officialcharts.com/chart-news/take-that-announce-10th-studio-album-dreamers/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Netflix opens the televangelist vault — 'Primetime Preacher$' is streaming now",
+      "body": "Acclaimed true-crime documentarian Joe Berlinger digs into the 1980s golden age of TV preachers — the rise and spectacular crash of empires like Jim and Tammy Faye Bakker's. Stranger-than-fiction stuff, out today on Netflix.",
+      "say": "New Netflix doc about those '80s TV preachers — the whole Jim and Tammy Faye Bakker saga. That stuff is wild. You into true-crime documentaries?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Primetime Preacher$ — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=bkttnVxwp70" },
+        { "kind": "web", "text": "Film details (Rotten Tomatoes)", "url": "https://www.rottentomatoes.com/m/primetime_preachers" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎸",
+      "tag": "Culture · Music",
+      "headline": "Creed's 'Weathered' turns 25 — and the band's having a real moment again",
+      "body": "Riding a genuine nostalgia comeback, Creed reissued their diamond-selling 2001 album 'Weathered' today as a newly remastered 25th-anniversary deluxe, complete with bonus tracks and a cover of The Doors' 'Riders on the Storm.' 'My Sacrifice' and 'One Last Breath' live here.",
+      "say": "Creed are having a real moment again — they just dropped a 25th-anniversary edition of 'Weathered.' Those songs were everywhere in the early 2000s. Secret Creed fan? Everybody kind of is.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt",  "text": "Creed — My Sacrifice (CreedVEVO)", "url": "https://www.youtube.com/watch?v=O-fyNgHdmLI" },
+        { "kind": "web", "text": "25th-anniversary deluxe (Craft Recordings)", "url": "https://craftrecordings.com/products/creed-weathered-deluxe-edition-25th-anniversary-cd" }
+      ]
+    }
+  ]
+}
