@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-21",
+  "label": "Saturday, November 21, 2026",
+  "items": [
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Friday Night",
+      "headline": "James Harden turns back the clock — 51 points in Cleveland",
+      "body": "The Beard dropped a vintage 51 points with seven threes to power the Cavaliers past the Pacers 128-119 on Friday night. Not bad for a guy in his mid-thirties who's supposedly past his prime — he just outscored whole teams by himself.",
+      "say": "James Harden went for 51 last night — seven threes, the whole show. The guy's still cooking in his thirties. You catching any NBA this season?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Cavaliers 128, Pacers 119 — box score (ESPN)", "url": "https://www.espn.com/nba/boxscore/_/gameId/401810991" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Big Men",
+      "headline": "Jokić and Şengün trade monster lines in a Nuggets-Rockets shootout",
+      "body": "Two of the best big men on the planet put on a passing clinic: Alperen Şengün stuffed the sheet with a 28-11-10 triple-double, but Nikola Jokić answered with 26 points and 11 assists to lead Denver to a 133-124 win. Point-centers doing point-guard things.",
+      "say": "Jokić and Şengün both went off last night — a triple-double for one, 26 and 11 for the other. Watching those two big guys pass is unreal. You a Jokić fan?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Scores & leaders (Land of Basketball)", "url": "https://www.landofbasketball.com/nba_daily_summary/20261120.htm" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Man City stumble again — Fulham grab a point and snap a 14-year drought",
+      "body": "Fulham hadn't beaten or drawn City in the league in 14 years — until today. Rodrigo Muniz struck early and Fulham held on for a 1-1 draw, Elliot Anderson leveling it in the second half. It stretches champions-chasing City's winless league run to four games.",
+      "say": "Fulham just held Man City to a draw — first time they've taken points off them in like 14 years. City are suddenly wobbling a bit. You follow the Premier League at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "City's 14-year run vs Fulham ends in a draw (AP)", "url": "https://www.click2houston.com/sports/2026/11/21/man-citys-14-year-winning-run-against-fulham-is-over-after-draw-in-premier-league/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏹",
+      "tag": "Culture · Film",
+      "headline": "The odds are ever in its favor — 'Sunrise on the Reaping' opens huge",
+      "body": "The new Hunger Games prequel landed in theaters and the numbers are massive: $21.25 million in Thursday previews — the franchise's second-best ever — with the weekend tracking north of $110 million. It's young Haymitch's brutal story, and it's the movie everyone's seeing this weekend.",
+      "say": "The new Hunger Games — young Haymitch's story — opened huge, one of the biggest debuts the series has ever had. Those movies still pull a crowd. You into the Hunger Games, or know someone counting down?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "Sunrise on the Reaping — Official Trailer (The Hunger Games)", "url": "https://www.youtube.com/watch?v=CINFIAohu4U" },
+        { "kind": "web", "text": "Record $21M previews (The Hollywood Reporter)", "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-previews-1236760000/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "⛏️",
+      "tag": "Culture · TV",
+      "headline": "Amy Poehler and Hugh Laurie go digging — 'Dig' hits Peacock Monday",
+      "body": "From Mike Schur (Parks and Rec, The Good Place), 'Dig' drops all 10 episodes Monday on Peacock. Amy Poehler leads a crew of archaeologists in Greece who unearth a possibly history-changing artifact — and tumble into an international caper. Hugh Laurie co-stars.",
+      "say": "There's a new Amy Poehler comedy on Peacock Monday — same guy who made Parks and Rec, with Hugh Laurie in it too. Looks like an easy fun one. You a Parks and Rec person?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "DIG — Official Trailer (Peacock)", "url": "https://www.youtube.com/watch?v=ir2zni8_tP4" },
+        { "kind": "web", "text": "Premiere date, cast & plot (TV Insider)", "url": "https://www.tvinsider.com/1190756/dig-series-premiere-date-trailer-cast-plot-peacock-amy-poehler-mike-schur" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔪",
+      "tag": "Culture · TV",
+      "headline": "Back to Maple Brook — 'The Hunting Wives' returns next week",
+      "body": "Netflix's soapy Texas thriller — all big hair, bigger secrets and Malin Åkerman and Brittany Snow at the center of it — comes back for Season 2 on November 26. It was a word-of-mouth smash the first time around, so a bingeable holiday-week guilty pleasure is loading.",
+      "say": "The Hunting Wives is back on Netflix next week — that trashy-in-the-best-way Texas thriller everyone got hooked on. Perfect holiday-week binge. You watch the first season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt",  "text": "The Hunting Wives: Season 2 — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=Vhwp06fwk6k" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎈",
+      "tag": "Culture · Thanksgiving",
+      "headline": "100 years of giant balloons — the Macy's Parade turns a century old",
+      "body": "The Macy's Thanksgiving Day Parade hits its 100th edition Thursday (8:30 a.m. ET on NBC and Peacock) with a record haul of inflatables. New balloons include Bluey and Hello Kitty, there's a Dolly Parton tribute, and Megan Moroney, Teddy Swims and Jimmy Fallon & The Roots are among the acts.",
+      "say": "The Macy's parade is turning 100 this year — new Bluey and Hello Kitty balloons, a Dolly Parton tribute, the works. It's such a cozy Thanksgiving-morning thing. You usually have it on?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt",  "text": "Meet the new balloons for the 100th parade (NBC New York)", "url": "https://www.youtube.com/watch?v=O44qgoq1KuQ" },
+        { "kind": "web", "text": "Lineup, floats & performers (FOX 5 NY)", "url": "https://www.fox5ny.com/news/nyc-macys-thanksgiving-day-parade-2026-floats-balloons-performers" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "GTA VI's soundtrack is an all-star album of its own",
+      "body": "Alongside the record-smashing game, Rockstar dropped 'Grand Theft Auto VI: The Album' — 34 brand-new, original tracks made for the game's neon Vice City world. The guest list is absurd: Dua Lipa, Lana Del Rey, Travis Scott, SZA, Tame Impala and a dozen more.",
+      "say": "The new GTA has a whole original album to go with it — Dua Lipa, Lana Del Rey, Travis Scott, all making songs just for the game. Kind of a flex. You messing with GTA 6, or just the soundtrack?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "web", "text": "Full tracklist & artists (DJ Mag)", "url": "https://djmag.com/news/full-gta-vi-album-tracklist-revealed-featuring-justice-arca-fcukers-more" }
+      ]
+    }
+  ]
+}
