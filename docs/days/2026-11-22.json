@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-22",
+  "label": "Sunday, November 22, 2026",
+  "items": [
+    {
+      "cat": "f1",
+      "emoji": "🏎️",
+      "tag": "F1 · Las Vegas GP",
+      "headline": "Verstappen rules the Strip again",
+      "body": "Max Verstappen won a wild Las Vegas Grand Prix under the lights Saturday night — his third Vegas win in four years — with the McLarens of Lando Norris and Oscar Piastri rounding out the podium. George Russell was running strong before clipping the barriers late.",
+      "say": "Did you catch the night race in Vegas? Verstappen just keeps winning on that Strip circuit.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Race highlights (F1)", "url": "https://www.youtube.com/watch?v=Vyk_6bNm7lo" },
+        { "kind": "web", "text": "Formula1.com report", "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX" }
+      ]
+    },
+    {
+      "cat": "ncaaf",
+      "emoji": "🏈",
+      "tag": "College Football · Big Ten",
+      "headline": "Nebraska stuns Ohio State — and ends the Buckeyes' playoff dream",
+      "body": "In Lincoln, Nebraska pulled off the shocker of the weekend, beating No. 14 Ohio State 31-28 as Anthony Colandrea accounted for four touchdowns. It's the Huskers' first win over a ranked team in about a decade — and it knocks the Buckeyes out of the College Football Playoff picture.",
+      "say": "Nebraska just took down Ohio State — did you see the Huskers knock the Buckeyes out of the playoff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Highlights (Big Ten Football)", "url": "https://www.youtube.com/watch?v=ADU043fco74" },
+        { "kind": "web", "text": "ESPN recap", "url": "https://www.espn.com/college-football/recap/_/gameId/401858531" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Leeds crash the party at Stamford Bridge",
+      "body": "Chelsea took an early lead through Emanuel Emegha, then completely fell apart: Leeds roared back 4-1 behind a Noah Okafor brace, a Dominic Calvert-Lewin penalty and a late Brenden Aaronson strike. It's Leeds' first win at Stamford Bridge since 1999 — and it bumps them up to sixth.",
+      "say": "Leeds just won at Chelsea for the first time since 1999 — four goals at Stamford Bridge. Wild result.",
+      "watch": "▶ Relive the goals",
+      "links": [
+        { "kind": "web", "text": "NBC Sports recap & highlights", "url": "https://www.nbcsports.com/soccer/live/chelsea-vs-leeds-live-updates-score-goals-highlights-stats-2026-november-21" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Cup",
+      "headline": "The rookies are the show — Boozer vs. Dybantsa",
+      "body": "NBA Cup group play is heating up, and the two most-hyped rookies in years are delivering: Memphis's Cam Boozer and Washington's AJ Dybantsa are already stuffing stat sheets and trading big nights. It's the kind of rookie duel the league hasn't had in a while.",
+      "say": "Have you seen these rookies — Cam Boozer and AJ Dybantsa? The NBA's got a real rookie rivalry brewing.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Rookie duel (NBA on ESPN)", "url": "https://www.youtube.com/watch?v=keJHvIZPKSk" },
+        { "kind": "web", "text": "NBA.com", "url": "https://www.nba.com/news/starting-5-november-20-2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐝",
+      "tag": "Culture · TV",
+      "headline": "'Yellowjackets' begins the end",
+      "body": "The fourth and final season of the twisty survival thriller landed on Paramount+ on Friday. The survivors are home, but the nightmare is far from over — expect the show to go all-in for its last run.",
+      "say": "The final season of Yellowjackets just dropped — are you caught up, or did you bail after the wilderness got weird?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Season 4 trailer (Paramount+)", "url": "https://www.youtube.com/watch?v=zDFHivyECDU" },
+        { "kind": "web", "text": "Paramount+", "url": "https://www.paramountplus.com/shows/yellowjackets/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🔪",
+      "tag": "Culture · Film",
+      "headline": "A young Anthony Bourdain gets the A24 treatment",
+      "body": "'Tony,' A24's biopic about a 19-year-old Anthony Bourdain finding himself in a chaotic Provincetown kitchen in 1975, is making the rounds now with Dominic Sessa (The Holdovers) in the lead. A warm, nostalgic origin story for the late chef everyone loved.",
+      "say": "There's an A24 movie about young Anthony Bourdain — the Holdovers kid plays him. Looks really good.",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Official trailer (A24)", "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc" },
+        { "kind": "web", "text": "A24", "url": "https://a24films.com/films/tony" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Phoebe Bridgers keeps her holiday tradition going",
+      "body": "Phoebe Bridgers dropped a hushed, pretty cover of Adrianne Lenker's 'Anything' — the latest in her annual holiday-single habit. Both artists are donating their proceeds to charity, so it's a feel-good one.",
+      "say": "Phoebe Bridgers put out a new holiday song and she's giving the money to charity — perfect gloomy-cozy season track.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Anything (Official Audio)", "url": "https://www.youtube.com/watch?v=KMbKCoRhAZ4" },
+        { "kind": "web", "text": "Rock Cellar", "url": "https://rockcellarmagazine.com/phoebe-bridgers-anything-new-song-holiday-single-adrianne-lenker/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏹",
+      "tag": "Culture · Box Office",
+      "headline": "'Hunger Games' just set a franchise record",
+      "body": "'Sunrise on the Reaping' isn't just No. 1 — early numbers have it opening around $120 million, the biggest debut in Hunger Games history and Lionsgate's largest opening weekend in a decade. The odds were very much in its favor.",
+      "say": "The new Hunger Games had the biggest opening in the whole franchise — like $120 million. People are still obsessed.",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "TheWrap", "url": "https://www.thewrap.com/culture-lifestyle/culture/hunger-games-sunrise-on-the-reaping-saturday-box-office/" }
+      ]
+    }
+  ]
+}
