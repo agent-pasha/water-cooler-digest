@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-23",
+  "label": "Monday, November 23, 2026",
+  "items": [
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Pochettino's Man United debut turns into an Anfield nightmare",
+      "body": "Talk about a baptism of fire: Mauricio Pochettino's first game in charge of Manchester United was a 4-0 thrashing at Liverpool on Sunday. Leny Yoro was sent off inside eight minutes, Dominik Szoboszlai and Florian Wirtz struck early, and Rio Ngumoha and Víctor Muñoz piled on late — leaving United sliding toward the relegation zone.",
+      "say": "Pochettino's first game as Man United boss was a 4-0 loss at Liverpool — red card in the first 10 minutes and everything. Brutal welcome. You follow the Premier League at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Liverpool 4-0 Man United highlights (NBC Sports)", "url": "https://www.youtube.com/watch?v=WyJJGWj09To" },
+        { "kind": "web", "text": "Match report (ESPN)", "url": "https://www.espn.com/soccer/match/_/gameId/401878755/manchester-united-liverpool" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Shootout",
+      "headline": "296 points in Chicago — Nuggets outlast Bulls in overtime",
+      "body": "The highest-scoring game of the season so far: Denver beat Chicago 151-145 in OT. Jamal Murray dropped 45, Nikola Jokić stuffed the sheet with a 37-18-11 triple-double, and on the other side Josh Giddey answered with one of the wildest lines you'll see — 23 points, 14 rebounds and 22 assists.",
+      "say": "Nuggets and Bulls put up 296 points in overtime last night — Jokić had a triple-double and the Bulls' Giddey had 22 assists. Absolute track meet. You catching any NBA this season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Nuggets at Bulls — full highlights (NBA)", "url": "https://www.youtube.com/watch?v=fku0QvOiRm8" },
+        { "kind": "web", "text": "Scores & leaders (Land of Basketball)", "url": "https://www.landofbasketball.com/nba_daily_summary/20261122.htm" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Sunday",
+      "headline": "Bam does a bit of everything as the Heat trip up the Thunder",
+      "body": "Miami handed red-hot Oklahoma City a 123-113 loss on Sunday, and Bam Adebayo was the engine with a 24-15-12 triple-double. The Thunder have the league's best player in Shai Gilgeous-Alexander, but they keep running into teams that smell an upset.",
+      "say": "Bam Adebayo had a triple-double as the Heat knocked off the Thunder last night — OKC keeps getting everyone's best shot. You a Heat guy, or riding with anybody this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Thunder at Heat — full highlights (NBA)", "url": "https://www.youtube.com/watch?v=F8cvs98ZEJ4" },
+        { "kind": "web", "text": "Scores & leaders (Land of Basketball)", "url": "https://www.landofbasketball.com/nba_daily_summary/20261122.htm" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🦃",
+      "tag": "NFL · Thanksgiving",
+      "headline": "The Thanksgiving football menu is set",
+      "body": "Three games Thursday: Bears at Lions for the early appetizer, Eagles at Cowboys in the afternoon main course, and Chiefs at Bills under the lights for dessert. There's even a Thanksgiving-Eve game Wednesday night — Packers at Rams on Netflix — so the couch is booked all week.",
+      "say": "The Thanksgiving football lineup's out — Bears-Lions, Eagles-Cowboys, then Chiefs-Bills at night. Perfect nap-on-the-couch slate. You hosting, or just showing up for the food and the games?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Full Thanksgiving schedule (CBS Sports)", "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-schedule-2026-games/" }
+      ]
+    },
+    {
+      "cat": "ncaab",
+      "emoji": "🏀",
+      "tag": "College Hoops · Maui",
+      "headline": "Feast Week tips off — the Maui Invitational starts today",
+      "body": "The best early-season bonanza in college basketball is here. Monday's opening round in Lahaina stacks No. 12 Arizona vs. Colorado State, Clemson vs. Ole Miss, BYU vs. Washington and Providence vs. VCU — back-to-back hoops all day and into the night on the ESPN networks.",
+      "say": "The Maui Invitational tips off today — all those Thanksgiving-week college hoops with ranked teams, games all day. Great leftovers-and-couch viewing. You into college basketball at all?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "2026 Maui bracket & schedule (NCAA.com)", "url": "https://www.ncaa.com/news/basketball-men/article/2026-07-30/2026-maui-invitational-bracket-schedule-teams" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🦸",
+      "tag": "Culture · Film",
+      "headline": "One month out — 'Avengers: Doomsday' is the December event",
+      "body": "Mark December 18: Marvel's biggest crossover yet lands with Robert Downey Jr. back in the MCU, this time as the villain Doctor Doom. The Russo brothers direct a cast that pulls in the Avengers, the Fantastic Four and even the X-Men — and it opens the same day as 'Dune: Part Three.'",
+      "say": "The new Avengers movie is about a month out, and Robert Downey Jr. is back — as the bad guy this time. That plus a new Dune the same weekend? December's going to be a scene. You still keep up with the Marvel stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Avengers: Doomsday — Official Trailer (IGN)", "url": "https://www.youtube.com/watch?v=4jVs_LB2BHg" },
+        { "kind": "web", "text": "Trailer & details (Marvel)", "url": "https://www.marvel.com/articles/movies/avengers-doomsday-teaser-trailer" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Ella Langley just made Hot 100 history",
+      "body": "Her country smash 'Choosin' Texas' has now spent a record stretch at No. 1 on the Billboard Hot 100 — the longest reign the chart has ever seen. The star-studded video (Miranda Lambert and 'Yellowstone' star Luke Grimes both pop up) helped turn it into the song of the year.",
+      "say": "That Ella Langley song 'Choosin' Texas' just broke the all-time record for most weeks at No. 1 — it will not leave the top of the charts. You heard it yet? It's everywhere.",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Ella Langley — Choosin' Texas (Official Video)", "url": "https://www.youtube.com/watch?v=nUsrYVxrDwI" },
+        { "kind": "web", "text": "Record-setting run at No. 1 (Music Times)", "url": "https://www.musictimes.com/articles/113208/20261106/ella-langleys-choosin-texas-extends-hot-100-record-26-weeks-no-1.htm" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "😂",
+      "tag": "Culture · Comedy",
+      "headline": "Nate Bargatze's new special drops just in time for the holidays",
+      "body": "The famously clean, deadpan 'nicest guy in comedy' returns with his fourth Netflix special, 'Good for Nathan,' premiering Tuesday after a record-breaking tour. Easy, everybody-can-watch-it comedy — the kind you can quote at the dinner table without anyone getting mad.",
+      "say": "Nate Bargatze has a new Netflix special out tomorrow — he's that super clean, low-key funny comedian. Perfect thing to throw on over the holiday. You a fan?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Good for Nathan — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=E2MIEbkPonw" },
+        { "kind": "web", "text": "Watch on Netflix", "url": "https://www.netflix.com/title/81735281" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🧟",
+      "tag": "Culture · Music",
+      "headline": "'Thriller' is somehow charting higher than ever",
+      "body": "File under wild: Michael Jackson's 'Thriller' — a song from 1982 — just climbed to a brand-new all-time peak of No. 2 on the Billboard Hot 100, 40-plus years after it came out. The greatest music video ever made is apparently immortal.",
+      "say": "Michael Jackson's 'Thriller' just hit a new all-time high on the charts — a song from 1982. How is that even possible? That video still holds up, right?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Michael Jackson — Thriller (Official 4K Video)", "url": "https://www.youtube.com/watch?v=sOnqjkJTMaA" },
+        { "kind": "web", "text": "Thriller's new chart peak (Ratings Game Music)", "url": "https://ratingsgamemusic.com/2026/11/09/top-5-singles-on-the-billboard-hot-100-this-week-11-09-ella-langley-michael-jackson-tame-impala/" }
+      ]
+    }
+  ]
+}
