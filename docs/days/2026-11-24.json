@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-24",
+  "label": "Tuesday, November 24, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Monday Night",
+      "headline": "Walk-off! Commanders stun the Bengals 22-20 on Monday night",
+      "body": "What a finish in Landover. After Evan McPherson's 56-yard field goal put Cincinnati up 20-19 with 46 seconds left, Jayden Daniels sprinted the Commanders 64 yards in three plays, and rookie kicker Drew Stevens drilled his fifth field goal of the night as time expired. A 1-4-1 Washington team just knocked off the 7-3 Bengals.",
+      "say": "Did you catch the end of Monday night? The Commanders drove the length of the field in the last minute and won it on a rookie's walk-off field goal — Bengals just gave one away. You following any football this year?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Commanders rally for 22-20 upset (The Athletic Football Show)", "url": "https://www.youtube.com/watch?v=r4TwRGGRMZQ" },
+        { "kind": "web", "text": "Final score & highlights (Sports Illustrated)", "url": "https://www.si.com/nfl/commanders/onsi/commanders-vs-bengals-live-updates-score-highlights-mnf-week-11" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Streak Snapped",
+      "headline": "Finally! The Bucks end a 13-game losing streak",
+      "body": "Milwaukee had dropped 13 in a row — but last night they beat the Raptors 116-111 in Toronto to stop the bleeding. Tyler Herro poured in 32 and Myles Turner added 27 points and 11 boards. You could feel the relief.",
+      "say": "The Bucks finally won a game — they'd lost 13 straight before beating the Raptors last night. Thirteen! That's a rough month. You catching any NBA this season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Bucks at Raptors — full highlights (NBA)", "url": "https://www.youtube.com/watch?v=R2MWX8N1HO4" },
+        { "kind": "web", "text": "Scores & leaders (Land of Basketball)", "url": "https://www.landofbasketball.com/nba_daily_summary/20261123.htm" }
+      ]
+    },
+    {
+      "cat": "nhl",
+      "emoji": "🏒",
+      "tag": "NHL · Monday",
+      "headline": "The Leafs rally past the Islanders to snap a nine-game road skid",
+      "body": "Misery loves company on streak night: Toronto had lost nine straight away from home before storming back for a 4-2 win on Long Island. A gritty comeback, finally a little breathing room for a team that needed it badly.",
+      "say": "The Maple Leafs had lost nine road games in a row, then came from behind to win last night — their fans can finally exhale. You keep up with any hockey?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Maple Leafs vs. Islanders — highlights (NHL)", "url": "https://www.youtube.com/watch?v=t_chinm_mLI" },
+        { "kind": "web", "text": "Game recap (NHL.com)", "url": "https://www.nhl.com/gamecenter/tor-vs-nyi/2026/11/23/2026020381" }
+      ]
+    },
+    {
+      "cat": "ufc",
+      "emoji": "🥊",
+      "tag": "UFC · Qatar",
+      "headline": "Upset in Doha — Navajo Stirling knocks out Jiri Prochazka",
+      "body": "The one everyone's replaying: in the UFC Qatar main event Saturday, unbeaten 23-year-old Navajo Stirling dropped former champion Jiri Prochazka with a huge right hand late in Round 2. Stirling's now a perfect 12-0 and suddenly a name to watch at light heavyweight.",
+      "say": "Did you see that UFC knockout over the weekend? This undefeated kid Navajo Stirling walked a former champ right into a big right hand — ended it in the second round. You ever watch the fights?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Results & knockout video (UFC.com)", "url": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Huge Champions League night — Man City-Napoli and Arsenal-Dortmund tonight",
+      "body": "Matchday 5 of the league phase lands today, and it's loaded: Manchester City host Napoli (Guardiola vs. Antonio Conte), Arsenal welcome Borussia Dortmund, and Real Madrid take on PSV. Every match streams on Paramount+ in the US. Perfect midweek European football.",
+      "say": "Big Champions League night tonight — Man City-Napoli and Arsenal-Dortmund are the ones to circle. Those midweek Euro games are the best. You ever watch the Champions League?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Fixtures, kickoffs & results (UEFA)", "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · Music",
+      "headline": "The 2027 Grammy nominations are in — RAYE leads the pack",
+      "body": "Nominations just dropped, and British singer RAYE landed a field-leading 11 nods, tying the record for the most by a woman in a single year. Rosalía follows with nine, and Ella Langley, Olivia Rodrigo and Phoebe Bridgers each grabbed seven. The show airs February 7.",
+      "say": "The Grammy nominations came out — RAYE got eleven of them, which ties a record. If you haven't heard her song 'Escapism,' it's so good. Who are you pulling for this year?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "RAYE, 070 Shake — Escapism. (Official Video)", "url": "https://www.youtube.com/watch?v=Dll6VJ2C7wo" },
+        { "kind": "web", "text": "See the full 2027 nominations list (NBC)", "url": "https://www.nbcnewyork.com/entertainment/entertainment-news/2027-grammy-nominations-see-the-full-list/6572847/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "A stacked movie weekend — 'Hexed' and 'Focker-In-Law' both open Wednesday",
+      "body": "The Thanksgiving box-office scramble is on. Disney's new animated witch adventure 'Hexed' and the Meet the Parents sequel 'Focker-In-Law' (Ben Stiller, De Niro and Ariana Grande) both open Wednesday — chasing 'The Hunger Games: Sunrise on the Reaping' in its second weekend. Something for every couch and every kid.",
+      "say": "There's a loaded movie weekend coming — the new Disney one, another Meet the Parents, and Hunger Games still going. Classic take-the-family-to-the-theater week. You planning to see anything over the holiday?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Thanksgiving box-office preview (Variety)", "url": "https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐕",
+      "tag": "Culture · Thanksgiving",
+      "headline": "After the parade, it's the dogs — National Dog Show airs Thursday",
+      "body": "The coziest Thanksgiving tradition is back: the National Dog Show runs on NBC and Peacock Thursday at noon in every time zone, right after the Macy's parade. Last year a Belgian sheepdog named Soleil took Best in Show out of a field of nearly 2,000 pups.",
+      "say": "You ever leave the National Dog Show on after the parade on Thanksgiving? It's the most relaxing two hours of TV all year. I always end up rooting for the fluffiest one. You have it on?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Soleil wins the 2025 National Dog Show (WHAS11)", "url": "https://www.youtube.com/watch?v=D72I3O62hQY" },
+        { "kind": "web", "text": "How to watch the 2026 show (TV Insider)", "url": "https://www.tvinsider.com/1303427/national-dog-show-compeitition-date-premiere-date-hosts-location-time-more/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎄",
+      "tag": "Culture · Music",
+      "headline": "It's defrosting season — Mariah is back on the charts",
+      "body": "You know what this week means: the unofficial start of Christmas-music season. Right on cue, Mariah Carey's 1994 juggernaut 'All I Want for Christmas Is You' is climbing the Hot 100 again, like it does every year once the turkey's in sight. Resistance is futile.",
+      "say": "Well, it's officially Mariah season again — 'All I Want for Christmas Is You' is back on the charts. Are you a 'play it the day after Thanksgiving' person, or a 'not until December' holdout?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Mariah Carey — All I Want For Christmas Is You (Official Video)", "url": "https://www.youtube.com/watch?v=yXQViqx6GMY" }
+      ]
+    }
+  ]
+}
