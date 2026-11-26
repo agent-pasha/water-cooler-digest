@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-26",
+  "label": "Thursday, November 26, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thanksgiving Eve",
+      "headline": "Rams spoil the first-ever Thanksgiving Eve game, 26-13",
+      "body": "The NFL's first Thanksgiving Eve game — and its first game ever on Netflix — belonged to the Rams, who ground out a 26-13 win over the Packers at SoFi Stadium. Running back Blake Corum was the whole show, rumbling for 184 yards, while Jordan Love had a night to forget with two interceptions.",
+      "say": "Did you catch that Netflix game last night? The Rams ran all over the Packers — some guy named Blake Corum went for 184 rushing yards. Football the night before Thanksgiving is kind of great. You watching any today?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Rams 26-13 Packers — final & box score (ESPN)", "url": "https://www.espn.com/nfl/game/_/gameId/401873079/packers-rams" },
+        { "kind": "web", "text": "Corum powers L.A. on Thanksgiving Eve (Yahoo Sports)", "url": "https://sports.yahoo.com/nfl/articles/packers-rams-final-score-blake-043534787.html" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🦃",
+      "tag": "NFL · Thanksgiving",
+      "headline": "Turkey, then football — three games on the menu today",
+      "body": "The day's main event (besides the bird): Bears at Lions kicks off the afternoon, Eagles at Cowboys is the mid-day main course, and the nightcap is a beauty — Chiefs at Bills, aka Patrick Mahomes vs. Josh Allen, a rivalry that always delivers. Couch, blanket, repeat.",
+      "say": "The Thanksgiving football's on all day — Bears-Lions, Eagles-Cowboys, then Mahomes and the Chiefs at Josh Allen's Bills tonight. Perfect nap-and-football day. You hosting, or just showing up for the food and the games?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Full Thanksgiving schedule & how to watch (CBS Sports)", "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-schedule-2026-games/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Champions League",
+      "headline": "Champions League chaos — Lille stun Bayern, Man United throw away a lead",
+      "body": "Wednesday's Champions League slate was wild. Lille pulled off the shock of the night, coming from behind to beat mighty Bayern Munich 2-1, while Manchester United let a lead slip in a frantic 2-2 draw at Sporting. Liverpool, at least, kept it simple with a tidy 3-0 win at Club Brugge.",
+      "say": "The Champions League had some chaos last night — little Lille knocked off Bayern, and Man United threw away another lead. Those midweek European nights never disappoint. You follow it at all?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Man United draw, Bayern & PSG drop points (Yahoo Sports)", "url": "https://sports.yahoo.com/soccer/live/manchester-united-sporting-ends-in-chaotic-draw-psg-bayern-munich-drop-points-in-dramatic-champions-league-day-224416924.html" },
+        { "kind": "web", "text": "Matchday 5 fixtures & results (UEFA)", "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Wednesday",
+      "headline": "Wemby drops 44 — but the Blazers steal it in Portland",
+      "body": "Victor Wembanyama was a monster with 44 points and 16 rebounds, but it still wasn't enough: Deni Avdija poured in 33 as the Trail Blazers edged the Spurs 116-111. Elsewhere, LeBron James turned back the clock with a 25-10-12 triple-double to lead the Sixers past the Heat, and the Knicks blew out the Cavs 121-102.",
+      "say": "Wembanyama went for 44 and 16 last night and still lost — the guy is unreal to watch. And LeBron had a triple-double at his age. You keeping up with the NBA this year?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Scores & leaders (Land of Basketball)", "url": "https://www.landofbasketball.com/nba_daily_summary/20261125.htm" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎈",
+      "tag": "Culture · Thanksgiving",
+      "headline": "A first in 100 years — the Macy's Parade is pushed to Saturday",
+      "body": "Big one: for the first time in its 100-year history, the Macy's Thanksgiving Day Parade has been postponed. A powerful storm with heavy rain and 40-mph wind gusts moved the whole thing — balloons, floats and all — to Saturday morning. So no giant Snoopy over Herald Square today; it's now set for 8:30 a.m. ET Saturday on NBC.",
+      "say": "Did you hear the Macy's parade got postponed to Saturday? First time in a hundred years — this storm is no joke. Feels so weird not having it on this morning. You usually watch the parade?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Parade moved to Saturday over storm threat (CNN)", "url": "https://www.cnn.com/2026/11/25/us/macys-thanksgiving-day-parade-postponed" },
+        { "kind": "web", "text": "What the postponement means (TODAY)", "url": "https://www.today.com/popculture/macys-thanksgiving-day-parade-balloons-bad-weather-explained-rcna611118" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎶",
+      "tag": "Culture · Music",
+      "headline": "Vinyl heaven — Record Store Day Black Friday lands tomorrow",
+      "body": "Tomorrow isn't just Black Friday — it's Record Store Day Black Friday, when indie shops get a wave of exclusive vinyl. This year's crate includes limited pressings from Florence + the Machine and Noah Kahan, plus a long-lost 1975 Bruce Springsteen live album. A fun excuse to go flip through some records.",
+      "say": "Tomorrow's Record Store Day Black Friday — all those exclusive vinyl drops at the local record shop. There's even an old live Springsteen album coming out. You still buy records, or all streaming these days?",
+      "watch": "▶ Worth a listen",
+      "links": [
+        { "kind": "yt", "text": "Noah Kahan — Stick Season (Official Music Video)", "url": "https://www.youtube.com/watch?v=JKrDdsgXuso" },
+        { "kind": "web", "text": "Full RSD Black Friday 2026 list (Clash)", "url": "https://www.clashmusic.com/news/record-store-day-black-friday-2026-full-list-unveiled/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🏆",
+      "tag": "Culture · Music",
+      "headline": "The Soul Train Awards are back — after three years away",
+      "body": "One for the music fans: the Soul Train Awards return Friday night on BET and CBS after a three-year hiatus, taped in Chicago with Anthony Anderson hosting. Kehlani, whose sultry hit 'Folded' is up for R&B/Soul Song of the Year, headlines a stacked list of nominees.",
+      "say": "The Soul Train Awards are back on Friday after being gone a few years — Anthony Anderson's hosting. If you haven't heard Kehlani's song 'Folded,' it's so good. You into R&B at all?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Kehlani — Folded (Official Music Video)", "url": "https://www.youtube.com/watch?v=KFMYx1TibeQ" },
+        { "kind": "web", "text": "Soul Train Awards return to BET & CBS (TheWrap)", "url": "https://www.thewrap.com/media-platforms/tv/soul-train-awards-returns-bet-cbs" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "Bah, humbug — Johnny Depp goes full Scrooge in 'Ebenezer'",
+      "body": "If you want a dark, moody holiday watch, Johnny Depp's first big studio movie in years is in theaters: 'Ebenezer,' a horror-tinged spin on 'A Christmas Carol' from director Ti West, with Depp as a creepier-than-usual Scrooge and Ian McKellen as Marley's ghost. A Christmas classic with the lights turned way down.",
+      "say": "There's a spooky new take on A Christmas Carol out — Johnny Depp as Scrooge, done almost like a horror movie. Looks wild. You a 'Christmas Carol every year' person, or does that feel too far?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Ebenezer — Official Trailer (Paramount Pictures)", "url": "https://www.youtube.com/watch?v=A7lyvgnDuDE" },
+        { "kind": "web", "text": "Depp goes full Scrooge for Ti West (Empire)", "url": "https://www.empireonline.com/movies/news/ebenezer-trailer-johnny-depp-goes-full-scrooge-in-ti-wests-darker-take-on-a-christmas-carol/" }
+      ]
+    }
+  ]
+}
