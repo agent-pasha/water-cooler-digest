@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-27",
+  "label": "Friday, November 27, 2026",
+  "items": [
+    {
+      "cat": "nfl",
+      "emoji": "🦃",
+      "tag": "NFL · Thanksgiving",
+      "headline": "Eagles pull off the biggest comeback in Thanksgiving history",
+      "body": "Down 21 points to the Cowboys, the Eagles looked cooked on Thanksgiving — and then they weren't. Philly stormed all the way back and Jake Elliott drilled a 59-yard field goal with two seconds left to steal it 39-38, the largest comeback in the history of NFL Thanksgiving games. Backup QB Joe Milton III (331 yards, 3 TDs) somehow walked away as MVP.",
+      "say": "Did you catch the Eagles-Cowboys game on Thanksgiving? Philly was down 21 and came all the way back to win on a 59-yard field goal with two seconds left — biggest Thanksgiving comeback ever. Dallas fans must be sick about it. You watch any of the football?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Eagles 39-38 Cowboys — highlights (NFL)", "url": "https://www.nfl.com/videos/eagles-vs-cowboys-highlights-week-12" },
+        { "kind": "web", "text": "Game recap (ESPN)", "url": "https://www.espn.com/nfl/recap/_/gameId/401873080" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Thanksgiving Night",
+      "headline": "Tyler Bass walks it off — Bills edge the Chiefs in a Thanksgiving slugfest",
+      "body": "In rain and wind, the Bills and Chiefs ground out a 13-10 defensive rock fight, and kicker Tyler Bass ended it with a 57-yard field goal as time expired — after he'd already tied it from 54. James Cook did the dirty work with 117 rushing yards. Buffalo is now a league-best 10-1 after beating Patrick Mahomes again.",
+      "say": "That Bills-Chiefs game on Thanksgiving night was a rock fight — 13-10 in the rain, and Buffalo's kicker nailed a 57-yarder as time expired to win it. Josh Allen vs. Mahomes always delivers. You a football guy?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Bills 13-10 Chiefs — highlights (NBC Sports)", "url": "https://www.nbcsports.com/watch/nfl/nfl-thanksgiving-highlights-buffalo-bills-13-kansas-city-chiefs-10" },
+        { "kind": "web", "text": "Bass' 57-yarder sinks KC (FingerLakes1)", "url": "https://www.fingerlakes1.com/2026/11/27/bills-host-chiefs-in-their-first-home-thanksgiving-game/" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Big one in England — Arsenal host Manchester City this weekend",
+      "body": "The marquee Premier League match of the weekend is Arsenal vs. Manchester City on Saturday, two heavyweights with plenty on the line near the top of the table. City have looked wobbly lately, so title-chasing Arsenal will fancy their chances. A perfect Saturday-morning watch stateside.",
+      "say": "Arsenal-Man City is on this weekend — always one of the biggest games in England, and City have been a bit shaky lately. You ever watch the Premier League? Those weekend-morning games are a great way to start the day.",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "This weekend's fixtures (Premier League)", "url": "https://www.premierleague.com/fixtures" }
+      ]
+    },
+    {
+      "cat": "ncaaf",
+      "emoji": "🏈",
+      "tag": "College Football · Rivalry Weekend",
+      "headline": "Black Friday is for rivalry football — the Egg Bowl and a Lone Star showdown",
+      "body": "Skip the mall — it's a full day of college football grudge matches. The Egg Bowl (Mississippi State at Ole Miss) and Nebraska at Iowa kick off at noon, and the night belongs to the Lone Star Showdown, Texas at Texas A&M. Then the biggest of them all, Ohio State vs. Michigan — 'The Game' — lands tomorrow.",
+      "say": "Today's basically a national holiday for college football — the Egg Bowl, Texas-Texas A&M tonight, and Ohio State-Michigan tomorrow. Perfect leftovers-and-couch day. You have a team you pull for?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Black Friday football schedule & times (FBSchedules)", "url": "https://fbschedules.com/black-friday-football-2026-schedule-matchups-kickoff-times-tv/" },
+        { "kind": "web", "text": "Full college schedule (ESPN)", "url": "https://www.espn.com/college-football/schedule" }
+      ]
+    },
+    {
+      "cat": "nba",
+      "emoji": "🏀",
+      "tag": "NBA · Cup",
+      "headline": "NBA Cup group play wraps up tonight — knockout spots on the line",
+      "body": "The in-season tournament (the Emirates NBA Cup) hits crunch time tonight with an 11-game slate that decides who advances to the knockout rounds. Expect teams playing with real urgency — and those loud, neon Cup courts are back. A fun thing to throw on once the leftovers are out.",
+      "say": "The NBA Cup group stage finishes tonight — a bunch of games where teams are scrapping for knockout spots. Those bright-colored courts always look wild on TV. You keeping up with the NBA this year?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Tonight's NBA schedule (NBA.com)", "url": "https://www.nba.com/schedule" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Box Office",
+      "headline": "'Hunger Games' feasts again as new movies crash the Thanksgiving box office",
+      "body": "The Hunger Games prequel 'Sunrise on the Reaping' is holding strong at No. 1 over the holiday, while two newcomers scrap for second: Disney's animated witch tale 'Hexed' (voiced by Hailee Steinfeld) and the 'Meet the Parents' sequel 'Focker In-Law' (Ben Stiller, Robert De Niro and Ariana Grande). Classic take-the-family-to-the-movies weekend.",
+      "say": "The theaters are packed this weekend — Hunger Games is still number one, and there's a new Disney witch movie and another Meet the Parents. Total popcorn weekend. You making it out to the movies, or holding out for streaming?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Disney's Hexed — Official Trailer (IGN)", "url": "https://www.youtube.com/watch?v=0oO1z97R1D0" },
+        { "kind": "web", "text": "Hunger Games leads, Hexed & Focker open (Variety)", "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🤖",
+      "tag": "Culture · TV",
+      "headline": "'Blade Runner 2099' is here — and you can binge the whole thing",
+      "body": "Prime Video just dropped all eight episodes of 'Blade Runner 2099,' the long-awaited series set 50 years after 'Blade Runner 2049.' Michelle Yeoh and Hunter Schafer star, with Ridley Scott producing. Rainy neon dystopia, replicants, the whole mood — a perfect cozy, dark-outside holiday binge.",
+      "say": "There's a new Blade Runner series on Prime — Michelle Yeoh's in it, and they dropped all eight episodes at once. If you liked the movies, it looks gorgeous. You into that moody sci-fi stuff?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Blade Runner 2099 — Final Trailer (Prime Video)", "url": "https://www.youtube.com/watch?v=1d4x_eSdqNc" },
+        { "kind": "web", "text": "Trailer & release details (Engadget)", "url": "https://www.engadget.com/2222782/prime-video-blade-runner-2099-trailer-release-date/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "⚡",
+      "tag": "Culture · TV",
+      "headline": "'Percy Jackson' is back for Season 3 — and it's the big one",
+      "body": "Disney+'s 'Percy Jackson and the Olympians' has returned for Season 3, adapting fan-favorite book 'The Titan's Curse,' with new episodes dropping weekly through mid-December. Kate McKinnon joins the fun as Aphrodite. If you've got kids — or you grew up on the books — it's the cozy family watch of the season.",
+      "say": "The new season of Percy Jackson is out on Disney+ — they're doing The Titan's Curse, which book fans love. Great one to put on with the kids over the break. You ever read those growing up?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "web", "text": "Season 3 official trailer (Disney+)", "url": "https://press.disneyplus.com/news/disney-plus-percy-jackson-season-3-official-trailer" },
+        { "kind": "web", "text": "'The Titan's Curse' comes to life (Variety)", "url": "https://variety.com/2026/tv/news/percy-jackson-season-3-trailer-1236824508/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🐕",
+      "tag": "Culture · Thanksgiving",
+      "headline": "Meet Rocker — a coonhound just won the National Dog Show",
+      "body": "After the turkey came the dogs: Rocker, a black and tan coonhound, took Best in Show at the 2026 National Dog Show in Philadelphia — the first time his breed has even won the Hound Group there. A Lhasa apso named Kissy was the runner-up. Pure wholesome Thanksgiving TV, out of a field of more than 2,000 pups.",
+      "say": "Did you have the National Dog Show on after dinner? A coonhound named Rocker won the whole thing this year. I always end up weirdly invested in which dog takes it. You a dog person?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "Rocker wins Best in Show (NBC Sports)", "url": "https://www.nbcsports.com/watch/national-dog-show/national-dog-show-2026-black-and-tan-coonhound-wins-best-in-show" },
+        { "kind": "web", "text": "Coonhound takes Best in Show (NPR)", "url": "https://www.npr.org/2026/11/26/nx-s1-6054881/2026-national-dog-show-coonhound-rocker" }
+      ]
+    }
+  ]
+}
