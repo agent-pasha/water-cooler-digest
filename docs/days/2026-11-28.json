@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-28",
+  "label": "Saturday, November 28, 2026",
+  "items": [
+    {
+      "cat": "ncaaf",
+      "emoji": "🏈",
+      "tag": "College Football · Rivalry Saturday",
+      "headline": "Rivalry Saturday's grand finale — the Iron Bowl and 'The Game'",
+      "body": "The best weekend in college football ends with its two loudest grudge matches, both today: Alabama hosts Auburn in the Iron Bowl at Bryant-Denny, and Ohio State meets Michigan up north in 'The Game.' Throw the records out — these are pure bragging-rights, scream-till-you're-hoarse rivalries.",
+      "say": "It's the big rivalry day in college football — the Iron Bowl and Ohio State-Michigan, both today. Even if you don't follow it all season, those two games are always a scene. You pull for anybody?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Today's college football schedule (ESPN)", "url": "https://www.espn.com/college-football/schedule" }
+      ]
+    },
+    {
+      "cat": "soccer",
+      "emoji": "⚽",
+      "tag": "Soccer · Premier League",
+      "headline": "Derby day in England — Everton host Liverpool, Arsenal face City",
+      "body": "It's a loaded Premier League Saturday. The Merseyside derby (Everton vs. Liverpool) brings the emotion, while the day's heavyweight bout is league-leading Arsenal hosting a wobbly Manchester City. A perfect coffee-in-hand morning watch stateside.",
+      "say": "Big soccer Saturday in England — there's the Merseyside derby plus Arsenal and Man City. Those weekend-morning games are such an easy thing to throw on with a coffee. You ever get into the Premier League?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "This weekend's fixtures (Premier League)", "url": "https://www.premierleague.com/fixtures" }
+      ]
+    },
+    {
+      "cat": "esports",
+      "emoji": "🔫",
+      "tag": "Esports · CS2 Major",
+      "headline": "The CS2 Major is live — Singapore hosts the year's big showdown",
+      "body": "Counter-Strike's second Major of the year, PGL Major Singapore, is underway at the Singapore Indoor Stadium: 32 teams, a $1.25 million prize pool, and Swiss stages sorting out who reaches the playoffs before the December 13 grand final. The best CS2 in the world, right now.",
+      "say": "The big Counter-Strike Major is going on right now over in Singapore — best teams in the world, huge prize pool, runs till mid-December. You play any CS, or watch the esports side of it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "yt", "text": "PGL Singapore Major 2026 (PGL)", "url": "https://www.youtube.com/watch?v=u1hnLoP5xGo" },
+        { "kind": "web", "text": "Teams, bracket & results (Escorenews)", "url": "https://escorenews.com/en/csgo/pgl-major-singapore-2026" }
+      ]
+    },
+    {
+      "cat": "nfl",
+      "emoji": "🏈",
+      "tag": "NFL · Week 12",
+      "headline": "Back to Sunday football — Seahawks-49ers headline Week 12",
+      "body": "After the Thanksgiving feast, a normal NFL Sunday returns tomorrow. The NFC West heats up with Seattle at San Francisco, Baltimore visits Houston, and Raiders-Browns got flexed into Sunday Night Football. Couch, round two.",
+      "say": "Regular Sunday football's back tomorrow — Seahawks and Niners is the one I've got circled. You getting the games on, or all footballed-out after Thanksgiving?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "Week 12 schedule & kickoffs (NFL.com)", "url": "https://www.nfl.com/schedules/" }
+      ]
+    },
+    {
+      "cat": "wwe",
+      "emoji": "🤼",
+      "tag": "WWE · Survivor Series",
+      "headline": "WarGames tonight — Survivor Series takes over Houston",
+      "body": "WWE's Survivor Series: WarGames rolls into Houston tonight, built around the giant double-cage WarGames matches. The men's side pits The Bloodline against The 946, and there's a USA-vs-Mexico five-on-five loaded with Cody Rhodes, CM Punk, Rey Mysterio and Penta. Big, loud, cartoonish fun.",
+      "say": "WWE's got Survivor Series tonight — that wild match inside the two cages. Even if you haven't watched wrestling since you were a kid, it's a fun spectacle. You ever a wrestling guy?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "yt", "text": "Survivor Series: WarGames 2026 (WWE)", "url": "https://www.youtube.com/watch?v=ddJAqk102Q0" },
+        { "kind": "web", "text": "Card & how to watch (WWE.com)", "url": "https://www.wwe.com/shows/survivor-series-wargames/2026" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎈",
+      "tag": "Culture · Thanksgiving",
+      "headline": "Better late than never — the 100th Macy's Parade finally rolls today",
+      "body": "After a historic storm bumped it off Thanksgiving morning for the first time in a century, the 100th Macy's Parade steps off this Saturday on NBC and Peacock. Look for Jimmy Fallon & The Roots, Megan Moroney, Teddy Swims and a big Dolly Parton tribute led by Megan Hilty — giant Snoopy and all.",
+      "say": "The Macy's parade is actually happening this morning — they pushed it to Saturday after that storm, first time ever. Feels funny on a Saturday, but hey, giant balloons are giant balloons. You usually watch it?",
+      "watch": "▶ Watch it live",
+      "links": [
+        { "kind": "web", "text": "100th parade lineup & stars (NBC New York)", "url": "https://www.nbcnewyork.com/new-york-city/macys-thanksgiving-day-parade-100th-edition-stars-lineup/6571992/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎬",
+      "tag": "Culture · Film",
+      "headline": "The 'Dune: Part Three' final trailer just dropped",
+      "body": "Warner Bros. released the final trailer for 'Dune: Part Three,' Denis Villeneuve's conclusion to the Timothée Chalamet saga — a time-jumped, war-torn Arrakis with Paul fully on the throne. It hits theaters December 18, the same night as 'Avengers: Doomsday.' December's going to be a battle.",
+      "say": "The last Dune trailer is out — the big finale hits theaters December 18, same day as the new Avengers. Going to be a wild movie weekend. You into the Dune ones, or do they lose you?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Dune: Part Three — Final Trailer (Warner Bros.)", "url": "https://www.youtube.com/watch?v=uJqaGLmZpGo" },
+        { "kind": "web", "text": "Trailer breakdown (TheWrap)", "url": "https://www.thewrap.com/creative-content/movies/dune-3-trailer-timothee-chalamet/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "🎧",
+      "tag": "Culture · Music",
+      "headline": "Brace yourself — Spotify Wrapped is about to drop",
+      "body": "It's that time of year: Spotify Wrapped is expected any day now (the usual late-November / early-December window), ready to expose exactly how many times you played that one song on repeat. Instant group-chat fodder the second it lands.",
+      "say": "Spotify Wrapped is about to come out — the thing that tells everyone your embarrassing most-played song of the year. You nervous about yours, or do you already know what number one's going to be?",
+      "watch": "▶ Worth a look",
+      "links": [
+        { "kind": "web", "text": "When Wrapped 2026 arrives (Official Charts)", "url": "https://www.officialcharts.com/chart-news/spotify-wrapped-2026-release-date/" }
+      ]
+    },
+    {
+      "cat": "culture",
+      "emoji": "📺",
+      "tag": "Culture · TV",
+      "headline": "Need a weekend binge? 'Black Doves' is back for Season 2",
+      "body": "Keira Knightley's slick spy thriller has returned for its second season on Netflix — six new episodes of double-crosses, with Ben Whishaw back as her assassin best friend and Sarah Lancashire pulling the strings. A perfect dark-outside, long-weekend binge.",
+      "say": "If you need something to binge this weekend, the new season of Black Doves is on Netflix — Keira Knightley as a spy, really slick and twisty. You watch the first season?",
+      "watch": "▶ The clip everyone saw",
+      "links": [
+        { "kind": "yt", "text": "Black Doves: Season 2 — Official Trailer (Netflix)", "url": "https://www.youtube.com/watch?v=MOU2thjq6Z0" },
+        { "kind": "web", "text": "Season 2 details (Netflix Tudum)", "url": "https://www.netflix.com/tudum/articles/black-doves-season-2" }
+      ]
+    }
+  ]
+}
